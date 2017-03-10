@@ -1,0 +1,37882 @@
+(dp0
+S'592706275798097922'
+p1
+S'Not Relevant'
+p2
+sS'592818396938526724'
+p3
+S'Not Relevant'
+p4
+sS'593260591155838976'
+p5
+S'Not Relevant'
+p6
+sS'593151032454176768'
+p7
+S'Not Relevant'
+p8
+sS'592590889689710592'
+p9
+S'Not Relevant'
+p10
+sS'592732885712510977'
+p11
+S'Not Relevant'
+p12
+sS'592071790144331776'
+p13
+S'Volunteer or professional services'
+p14
+sS'592590513720717312'
+p15
+S'Response Efforts'
+p16
+sS'592169392982495233'
+p17
+S'Not Relevant'
+p18
+sS'592087228890935296'
+p19
+S'Not related or irrelevant'
+p20
+sS'592689241722880000'
+p21
+S'Not Relevant'
+p22
+sS'591919889843118080'
+p23
+S'Injured or dead people'
+p24
+sS'592150568061120512'
+p25
+S'Infrastructure Damage'
+p26
+sS'592614176574472192'
+p27
+S'Not Relevant'
+p28
+sS'592085973850161152'
+p29
+S'Volunteer or professional services'
+p30
+sS'592901167614664704'
+p31
+S'Not Relevant'
+p32
+sS'592068774502760449'
+p33
+S'Not Relevant'
+p34
+sS'592592056876335105'
+p35
+S'Response Efforts'
+p36
+sS'592593188528885760'
+p37
+S'Not Relevant'
+p38
+sS'591921690206015488'
+p39
+S'Volunteer or professional services'
+p40
+sS'592955462011654144'
+p41
+S'Not Relevant'
+p42
+sS'592612275221110784'
+p43
+S'Not Relevant'
+p44
+sS'593048083648401409'
+p45
+S'Not Relevant'
+p46
+sS'592691984147578880'
+p47
+S'Not Relevant'
+p48
+sS'592084696349155328'
+p49
+S'Volunteer or professional services'
+p50
+sS'592200738975129600'
+p51
+S'Not Relevant'
+p52
+sS'592686552330936321'
+p53
+S'Not Relevant'
+p54
+sS'592813419436322816'
+p55
+S'Other Relevant Information'
+p56
+sS'592784318403092482'
+p57
+S'Not Relevant'
+p58
+sS'592952671788666880'
+p59
+S'Not Relevant'
+p60
+sS'592813895552802816'
+p61
+S'Not Relevant'
+p62
+sS'592664776658034688'
+p63
+S'Not Relevant'
+p64
+sS'592828042067759104'
+p65
+S'Other Relevant Information'
+p66
+sS'592592341891874816'
+p67
+S'Not Relevant'
+p68
+sS'592668499895590912'
+p69
+S'Not Relevant'
+p70
+sS'592070122820509696'
+p71
+S'"Missing'
+p72
+sS'592705718366658560'
+p73
+S'Not Relevant'
+p74
+sS'592784874051903488'
+p75
+S'Not Relevant'
+p76
+sS'592594345871609856'
+p77
+S'Not Relevant'
+p78
+sS'592591118132322304'
+p79
+S'Not Relevant'
+p80
+sS'592630898962620416'
+p81
+S'Urgent Needs'
+p82
+sS'593156145067331584'
+p83
+S'Not Relevant'
+p84
+sS'593032508083728384'
+p85
+S'Not Relevant'
+p86
+sS'593187861094076417'
+p87
+S'Not Relevant'
+p88
+sS'592631774259191808'
+p89
+S'Urgent Needs'
+p90
+sS'592158474554904576'
+p91
+S'Not Relevant'
+p92
+sS'592686801489403904'
+p93
+S'Not Relevant'
+p94
+sS'592946658561945600'
+p95
+S'Response Efforts'
+p96
+sS'593165350583271426'
+p97
+S'Response Efforts'
+p98
+sS'592074037733425152'
+p99
+S'Other relevant information'
+p100
+sS'592692998426734592'
+p101
+S'Not Relevant'
+p102
+sS'592643607288414208'
+p103
+S'Not Relevant'
+p104
+sS'592901582137733120'
+p105
+S'Not Relevant'
+p106
+sS'592638740113195008'
+p107
+S'Not Relevant'
+p108
+sS'592735943410450432'
+p109
+S'Not Relevant'
+p110
+sS'592068720475811841'
+p111
+S'Not related or irrelevant'
+p112
+sS'592888230393061376'
+p113
+S'Not Relevant'
+p114
+sS'592593480704196608'
+p115
+S'Infrastructure Damage'
+p116
+sS'592069946030469120'
+p117
+S'Sympathy and emotional support'
+p118
+sS'591917890460254210'
+p119
+S'Other relevant information'
+p120
+sS'592285384798699520'
+p121
+S'Not Relevant'
+p122
+sS'592825072404004864'
+p123
+S'Not Relevant'
+p124
+sS'592706556866736130'
+p125
+S'Not Relevant'
+p126
+sS'592665222571270145'
+p127
+S'Not Relevant'
+p128
+sS'592628530246123520'
+p129
+S'Not Relevant'
+p130
+sS'592657257579585539'
+p131
+S'Not Relevant'
+p132
+sS'592745849421180930'
+p133
+S'Not Relevant'
+p134
+sS'592142068375392256'
+p135
+S'Not Relevant'
+p136
+sS'591915277069066240'
+p137
+S'Sympathy and emotional support'
+p138
+sS'592802305126305792'
+p139
+S'Not Relevant'
+p140
+sS'592167631345487872'
+p141
+S'Not Relevant'
+p142
+sS'592916100972613632'
+p143
+S'Other Relevant Information'
+p144
+sS'592950688709148672'
+p145
+S'Other Relevant Information'
+p146
+sS'592620606949986304'
+p147
+S'Not Relevant'
+p148
+sS'592589795676655616'
+p149
+S'Not Relevant'
+p150
+sS'592781827263311873'
+p151
+S'Response Efforts'
+p152
+sS'592790949996142592'
+p153
+S'Not Relevant'
+p154
+sS'592782968994832386'
+p155
+S'Not Relevant'
+p156
+sS'592683779245867008'
+p157
+S'Not Relevant'
+p158
+sS'592592732222291968'
+p159
+S'Not Relevant'
+p160
+sS'592769772594536451'
+p161
+S'Not Relevant'
+p162
+sS'592961838574215168'
+p163
+S'Not Relevant'
+p164
+sS'592985425360195584'
+p165
+S'Not Relevant'
+p166
+sS'592075671297372162'
+p167
+S'Not related or irrelevant'
+p168
+sS'592861733087240194'
+p169
+S'Not Relevant'
+p170
+sS'591918149777383424'
+p171
+S'Sympathy and emotional support'
+p172
+sS'592821167507034113'
+p173
+S'Not Relevant'
+p174
+sS'592937487414231040'
+p175
+S'Not Relevant'
+p176
+sS'592693120174809092'
+p177
+S'Not Relevant'
+p178
+sS'592591994129547265'
+p179
+S'Not Relevant'
+p180
+sS'592955419116576768'
+p181
+S'Response Efforts'
+p182
+sS'592162797728837633'
+p183
+S'Urgent Needs'
+p184
+sS'592630560977244160'
+p185
+S'Infrastructure Damage'
+p186
+sS'592624144744730624'
+p187
+S'Not Relevant'
+p188
+sS'592634475437236224'
+p189
+S'Response Efforts'
+p190
+sS'592590111260422145'
+p191
+S'Not Relevant'
+p192
+sS'592970814275751936'
+p193
+S'Not Relevant'
+p194
+sS'592644201101316096'
+p195
+S'Response Efforts'
+p196
+sS'592644792904974336'
+p197
+S'Not Relevant'
+p198
+sS'592590394866544640'
+p199
+S'Not Relevant'
+p200
+sS'591968064155086848'
+p201
+S'Money'
+p202
+sS'592773401451831297'
+p203
+S'Not Relevant'
+p204
+sS'592944172786655232'
+p205
+S'Not Relevant'
+p206
+sS'592875390672207872'
+p207
+S'Not Relevant'
+p208
+sS'592607219390132224'
+p209
+S'Not Relevant'
+p210
+sS'592701935062491137'
+p211
+S'Response Efforts'
+p212
+sS'592850466331107331'
+p213
+S'Not Relevant'
+p214
+sS'592629646434443264'
+p215
+S'Not Relevant'
+p216
+sS'592088156041834496'
+p217
+S'Sympathy and emotional support'
+p218
+sS'591917711346651136'
+p219
+S'Not related or irrelevant'
+p220
+sS'592969011803004928'
+p221
+S'Not Relevant'
+p222
+sS'593000732162293760'
+p223
+S'Response Efforts'
+p224
+sS'592972559676624897'
+p225
+S'Not Relevant'
+p226
+sS'592629902467342336'
+p227
+S'Not Relevant'
+p228
+sS'592178958231179264'
+p229
+S'Not Relevant'
+p230
+sS'591989065555185664'
+p231
+S'Response Efforts'
+p232
+sS'592831251561721856'
+p233
+S'Not Relevant'
+p234
+sS'592666143971790848'
+p235
+S'Not Relevant'
+p236
+sS'592744470988378112'
+p237
+S'Not Relevant'
+p238
+sS'591915653113782272'
+p239
+S'Other relevant information'
+p240
+sS'592669797588062208'
+p241
+S'Other Relevant Information'
+p242
+sS'592691462938226690'
+p243
+S'Not Relevant'
+p244
+sS'592160036350111744'
+p245
+S'Response Efforts'
+p246
+sS'592935804844036096'
+p247
+S'Not Relevant'
+p248
+sS'591991115596857345'
+p249
+S'Not Relevant'
+p250
+sS'592126462955622400'
+p251
+S'Not Relevant'
+p252
+sS'592635447366541312'
+p253
+S'Not Relevant'
+p254
+sS'592594746301779969'
+p255
+S'Not Relevant'
+p256
+sS'592594583571329024'
+p257
+S'Not Relevant'
+p258
+sS'592651498628100096'
+p259
+S'Not Relevant'
+p260
+sS'592908298485129217'
+p261
+S'Response Efforts'
+p262
+sS'592950558329180160'
+p263
+S'Not Relevant'
+p264
+sS'591963006411517952'
+p265
+S'Sympathy and emotional support'
+p266
+sS'593210978017247232'
+p267
+S'Not Relevant'
+p268
+sS'592593112452767744'
+p269
+S'Not Relevant'
+p270
+sS'592154632022929408'
+p271
+S'Infrastructure Damage'
+p272
+sS'592720476335697920'
+p273
+S'Not Relevant'
+p274
+sS'592157441594241024'
+p275
+S'Not Relevant'
+p276
+sS'591914610845822976'
+p277
+S'Not related or irrelevant'
+p278
+sS'592812703246352384'
+p279
+S'Infrastructure Damage'
+p280
+sS'592830439770959872'
+p281
+S'Not Relevant'
+p282
+sS'592070499456290817'
+p283
+S'Volunteer or professional services'
+p284
+sS'592798264942002176'
+p285
+S'Response Efforts'
+p286
+sS'592804163089768449'
+p287
+S'Response Efforts'
+p288
+sS'592683617463214081'
+p289
+S'Not Relevant'
+p290
+sS'592198165706735616'
+p291
+S'Not Relevant'
+p292
+sS'592682584494219264'
+p293
+S'Urgent Needs'
+p294
+sS'592864091632439297'
+p295
+S'Not Relevant'
+p296
+sS'592076947359956992'
+p297
+S'Sympathy and emotional support'
+p298
+sS'591915100048588800'
+p299
+S'Infrastructure and utilities'
+p300
+sS'593218107671326720'
+p301
+S'Not Relevant'
+p302
+sS'592982943779262464'
+p303
+S'Not Relevant'
+p304
+sS'593033094971596801'
+p305
+S'Not Relevant'
+p306
+sS'592762932792074242'
+p307
+S'Not Relevant'
+p308
+sS'592865125834579969'
+p309
+S'Not Relevant'
+p310
+sS'593253120332996608'
+p311
+S'Not Relevant'
+p312
+sS'592135777540276224'
+p313
+S'Other Relevant Information'
+p314
+sS'593043283636420608'
+p315
+S'Not Relevant'
+p316
+sS'592076232394694658'
+p317
+S'"Missing'
+p318
+sS'592074374032723969'
+p319
+S'Money'
+p320
+sS'592847066235305984'
+p321
+S'Not Relevant'
+p322
+sS'592164512695918593'
+p323
+S'Response Efforts'
+p324
+sS'592875529319088129'
+p325
+S'Not Relevant'
+p326
+sS'592198218860998656'
+p327
+S'Not Relevant'
+p328
+sS'592977590123634688'
+p329
+S'Not Relevant'
+p330
+sS'592804311735869440'
+p331
+S'Not Relevant'
+p332
+sS'592870585828532225'
+p333
+S'Not Relevant'
+p334
+sS'592590154579054592'
+p335
+S'Not Relevant'
+p336
+sS'592861578703282176'
+p337
+S'Not Relevant'
+p338
+sS'593020980777263104'
+p339
+S'Not Relevant'
+p340
+sS'592840544453271552'
+p341
+S'Not Relevant'
+p342
+sS'591919564184649728'
+p343
+S'Not related or irrelevant'
+p344
+sS'591911951208353793'
+p345
+S'Sympathy and emotional support'
+p346
+sS'592694672889348097'
+p347
+S'Not Relevant'
+p348
+sS'592708332537958400'
+p349
+S'Not Relevant'
+p350
+sS'592920704015847424'
+p351
+S'Not Relevant'
+p352
+sS'592659125462573057'
+p353
+S'Other Relevant Information'
+p354
+sS'592672086457458688'
+p355
+S'Not Relevant'
+p356
+sS'592814154672689152'
+p357
+S'Not Relevant'
+p358
+sS'592999943268274176'
+p359
+S'Not Relevant'
+p360
+sS'592930077182033920'
+p361
+S'Urgent Needs'
+p362
+sS'593001189198794752'
+p363
+S'Not Relevant'
+p364
+sS'593157955651899392'
+p365
+S'Not Relevant'
+p366
+sS'592638754034159616'
+p367
+S'Not Relevant'
+p368
+sS'592903188560408578'
+p369
+S'Not Relevant'
+p370
+sS'592592048101822466'
+p371
+S'Urgent Needs'
+p372
+sS'592329920568688640'
+p373
+S'Response Efforts'
+p374
+sS'592740810958974977'
+p375
+S'Not Relevant'
+p376
+sS'592685271222726659'
+p377
+S'Not Relevant'
+p378
+sS'592900152479854592'
+p379
+S'Not Relevant'
+p380
+sS'592746742522769408'
+p381
+S'Not Relevant'
+p382
+sS'592914809265336320'
+p383
+S'Not Relevant'
+p384
+sS'592161258322800640'
+p385
+S'Not Relevant'
+p386
+sS'592813502122819584'
+p387
+S'Not Relevant'
+p388
+sS'591962232562515969'
+p389
+S'Sympathy and emotional support'
+p390
+sS'593239621993136128'
+p391
+S'Not Relevant'
+p392
+sS'592765351873609731'
+p393
+S'Other Relevant Information'
+p394
+sS'592629734451892224'
+p395
+S'Response Efforts'
+p396
+sS'592667131709358082'
+p397
+S'Not Relevant'
+p398
+sS'591917029398949888'
+p399
+S'Not related or irrelevant'
+p400
+sS'592894222870650880'
+p401
+S'Response Efforts'
+p402
+sS'592645031321870336'
+p403
+S'Response Efforts'
+p404
+sS'592683457924493314'
+p405
+S'Not Relevant'
+p406
+sS'592938704055898113'
+p407
+S'Not Relevant'
+p408
+sS'592991529918070784'
+p409
+S'Not Relevant'
+p410
+sS'592638178747547648'
+p411
+S'Not Relevant'
+p412
+sS'592590856919654400'
+p413
+S'Not Relevant'
+p414
+sS'592758680216535040'
+p415
+S'Not Relevant'
+p416
+sS'592835032886202369'
+p417
+S'Not Relevant'
+p418
+sS'591910774840414208'
+p419
+S'Other relevant information'
+p420
+sS'592688082941583360'
+p421
+S'Not Relevant'
+p422
+sS'593166072896851969'
+p423
+S'Not Relevant'
+p424
+sS'592598302455177217'
+p425
+S'Not Relevant'
+p426
+sS'592076240963674113'
+p427
+S'Sympathy and emotional support'
+p428
+sS'592593150121791489'
+p429
+S'Other Relevant Information'
+p430
+sS'592887569739882497'
+p431
+S'Not Relevant'
+p432
+sS'593223062641836032'
+p433
+S'Not Relevant'
+p434
+sS'593026603879378944'
+p435
+S'Not Relevant'
+p436
+sS'593231620951252992'
+p437
+S'Not Relevant'
+p438
+sS'592592805647650817'
+p439
+S'Not Relevant'
+p440
+sS'592591096691052545'
+p441
+S'Not Relevant'
+p442
+sS'592590555374227456'
+p443
+S'Not Relevant'
+p444
+sS'592740566368157696'
+p445
+S'Not Relevant'
+p446
+sS'592076243484483584'
+p447
+S'Personal updates'
+p448
+sS'592882690896039937'
+p449
+S'Not Relevant'
+p450
+sS'592616381247410177'
+p451
+S'Other Relevant Information'
+p452
+sS'592732239248662529'
+p453
+S'Not Relevant'
+p454
+sS'592834007672475649'
+p455
+S'Response Efforts'
+p456
+sS'591910321213812737'
+p457
+S'Other relevant information'
+p458
+sS'592965077235445760'
+p459
+S'Not Relevant'
+p460
+sS'591963299622694913'
+p461
+S'"Missing'
+p462
+sS'592680260275216386'
+p463
+S'Not Relevant'
+p464
+sS'592701411772739587'
+p465
+S'Response Efforts'
+p466
+sS'592757709574905856'
+p467
+S'Not Relevant'
+p468
+sS'592592607659708416'
+p469
+S'Not Relevant'
+p470
+sS'592903362192023552'
+p471
+S'Not Relevant'
+p472
+sS'592709391025106948'
+p473
+S'Not Relevant'
+p474
+sS'592952132883492864'
+p475
+S'Not Relevant'
+p476
+sS'593236100149170176'
+p477
+S'Not Relevant'
+p478
+sS'592828857180389376'
+p479
+S'Not Relevant'
+p480
+sS'592811672781398016'
+p481
+S'Response Efforts'
+p482
+sS'593261202475737088'
+p483
+S'Not Relevant'
+p484
+sS'592847968513982466'
+p485
+S'Not Relevant'
+p486
+sS'592704586974126080'
+p487
+S'Not Relevant'
+p488
+sS'593151074086715392'
+p489
+S'Response Efforts'
+p490
+sS'593038318918467585'
+p491
+S'Not Relevant'
+p492
+sS'593194823210799104'
+p493
+S'Other Relevant Information'
+p494
+sS'592591577698164736'
+p495
+S'Not Relevant'
+p496
+sS'592198929959124993'
+p497
+S'Not Relevant'
+p498
+sS'592663709669072897'
+p499
+S'Response Efforts'
+p500
+sS'593002078106046465'
+p501
+S'Not Relevant'
+p502
+sS'592633814867816448'
+p503
+S'Not Relevant'
+p504
+sS'592915668376363008'
+p505
+S'Not Relevant'
+p506
+sS'592760451576033281'
+p507
+S'Not Relevant'
+p508
+sS'592924486443216896'
+p509
+S'Not Relevant'
+p510
+sS'592786780119785473'
+p511
+S'Not Relevant'
+p512
+sS'592602629705859072'
+p513
+S'Not Relevant'
+p514
+sS'592792082575663104'
+p515
+S'Not Relevant'
+p516
+sS'592795813379764227'
+p517
+S'Other Relevant Information'
+p518
+sS'592589531242733568'
+p519
+S'Not Relevant'
+p520
+sS'592918200276267008'
+p521
+S'Not Relevant'
+p522
+sS'592794567595941888'
+p523
+S'Not Relevant'
+p524
+sS'592882947428118528'
+p525
+S'Not Relevant'
+p526
+sS'593033708824854528'
+p527
+S'Not Relevant'
+p528
+sS'593044169301557249'
+p529
+S'Not Relevant'
+p530
+sS'592816294753398786'
+p531
+S'Not Relevant'
+p532
+sS'592980783054225410'
+p533
+S'Response Efforts'
+p534
+sS'592076446459437057'
+p535
+S'Other relevant information'
+p536
+sS'592166271300423680'
+p537
+S'Not Relevant'
+p538
+sS'592971196225880064'
+p539
+S'Not Relevant'
+p540
+sS'592744187335933952'
+p541
+S'Not Relevant'
+p542
+sS'592201143494647808'
+p543
+S'Not Relevant'
+p544
+sS'593012101863612416'
+p545
+S'Not Relevant'
+p546
+sS'591910973562195968'
+p547
+S'Not related or irrelevant'
+p548
+sS'592845706894913536'
+p549
+S'Not Relevant'
+p550
+sS'592594240909246465'
+p551
+S'Not Relevant'
+p552
+sS'592159018644217856'
+p553
+S'Not Relevant'
+p554
+sS'592832611095044097'
+p555
+S'Not Relevant'
+p556
+sS'592834813792546816'
+p557
+S'Response Efforts'
+p558
+sS'592326554816008192'
+p559
+S'Not Relevant'
+p560
+sS'592733633548558336'
+p561
+S'Not Relevant'
+p562
+sS'592886996059725826'
+p563
+S'Not Relevant'
+p564
+sS'592074423852662784'
+p565
+S'Sympathy and emotional support'
+p566
+sS'592658513027018753'
+p567
+S'Urgent Needs'
+p568
+sS'592591058984382464'
+p569
+S'Not Relevant'
+p570
+sS'592156071734681600'
+p571
+S'Not Relevant'
+p572
+sS'592157870050775040'
+p573
+S'Not Relevant'
+p574
+sS'591998563351146496'
+p575
+S'Response Efforts'
+p576
+sS'592886209103421440'
+p577
+S'Not Relevant'
+p578
+sS'592074400586948608'
+p579
+S'Sympathy and emotional support'
+p580
+sS'592914572442509312'
+p581
+S'Not Relevant'
+p582
+sS'593032356933558272'
+p583
+S'Not Relevant'
+p584
+sS'592164382156713987'
+p585
+S'Not Relevant'
+p586
+sS'592592560335376384'
+p587
+S'Not Relevant'
+p588
+sS'591916196242563072'
+p589
+S'Sympathy and emotional support'
+p590
+sS'592895159769112577'
+p591
+S'Not Relevant'
+p592
+sS'592194963087036416'
+p593
+S'Response Efforts'
+p594
+sS'592635692209012737'
+p595
+S'Urgent Needs'
+p596
+sS'592161994687418368'
+p597
+S'Not Relevant'
+p598
+sS'592939963290779648'
+p599
+S'Not Relevant'
+p600
+sS'592733735134564352'
+p601
+S'Response Efforts'
+p602
+sS'593244167863672832'
+p603
+S'Not Relevant'
+p604
+sS'592631940223631360'
+p605
+S'Urgent Needs'
+p606
+sS'592764318795595776'
+p607
+S'Not Relevant'
+p608
+sS'592961062502268928'
+p609
+S'Response Efforts'
+p610
+sS'592828543366729728'
+p611
+S'Not Relevant'
+p612
+sS'592592874300055552'
+p613
+S'Not Relevant'
+p614
+sS'592895526514864129'
+p615
+S'Infrastructure Damage'
+p616
+sS'593035025202827264'
+p617
+S'Not Relevant'
+p618
+sS'592201312143478784'
+p619
+S'Not Relevant'
+p620
+sS'592970687834398720'
+p621
+S'Not Relevant'
+p622
+sS'592981078614278145'
+p623
+S'Not Relevant'
+p624
+sS'593013056503939073'
+p625
+S'Response Efforts'
+p626
+sS'592629371959189506'
+p627
+S'Not Relevant'
+p628
+sS'591910996970606592'
+p629
+S'Sympathy and emotional support'
+p630
+sS'592757084854292480'
+p631
+S'Not Relevant'
+p632
+sS'592819393735827456'
+p633
+S'Not Relevant'
+p634
+sS'591906354945634304'
+p635
+S'Personal updates'
+p636
+sS'593001223269187585'
+p637
+S'Not Relevant'
+p638
+sS'592927026014748672'
+p639
+S'Not Relevant'
+p640
+sS'592168068551311360'
+p641
+S'Not Relevant'
+p642
+sS'592870600311463937'
+p643
+S'Not Relevant'
+p644
+sS'593206847047409664'
+p645
+S'Not Relevant'
+p646
+sS'592666573858578432'
+p647
+S'Not Relevant'
+p648
+sS'592779962534535169'
+p649
+S'Response Efforts'
+p650
+sS'592073297455517696'
+p651
+S'Sympathy and emotional support'
+p652
+sS'592814306560974848'
+p653
+S'Not Relevant'
+p654
+sS'592871478032470016'
+p655
+S'Not Relevant'
+p656
+sS'592934065382260736'
+p657
+S'Not Relevant'
+p658
+sS'593014044732305408'
+p659
+S'Not Relevant'
+p660
+sS'592161492629225473'
+p661
+S'Not Relevant'
+p662
+sS'591916927146033152'
+p663
+S'Not related or irrelevant'
+p664
+sS'592731375914082304'
+p665
+S'Response Efforts'
+p666
+sS'592764027740250113'
+p667
+S'Not Relevant'
+p668
+sS'592074006854897664'
+p669
+S'Other relevant information'
+p670
+sS'592201314534326272'
+p671
+S'Not Relevant'
+p672
+sS'593022044633202688'
+p673
+S'Not Relevant'
+p674
+sS'591916240429568000'
+p675
+S'Sympathy and emotional support'
+p676
+sS'592692603172302848'
+p677
+S'Not Relevant'
+p678
+sS'592203802956177408'
+p679
+S'Not Relevant'
+p680
+sS'592983014147239936'
+p681
+S'Not Relevant'
+p682
+sS'592603653694824449'
+p683
+S'Not Relevant'
+p684
+sS'592812884645797888'
+p685
+S'Not Relevant'
+p686
+sS'592943518781419521'
+p687
+S'Not Relevant'
+p688
+sS'592686928895614977'
+p689
+S'Not Relevant'
+p690
+sS'592161431576940545'
+p691
+S'Other Relevant Information'
+p692
+sS'593004133126447104'
+p693
+S'Other Relevant Information'
+p694
+sS'592830284766322689'
+p695
+S'Response Efforts'
+p696
+sS'591961053803642880'
+p697
+S'Sympathy and emotional support'
+p698
+sS'593014771051540481'
+p699
+S'Not Relevant'
+p700
+sS'592068989976748033'
+p701
+S'Sympathy and emotional support'
+p702
+sS'592647132957380608'
+p703
+S'Response Efforts'
+p704
+sS'592590231519555584'
+p705
+S'Not Relevant'
+p706
+sS'592810165822464000'
+p707
+S'Not Relevant'
+p708
+sS'591948283397935104'
+p709
+S'Response efforts'
+p710
+sS'593166055901634560'
+p711
+S'Infrastructure Damage'
+p712
+sS'592592484833734656'
+p713
+S'Infrastructure Damage'
+p714
+sS'592673297344626688'
+p715
+S'Not Relevant'
+p716
+sS'592157192398200833'
+p717
+S'Urgent Needs'
+p718
+sS'592929768074534912'
+p719
+S'Not Relevant'
+p720
+sS'592972253274382336'
+p721
+S'Not Relevant'
+p722
+sS'592976750901997568'
+p723
+S'Not Relevant'
+p724
+sS'592905293513814019'
+p725
+S'Not Relevant'
+p726
+sS'593154111542956032'
+p727
+S'Not Relevant'
+p728
+sS'592750034732634112'
+p729
+S'Not Relevant'
+p730
+sS'592701154087297024'
+p731
+S'Not Relevant'
+p732
+sS'592905623215407104'
+p733
+S'Response Efforts'
+p734
+sS'591920105652629504'
+p735
+S'Injured or dead people'
+p736
+sS'592982513724690432'
+p737
+S'Not Relevant'
+p738
+sS'592627697286680578'
+p739
+S'Not Relevant'
+p740
+sS'591963986150727681'
+p741
+S'Sympathy and emotional support'
+p742
+sS'591968307269349376'
+p743
+S'Sympathy and emotional support'
+p744
+sS'592814107792932865'
+p745
+S'Response Efforts'
+p746
+sS'592593280979869696'
+p747
+S'Response Efforts'
+p748
+sS'592649866259496962'
+p749
+S'Not Relevant'
+p750
+sS'593014807189590016'
+p751
+S'Not Relevant'
+p752
+sS'591963108907692034'
+p753
+S'"Missing'
+p754
+sS'593013525854851072'
+p755
+S'Not Relevant'
+p756
+sS'592164228833943554'
+p757
+S'Not Relevant'
+p758
+sS'591961255805616128'
+p759
+S'Sympathy and emotional support'
+p760
+sS'592592028350873600'
+p761
+S'Not Relevant'
+p762
+sS'592168039832883200'
+p763
+S'Other Relevant Information'
+p764
+sS'592590099805667328'
+p765
+S'Not Relevant'
+p766
+sS'592855388363554816'
+p767
+S'Not Relevant'
+p768
+sS'592155963374837761'
+p769
+S'Urgent Needs'
+p770
+sS'592657884275744768'
+p771
+S'Response Efforts'
+p772
+sS'592599868901695488'
+p773
+S'Not Relevant'
+p774
+sS'592994660366340096'
+p775
+S'Not Relevant'
+p776
+sS'592869023219605505'
+p777
+S'Response Efforts'
+p778
+sS'592072847159402496'
+p779
+S'Volunteer or professional services'
+p780
+sS'592085872138420225'
+p781
+S'Sympathy and emotional support'
+p782
+sS'592628691265425408'
+p783
+S'Not Relevant'
+p784
+sS'592674024574099459'
+p785
+S'Not Relevant'
+p786
+sS'592181985340166144'
+p787
+S'Other Relevant Information'
+p788
+sS'592841305383907328'
+p789
+S'Response Efforts'
+p790
+sS'592591530411458563'
+p791
+S'Not Relevant'
+p792
+sS'592759899618201600'
+p793
+S'Not Relevant'
+p794
+sS'592895081578897410'
+p795
+S'Not Relevant'
+p796
+sS'592183485860749312'
+p797
+S'Not Relevant'
+p798
+sS'592663896625909760'
+p799
+S'Not Relevant'
+p800
+sS'592591762868178944'
+p801
+S'Not Relevant'
+p802
+sS'592693525050990595'
+p803
+S'Not Relevant'
+p804
+sS'592681945139675136'
+p805
+S'Response Efforts'
+p806
+sS'592968152717340673'
+p807
+S'Not Relevant'
+p808
+sS'592937888117071872'
+p809
+S'Not Relevant'
+p810
+sS'591960922421342208'
+p811
+S'Infrastructure and utilities'
+p812
+sS'592674168249913345'
+p813
+S'Not Relevant'
+p814
+sS'593031602915155968'
+p815
+S'Not Relevant'
+p816
+sS'592767281865842688'
+p817
+S'Not Relevant'
+p818
+sS'593203406275096577'
+p819
+S'Not Relevant'
+p820
+sS'592128964606341120'
+p821
+S'Not Relevant'
+p822
+sS'592159372639240192'
+p823
+S'Not Relevant'
+p824
+sS'592160659044892672'
+p825
+S'Not Relevant'
+p826
+sS'591914347401748480'
+p827
+S'Injured or dead people'
+p828
+sS'592588974444544001'
+p829
+S'Not Relevant'
+p830
+sS'591961009566396416'
+p831
+S'Sympathy and emotional support'
+p832
+sS'592940153120907265'
+p833
+S'Not Relevant'
+p834
+sS'592700239334797312'
+p835
+S'Not Relevant'
+p836
+sS'592593596504616961'
+p837
+S'Response Efforts'
+p838
+sS'592931120863252481'
+p839
+S'Infrastructure Damage'
+p840
+sS'592087286059110401'
+p841
+S'Money'
+p842
+sS'592759116973617152'
+p843
+S'Response Efforts'
+p844
+sS'592983796468752384'
+p845
+S'Not Relevant'
+p846
+sS'592594349017272320'
+p847
+S'Response Efforts'
+p848
+sS'592828729245704192'
+p849
+S'Response Efforts'
+p850
+sS'592592943954853888'
+p851
+S'Not Relevant'
+p852
+sS'592904637398839296'
+p853
+S'Not Relevant'
+p854
+sS'592084940394749952'
+p855
+S'Not related or irrelevant'
+p856
+sS'592700792278294528'
+p857
+S'Infrastructure Damage'
+p858
+sS'592594279341563904'
+p859
+S'Not Relevant'
+p860
+sS'592939805647896576'
+p861
+S'Not Relevant'
+p862
+sS'593209823757381632'
+p863
+S'Not Relevant'
+p864
+sS'592738389188829185'
+p865
+S'Not Relevant'
+p866
+sS'592897483119923201'
+p867
+S'Not Relevant'
+p868
+sS'592069890804031488'
+p869
+S'Not related or irrelevant'
+p870
+sS'592593182744948736'
+p871
+S'Not Relevant'
+p872
+sS'592947777690161152'
+p873
+S'Not Relevant'
+p874
+sS'593013703554965505'
+p875
+S'Not Relevant'
+p876
+sS'592615756702978049'
+p877
+S'Not Relevant'
+p878
+sS'592157620485693440'
+p879
+S'Not Relevant'
+p880
+sS'592593769876344832'
+p881
+S'Other Relevant Information'
+p882
+sS'592937620058939392'
+p883
+S'Response Efforts'
+p884
+sS'592594918104793088'
+p885
+S'Not Relevant'
+p886
+sS'592866867804508160'
+p887
+S'Not Relevant'
+p888
+sS'592076253068300288'
+p889
+S'Not related or irrelevant'
+p890
+sS'593191962523475969'
+p891
+S'Not Relevant'
+p892
+sS'592591813761892352'
+p893
+S'Not Relevant'
+p894
+sS'592591029674446848'
+p895
+S'Response Efforts'
+p896
+sS'592292776940851200'
+p897
+S'Not Relevant'
+p898
+sS'591918224129691648'
+p899
+S'Sympathy and emotional support'
+p900
+sS'593187097579761664'
+p901
+S'Not Relevant'
+p902
+sS'592592356605464577'
+p903
+S'Other Relevant Information'
+p904
+sS'592086168625352706'
+p905
+S'Personal updates'
+p906
+sS'592626905804709888'
+p907
+S'Not Relevant'
+p908
+sS'592827640421179392'
+p909
+S'Not Relevant'
+p910
+sS'593263284771430400'
+p911
+S'Response Efforts'
+p912
+sS'592944266072215552'
+p913
+S'Response Efforts'
+p914
+sS'592631966152851456'
+p915
+S'Not Relevant'
+p916
+sS'592767768019230720'
+p917
+S'Not Relevant'
+p918
+sS'592762190542811137'
+p919
+S'Not Relevant'
+p920
+sS'592651548586442752'
+p921
+S'Not Relevant'
+p922
+sS'591992204937326592'
+p923
+S'Response Efforts'
+p924
+sS'591961803950686208'
+p925
+S'Not related or irrelevant'
+p926
+sS'592831991910891521'
+p927
+S'Not Relevant'
+p928
+sS'592692212539981825'
+p929
+S'Not Relevant'
+p930
+sS'592622773756788736'
+p931
+S'Not Relevant'
+p932
+sS'591961063127580672'
+p933
+S'Sympathy and emotional support'
+p934
+sS'592788704130953219'
+p935
+S'Not Relevant'
+p936
+sS'592645428572721152'
+p937
+S'Not Relevant'
+p938
+sS'592593498966200322'
+p939
+S'Not Relevant'
+p940
+sS'592202203953139713'
+p941
+S'Response Efforts'
+p942
+sS'592956833435750401'
+p943
+S'Response Efforts'
+p944
+sS'591920197390376960'
+p945
+S'Not related or irrelevant'
+p946
+sS'592692778024509441'
+p947
+S'Not Relevant'
+p948
+sS'592619415151071232'
+p949
+S'Not Relevant'
+p950
+sS'592663717092921344'
+p951
+S'Response Efforts'
+p952
+sS'592694880159277056'
+p953
+S'Not Relevant'
+p954
+sS'592198577792880642'
+p955
+S'Not Relevant'
+p956
+sS'592919269567922176'
+p957
+S'Not Relevant'
+p958
+sS'592885904307580928'
+p959
+S'Not Relevant'
+p960
+sS'591909503563538433'
+p961
+S'Sympathy and emotional support'
+p962
+sS'592073805868204032'
+p963
+S'Sympathy and emotional support'
+p964
+sS'592989660449607680'
+p965
+S'Not Relevant'
+p966
+sS'592991969980223488'
+p967
+S'Not Relevant'
+p968
+sS'593033448542982144'
+p969
+S'Not Relevant'
+p970
+sS'593202488284688384'
+p971
+S'Not Relevant'
+p972
+sS'592657949027397633'
+p973
+S'Not Relevant'
+p974
+sS'592664580331024386'
+p975
+S'Response Efforts'
+p976
+sS'591962565166542850'
+p977
+S'Sympathy and emotional support'
+p978
+sS'592084430560169984'
+p979
+S'Other relevant information'
+p980
+sS'592073565358292993'
+p981
+S'Sympathy and emotional support'
+p982
+sS'592100751280885760'
+p983
+S'Money'
+p984
+sS'592657939963469824'
+p985
+S'Other Relevant Information'
+p986
+sS'592811213190488068'
+p987
+S'Not Relevant'
+p988
+sS'592837825575399424'
+p989
+S'Not Relevant'
+p990
+sS'593028516154839040'
+p991
+S'Infrastructure Damage'
+p992
+sS'592736733860618241'
+p993
+S'Not Relevant'
+p994
+sS'593045859597742081'
+p995
+S'Not Relevant'
+p996
+sS'592069637174497280'
+p997
+S'Sympathy and emotional support'
+p998
+sS'592657380028055553'
+p999
+S'Response Efforts'
+p1000
+sS'592601630547185664'
+p1001
+S'Not Relevant'
+p1002
+sS'592800825078087681'
+p1003
+S'Not Relevant'
+p1004
+sS'592693836687790082'
+p1005
+S'Not Relevant'
+p1006
+sS'592769433677987840'
+p1007
+S'Not Relevant'
+p1008
+sS'592846242113290240'
+p1009
+S'Not Relevant'
+p1010
+sS'592592087029186560'
+p1011
+S'Other Relevant Information'
+p1012
+sS'592598048133419008'
+p1013
+S'Not Relevant'
+p1014
+sS'592067852330373120'
+p1015
+S'Sympathy and emotional support'
+p1016
+sS'593157672897130497'
+p1017
+S'Response Efforts'
+p1018
+sS'592593216396009472'
+p1019
+S'Response Efforts'
+p1020
+sS'592968462617563136'
+p1021
+S'Not Relevant'
+p1022
+sS'593216397523755009'
+p1023
+S'Not Relevant'
+p1024
+sS'592620877830729728'
+p1025
+S'Response Efforts'
+p1026
+sS'592900293374914560'
+p1027
+S'Not Relevant'
+p1028
+sS'592937505235673089'
+p1029
+S'Other Relevant Information'
+p1030
+sS'592590713747054592'
+p1031
+S'Not Relevant'
+p1032
+sS'592628114905169920'
+p1033
+S'Response Efforts'
+p1034
+sS'592788985459650560'
+p1035
+S'Not Relevant'
+p1036
+sS'592620981576863744'
+p1037
+S'Response Efforts'
+p1038
+sS'591915034634166272'
+p1039
+S'Sympathy and emotional support'
+p1040
+sS'592796188535054336'
+p1041
+S'Not Relevant'
+p1042
+sS'592739874740019200'
+p1043
+S'Not Relevant'
+p1044
+sS'593013559690276864'
+p1045
+S'Not Relevant'
+p1046
+sS'592700609809293312'
+p1047
+S'Infrastructure Damage'
+p1048
+sS'592784577934008324'
+p1049
+S'Not Relevant'
+p1050
+sS'592164847481004032'
+p1051
+S'Not Relevant'
+p1052
+sS'592869851699511296'
+p1053
+S'Response Efforts'
+p1054
+sS'592953358207422464'
+p1055
+S'Not Relevant'
+p1056
+sS'593000343304208384'
+p1057
+S'Not Relevant'
+p1058
+sS'592876806497300480'
+p1059
+S'Not Relevant'
+p1060
+sS'592894997554458625'
+p1061
+S'Not Relevant'
+p1062
+sS'593019708628054016'
+p1063
+S'Not Relevant'
+p1064
+sS'593186057182642176'
+p1065
+S'Response Efforts'
+p1066
+sS'592614851324858368'
+p1067
+S'Not Relevant'
+p1068
+sS'592687999781076992'
+p1069
+S'Not Relevant'
+p1070
+sS'592969627321282560'
+p1071
+S'Not Relevant'
+p1072
+sS'592625903135428608'
+p1073
+S'Other Relevant Information'
+p1074
+sS'592160622860738560'
+p1075
+S'Not Relevant'
+p1076
+sS'592848900182188033'
+p1077
+S'Other Relevant Information'
+p1078
+sS'592739054464143360'
+p1079
+S'Not Relevant'
+p1080
+sS'592818310250651648'
+p1081
+S'Not Relevant'
+p1082
+sS'592590124036165634'
+p1083
+S'Not Relevant'
+p1084
+sS'591962041314877440'
+p1085
+S'Infrastructure and utilities'
+p1086
+sS'591915589335134209'
+p1087
+S'Other relevant information'
+p1088
+sS'592076806628483074'
+p1089
+S'Sympathy and emotional support'
+p1090
+sS'592276505620688896'
+p1091
+S'Not Relevant'
+p1092
+sS'592955859984068609'
+p1093
+S'Response Efforts'
+p1094
+sS'592663872181506050'
+p1095
+S'Response Efforts'
+p1096
+sS'593162649539514368'
+p1097
+S'Not Relevant'
+p1098
+sS'592637782679527424'
+p1099
+S'Response Efforts'
+p1100
+sS'592827378121977856'
+p1101
+S'Response Efforts'
+p1102
+sS'592733032819339265'
+p1103
+S'Not Relevant'
+p1104
+sS'592608592953364480'
+p1105
+S'Not Relevant'
+p1106
+sS'592709399917010947'
+p1107
+S'Response Efforts'
+p1108
+sS'592592370262089730'
+p1109
+S'Response Efforts'
+p1110
+sS'592688250025877506'
+p1111
+S'Not Relevant'
+p1112
+sS'592621095162880000'
+p1113
+S'Not Relevant'
+p1114
+sS'592705648682528768'
+p1115
+S'Other Relevant Information'
+p1116
+sS'592737117178077184'
+p1117
+S'Not Relevant'
+p1118
+sS'593011843867791360'
+p1119
+S'Not Relevant'
+p1120
+sS'592672626037895169'
+p1121
+S'Not Relevant'
+p1122
+sS'592201567027081216'
+p1123
+S'Not Relevant'
+p1124
+sS'592595724342288385'
+p1125
+S'Infrastructure Damage'
+p1126
+sS'592706812656427008'
+p1127
+S'Infrastructure Damage'
+p1128
+sS'592836892179169280'
+p1129
+S'Other Relevant Information'
+p1130
+sS'592818059766804480'
+p1131
+S'Not Relevant'
+p1132
+sS'592069630673293313'
+p1133
+S'Sympathy and emotional support'
+p1134
+sS'592980810199867392'
+p1135
+S'Response Efforts'
+p1136
+sS'592598405526003713'
+p1137
+S'Urgent Needs'
+p1138
+sS'592589487017984000'
+p1139
+S'Not Relevant'
+p1140
+sS'592625625615233025'
+p1141
+S'Not Relevant'
+p1142
+sS'592180837929582594'
+p1143
+S'Not Relevant'
+p1144
+sS'591991576227905536'
+p1145
+S'Response Efforts'
+p1146
+sS'592592213982507008'
+p1147
+S'Response Efforts'
+p1148
+sS'593036369871642625'
+p1149
+S'Not Relevant'
+p1150
+sS'592986139428003840'
+p1151
+S'Response Efforts'
+p1152
+sS'592997334306291712'
+p1153
+S'Other Relevant Information'
+p1154
+sS'592072866390224896'
+p1155
+S'Sympathy and emotional support'
+p1156
+sS'592806225319993346'
+p1157
+S'Not Relevant'
+p1158
+sS'592589646225416192'
+p1159
+S'Not Relevant'
+p1160
+sS'592841041969053696'
+p1161
+S'Not Relevant'
+p1162
+sS'592870808931958784'
+p1163
+S'Not Relevant'
+p1164
+sS'592956583929368576'
+p1165
+S'Response Efforts'
+p1166
+sS'592899101110468608'
+p1167
+S'Not Relevant'
+p1168
+sS'592901010538004480'
+p1169
+S'Not Relevant'
+p1170
+sS'592740917595009024'
+p1171
+S'Not Relevant'
+p1172
+sS'592779759068807170'
+p1173
+S'Not Relevant'
+p1174
+sS'592620230112845825'
+p1175
+S'Other Relevant Information'
+p1176
+sS'591987863643815936'
+p1177
+S'Sympathy and emotional support'
+p1178
+sS'592647430052651008'
+p1179
+S'Other Relevant Information'
+p1180
+sS'592621760312377344'
+p1181
+S'Not Relevant'
+p1182
+sS'592071762017320960'
+p1183
+S'Sympathy and emotional support'
+p1184
+sS'592076499982929921'
+p1185
+S'Sympathy and emotional support'
+p1186
+sS'592670083144675328'
+p1187
+S'Not Relevant'
+p1188
+sS'592968377905356800'
+p1189
+S'Not Relevant'
+p1190
+sS'592604501342822400'
+p1191
+S'Not Relevant'
+p1192
+sS'593231173968474112'
+p1193
+S'Not Relevant'
+p1194
+sS'592773345441128448'
+p1195
+S'Not Relevant'
+p1196
+sS'592847282460094464'
+p1197
+S'Response Efforts'
+p1198
+sS'592789671115149312'
+p1199
+S'Not Relevant'
+p1200
+sS'592704652979888128'
+p1201
+S'Response Efforts'
+p1202
+sS'592894065563271168'
+p1203
+S'Not Relevant'
+p1204
+sS'593013076833632257'
+p1205
+S'Not Relevant'
+p1206
+sS'592702212796764160'
+p1207
+S'Not Relevant'
+p1208
+sS'592637931610894337'
+p1209
+S'Not Relevant'
+p1210
+sS'592984492412903424'
+p1211
+S'Not Relevant'
+p1212
+sS'592594230050050048'
+p1213
+S'Not Relevant'
+p1214
+sS'591913138171170816'
+p1215
+S'Not related or irrelevant'
+p1216
+sS'592602886099570688'
+p1217
+S'Response Efforts'
+p1218
+sS'592769416120692738'
+p1219
+S'Other Relevant Information'
+p1220
+sS'592751543809679360'
+p1221
+S'Not Relevant'
+p1222
+sS'592590995096645632'
+p1223
+S'Not Relevant'
+p1224
+sS'592706778154020866'
+p1225
+S'Not Relevant'
+p1226
+sS'592589970465894400'
+p1227
+S'Not Relevant'
+p1228
+sS'592653499873243136'
+p1229
+S'Not Relevant'
+p1230
+sS'593152451852767232'
+p1231
+S'Not Relevant'
+p1232
+sS'592812240996331521'
+p1233
+S'Not Relevant'
+p1234
+sS'592679937913593857'
+p1235
+S'Not Relevant'
+p1236
+sS'592686620761022466'
+p1237
+S'Not Relevant'
+p1238
+sS'593027117576810496'
+p1239
+S'Not Relevant'
+p1240
+sS'592779509507747840'
+p1241
+S'Not Relevant'
+p1242
+sS'592589992318369792'
+p1243
+S'Not Relevant'
+p1244
+sS'592892986477957120'
+p1245
+S'Not Relevant'
+p1246
+sS'592746776295243776'
+p1247
+S'Not Relevant'
+p1248
+sS'592628873956696065'
+p1249
+S'Response Efforts'
+p1250
+sS'592198258753077248'
+p1251
+S'Not Relevant'
+p1252
+sS'592738214663815168'
+p1253
+S'Other Relevant Information'
+p1254
+sS'592840108908359680'
+p1255
+S'Not Relevant'
+p1256
+sS'591961775576326144'
+p1257
+S'Sympathy and emotional support'
+p1258
+sS'593009917277134848'
+p1259
+S'Not Relevant'
+p1260
+sS'592594765570441218'
+p1261
+S'Not Relevant'
+p1262
+sS'592163824582545408'
+p1263
+S'Not Relevant'
+p1264
+sS'592684191222988800'
+p1265
+S'Not Relevant'
+p1266
+sS'592960267316695040'
+p1267
+S'Not Relevant'
+p1268
+sS'592069716182749184'
+p1269
+S'Sympathy and emotional support'
+p1270
+sS'592665847702941696'
+p1271
+S'Infrastructure Damage'
+p1272
+sS'592695433434103808'
+p1273
+S'Not Relevant'
+p1274
+sS'592956486428401667'
+p1275
+S'Not Relevant'
+p1276
+sS'592966435904819200'
+p1277
+S'Other Relevant Information'
+p1278
+sS'593000607230894081'
+p1279
+S'Response Efforts'
+p1280
+sS'593261625139855360'
+p1281
+S'Not Relevant'
+p1282
+sS'592823052284604416'
+p1283
+S'Not Relevant'
+p1284
+sS'592074463300157441'
+p1285
+S'Sympathy and emotional support'
+p1286
+sS'592072263693783040'
+p1287
+S'Other relevant information'
+p1288
+sS'592890818182160385'
+p1289
+S'Not Relevant'
+p1290
+sS'592833251208777729'
+p1291
+S'Urgent Needs'
+p1292
+sS'592639495209648128'
+p1293
+S'Not Relevant'
+p1294
+sS'592664556071182336'
+p1295
+S'Not Relevant'
+p1296
+sS'592731794149089280'
+p1297
+S'Not Relevant'
+p1298
+sS'592074269518999553'
+p1299
+S'"Missing'
+p1300
+sS'592994126716600320'
+p1301
+S'Not Relevant'
+p1302
+sS'592638187249348608'
+p1303
+S'Not Relevant'
+p1304
+sS'592628565620961280'
+p1305
+S'Not Relevant'
+p1306
+sS'591907320105279488'
+p1307
+S'Infrastructure and utilities'
+p1308
+sS'592831364182990849'
+p1309
+S'Response Efforts'
+p1310
+sS'592648629346664449'
+p1311
+S'Response Efforts'
+p1312
+sS'592648439768317952'
+p1313
+S'Not Relevant'
+p1314
+sS'592886462502281217'
+p1315
+S'Not Relevant'
+p1316
+sS'592200614014246912'
+p1317
+S'Not Relevant'
+p1318
+sS'592594938434490368'
+p1319
+S'Not Relevant'
+p1320
+sS'592692343637221376'
+p1321
+S'Not Relevant'
+p1322
+sS'592846336191500289'
+p1323
+S'Other Relevant Information'
+p1324
+sS'592631489713471488'
+p1325
+S'Not Relevant'
+p1326
+sS'592705798503006208'
+p1327
+S'Response Efforts'
+p1328
+sS'592962516038193152'
+p1329
+S'Not Relevant'
+p1330
+sS'592964208750387200'
+p1331
+S'Other Relevant Information'
+p1332
+sS'591962627393236992'
+p1333
+S'Sympathy and emotional support'
+p1334
+sS'592869578738368512'
+p1335
+S'Not Relevant'
+p1336
+sS'592649185276506112'
+p1337
+S'Response Efforts'
+p1338
+sS'593259319564439553'
+p1339
+S'Not Relevant'
+p1340
+sS'592103012681666560'
+p1341
+S'Infrastructure Damage'
+p1342
+sS'592792949106278401'
+p1343
+S'Not Relevant'
+p1344
+sS'592803943383769090'
+p1345
+S'Not Relevant'
+p1346
+sS'592089285702057985'
+p1347
+S'Money'
+p1348
+sS'593160814321885184'
+p1349
+S'Not Relevant'
+p1350
+sS'591961012552601601'
+p1351
+S'Sympathy and emotional support'
+p1352
+sS'592674181705277441'
+p1353
+S'Not Relevant'
+p1354
+sS'591996961991041025'
+p1355
+S'Infrastructure Damage'
+p1356
+sS'592969539903684608'
+p1357
+S'Not Relevant'
+p1358
+sS'592684573806452736'
+p1359
+S'Not Relevant'
+p1360
+sS'592593216781836288'
+p1361
+S'Not Relevant'
+p1362
+sS'592848267496534016'
+p1363
+S'Not Relevant'
+p1364
+sS'592157403052834817'
+p1365
+S'Response Efforts'
+p1366
+sS'591914090479554560'
+p1367
+S'Injured or dead people'
+p1368
+sS'592819508177403904'
+p1369
+S'Not Relevant'
+p1370
+sS'592684236597022720'
+p1371
+S'Not Relevant'
+p1372
+sS'591913270044274688'
+p1373
+S'Injured or dead people'
+p1374
+sS'592799900078874624'
+p1375
+S'Not Relevant'
+p1376
+sS'592594539061252097'
+p1377
+S'Response Efforts'
+p1378
+sS'591910812425424896'
+p1379
+S'Other relevant information'
+p1380
+sS'591911659385434112'
+p1381
+S'Infrastructure and utilities'
+p1382
+sS'592991545470496768'
+p1383
+S'Not Relevant'
+p1384
+sS'592952712058253312'
+p1385
+S'Not Relevant'
+p1386
+sS'592590399929065472'
+p1387
+S'Not Relevant'
+p1388
+sS'592960272895115264'
+p1389
+S'Not Relevant'
+p1390
+sS'592733711742926849'
+p1391
+S'Not Relevant'
+p1392
+sS'592072787398909952'
+p1393
+S'Sympathy and emotional support'
+p1394
+sS'592792447354335232'
+p1395
+S'Not Relevant'
+p1396
+sS'593025829946392576'
+p1397
+S'Not Relevant'
+p1398
+sS'592841864144912386'
+p1399
+S'Other Relevant Information'
+p1400
+sS'592621054993965056'
+p1401
+S'Not Relevant'
+p1402
+sS'592591702885408768'
+p1403
+S'Not Relevant'
+p1404
+sS'592822151109025792'
+p1405
+S'Not Relevant'
+p1406
+sS'593023979981447168'
+p1407
+S'Not Relevant'
+p1408
+sS'592894435584811008'
+p1409
+S'Not Relevant'
+p1410
+sS'592753912622514179'
+p1411
+S'Other Relevant Information'
+p1412
+sS'592649760416215040'
+p1413
+S'Other Relevant Information'
+p1414
+sS'591919264124178432'
+p1415
+S'Other relevant information'
+p1416
+sS'592719822632390656'
+p1417
+S'Not Relevant'
+p1418
+sS'592951892105396224'
+p1419
+S'Not Relevant'
+p1420
+sS'592614342945853440'
+p1421
+S'Not Relevant'
+p1422
+sS'593192191096463360'
+p1423
+S'Not Relevant'
+p1424
+sS'592178685412712448'
+p1425
+S'Not Relevant'
+p1426
+sS'592693756530393089'
+p1427
+S'Not Relevant'
+p1428
+sS'592645622135676928'
+p1429
+S'Not Relevant'
+p1430
+sS'592980518569775105'
+p1431
+S'Not Relevant'
+p1432
+sS'592070667110977536'
+p1433
+S'Volunteer or professional services'
+p1434
+sS'592760520035454978'
+p1435
+S'Not Relevant'
+p1436
+sS'592819310546067456'
+p1437
+S'Not Relevant'
+p1438
+sS'592906045535596544'
+p1439
+S'Response Efforts'
+p1440
+sS'592992100708438016'
+p1441
+S'Not Relevant'
+p1442
+sS'591963796706492416'
+p1443
+S'Sympathy and emotional support'
+p1444
+sS'592651747664900096'
+p1445
+S'Not Relevant'
+p1446
+sS'593151804033994753'
+p1447
+S'Not Relevant'
+p1448
+sS'592930181393809408'
+p1449
+S'Not Relevant'
+p1450
+sS'592602609153757184'
+p1451
+S'Not Relevant'
+p1452
+sS'592756910920708097'
+p1453
+S'Not Relevant'
+p1454
+sS'592792693161492481'
+p1455
+S'Not Relevant'
+p1456
+sS'592736564167503873'
+p1457
+S'Not Relevant'
+p1458
+sS'592072970614374400'
+p1459
+S'Money'
+p1460
+sS'592911970791206912'
+p1461
+S'Not Relevant'
+p1462
+sS'592087964160688128'
+p1463
+S'Volunteer or professional services'
+p1464
+sS'591978276119310336'
+p1465
+S'Personal updates'
+p1466
+sS'592933099757010944'
+p1467
+S'Not Relevant'
+p1468
+sS'592704277593882624'
+p1469
+S'Response Efforts'
+p1470
+sS'592201361984360448'
+p1471
+S'Not Relevant'
+p1472
+sS'592994197537357824'
+p1473
+S'Infrastructure Damage'
+p1474
+sS'592592051113299968'
+p1475
+S'Not Relevant'
+p1476
+sS'592683410491047936'
+p1477
+S'Not Relevant'
+p1478
+sS'592076992553455616'
+p1479
+S'Not related or irrelevant'
+p1480
+sS'592703998895005698'
+p1481
+S'Not Relevant'
+p1482
+sS'593012227340251136'
+p1483
+S'Not Relevant'
+p1484
+sS'593225268719919104'
+p1485
+S'Response Efforts'
+p1486
+sS'591911954056224768'
+p1487
+S'Not related or irrelevant'
+p1488
+sS'592088273461317632'
+p1489
+S'Other relevant information'
+p1490
+sS'593038267550965760'
+p1491
+S'Not Relevant'
+p1492
+sS'592778782928457730'
+p1493
+S'Not Relevant'
+p1494
+sS'592894136577044482'
+p1495
+S'Not Relevant'
+p1496
+sS'592648570328711168'
+p1497
+S'Not Relevant'
+p1498
+sS'592632351349284865'
+p1499
+S'Not Relevant'
+p1500
+sS'592624358847164416'
+p1501
+S'Response Efforts'
+p1502
+sS'593156476677574658'
+p1503
+S'Not Relevant'
+p1504
+sS'592592236107411456'
+p1505
+S'Not Relevant'
+p1506
+sS'593020890272505858'
+p1507
+S'Not Relevant'
+p1508
+sS'592929715184349184'
+p1509
+S'Not Relevant'
+p1510
+sS'592846962849898496'
+p1511
+S'Not Relevant'
+p1512
+sS'592618118255607808'
+p1513
+S'Not Relevant'
+p1514
+sS'592154909304180736'
+p1515
+S'Other Relevant Information'
+p1516
+sS'592817075435008001'
+p1517
+S'Not Relevant'
+p1518
+sS'592102551597621248'
+p1519
+S'Other Relevant Information'
+p1520
+sS'591963750967562240'
+p1521
+S'"Missing'
+p1522
+sS'592731351184515073'
+p1523
+S'Not Relevant'
+p1524
+sS'592682521739075584'
+p1525
+S'Not Relevant'
+p1526
+sS'592792365615718400'
+p1527
+S'Not Relevant'
+p1528
+sS'592903353455239168'
+p1529
+S'Response Efforts'
+p1530
+sS'592976886009044992'
+p1531
+S'Not Relevant'
+p1532
+sS'592173562108121088'
+p1533
+S'Not Relevant'
+p1534
+sS'592720166846386176'
+p1535
+S'Not Relevant'
+p1536
+sS'592643508353110016'
+p1537
+S'Not Relevant'
+p1538
+sS'592862277067485184'
+p1539
+S'Not Relevant'
+p1540
+sS'592789526134788096'
+p1541
+S'Response Efforts'
+p1542
+sS'592619317126107136'
+p1543
+S'Other Relevant Information'
+p1544
+sS'593160700333293568'
+p1545
+S'Not Relevant'
+p1546
+sS'591990033978122240'
+p1547
+S'Sympathy and emotional support'
+p1548
+sS'592644776333340672'
+p1549
+S'Infrastructure Damage'
+p1550
+sS'592597391422955520'
+p1551
+S'Not Relevant'
+p1552
+sS'593179032579121153'
+p1553
+S'Not Relevant'
+p1554
+sS'592592383944085504'
+p1555
+S'Not Relevant'
+p1556
+sS'592616355867820033'
+p1557
+S'Other Relevant Information'
+p1558
+sS'591915358488932352'
+p1559
+S'Other relevant information'
+p1560
+sS'592694064035823617'
+p1561
+S'Not Relevant'
+p1562
+sS'592655778915430400'
+p1563
+S'Not Relevant'
+p1564
+sS'592591529924894721'
+p1565
+S'Not Relevant'
+p1566
+sS'592688316845260800'
+p1567
+S'Not Relevant'
+p1568
+sS'591917867592880129'
+p1569
+S'Personal updates'
+p1570
+sS'592168133311504384'
+p1571
+S'Response Efforts'
+p1572
+sS'592593578699968512'
+p1573
+S'Other Relevant Information'
+p1574
+sS'592171413697527809'
+p1575
+S'Other Relevant Information'
+p1576
+sS'592073412316639232'
+p1577
+S'Sympathy and emotional support'
+p1578
+sS'592593897634693121'
+p1579
+S'Not Relevant'
+p1580
+sS'592592731341357056'
+p1581
+S'Not Relevant'
+p1582
+sS'592606635329134593'
+p1583
+S'Not Relevant'
+p1584
+sS'592943464687476736'
+p1585
+S'Response Efforts'
+p1586
+sS'592702615110160384'
+p1587
+S'Not Relevant'
+p1588
+sS'592085012876517376'
+p1589
+S'Not related or irrelevant'
+p1590
+sS'592707648874745857'
+p1591
+S'Not Relevant'
+p1592
+sS'591910870361354241'
+p1593
+S'Not related or irrelevant'
+p1594
+sS'592914886172102656'
+p1595
+S'Not Relevant'
+p1596
+sS'592948068154118144'
+p1597
+S'Not Relevant'
+p1598
+sS'592919044291891201'
+p1599
+S'Other Relevant Information'
+p1600
+sS'592167487929655296'
+p1601
+S'Other Relevant Information'
+p1602
+sS'592588985395884032'
+p1603
+S'Not Relevant'
+p1604
+sS'592770496669810688'
+p1605
+S'Other Relevant Information'
+p1606
+sS'592156124050165760'
+p1607
+S'Not Relevant'
+p1608
+sS'592591973678100480'
+p1609
+S'Not Relevant'
+p1610
+sS'592588904659812352'
+p1611
+S'Other Relevant Information'
+p1612
+sS'592743400539062274'
+p1613
+S'Not Relevant'
+p1614
+sS'592073968976289792'
+p1615
+S'Sympathy and emotional support'
+p1616
+sS'592709013382549506'
+p1617
+S'Not Relevant'
+p1618
+sS'592594259473104896'
+p1619
+S'Not Relevant'
+p1620
+sS'592822608728555522'
+p1621
+S'Infrastructure Damage'
+p1622
+sS'593222371957350402'
+p1623
+S'Not Relevant'
+p1624
+sS'592872008788123649'
+p1625
+S'Not Relevant'
+p1626
+sS'592591091372720128'
+p1627
+S'Not Relevant'
+p1628
+sS'592703735526268929'
+p1629
+S'Not Relevant'
+p1630
+sS'592898366058663937'
+p1631
+S'Not Relevant'
+p1632
+sS'591908714279481344'
+p1633
+S'Other relevant information'
+p1634
+sS'592593869465845760'
+p1635
+S'Not Relevant'
+p1636
+sS'592848223439560704'
+p1637
+S'Response Efforts'
+p1638
+sS'592593247098155008'
+p1639
+S'Not Relevant'
+p1640
+sS'592758227563085825'
+p1641
+S'Not Relevant'
+p1642
+sS'592821115325644800'
+p1643
+S'Not Relevant'
+p1644
+sS'592088650290176000'
+p1645
+S'Not related or irrelevant'
+p1646
+sS'592917298396188672'
+p1647
+S'Not Relevant'
+p1648
+sS'592720548746133507'
+p1649
+S'Not Relevant'
+p1650
+sS'592132768915558401'
+p1651
+S'Not Relevant'
+p1652
+sS'593039350914555905'
+p1653
+S'Not Relevant'
+p1654
+sS'592776642591903747'
+p1655
+S'Not Relevant'
+p1656
+sS'592864287909097474'
+p1657
+S'Not Relevant'
+p1658
+sS'592197857119047680'
+p1659
+S'Not Relevant'
+p1660
+sS'591919960139563008'
+p1661
+S'Other relevant information'
+p1662
+sS'592890496902660097'
+p1663
+S'Not Relevant'
+p1664
+sS'593180345219973120'
+p1665
+S'Not Relevant'
+p1666
+sS'592911811437035521'
+p1667
+S'Not Relevant'
+p1668
+sS'592164863796846592'
+p1669
+S'Not Relevant'
+p1670
+sS'592190431447777281'
+p1671
+S'Not Relevant'
+p1672
+sS'592750209127555073'
+p1673
+S'Not Relevant'
+p1674
+sS'592155040464285696'
+p1675
+S'Not Relevant'
+p1676
+sS'592592743618064384'
+p1677
+S'Not Relevant'
+p1678
+sS'592592612051316736'
+p1679
+S'Response Efforts'
+p1680
+sS'592161605779116033'
+p1681
+S'Not Relevant'
+p1682
+sS'592593990194765824'
+p1683
+S'Response Efforts'
+p1684
+sS'592735013755559936'
+p1685
+S'Not Relevant'
+p1686
+sS'592705539613798400'
+p1687
+S'Response Efforts'
+p1688
+sS'592202905542877184'
+p1689
+S'Response Efforts'
+p1690
+sS'592689537215770626'
+p1691
+S'Not Relevant'
+p1692
+sS'592638185156382720'
+p1693
+S'Not Relevant'
+p1694
+sS'592623631148130304'
+p1695
+S'Not Relevant'
+p1696
+sS'592640327174983680'
+p1697
+S'Urgent Needs'
+p1698
+sS'592862768010756098'
+p1699
+S'Not Relevant'
+p1700
+sS'592614003030958080'
+p1701
+S'Not Relevant'
+p1702
+sS'592276487912431616'
+p1703
+S'Other Relevant Information'
+p1704
+sS'592932594402070528'
+p1705
+S'Not Relevant'
+p1706
+sS'592650040104984576'
+p1707
+S'Not Relevant'
+p1708
+sS'591962023535095809'
+p1709
+S'Not related or irrelevant'
+p1710
+sS'591920103874170880'
+p1711
+S'Injured or dead people'
+p1712
+sS'592912357908750336'
+p1713
+S'Not Relevant'
+p1714
+sS'592593345748332547'
+p1715
+S'Not Relevant'
+p1716
+sS'592071892707745792'
+p1717
+S'Sympathy and emotional support'
+p1718
+sS'592680329556709376'
+p1719
+S'Not Relevant'
+p1720
+sS'592076197594591232'
+p1721
+S'Sympathy and emotional support'
+p1722
+sS'592658613400928256'
+p1723
+S'Other Relevant Information'
+p1724
+sS'592592412154961920'
+p1725
+S'Not Relevant'
+p1726
+sS'592593916387459073'
+p1727
+S'Infrastructure Damage'
+p1728
+sS'592685257142497282'
+p1729
+S'Not Relevant'
+p1730
+sS'592808697203728384'
+p1731
+S'Not Relevant'
+p1732
+sS'592703151855271936'
+p1733
+S'Not Relevant'
+p1734
+sS'592739152141103105'
+p1735
+S'Not Relevant'
+p1736
+sS'592695022316826625'
+p1737
+S'Not Relevant'
+p1738
+sS'591907214232694784'
+p1739
+S'Sympathy and emotional support'
+p1740
+sS'592602281691877376'
+p1741
+S'Not Relevant'
+p1742
+sS'592101074372169729'
+p1743
+S'Other Relevant Information'
+p1744
+sS'593242022963580929'
+p1745
+S'Response Efforts'
+p1746
+sS'592589375000715264'
+p1747
+S'Not Relevant'
+p1748
+sS'591913642896961536'
+p1749
+S'Not related or irrelevant'
+p1750
+sS'592086528030953472'
+p1751
+S'"Missing'
+p1752
+sS'592653552083951616'
+p1753
+S'Not Relevant'
+p1754
+sS'592073740986388481'
+p1755
+S'Other relevant information'
+p1756
+sS'591986867626778624'
+p1757
+S'Response Efforts'
+p1758
+sS'592074043764953088'
+p1759
+S'Sympathy and emotional support'
+p1760
+sS'591918310280724480'
+p1761
+S'Not related or irrelevant'
+p1762
+sS'592950680173846528'
+p1763
+S'Not Relevant'
+p1764
+sS'592680809326387200'
+p1765
+S'Not Relevant'
+p1766
+sS'593150253630525440'
+p1767
+S'Response Efforts'
+p1768
+sS'592758689309839364'
+p1769
+S'Not Relevant'
+p1770
+sS'592649204209692672'
+p1771
+S'Not Relevant'
+p1772
+sS'592668266755162112'
+p1773
+S'Not Relevant'
+p1774
+sS'592645840566677505'
+p1775
+S'Other Relevant Information'
+p1776
+sS'591907127112945664'
+p1777
+S'Other relevant information'
+p1778
+sS'592591633629184000'
+p1779
+S'Not Relevant'
+p1780
+sS'592074366373892096'
+p1781
+S'Shelter and supplies'
+p1782
+sS'592943610888265728'
+p1783
+S'Not Relevant'
+p1784
+sS'592913809372684288'
+p1785
+S'Not Relevant'
+p1786
+sS'592827833887653891'
+p1787
+S'Response Efforts'
+p1788
+sS'592702002959908864'
+p1789
+S'Not Relevant'
+p1790
+sS'592068687177224192'
+p1791
+S'Money'
+p1792
+sS'592741422429839360'
+p1793
+S'Not Relevant'
+p1794
+sS'592885831737704449'
+p1795
+S'Not Relevant'
+p1796
+sS'592768082076110850'
+p1797
+S'Not Relevant'
+p1798
+sS'592638342707154944'
+p1799
+S'Not Relevant'
+p1800
+sS'592991900635914240'
+p1801
+S'Not Relevant'
+p1802
+sS'592666438307033090'
+p1803
+S'Not Relevant'
+p1804
+sS'592731488740888576'
+p1805
+S'Not Relevant'
+p1806
+sS'592652196895977473'
+p1807
+S'Not Relevant'
+p1808
+sS'593025274779860993'
+p1809
+S'Not Relevant'
+p1810
+sS'592918740729225216'
+p1811
+S'Not Relevant'
+p1812
+sS'591962049636335616'
+p1813
+S'Other relevant information'
+p1814
+sS'592608242523471872'
+p1815
+S'Not Relevant'
+p1816
+sS'592592481893675009'
+p1817
+S'Not Relevant'
+p1818
+sS'592731075673198592'
+p1819
+S'Response Efforts'
+p1820
+sS'592749931129102337'
+p1821
+S'Response Efforts'
+p1822
+sS'592707679501590530'
+p1823
+S'Not Relevant'
+p1824
+sS'592629163426643968'
+p1825
+S'Not Relevant'
+p1826
+sS'592684753813446656'
+p1827
+S'Not Relevant'
+p1828
+sS'592808762924244992'
+p1829
+S'Not Relevant'
+p1830
+sS'592167927064854529'
+p1831
+S'Other Relevant Information'
+p1832
+sS'592976304888156161'
+p1833
+S'Not Relevant'
+p1834
+sS'592696567389360131'
+p1835
+S'Not Relevant'
+p1836
+sS'593014233614426113'
+p1837
+S'Not Relevant'
+p1838
+sS'592767492981989376'
+p1839
+S'Not Relevant'
+p1840
+sS'593224301110796288'
+p1841
+S'Not Relevant'
+p1842
+sS'593039605328322561'
+p1843
+S'Not Relevant'
+p1844
+sS'591992656038858752'
+p1845
+S'Response Efforts'
+p1846
+sS'592629436001857536'
+p1847
+S'Response Efforts'
+p1848
+sS'591908943271591936'
+p1849
+S'Infrastructure and utilities'
+p1850
+sS'592612161479839746'
+p1851
+S'Response Efforts'
+p1852
+sS'592964130379833344'
+p1853
+S'Not Relevant'
+p1854
+sS'592319930265108480'
+p1855
+S'Not Relevant'
+p1856
+sS'592733503290265600'
+p1857
+S'Not Relevant'
+p1858
+sS'592841304838668288'
+p1859
+S'Not Relevant'
+p1860
+sS'592589700319223809'
+p1861
+S'Response Efforts'
+p1862
+sS'592941975776698368'
+p1863
+S'Not Relevant'
+p1864
+sS'591903330449907712'
+p1865
+S'Sympathy and emotional support'
+p1866
+sS'592681488530972672'
+p1867
+S'Not Relevant'
+p1868
+sS'592847362231574528'
+p1869
+S'Response Efforts'
+p1870
+sS'592847858128289794'
+p1871
+S'Not Relevant'
+p1872
+sS'593039310133198848'
+p1873
+S'Not Relevant'
+p1874
+sS'592806667693203456'
+p1875
+S'Not Relevant'
+p1876
+sS'592619477256179712'
+p1877
+S'Not Relevant'
+p1878
+sS'592069083668959232'
+p1879
+S'Shelter and supplies'
+p1880
+sS'592742820475215873'
+p1881
+S'Not Relevant'
+p1882
+sS'592075341147037697'
+p1883
+S'"Missing'
+p1884
+sS'593209253202132993'
+p1885
+S'Not Relevant'
+p1886
+sS'592906123625259008'
+p1887
+S'Not Relevant'
+p1888
+sS'592069241932783616'
+p1889
+S'Other relevant information'
+p1890
+sS'592862695541583873'
+p1891
+S'Not Relevant'
+p1892
+sS'592192320470061058'
+p1893
+S'Response Efforts'
+p1894
+sS'592842683703500802'
+p1895
+S'Not Relevant'
+p1896
+sS'592689520312717315'
+p1897
+S'Not Relevant'
+p1898
+sS'592669501868679168'
+p1899
+S'Not Relevant'
+p1900
+sS'591961222511075328'
+p1901
+S'Other relevant information'
+p1902
+sS'592159542516920320'
+p1903
+S'Not Relevant'
+p1904
+sS'592766526756892672'
+p1905
+S'Not Relevant'
+p1906
+sS'592591533854982144'
+p1907
+S'Not Relevant'
+p1908
+sS'592742659069972482'
+p1909
+S'Not Relevant'
+p1910
+sS'592980706113912832'
+p1911
+S'Not Relevant'
+p1912
+sS'592983619158716416'
+p1913
+S'Not Relevant'
+p1914
+sS'592591213104009216'
+p1915
+S'Not Relevant'
+p1916
+sS'591929005382705152'
+p1917
+S'Sympathy and emotional support'
+p1918
+sS'592591660955127809'
+p1919
+S'Response Efforts'
+p1920
+sS'592773510000435203'
+p1921
+S'Not Relevant'
+p1922
+sS'592931670875078657'
+p1923
+S'Not Relevant'
+p1924
+sS'592165977753853954'
+p1925
+S'Response Efforts'
+p1926
+sS'592749641772433408'
+p1927
+S'Not Relevant'
+p1928
+sS'592631302991572993'
+p1929
+S'Response Efforts'
+p1930
+sS'592619388852895744'
+p1931
+S'Not Relevant'
+p1932
+sS'592934855018688512'
+p1933
+S'Not Relevant'
+p1934
+sS'592707620697432064'
+p1935
+S'Not Relevant'
+p1936
+sS'592928689865814016'
+p1937
+S'Other Relevant Information'
+p1938
+sS'592840243432333314'
+p1939
+S'Response Efforts'
+p1940
+sS'592747344044621826'
+p1941
+S'Not Relevant'
+p1942
+sS'592633152247476224'
+p1943
+S'Not Relevant'
+p1944
+sS'592189416375853056'
+p1945
+S'Response Efforts'
+p1946
+sS'592707026825928705'
+p1947
+S'Not Relevant'
+p1948
+sS'592598631041085440'
+p1949
+S'Not Relevant'
+p1950
+sS'592594866665717761'
+p1951
+S'Not Relevant'
+p1952
+sS'592643230505701376'
+p1953
+S'Other Relevant Information'
+p1954
+sS'592658822981951488'
+p1955
+S'Not Relevant'
+p1956
+sS'592589687623024640'
+p1957
+S'Not Relevant'
+p1958
+sS'592673938506911744'
+p1959
+S'Other Relevant Information'
+p1960
+sS'592866612061024256'
+p1961
+S'Not Relevant'
+p1962
+sS'592824595968892930'
+p1963
+S'Other Relevant Information'
+p1964
+sS'592731884607643649'
+p1965
+S'Response Efforts'
+p1966
+sS'591911049760116737'
+p1967
+S'Volunteer or professional services'
+p1968
+sS'592671199500505088'
+p1969
+S'Not Relevant'
+p1970
+sS'591918701185617921'
+p1971
+S'Other relevant information'
+p1972
+sS'592789421700812800'
+p1973
+S'Response Efforts'
+p1974
+sS'592589454398763008'
+p1975
+S'Not Relevant'
+p1976
+sS'592931984772575232'
+p1977
+S'Not Relevant'
+p1978
+sS'592593174670905344'
+p1979
+S'Other Relevant Information'
+p1980
+sS'592749564899291136'
+p1981
+S'Not Relevant'
+p1982
+sS'592916110774788096'
+p1983
+S'Other Relevant Information'
+p1984
+sS'592630870810370049'
+p1985
+S'Not Relevant'
+p1986
+sS'592665980276473856'
+p1987
+S'Not Relevant'
+p1988
+sS'593029579100393473'
+p1989
+S'Not Relevant'
+p1990
+sS'591918888683724801'
+p1991
+S'Sympathy and emotional support'
+p1992
+sS'592822630471839745'
+p1993
+S'Not Relevant'
+p1994
+sS'592693027023560704'
+p1995
+S'Not Relevant'
+p1996
+sS'592645586182012928'
+p1997
+S'Other Relevant Information'
+p1998
+sS'592590349488422912'
+p1999
+S'Not Relevant'
+p2000
+sS'593229443671400448'
+p2001
+S'Not Relevant'
+p2002
+sS'592194083445059585'
+p2003
+S'Urgent Needs'
+p2004
+sS'591910898102501377'
+p2005
+S'Not related or irrelevant'
+p2006
+sS'592606776387735552'
+p2007
+S'Not Relevant'
+p2008
+sS'592816920384151552'
+p2009
+S'Not Relevant'
+p2010
+sS'592635003437076480'
+p2011
+S'Not Relevant'
+p2012
+sS'592955039699763200'
+p2013
+S'Not Relevant'
+p2014
+sS'592643498920136704'
+p2015
+S'Not Relevant'
+p2016
+sS'592773444078575618'
+p2017
+S'Not Relevant'
+p2018
+sS'592905574666338306'
+p2019
+S'Not Relevant'
+p2020
+sS'591960945007538176'
+p2021
+S'Not related or irrelevant'
+p2022
+sS'592757910456897537'
+p2023
+S'Not Relevant'
+p2024
+sS'592099765271199744'
+p2025
+S'Volunteer or professional services'
+p2026
+sS'592853377794625537'
+p2027
+S'Not Relevant'
+p2028
+sS'592593727719415808'
+p2029
+S'Not Relevant'
+p2030
+sS'592606868180180993'
+p2031
+S'Not Relevant'
+p2032
+sS'592072708965433344'
+p2033
+S'Other relevant information'
+p2034
+sS'592068787668647937'
+p2035
+S'Not related or irrelevant'
+p2036
+sS'592590610378395648'
+p2037
+S'Not Relevant'
+p2038
+sS'592591726478553088'
+p2039
+S'Other Relevant Information'
+p2040
+sS'592592835540623360'
+p2041
+S'Not Relevant'
+p2042
+sS'592817427987177472'
+p2043
+S'Not Relevant'
+p2044
+sS'592088677704028160'
+p2045
+S'Shelter and supplies'
+p2046
+sS'593147198348480514'
+p2047
+S'Not Relevant'
+p2048
+sS'592154914983260161'
+p2049
+S'Not Relevant'
+p2050
+sS'592070329121558529'
+p2051
+S'Money'
+p2052
+sS'592075785214795777'
+p2053
+S'Sympathy and emotional support'
+p2054
+sS'591913455076016130'
+p2055
+S'"Missing'
+p2056
+sS'592156663005589504'
+p2057
+S'Not Relevant'
+p2058
+sS'592978160414777345'
+p2059
+S'Not Relevant'
+p2060
+sS'592126931199483904'
+p2061
+S'Response Efforts'
+p2062
+sS'592986316054212609'
+p2063
+S'Response Efforts'
+p2064
+sS'593263969487310848'
+p2065
+S'Not Relevant'
+p2066
+sS'593255099046039552'
+p2067
+S'Not Relevant'
+p2068
+sS'592374891975811073'
+p2069
+S'Not Relevant'
+p2070
+sS'592707332485812224'
+p2071
+S'Not Relevant'
+p2072
+sS'592117004355665920'
+p2073
+S'Not Relevant'
+p2074
+sS'592732524264202242'
+p2075
+S'Not Relevant'
+p2076
+sS'592803180880252930'
+p2077
+S'Response Efforts'
+p2078
+sS'593206712410210304'
+p2079
+S'Not Relevant'
+p2080
+sS'592074318730801153'
+p2081
+S'Money'
+p2082
+sS'592694994508640257'
+p2083
+S'Not Relevant'
+p2084
+sS'592863573682032642'
+p2085
+S'Not Relevant'
+p2086
+sS'593152208645951488'
+p2087
+S'Not Relevant'
+p2088
+sS'592594438502813698'
+p2089
+S'Not Relevant'
+p2090
+sS'592754712912486401'
+p2091
+S'Not Relevant'
+p2092
+sS'598058290120122368'
+p2093
+S'Other relevant information'
+p2094
+sS'592744946270076930'
+p2095
+S'Not Relevant'
+p2096
+sS'592915665222180865'
+p2097
+S'Not Relevant'
+p2098
+sS'593015504819736576'
+p2099
+S'Not Relevant'
+p2100
+sS'591906190529028096'
+p2101
+S'Other relevant information'
+p2102
+sS'593246298377211905'
+p2103
+S'Not Relevant'
+p2104
+sS'592922931614842881'
+p2105
+S'Not Relevant'
+p2106
+sS'592801600621715460'
+p2107
+S'Other Relevant Information'
+p2108
+sS'592796437437636608'
+p2109
+S'Not Relevant'
+p2110
+sS'592848388279898113'
+p2111
+S'Not Relevant'
+p2112
+sS'592689531465400320'
+p2113
+S'Response Efforts'
+p2114
+sS'592631540078628864'
+p2115
+S'Not Relevant'
+p2116
+sS'592992618641920000'
+p2117
+S'Not Relevant'
+p2118
+sS'592176598129840130'
+p2119
+S'Not Relevant'
+p2120
+sS'593045768870694913'
+p2121
+S'Response Efforts'
+p2122
+sS'592686159236575233'
+p2123
+S'Not Relevant'
+p2124
+sS'592592993007239168'
+p2125
+S'Not Relevant'
+p2126
+sS'592827462008078337'
+p2127
+S'Response Efforts'
+p2128
+sS'593211750792597505'
+p2129
+S'Not Relevant'
+p2130
+sS'592596395636297728'
+p2131
+S'Not Relevant'
+p2132
+sS'592998571219103744'
+p2133
+S'Response Efforts'
+p2134
+sS'592589843198189569'
+p2135
+S'Not Relevant'
+p2136
+sS'592818961038868480'
+p2137
+S'Not Relevant'
+p2138
+sS'592849798941810689'
+p2139
+S'Not Relevant'
+p2140
+sS'592807409929846784'
+p2141
+S'Not Relevant'
+p2142
+sS'592754970228830209'
+p2143
+S'Not Relevant'
+p2144
+sS'592775948946251777'
+p2145
+S'Not Relevant'
+p2146
+sS'592168153020440576'
+p2147
+S'Other Relevant Information'
+p2148
+sS'592680207552794624'
+p2149
+S'Not Relevant'
+p2150
+sS'592710228468203521'
+p2151
+S'Response Efforts'
+p2152
+sS'592776905390223360'
+p2153
+S'Not Relevant'
+p2154
+sS'592084190809567232'
+p2155
+S'Other relevant information'
+p2156
+sS'592738677756919811'
+p2157
+S'Not Relevant'
+p2158
+sS'592607838574354432'
+p2159
+S'Not Relevant'
+p2160
+sS'591992853301039104'
+p2161
+S'Response Efforts'
+p2162
+sS'593219373189320704'
+p2163
+S'Not Relevant'
+p2164
+sS'592802785768398848'
+p2165
+S'Not Relevant'
+p2166
+sS'592589048390254592'
+p2167
+S'Not Relevant'
+p2168
+sS'592830671774703616'
+p2169
+S'Not Relevant'
+p2170
+sS'592590014732632064'
+p2171
+S'Not Relevant'
+p2172
+sS'592590964838965248'
+p2173
+S'Not Relevant'
+p2174
+sS'592752398956920832'
+p2175
+S'Not Relevant'
+p2176
+sS'592754944748425217'
+p2177
+S'Not Relevant'
+p2178
+sS'592902878274129920'
+p2179
+S'Other Relevant Information'
+p2180
+sS'592161468520366082'
+p2181
+S'Not Relevant'
+p2182
+sS'592700047147573248'
+p2183
+S'Not Relevant'
+p2184
+sS'592077008764407810'
+p2185
+S'Not related or irrelevant'
+p2186
+sS'592592870437097472'
+p2187
+S'Response Efforts'
+p2188
+sS'593262039608348672'
+p2189
+S'Not Relevant'
+p2190
+sS'592741204602855425'
+p2191
+S'Not Relevant'
+p2192
+sS'592687470652825600'
+p2193
+S'Not Relevant'
+p2194
+sS'592915883263070208'
+p2195
+S'Not Relevant'
+p2196
+sS'592961219079745536'
+p2197
+S'Not Relevant'
+p2198
+sS'592791679020756992'
+p2199
+S'Not Relevant'
+p2200
+sS'592631519543488512'
+p2201
+S'Not Relevant'
+p2202
+sS'592688735436800000'
+p2203
+S'Not Relevant'
+p2204
+sS'592996957037039617'
+p2205
+S'Not Relevant'
+p2206
+sS'592072390454202369'
+p2207
+S'Not related or irrelevant'
+p2208
+sS'593033084372721665'
+p2209
+S'Not Relevant'
+p2210
+sS'592749666426552320'
+p2211
+S'Not Relevant'
+p2212
+sS'592984340591579137'
+p2213
+S'Not Relevant'
+p2214
+sS'592975861709729792'
+p2215
+S'Response Efforts'
+p2216
+sS'592908669353857024'
+p2217
+S'Other Relevant Information'
+p2218
+sS'593230342129119235'
+p2219
+S'Not Relevant'
+p2220
+sS'591916211459395584'
+p2221
+S'Not related or irrelevant'
+p2222
+sS'592072993381036033'
+p2223
+S'Not related or irrelevant'
+p2224
+sS'592954785978003456'
+p2225
+S'Response Efforts'
+p2226
+sS'592592233662173184'
+p2227
+S'Not Relevant'
+p2228
+sS'592890504590794752'
+p2229
+S'Not Relevant'
+p2230
+sS'591962520933433346'
+p2231
+S'Other relevant information'
+p2232
+sS'591906719099420672'
+p2233
+S'Other relevant information'
+p2234
+sS'592833858254540800'
+p2235
+S'Not Relevant'
+p2236
+sS'592940339071229955'
+p2237
+S'Not Relevant'
+p2238
+sS'592595776708050944'
+p2239
+S'Infrastructure Damage'
+p2240
+sS'592799723813212160'
+p2241
+S'Not Relevant'
+p2242
+sS'593191352051101696'
+p2243
+S'Not Relevant'
+p2244
+sS'593238322731941888'
+p2245
+S'Not Relevant'
+p2246
+sS'592962233681883136'
+p2247
+S'Not Relevant'
+p2248
+sS'592743391290662913'
+p2249
+S'Not Relevant'
+p2250
+sS'592154345572937728'
+p2251
+S'Not Relevant'
+p2252
+sS'591909655523254272'
+p2253
+S'Sympathy and emotional support'
+p2254
+sS'593211861732044800'
+p2255
+S'Not Relevant'
+p2256
+sS'592875418597883905'
+p2257
+S'Not Relevant'
+p2258
+sS'592628883742162944'
+p2259
+S'Response Efforts'
+p2260
+sS'592643249409433600'
+p2261
+S'Not Relevant'
+p2262
+sS'592170673579040768'
+p2263
+S'Infrastructure Damage'
+p2264
+sS'592925193829359617'
+p2265
+S'Not Relevant'
+p2266
+sS'592736543044960256'
+p2267
+S'Not Relevant'
+p2268
+sS'593234114662125568'
+p2269
+S'Not Relevant'
+p2270
+sS'592645496704925697'
+p2271
+S'Not Relevant'
+p2272
+sS'592863046307074048'
+p2273
+S'Not Relevant'
+p2274
+sS'592969629015879680'
+p2275
+S'Other Relevant Information'
+p2276
+sS'592157246580097025'
+p2277
+S'Not Relevant'
+p2278
+sS'592592885045862400'
+p2279
+S'Not Relevant'
+p2280
+sS'592163677513523200'
+p2281
+S'Not Relevant'
+p2282
+sS'592589314883604480'
+p2283
+S'Other Relevant Information'
+p2284
+sS'592950927419670529'
+p2285
+S'Not Relevant'
+p2286
+sS'592657953058136066'
+p2287
+S'Not Relevant'
+p2288
+sS'592074018875781120'
+p2289
+S'Sympathy and emotional support'
+p2290
+sS'592864515261386753'
+p2291
+S'Response Efforts'
+p2292
+sS'592969414632345602'
+p2293
+S'Not Relevant'
+p2294
+sS'592670405925679105'
+p2295
+S'Not Relevant'
+p2296
+sS'592694639515295746'
+p2297
+S'Not Relevant'
+p2298
+sS'592879210374504448'
+p2299
+S'Not Relevant'
+p2300
+sS'592073340195475456'
+p2301
+S'Not related or irrelevant'
+p2302
+sS'592592476713521152'
+p2303
+S'Not Relevant'
+p2304
+sS'592939427283906561'
+p2305
+S'Not Relevant'
+p2306
+sS'592918209499660288'
+p2307
+S'Not Relevant'
+p2308
+sS'592695772900102144'
+p2309
+S'Not Relevant'
+p2310
+sS'592593783772073984'
+p2311
+S'Not Relevant'
+p2312
+sS'592621251878719488'
+p2313
+S'Not Relevant'
+p2314
+sS'592150356521570304'
+p2315
+S'Not Relevant'
+p2316
+sS'592874769915191297'
+p2317
+S'Not Relevant'
+p2318
+sS'592702910468923392'
+p2319
+S'Other Relevant Information'
+p2320
+sS'592164135405690880'
+p2321
+S'Not Relevant'
+p2322
+sS'592766384213491716'
+p2323
+S'Not Relevant'
+p2324
+sS'592616723099947008'
+p2325
+S'Not Relevant'
+p2326
+sS'592735628653162497'
+p2327
+S'Not Relevant'
+p2328
+sS'592845439080255491'
+p2329
+S'Not Relevant'
+p2330
+sS'592766337463750657'
+p2331
+S'Response Efforts'
+p2332
+sS'592695799009640449'
+p2333
+S'Response Efforts'
+p2334
+sS'592590503771656192'
+p2335
+S'Infrastructure Damage'
+p2336
+sS'593026569423036416'
+p2337
+S'Not Relevant'
+p2338
+sS'592693274302873603'
+p2339
+S'Not Relevant'
+p2340
+sS'592806535014817794'
+p2341
+S'Not Relevant'
+p2342
+sS'592836755520360450'
+p2343
+S'Not Relevant'
+p2344
+sS'592849065236439043'
+p2345
+S'Other Relevant Information'
+p2346
+sS'592696920000299008'
+p2347
+S'Not Relevant'
+p2348
+sS'593227302328143872'
+p2349
+S'Not Relevant'
+p2350
+sS'592659208836878336'
+p2351
+S'Not Relevant'
+p2352
+sS'592693025639407616'
+p2353
+S'Not Relevant'
+p2354
+sS'592591083319664641'
+p2355
+S'Not Relevant'
+p2356
+sS'592750721122041856'
+p2357
+S'Not Relevant'
+p2358
+sS'592272860921499648'
+p2359
+S'Not Relevant'
+p2360
+sS'592085953365340162'
+p2361
+S'Injured or dead people'
+p2362
+sS'592770194650566656'
+p2363
+S'Response Efforts'
+p2364
+sS'592200526697136128'
+p2365
+S'Not Relevant'
+p2366
+sS'592820273562390529'
+p2367
+S'Not Relevant'
+p2368
+sS'592827767303057409'
+p2369
+S'Other Relevant Information'
+p2370
+sS'592735226620686337'
+p2371
+S'Response Efforts'
+p2372
+sS'592831739598401536'
+p2373
+S'Other Relevant Information'
+p2374
+sS'592786082149867520'
+p2375
+S'Not Relevant'
+p2376
+sS'592657101459169284'
+p2377
+S'Not Relevant'
+p2378
+sS'592655814529265664'
+p2379
+S'Not Relevant'
+p2380
+sS'592102247942770688'
+p2381
+S'"Missing'
+p2382
+sS'591990301255925760'
+p2383
+S'Response Efforts'
+p2384
+sS'592609049989894147'
+p2385
+S'Response Efforts'
+p2386
+sS'592957350614413312'
+p2387
+S'Not Relevant'
+p2388
+sS'592753487387172867'
+p2389
+S'Not Relevant'
+p2390
+sS'592683819733544960'
+p2391
+S'Not Relevant'
+p2392
+sS'592826075564113922'
+p2393
+S'Not Relevant'
+p2394
+sS'592619033150824448'
+p2395
+S'Not Relevant'
+p2396
+sS'593227881674866688'
+p2397
+S'Not Relevant'
+p2398
+sS'593203321718054912'
+p2399
+S'Not Relevant'
+p2400
+sS'592799894840188928'
+p2401
+S'Response Efforts'
+p2402
+sS'592589319702904832'
+p2403
+S'Not Relevant'
+p2404
+sS'591963005576941568'
+p2405
+S'Other relevant information'
+p2406
+sS'592657937606254592'
+p2407
+S'Not Relevant'
+p2408
+sS'593039282241048577'
+p2409
+S'Other Relevant Information'
+p2410
+sS'592860233917177858'
+p2411
+S'Not Relevant'
+p2412
+sS'592666591755657217'
+p2413
+S'Not Relevant'
+p2414
+sS'592074857216548864'
+p2415
+S'Sympathy and emotional support'
+p2416
+sS'592627142053273601'
+p2417
+S'Response Efforts'
+p2418
+sS'591910084583825408'
+p2419
+S'Other relevant information'
+p2420
+sS'591961256623407104'
+p2421
+S'Volunteer or professional services'
+p2422
+sS'592642605894082560'
+p2423
+S'Response Efforts'
+p2424
+sS'592088832243281920'
+p2425
+S'Not Relevant'
+p2426
+sS'592590920010326016'
+p2427
+S'Not Relevant'
+p2428
+sS'592589963088175104'
+p2429
+S'Not Relevant'
+p2430
+sS'593263890164686849'
+p2431
+S'Not Relevant'
+p2432
+sS'592742367851053056'
+p2433
+S'Not Relevant'
+p2434
+sS'592618408614715392'
+p2435
+S'Not Relevant'
+p2436
+sS'593253969272512512'
+p2437
+S'Not Relevant'
+p2438
+sS'593246457072885760'
+p2439
+S'Not Relevant'
+p2440
+sS'591912017914568704'
+p2441
+S'Shelter and supplies'
+p2442
+sS'592819139082919936'
+p2443
+S'Not Relevant'
+p2444
+sS'593025464647741442'
+p2445
+S'Not Relevant'
+p2446
+sS'592908602937081856'
+p2447
+S'Response Efforts'
+p2448
+sS'592847474211033090'
+p2449
+S'Not Relevant'
+p2450
+sS'592681251808669697'
+p2451
+S'Not Relevant'
+p2452
+sS'592588917058207744'
+p2453
+S'Not Relevant'
+p2454
+sS'592176393879846912'
+p2455
+S'Infrastructure Damage'
+p2456
+sS'592601273574252544'
+p2457
+S'Not Relevant'
+p2458
+sS'592758434656854019'
+p2459
+S'Not Relevant'
+p2460
+sS'592156277477806080'
+p2461
+S'Response Efforts'
+p2462
+sS'593183894557462528'
+p2463
+S'Not Relevant'
+p2464
+sS'592707008572346370'
+p2465
+S'Not Relevant'
+p2466
+sS'592974556039483392'
+p2467
+S'Response Efforts'
+p2468
+sS'592951199143452672'
+p2469
+S'Not Relevant'
+p2470
+sS'592627068007010304'
+p2471
+S'Not Relevant'
+p2472
+sS'592594355283595264'
+p2473
+S'Not Relevant'
+p2474
+sS'593217733489070080'
+p2475
+S'Not Relevant'
+p2476
+sS'592874794867130368'
+p2477
+S'Not Relevant'
+p2478
+sS'592633288767963136'
+p2479
+S'Not Relevant'
+p2480
+sS'592623511102881792'
+p2481
+S'Not Relevant'
+p2482
+sS'592839673099190272'
+p2483
+S'Other Relevant Information'
+p2484
+sS'592658889889447939'
+p2485
+S'Not Relevant'
+p2486
+sS'592198215698673664'
+p2487
+S'Not Relevant'
+p2488
+sS'593257549605961729'
+p2489
+S'Not Relevant'
+p2490
+sS'591916010631995392'
+p2491
+S'Infrastructure and utilities'
+p2492
+sS'592690249689608195'
+p2493
+S'Other Relevant Information'
+p2494
+sS'592738811920195584'
+p2495
+S'Not Relevant'
+p2496
+sS'591919753154928642'
+p2497
+S'Injured or dead people'
+p2498
+sS'592949111122460672'
+p2499
+S'Not Relevant'
+p2500
+sS'592590056306520064'
+p2501
+S'Not Relevant'
+p2502
+sS'592787062392250368'
+p2503
+S'Not Relevant'
+p2504
+sS'592601167328227328'
+p2505
+S'Not Relevant'
+p2506
+sS'592159407242280960'
+p2507
+S'Not Relevant'
+p2508
+sS'592847004402843649'
+p2509
+S'Not Relevant'
+p2510
+sS'592832720864149504'
+p2511
+S'Not Relevant'
+p2512
+sS'592778469488070659'
+p2513
+S'Not Relevant'
+p2514
+sS'592607719103799296'
+p2515
+S'Not Relevant'
+p2516
+sS'592684798780567554'
+p2517
+S'Not Relevant'
+p2518
+sS'592610886721875968'
+p2519
+S'Not Relevant'
+p2520
+sS'592804193116749824'
+p2521
+S'Not Relevant'
+p2522
+sS'592691451458428931'
+p2523
+S'Not Relevant'
+p2524
+sS'592751606183100417'
+p2525
+S'Not Relevant'
+p2526
+sS'593028827393105920'
+p2527
+S'Not Relevant'
+p2528
+sS'592594215810510848'
+p2529
+S'Not Relevant'
+p2530
+sS'592652777366630400'
+p2531
+S'Infrastructure Damage'
+p2532
+sS'592935922607509504'
+p2533
+S'Other Relevant Information'
+p2534
+sS'592918693421547520'
+p2535
+S'Infrastructure Damage'
+p2536
+sS'592952077543931905'
+p2537
+S'Not Relevant'
+p2538
+sS'592589503300182016'
+p2539
+S'Not Relevant'
+p2540
+sS'592734370177363968'
+p2541
+S'Not Relevant'
+p2542
+sS'592199007373373440'
+p2543
+S'Other Relevant Information'
+p2544
+sS'592973644197994496'
+p2545
+S'Other Relevant Information'
+p2546
+sS'591919317601615873'
+p2547
+S'Money'
+p2548
+sS'592913543420252160'
+p2549
+S'Not Relevant'
+p2550
+sS'592593588204081153'
+p2551
+S'Not Relevant'
+p2552
+sS'592656519835078659'
+p2553
+S'Not Relevant'
+p2554
+sS'592906765156667392'
+p2555
+S'Not Relevant'
+p2556
+sS'592645763307479040'
+p2557
+S'Not Relevant'
+p2558
+sS'592069123607293952'
+p2559
+S'Sympathy and emotional support'
+p2560
+sS'591911370192326657'
+p2561
+S'Other relevant information'
+p2562
+sS'592632798671982593'
+p2563
+S'Other Relevant Information'
+p2564
+sS'592688840013406208'
+p2565
+S'Not Relevant'
+p2566
+sS'592762479048003584'
+p2567
+S'Not Relevant'
+p2568
+sS'592804572609060864'
+p2569
+S'Not Relevant'
+p2570
+sS'592959826424115200'
+p2571
+S'Not Relevant'
+p2572
+sS'593262545181417472'
+p2573
+S'Not Relevant'
+p2574
+sS'592592299244146688'
+p2575
+S'Not Relevant'
+p2576
+sS'592785032416272384'
+p2577
+S'Not Relevant'
+p2578
+sS'592903384027529216'
+p2579
+S'Not Relevant'
+p2580
+sS'593159524078526464'
+p2581
+S'Not Relevant'
+p2582
+sS'592896949361242113'
+p2583
+S'Not Relevant'
+p2584
+sS'592663984999903232'
+p2585
+S'Response Efforts'
+p2586
+sS'592873675034071041'
+p2587
+S'Not Relevant'
+p2588
+sS'592994875978592256'
+p2589
+S'Not Relevant'
+p2590
+sS'593225670303559680'
+p2591
+S'Not Relevant'
+p2592
+sS'592691982864101377'
+p2593
+S'Not Relevant'
+p2594
+sS'592755769927434242'
+p2595
+S'Not Relevant'
+p2596
+sS'591962621970092032'
+p2597
+S'Other relevant information'
+p2598
+sS'592590388847751168'
+p2599
+S'Not Relevant'
+p2600
+sS'592647547274993664'
+p2601
+S'Not Relevant'
+p2602
+sS'592945243957366784'
+p2603
+S'Response Efforts'
+p2604
+sS'592638148418625536'
+p2605
+S'Not Relevant'
+p2606
+sS'592644754908786688'
+p2607
+S'Response Efforts'
+p2608
+sS'592669274075959297'
+p2609
+S'Not Relevant'
+p2610
+sS'593251220761903104'
+p2611
+S'Not Relevant'
+p2612
+sS'592766832118988803'
+p2613
+S'Not Relevant'
+p2614
+sS'592679999242686464'
+p2615
+S'Not Relevant'
+p2616
+sS'592805037782499329'
+p2617
+S'Not Relevant'
+p2618
+sS'592636990438400000'
+p2619
+S'Not Relevant'
+p2620
+sS'591961072296333312'
+p2621
+S'Sympathy and emotional support'
+p2622
+sS'592200961076154369'
+p2623
+S'Other Relevant Information'
+p2624
+sS'593192076352716800'
+p2625
+S'Not Relevant'
+p2626
+sS'592796321129623552'
+p2627
+S'Not Relevant'
+p2628
+sS'592589295984058368'
+p2629
+S'Response Efforts'
+p2630
+sS'592792673817391104'
+p2631
+S'Response Efforts'
+p2632
+sS'592594842179403777'
+p2633
+S'Response Efforts'
+p2634
+sS'592700422420303873'
+p2635
+S'Other Relevant Information'
+p2636
+sS'593014038612856832'
+p2637
+S'Not Relevant'
+p2638
+sS'592751432740249602'
+p2639
+S'Infrastructure Damage'
+p2640
+sS'592692226750345216'
+p2641
+S'Other Relevant Information'
+p2642
+sS'592802726301556736'
+p2643
+S'Not Relevant'
+p2644
+sS'592832289408741377'
+p2645
+S'Not Relevant'
+p2646
+sS'592861057431052288'
+p2647
+S'Not Relevant'
+p2648
+sS'592072078490112001'
+p2649
+S'Not related or irrelevant'
+p2650
+sS'592693806203539456'
+p2651
+S'Not Relevant'
+p2652
+sS'592164574968741888'
+p2653
+S'Not Relevant'
+p2654
+sS'592791040542830592'
+p2655
+S'Not Relevant'
+p2656
+sS'592201135282266112'
+p2657
+S'Not Relevant'
+p2658
+sS'592980495543181312'
+p2659
+S'Not Relevant'
+p2660
+sS'592200565297258497'
+p2661
+S'Other Relevant Information'
+p2662
+sS'593203320262627329'
+p2663
+S'Not Relevant'
+p2664
+sS'592593513650331648'
+p2665
+S'Other Relevant Information'
+p2666
+sS'592885544775999490'
+p2667
+S'Not Relevant'
+p2668
+sS'592759380594024448'
+p2669
+S'Not Relevant'
+p2670
+sS'592637686906683392'
+p2671
+S'Not Relevant'
+p2672
+sS'592085691401641984'
+p2673
+S'Sympathy and emotional support'
+p2674
+sS'592979112223969280'
+p2675
+S'Not Relevant'
+p2676
+sS'592821301800267776'
+p2677
+S'Other Relevant Information'
+p2678
+sS'592749172949921792'
+p2679
+S'Not Relevant'
+p2680
+sS'592648227322736640'
+p2681
+S'Not Relevant'
+p2682
+sS'592920890007949312'
+p2683
+S'Not Relevant'
+p2684
+sS'592692425887449089'
+p2685
+S'Response Efforts'
+p2686
+sS'592788396843601920'
+p2687
+S'Other Relevant Information'
+p2688
+sS'591912430130765825'
+p2689
+S'"Missing'
+p2690
+sS'592077053098360832'
+p2691
+S'Not related or irrelevant'
+p2692
+sS'592605714687758336'
+p2693
+S'Not Relevant'
+p2694
+sS'593010406194577408'
+p2695
+S'Not Relevant'
+p2696
+sS'592976406981779457'
+p2697
+S'Not Relevant'
+p2698
+sS'592198153991913472'
+p2699
+S'Not Relevant'
+p2700
+sS'592157159816736769'
+p2701
+S'Not Relevant'
+p2702
+sS'593234509497118720'
+p2703
+S'Not Relevant'
+p2704
+sS'592596225515454465'
+p2705
+S'Response Efforts'
+p2706
+sS'592765023757410305'
+p2707
+S'Not Relevant'
+p2708
+sS'592634556882247680'
+p2709
+S'Not Relevant'
+p2710
+sS'592592060479315969'
+p2711
+S'Other Relevant Information'
+p2712
+sS'592931892304814080'
+p2713
+S'Not Relevant'
+p2714
+sS'592820747489411072'
+p2715
+S'Response Efforts'
+p2716
+sS'591919636175671296'
+p2717
+S'Not related or irrelevant'
+p2718
+sS'593208273416818689'
+p2719
+S'Response Efforts'
+p2720
+sS'593227159570882560'
+p2721
+S'Other Relevant Information'
+p2722
+sS'592807935417389060'
+p2723
+S'Not Relevant'
+p2724
+sS'592169774630633472'
+p2725
+S'Not Relevant'
+p2726
+sS'592769460022472704'
+p2727
+S'Not Relevant'
+p2728
+sS'592591193420091392'
+p2729
+S'Not Relevant'
+p2730
+sS'592818525640794113'
+p2731
+S'Not Relevant'
+p2732
+sS'592981063804137472'
+p2733
+S'Not Relevant'
+p2734
+sS'592159940812255232'
+p2735
+S'Response Efforts'
+p2736
+sS'592894687213711361'
+p2737
+S'Not Relevant'
+p2738
+sS'592592231749570560'
+p2739
+S'Not Relevant'
+p2740
+sS'592592775155060736'
+p2741
+S'Not Relevant'
+p2742
+sS'591920261357645824'
+p2743
+S'Not related or irrelevant'
+p2744
+sS'592072508377059329'
+p2745
+S'Volunteer or professional services'
+p2746
+sS'591992985723772928'
+p2747
+S'Not Relevant'
+p2748
+sS'592592145531465728'
+p2749
+S'Response Efforts'
+p2750
+sS'592739243866378241'
+p2751
+S'Not Relevant'
+p2752
+sS'592828318921138177'
+p2753
+S'Other Relevant Information'
+p2754
+sS'592374213194817536'
+p2755
+S'Not Relevant'
+p2756
+sS'592720914996932609'
+p2757
+S'Not Relevant'
+p2758
+sS'593029192213639168'
+p2759
+S'Not Relevant'
+p2760
+sS'592201468536459264'
+p2761
+S'Not Relevant'
+p2762
+sS'593243242834964481'
+p2763
+S'Urgent Needs'
+p2764
+sS'592833027463651330'
+p2765
+S'Not Relevant'
+p2766
+sS'592608550020521985'
+p2767
+S'Not Relevant'
+p2768
+sS'592200472850661377'
+p2769
+S'Response Efforts'
+p2770
+sS'592068286076030976'
+p2771
+S'Sympathy and emotional support'
+p2772
+sS'592779420924010497'
+p2773
+S'Not Relevant'
+p2774
+sS'592167933767503872'
+p2775
+S'Not Relevant'
+p2776
+sS'592720284093960192'
+p2777
+S'Not Relevant'
+p2778
+sS'592925381339910144'
+p2779
+S'Not Relevant'
+p2780
+sS'592655712360243201'
+p2781
+S'Response Efforts'
+p2782
+sS'593185371887955968'
+p2783
+S'Not Relevant'
+p2784
+sS'592667308646146048'
+p2785
+S'Not Relevant'
+p2786
+sS'592928629778067456'
+p2787
+S'Other Relevant Information'
+p2788
+sS'591910365455192064'
+p2789
+S'Personal updates'
+p2790
+sS'591961518251450368'
+p2791
+S'Sympathy and emotional support'
+p2792
+sS'592916139774124032'
+p2793
+S'Other Relevant Information'
+p2794
+sS'592936885443506176'
+p2795
+S'Not Relevant'
+p2796
+sS'592593830009966592'
+p2797
+S'Not Relevant'
+p2798
+sS'592188226783322113'
+p2799
+S'Not Relevant'
+p2800
+sS'592882836090318849'
+p2801
+S'Not Relevant'
+p2802
+sS'592892468066177024'
+p2803
+S'Response Efforts'
+p2804
+sS'592732446635982849'
+p2805
+S'Not Relevant'
+p2806
+sS'592778825546735616'
+p2807
+S'Not Relevant'
+p2808
+sS'592173398408634368'
+p2809
+S'Not Relevant'
+p2810
+sS'593005713842171904'
+p2811
+S'Not Relevant'
+p2812
+sS'592900115603562498'
+p2813
+S'Other Relevant Information'
+p2814
+sS'592701639598972928'
+p2815
+S'Not Relevant'
+p2816
+sS'592897060862582784'
+p2817
+S'Not Relevant'
+p2818
+sS'592069606149267456'
+p2819
+S'Not related or irrelevant'
+p2820
+sS'592167820315725824'
+p2821
+S'Not Relevant'
+p2822
+sS'592754202562166786'
+p2823
+S'Not Relevant'
+p2824
+sS'591915397986779136'
+p2825
+S'Other relevant information'
+p2826
+sS'593185262303186944'
+p2827
+S'Response Efforts'
+p2828
+sS'592070124871385088'
+p2829
+S'Not related or irrelevant'
+p2830
+sS'593027033745100801'
+p2831
+S'Not Relevant'
+p2832
+sS'592830328806473729'
+p2833
+S'Not Relevant'
+p2834
+sS'592074148173762561'
+p2835
+S'Sympathy and emotional support'
+p2836
+sS'592162065017503744'
+p2837
+S'Not Relevant'
+p2838
+sS'591962064157077504'
+p2839
+S'Sympathy and emotional support'
+p2840
+sS'592787578081964035'
+p2841
+S'Not Relevant'
+p2842
+sS'592160599779348481'
+p2843
+S'Not Relevant'
+p2844
+sS'592964594454437889'
+p2845
+S'Not Relevant'
+p2846
+sS'592663558921531392'
+p2847
+S'Other Relevant Information'
+p2848
+sS'592790536316178432'
+p2849
+S'Not Relevant'
+p2850
+sS'592594301093183489'
+p2851
+S'Not Relevant'
+p2852
+sS'592782541024792578'
+p2853
+S'Not Relevant'
+p2854
+sS'592599114178760705'
+p2855
+S'Not Relevant'
+p2856
+sS'592200751239180288'
+p2857
+S'Not Relevant'
+p2858
+sS'592741916632076288'
+p2859
+S'Not Relevant'
+p2860
+sS'593215982941769728'
+p2861
+S'Not Relevant'
+p2862
+sS'592904249362747392'
+p2863
+S'Not Relevant'
+p2864
+sS'592591288672747520'
+p2865
+S'Not Relevant'
+p2866
+sS'591997563298918400'
+p2867
+S'Other Relevant Information'
+p2868
+sS'592591330888515584'
+p2869
+S'Not Relevant'
+p2870
+sS'593239847470387200'
+p2871
+S'Response Efforts'
+p2872
+sS'592589533020991489'
+p2873
+S'Not Relevant'
+p2874
+sS'592731127846182912'
+p2875
+S'Not Relevant'
+p2876
+sS'592179656205303808'
+p2877
+S'Urgent Needs'
+p2878
+sS'592684418864644098'
+p2879
+S'Response Efforts'
+p2880
+sS'591985624187568128'
+p2881
+S'Response Efforts'
+p2882
+sS'591961333488295936'
+p2883
+S'Sympathy and emotional support'
+p2884
+sS'592160005060571136'
+p2885
+S'Not Relevant'
+p2886
+sS'593013902713171968'
+p2887
+S'Not Relevant'
+p2888
+sS'592816821469851649'
+p2889
+S'Not Relevant'
+p2890
+sS'592997679958859778'
+p2891
+S'Not Relevant'
+p2892
+sS'592670301646888960'
+p2893
+S'Not Relevant'
+p2894
+sS'592967480747798528'
+p2895
+S'Response Efforts'
+p2896
+sS'592679921266368512'
+p2897
+S'Not Relevant'
+p2898
+sS'592159768678006784'
+p2899
+S'Urgent Needs'
+p2900
+sS'592830939979460608'
+p2901
+S'Not Relevant'
+p2902
+sS'592623896664342528'
+p2903
+S'Other Relevant Information'
+p2904
+sS'592692966365503488'
+p2905
+S'Not Relevant'
+p2906
+sS'591962206008385536'
+p2907
+S'Sympathy and emotional support'
+p2908
+sS'592590222736683008'
+p2909
+S'Other Relevant Information'
+p2910
+sS'592652945071722498'
+p2911
+S'Not Relevant'
+p2912
+sS'592593400278351872'
+p2913
+S'Other Relevant Information'
+p2914
+sS'592593204551098368'
+p2915
+S'Not Relevant'
+p2916
+sS'592959715920859138'
+p2917
+S'Not Relevant'
+p2918
+sS'592773985953284096'
+p2919
+S'Not Relevant'
+p2920
+sS'592592102665560064'
+p2921
+S'Other Relevant Information'
+p2922
+sS'592084565126225922'
+p2923
+S'Volunteer or professional services'
+p2924
+sS'592875670583320576'
+p2925
+S'Not Relevant'
+p2926
+sS'592793153826086913'
+p2927
+S'Not Relevant'
+p2928
+sS'592673831719960576'
+p2929
+S'Infrastructure Damage'
+p2930
+sS'593187621012164608'
+p2931
+S'Not Relevant'
+p2932
+sS'592781403022041089'
+p2933
+S'Not Relevant'
+p2934
+sS'592898437244411905'
+p2935
+S'Not Relevant'
+p2936
+sS'592989429687517184'
+p2937
+S'Not Relevant'
+p2938
+sS'592161265570680832'
+p2939
+S'Response Efforts'
+p2940
+sS'593009191637352448'
+p2941
+S'Not Relevant'
+p2942
+sS'592088897984696320'
+p2943
+S'Sympathy and emotional support'
+p2944
+sS'592589984110018560'
+p2945
+S'Not Relevant'
+p2946
+sS'592912566105419776'
+p2947
+S'Not Relevant'
+p2948
+sS'592750113057087489'
+p2949
+S'Response Efforts'
+p2950
+sS'592175467106414592'
+p2951
+S'Response Efforts'
+p2952
+sS'593225684778115074'
+p2953
+S'Other Relevant Information'
+p2954
+sS'592970006259892224'
+p2955
+S'Not Relevant'
+p2956
+sS'592649363664478208'
+p2957
+S'Not Relevant'
+p2958
+sS'591920189316403201'
+p2959
+S'Other relevant information'
+p2960
+sS'592748372647407617'
+p2961
+S'Response Efforts'
+p2962
+sS'592891946873520129'
+p2963
+S'Not Relevant'
+p2964
+sS'593161196255256576'
+p2965
+S'Response Efforts'
+p2966
+sS'592753309527777280'
+p2967
+S'Not Relevant'
+p2968
+sS'592872569470091265'
+p2969
+S'Not Relevant'
+p2970
+sS'592646548288315393'
+p2971
+S'Response Efforts'
+p2972
+sS'592643674946809856'
+p2973
+S'Response Efforts'
+p2974
+sS'592590374436270081'
+p2975
+S'Not Relevant'
+p2976
+sS'591909823635001346'
+p2977
+S'Other relevant information'
+p2978
+sS'591917429510410240'
+p2979
+S'Sympathy and emotional support'
+p2980
+sS'592841620510355456'
+p2981
+S'Other Relevant Information'
+p2982
+sS'593193995548917760'
+p2983
+S'Not Relevant'
+p2984
+sS'592743736569888769'
+p2985
+S'Not Relevant'
+p2986
+sS'593183315324047360'
+p2987
+S'Not Relevant'
+p2988
+sS'592798674054447106'
+p2989
+S'Urgent Needs'
+p2990
+sS'593021356633137152'
+p2991
+S'Response Efforts'
+p2992
+sS'592777295477219330'
+p2993
+S'Other Relevant Information'
+p2994
+sS'592646990028214273'
+p2995
+S'Not Relevant'
+p2996
+sS'592070298893094915'
+p2997
+S'Not related or irrelevant'
+p2998
+sS'591962038181691392'
+p2999
+S'Sympathy and emotional support'
+p3000
+sS'592931745323995136'
+p3001
+S'Not Relevant'
+p3002
+sS'592621616338722816'
+p3003
+S'Not Relevant'
+p3004
+sS'591916275078533120'
+p3005
+S'Injured or dead people'
+p3006
+sS'592591184708685825'
+p3007
+S'Not Relevant'
+p3008
+sS'592606396434124800'
+p3009
+S'Not Relevant'
+p3010
+sS'592901123343777793'
+p3011
+S'Not Relevant'
+p3012
+sS'592633226730020864'
+p3013
+S'Infrastructure Damage'
+p3014
+sS'592948877633855488'
+p3015
+S'Not Relevant'
+p3016
+sS'592911023574777856'
+p3017
+S'Not Relevant'
+p3018
+sS'592664832383549440'
+p3019
+S'Not Relevant'
+p3020
+sS'592850777783279617'
+p3021
+S'Not Relevant'
+p3022
+sS'592637677398163456'
+p3023
+S'Not Relevant'
+p3024
+sS'592154303978078208'
+p3025
+S'Not Relevant'
+p3026
+sS'592740945155743746'
+p3027
+S'Not Relevant'
+p3028
+sS'592770091491659776'
+p3029
+S'Not Relevant'
+p3030
+sS'592591180447100928'
+p3031
+S'Not Relevant'
+p3032
+sS'592735084840615937'
+p3033
+S'Not Relevant'
+p3034
+sS'593007067851554816'
+p3035
+S'Not Relevant'
+p3036
+sS'592935825375014912'
+p3037
+S'Not Relevant'
+p3038
+sS'592591948793282560'
+p3039
+S'Response Efforts'
+p3040
+sS'592680005337010176'
+p3041
+S'Not Relevant'
+p3042
+sS'592350694134444033'
+p3043
+S'Not Relevant'
+p3044
+sS'592069177462120448'
+p3045
+S'Sympathy and emotional support'
+p3046
+sS'592873781179379712'
+p3047
+S'Not Relevant'
+p3048
+sS'592658586473525248'
+p3049
+S'Not Relevant'
+p3050
+sS'592624987640475648'
+p3051
+S'Not Relevant'
+p3052
+sS'592890139623448576'
+p3053
+S'Not Relevant'
+p3054
+sS'592919175749767168'
+p3055
+S'Not Relevant'
+p3056
+sS'592964793914544128'
+p3057
+S'Not Relevant'
+p3058
+sS'592069560213221376'
+p3059
+S'Sympathy and emotional support'
+p3060
+sS'592167336490078208'
+p3061
+S'Not Relevant'
+p3062
+sS'592087669867347969'
+p3063
+S'Other relevant information'
+p3064
+sS'592071707642454017'
+p3065
+S'Sympathy and emotional support'
+p3066
+sS'592647480593887233'
+p3067
+S'Not Relevant'
+p3068
+sS'592842211420680192'
+p3069
+S'Not Relevant'
+p3070
+sS'592696031437008896'
+p3071
+S'Not Relevant'
+p3072
+sS'592810411587706880'
+p3073
+S'Response Efforts'
+p3074
+sS'593160767635103744'
+p3075
+S'Not Relevant'
+p3076
+sS'591919713640325121'
+p3077
+S'Not related or irrelevant'
+p3078
+sS'593150694338785280'
+p3079
+S'Not Relevant'
+p3080
+sS'592169593591967744'
+p3081
+S'Not Relevant'
+p3082
+sS'592177766377738240'
+p3083
+S'Not Relevant'
+p3084
+sS'592592268525080576'
+p3085
+S'Not Relevant'
+p3086
+sS'592775222174085120'
+p3087
+S'Not Relevant'
+p3088
+sS'592793499826835456'
+p3089
+S'Not Relevant'
+p3090
+sS'592876856434663424'
+p3091
+S'Not Relevant'
+p3092
+sS'592656442034954241'
+p3093
+S'Other Relevant Information'
+p3094
+sS'592591600720576512'
+p3095
+S'Response Efforts'
+p3096
+sS'593262712504721408'
+p3097
+S'Not Relevant'
+p3098
+sS'592603175871361024'
+p3099
+S'Not Relevant'
+p3100
+sS'592849209373634560'
+p3101
+S'Response Efforts'
+p3102
+sS'592897614863011841'
+p3103
+S'Not Relevant'
+p3104
+sS'592972547135774720'
+p3105
+S'Not Relevant'
+p3106
+sS'592838125858267138'
+p3107
+S'Not Relevant'
+p3108
+sS'593044922522992645'
+p3109
+S'Not Relevant'
+p3110
+sS'591911617916444672'
+p3111
+S'Other relevant information'
+p3112
+sS'593046286414274560'
+p3113
+S'Not Relevant'
+p3114
+sS'592637108126375936'
+p3115
+S'Not Relevant'
+p3116
+sS'592955161842208769'
+p3117
+S'Not Relevant'
+p3118
+sS'592932729462730752'
+p3119
+S'Not Relevant'
+p3120
+sS'592902839577489408'
+p3121
+S'Other Relevant Information'
+p3122
+sS'592998965869563904'
+p3123
+S'Not Relevant'
+p3124
+sS'592160563033059331'
+p3125
+S'Not Relevant'
+p3126
+sS'592658557939646464'
+p3127
+S'Not Relevant'
+p3128
+sS'592941493356134401'
+p3129
+S'Not Relevant'
+p3130
+sS'592700880249577472'
+p3131
+S'Not Relevant'
+p3132
+sS'592084839647596544'
+p3133
+S'Not related or irrelevant'
+p3134
+sS'592832757006540802'
+p3135
+S'Response Efforts'
+p3136
+sS'592839942851698688'
+p3137
+S'Response Efforts'
+p3138
+sS'592681527877697536'
+p3139
+S'Response Efforts'
+p3140
+sS'592957361125531648'
+p3141
+S'Not Relevant'
+p3142
+sS'591913525284577280'
+p3143
+S'Other relevant information'
+p3144
+sS'592787577033388032'
+p3145
+S'Not Relevant'
+p3146
+sS'592810029453017089'
+p3147
+S'Response Efforts'
+p3148
+sS'592702067384397825'
+p3149
+S'Not Relevant'
+p3150
+sS'592796528617627650'
+p3151
+S'Not Relevant'
+p3152
+sS'592591257089777664'
+p3153
+S'Response Efforts'
+p3154
+sS'592932976096374784'
+p3155
+S'Not Relevant'
+p3156
+sS'592834159409766402'
+p3157
+S'Not Relevant'
+p3158
+sS'592746110269202433'
+p3159
+S'Not Relevant'
+p3160
+sS'592642929463676929'
+p3161
+S'Response Efforts'
+p3162
+sS'592784077738086401'
+p3163
+S'Not Relevant'
+p3164
+sS'591919227159752704'
+p3165
+S'Sympathy and emotional support'
+p3166
+sS'592835219763417089'
+p3167
+S'Response Efforts'
+p3168
+sS'592320608278544384'
+p3169
+S'Not Relevant'
+p3170
+sS'592083036944097280'
+p3171
+S'Sympathy and emotional support'
+p3172
+sS'592670614655078400'
+p3173
+S'Other Relevant Information'
+p3174
+sS'591912907819978753'
+p3175
+S'Injured or dead people'
+p3176
+sS'592197180242272257'
+p3177
+S'Other Relevant Information'
+p3178
+sS'592631987430694912'
+p3179
+S'Not Relevant'
+p3180
+sS'592591887602581504'
+p3181
+S'Response Efforts'
+p3182
+sS'592589690009616384'
+p3183
+S'Not Relevant'
+p3184
+sS'592592867396190208'
+p3185
+S'Not Relevant'
+p3186
+sS'592812880594137088'
+p3187
+S'Response Efforts'
+p3188
+sS'592731424651911168'
+p3189
+S'Infrastructure Damage'
+p3190
+sS'592828060287823872'
+p3191
+S'Other Relevant Information'
+p3192
+sS'593236251290927105'
+p3193
+S'Not Relevant'
+p3194
+sS'592763725272248320'
+p3195
+S'Not Relevant'
+p3196
+sS'592891554064420864'
+p3197
+S'Not Relevant'
+p3198
+sS'592804419001016320'
+p3199
+S'Not Relevant'
+p3200
+sS'591963378945523712'
+p3201
+S'Sympathy and emotional support'
+p3202
+sS'592086025293287424'
+p3203
+S'Not related or irrelevant'
+p3204
+sS'592774915310354433'
+p3205
+S'Not Relevant'
+p3206
+sS'592075274679902208'
+p3207
+S'Sympathy and emotional support'
+p3208
+sS'592075956732317696'
+p3209
+S'Money'
+p3210
+sS'592591542168252416'
+p3211
+S'Response Efforts'
+p3212
+sS'592589669214261248'
+p3213
+S'Not Relevant'
+p3214
+sS'592757722736664576'
+p3215
+S'Not Relevant'
+p3216
+sS'591986645567668224'
+p3217
+S'Response Efforts'
+p3218
+sS'592076222458306560'
+p3219
+S'"Missing'
+p3220
+sS'592790795750637570'
+p3221
+S'Not Relevant'
+p3222
+sS'593220450890567680'
+p3223
+S'Other Relevant Information'
+p3224
+sS'592655542008569856'
+p3225
+S'Not Relevant'
+p3226
+sS'591918208501690368'
+p3227
+S'Personal updates'
+p3228
+sS'592749611040792576'
+p3229
+S'Not Relevant'
+p3230
+sS'592157299751399424'
+p3231
+S'Not Relevant'
+p3232
+sS'591914452762501120'
+p3233
+S'Other relevant information'
+p3234
+sS'592156350412525568'
+p3235
+S'Not Relevant'
+p3236
+sS'592077293662633985'
+p3237
+S'Sympathy and emotional support'
+p3238
+sS'593155564068274176'
+p3239
+S'Not Relevant'
+p3240
+sS'591912703955898368'
+p3241
+S'Sympathy and emotional support'
+p3242
+sS'592160608725966848'
+p3243
+S'Not Relevant'
+p3244
+sS'592589377768976384'
+p3245
+S'Not Relevant'
+p3246
+sS'592635439770644480'
+p3247
+S'Response Efforts'
+p3248
+sS'593148490848546817'
+p3249
+S'Not Relevant'
+p3250
+sS'592708092430852096'
+p3251
+S'Not Relevant'
+p3252
+sS'592634385448468481'
+p3253
+S'Response Efforts'
+p3254
+sS'592985392523149312'
+p3255
+S'Not Relevant'
+p3256
+sS'593027009019846656'
+p3257
+S'Not Relevant'
+p3258
+sS'592073757058990080'
+p3259
+S'Sympathy and emotional support'
+p3260
+sS'592762532483465218'
+p3261
+S'Not Relevant'
+p3262
+sS'592994044202119168'
+p3263
+S'Other Relevant Information'
+p3264
+sS'592070665227767809'
+p3265
+S'Other relevant information'
+p3266
+sS'593189712484896768'
+p3267
+S'Not Relevant'
+p3268
+sS'592176869731999744'
+p3269
+S'Not Relevant'
+p3270
+sS'592594846134702080'
+p3271
+S'Not Relevant'
+p3272
+sS'592591688297644032'
+p3273
+S'Other Relevant Information'
+p3274
+sS'593149530499067904'
+p3275
+S'Not Relevant'
+p3276
+sS'592593710635876354'
+p3277
+S'Not Relevant'
+p3278
+sS'592588980820017152'
+p3279
+S'Not Relevant'
+p3280
+sS'592883309371359233'
+p3281
+S'Other Relevant Information'
+p3282
+sS'592871856652312576'
+p3283
+S'Not Relevant'
+p3284
+sS'592912357833093120'
+p3285
+S'Not Relevant'
+p3286
+sS'592160555093241857'
+p3287
+S'Not Relevant'
+p3288
+sS'592613997473435648'
+p3289
+S'Other Relevant Information'
+p3290
+sS'591918971827388416'
+p3291
+S'Other relevant information'
+p3292
+sS'592589582442434560'
+p3293
+S'Not Relevant'
+p3294
+sS'592594492756221952'
+p3295
+S'Not Relevant'
+p3296
+sS'592752211718967296'
+p3297
+S'Not Relevant'
+p3298
+sS'592595292307861504'
+p3299
+S'Not Relevant'
+p3300
+sS'591919324182532097'
+p3301
+S'Sympathy and emotional support'
+p3302
+sS'592886905328508928'
+p3303
+S'Not Relevant'
+p3304
+sS'592588943402471424'
+p3305
+S'Not Relevant'
+p3306
+sS'592147833421058048'
+p3307
+S'Not Relevant'
+p3308
+sS'592590314621112320'
+p3309
+S'Not Relevant'
+p3310
+sS'592645575176138752'
+p3311
+S'Not Relevant'
+p3312
+sS'592738093955940353'
+p3313
+S'Response Efforts'
+p3314
+sS'592937166654676992'
+p3315
+S'Not Relevant'
+p3316
+sS'592593855796486145'
+p3317
+S'Response Efforts'
+p3318
+sS'592200789394722816'
+p3319
+S'Not Relevant'
+p3320
+sS'592652146132267008'
+p3321
+S'Not Relevant'
+p3322
+sS'592703445406240768'
+p3323
+S'Infrastructure Damage'
+p3324
+sS'592842605077110784'
+p3325
+S'Response Efforts'
+p3326
+sS'592744970160832513'
+p3327
+S'Not Relevant'
+p3328
+sS'592634483955732480'
+p3329
+S'Not Relevant'
+p3330
+sS'592999229242507264'
+p3331
+S'Infrastructure Damage'
+p3332
+sS'592766048564342785'
+p3333
+S'Not Relevant'
+p3334
+sS'592708576646406145'
+p3335
+S'Response Efforts'
+p3336
+sS'592069245728641025'
+p3337
+S'Sympathy and emotional support'
+p3338
+sS'592886747626926083'
+p3339
+S'Not Relevant'
+p3340
+sS'592631394410614784'
+p3341
+S'Response Efforts'
+p3342
+sS'592073269026672642'
+p3343
+S'Sympathy and emotional support'
+p3344
+sS'592633742742724608'
+p3345
+S'Urgent Needs'
+p3346
+sS'592687175579336707'
+p3347
+S'Not Relevant'
+p3348
+sS'592899441004257280'
+p3349
+S'Not Relevant'
+p3350
+sS'593010280042405888'
+p3351
+S'Not Relevant'
+p3352
+sS'592599071333822464'
+p3353
+S'Response Efforts'
+p3354
+sS'592591468583264257'
+p3355
+S'Response Efforts'
+p3356
+sS'592753184260673536'
+p3357
+S'Not Relevant'
+p3358
+sS'592951697619689472'
+p3359
+S'Not Relevant'
+p3360
+sS'591963982644187136'
+p3361
+S'Sympathy and emotional support'
+p3362
+sS'593228526674927616'
+p3363
+S'Not Relevant'
+p3364
+sS'592917943509524480'
+p3365
+S'Not Relevant'
+p3366
+sS'592619037202472960'
+p3367
+S'Not Relevant'
+p3368
+sS'592702630377496577'
+p3369
+S'Infrastructure Damage'
+p3370
+sS'592169514684448768'
+p3371
+S'Not Relevant'
+p3372
+sS'592183275029934080'
+p3373
+S'Not Relevant'
+p3374
+sS'592154628860481537'
+p3375
+S'Not Relevant'
+p3376
+sS'592683473778905088'
+p3377
+S'Not Relevant'
+p3378
+sS'592979656778850304'
+p3379
+S'Not Relevant'
+p3380
+sS'592819871903252480'
+p3381
+S'Not Relevant'
+p3382
+sS'592995388036112384'
+p3383
+S'Not Relevant'
+p3384
+sS'592910396958322688'
+p3385
+S'Not Relevant'
+p3386
+sS'591906772752867328'
+p3387
+S'Other relevant information'
+p3388
+sS'592200893786943489'
+p3389
+S'Other Relevant Information'
+p3390
+sS'593045126915690496'
+p3391
+S'Not Relevant'
+p3392
+sS'592871873182064641'
+p3393
+S'Not Relevant'
+p3394
+sS'592656182738837504'
+p3395
+S'Not Relevant'
+p3396
+sS'593211281563254784'
+p3397
+S'Not Relevant'
+p3398
+sS'592609965115711488'
+p3399
+S'Not Relevant'
+p3400
+sS'592923943612379136'
+p3401
+S'Infrastructure Damage'
+p3402
+sS'592921628213964800'
+p3403
+S'Not Relevant'
+p3404
+sS'592604253207822336'
+p3405
+S'Other Relevant Information'
+p3406
+sS'592732553720782848'
+p3407
+S'Not Relevant'
+p3408
+sS'592700561142714369'
+p3409
+S'Not Relevant'
+p3410
+sS'591921426870964224'
+p3411
+S'Injured or dead people'
+p3412
+sS'592966232002932737'
+p3413
+S'Not Relevant'
+p3414
+sS'591910068385353728'
+p3415
+S'Other relevant information'
+p3416
+sS'593218040675827714'
+p3417
+S'Not Relevant'
+p3418
+sS'592769976513253379'
+p3419
+S'Not Relevant'
+p3420
+sS'592088680476508160'
+p3421
+S'Sympathy and emotional support'
+p3422
+sS'592962300794933248'
+p3423
+S'Not Relevant'
+p3424
+sS'591918937157304322'
+p3425
+S'Other relevant information'
+p3426
+sS'592590729207160832'
+p3427
+S'Not Relevant'
+p3428
+sS'592071924416524288'
+p3429
+S'Sympathy and emotional support'
+p3430
+sS'592849761885093889'
+p3431
+S'Response Efforts'
+p3432
+sS'591910854758502401'
+p3433
+S'Not related or irrelevant'
+p3434
+sS'591921539412414464'
+p3435
+S'Injured or dead people'
+p3436
+sS'592605671750639616'
+p3437
+S'Not Relevant'
+p3438
+sS'592830966873378816'
+p3439
+S'Not Relevant'
+p3440
+sS'592591122754469890'
+p3441
+S'Not Relevant'
+p3442
+sS'592803817785266176'
+p3443
+S'Response Efforts'
+p3444
+sS'592694615234453504'
+p3445
+S'Not Relevant'
+p3446
+sS'592651693034229760'
+p3447
+S'Other Relevant Information'
+p3448
+sS'592164238925279232'
+p3449
+S'Not Relevant'
+p3450
+sS'593017064954073088'
+p3451
+S'Not Relevant'
+p3452
+sS'592665018480644096'
+p3453
+S'Not Relevant'
+p3454
+sS'592654896031227906'
+p3455
+S'Not Relevant'
+p3456
+sS'592915213495758848'
+p3457
+S'Not Relevant'
+p3458
+sS'592796590450089984'
+p3459
+S'Not Relevant'
+p3460
+sS'592692010529722368'
+p3461
+S'Not Relevant'
+p3462
+sS'591915268873396224'
+p3463
+S'Not related or irrelevant'
+p3464
+sS'592990163724152832'
+p3465
+S'Not Relevant'
+p3466
+sS'592672403689500675'
+p3467
+S'Not Relevant'
+p3468
+sS'592158988319395841'
+p3469
+S'Not Relevant'
+p3470
+sS'592818844537856000'
+p3471
+S'Not Relevant'
+p3472
+sS'592848993119526913'
+p3473
+S'Response Efforts'
+p3474
+sS'593029012760436737'
+p3475
+S'Not Relevant'
+p3476
+sS'592907521997852672'
+p3477
+S'Not Relevant'
+p3478
+sS'593011280283312129'
+p3479
+S'Response Efforts'
+p3480
+sS'592756998795591681'
+p3481
+S'Not Relevant'
+p3482
+sS'592783645888389120'
+p3483
+S'Not Relevant'
+p3484
+sS'592833061911449600'
+p3485
+S'Not Relevant'
+p3486
+sS'592073569154109440'
+p3487
+S'Sympathy and emotional support'
+p3488
+sS'593038249368551424'
+p3489
+S'Not Relevant'
+p3490
+sS'592689249750798336'
+p3491
+S'Not Relevant'
+p3492
+sS'592693358172188674'
+p3493
+S'Not Relevant'
+p3494
+sS'592593998495244288'
+p3495
+S'Not Relevant'
+p3496
+sS'592200940041605120'
+p3497
+S'Not Relevant'
+p3498
+sS'592999271877640194'
+p3499
+S'Not Relevant'
+p3500
+sS'592629858670399489'
+p3501
+S'Other Relevant Information'
+p3502
+sS'592707397598187522'
+p3503
+S'Not Relevant'
+p3504
+sS'592813541029191680'
+p3505
+S'Response Efforts'
+p3506
+sS'593238834181079040'
+p3507
+S'Not Relevant'
+p3508
+sS'593251611801182208'
+p3509
+S'Not Relevant'
+p3510
+sS'591963091992186880'
+p3511
+S'Other relevant information'
+p3512
+sS'591915192503685121'
+p3513
+S'Not related or irrelevant'
+p3514
+sS'592178505141522432'
+p3515
+S'Response Efforts'
+p3516
+sS'592630811863703552'
+p3517
+S'Not Relevant'
+p3518
+sS'592736467539099648'
+p3519
+S'Not Relevant'
+p3520
+sS'591912390700052480'
+p3521
+S'Other relevant information'
+p3522
+sS'592073335728668672'
+p3523
+S'Sympathy and emotional support'
+p3524
+sS'592720055332413441'
+p3525
+S'Not Relevant'
+p3526
+sS'593265270342291457'
+p3527
+S'Not Relevant'
+p3528
+sS'592664844530262016'
+p3529
+S'Not Relevant'
+p3530
+sS'593033924596596736'
+p3531
+S'Not Relevant'
+p3532
+sS'592917282088681472'
+p3533
+S'Not Relevant'
+p3534
+sS'592683194178211841'
+p3535
+S'Not Relevant'
+p3536
+sS'592782633161138178'
+p3537
+S'Not Relevant'
+p3538
+sS'591910259549044736'
+p3539
+S'Injured or dead people'
+p3540
+sS'592913322737012736'
+p3541
+S'Not Relevant'
+p3542
+sS'592647502135984128'
+p3543
+S'Not Relevant'
+p3544
+sS'592738655686504450'
+p3545
+S'Not Relevant'
+p3546
+sS'592736757545836546'
+p3547
+S'Not Relevant'
+p3548
+sS'592589369275326465'
+p3549
+S'Not Relevant'
+p3550
+sS'592592272304123904'
+p3551
+S'Infrastructure Damage'
+p3552
+sS'593220281180639232'
+p3553
+S'Not Relevant'
+p3554
+sS'591915475640057858'
+p3555
+S'Other relevant information'
+p3556
+sS'592605142333190144'
+p3557
+S'Not Relevant'
+p3558
+sS'592592696218259456'
+p3559
+S'Response Efforts'
+p3560
+sS'592745234620088322'
+p3561
+S'Not Relevant'
+p3562
+sS'592737056536829952'
+p3563
+S'Not Relevant'
+p3564
+sS'592885318950453249'
+p3565
+S'Not Relevant'
+p3566
+sS'592848537865564163'
+p3567
+S'Not Relevant'
+p3568
+sS'592590775830978560'
+p3569
+S'Response Efforts'
+p3570
+sS'591960781866049537'
+p3571
+S'Sympathy and emotional support'
+p3572
+sS'592802642906210304'
+p3573
+S'Not Relevant'
+p3574
+sS'592900540952117248'
+p3575
+S'Not Relevant'
+p3576
+sS'592800481887559681'
+p3577
+S'Not Relevant'
+p3578
+sS'592770914808397826'
+p3579
+S'Not Relevant'
+p3580
+sS'592867460673642498'
+p3581
+S'Not Relevant'
+p3582
+sS'592634906896764928'
+p3583
+S'Response Efforts'
+p3584
+sS'592073126856392705'
+p3585
+S'Sympathy and emotional support'
+p3586
+sS'592878346339516416'
+p3587
+S'Not Relevant'
+p3588
+sS'592887861596270592'
+p3589
+S'Not Relevant'
+p3590
+sS'592070517990957058'
+p3591
+S'Sympathy and emotional support'
+p3592
+sS'591914518508339200'
+p3593
+S'Infrastructure and utilities'
+p3594
+sS'592200748886163456'
+p3595
+S'Not Relevant'
+p3596
+sS'592672788789501952'
+p3597
+S'Not Relevant'
+p3598
+sS'592809531450720256'
+p3599
+S'Not Relevant'
+p3600
+sS'592198291481210880'
+p3601
+S'Not Relevant'
+p3602
+sS'592198294568247298'
+p3603
+S'Not Relevant'
+p3604
+sS'592088617922662400'
+p3605
+S'Response Efforts'
+p3606
+sS'592590264952233985'
+p3607
+S'Not Relevant'
+p3608
+sS'592703693708984320'
+p3609
+S'Response Efforts'
+p3610
+sS'592884498813079552'
+p3611
+S'Not Relevant'
+p3612
+sS'592916737336573952'
+p3613
+S'Not Relevant'
+p3614
+sS'593049928903041024'
+p3615
+S'Not Relevant'
+p3616
+sS'592812667938693120'
+p3617
+S'Urgent Needs'
+p3618
+sS'592886901402656769'
+p3619
+S'Not Relevant'
+p3620
+sS'592595048610541568'
+p3621
+S'Not Relevant'
+p3622
+sS'592148009732820994'
+p3623
+S'Not Relevant'
+p3624
+sS'592613322626703363'
+p3625
+S'Not Relevant'
+p3626
+sS'592591840202784768'
+p3627
+S'Other Relevant Information'
+p3628
+sS'592648216211886080'
+p3629
+S'Response Efforts'
+p3630
+sS'591908970731675648'
+p3631
+S'Other relevant information'
+p3632
+sS'592787201743822848'
+p3633
+S'Other Relevant Information'
+p3634
+sS'593001684072267776'
+p3635
+S'Not Relevant'
+p3636
+sS'593008262129258497'
+p3637
+S'Not Relevant'
+p3638
+sS'592938228321157120'
+p3639
+S'Not Relevant'
+p3640
+sS'592885015463272449'
+p3641
+S'Not Relevant'
+p3642
+sS'591918419206770688'
+p3643
+S'Other relevant information'
+p3644
+sS'592110234539270145'
+p3645
+S'Not Relevant'
+p3646
+sS'592197904745431040'
+p3647
+S'Not Relevant'
+p3648
+sS'592992204777529344'
+p3649
+S'Not Relevant'
+p3650
+sS'592934623316811777'
+p3651
+S'Not Relevant'
+p3652
+sS'592949319373856768'
+p3653
+S'Not Relevant'
+p3654
+sS'592795760858669056'
+p3655
+S'Other Relevant Information'
+p3656
+sS'592752857318858752'
+p3657
+S'Not Relevant'
+p3658
+sS'592076623844769793'
+p3659
+S'Infrastructure and utilities'
+p3660
+sS'592693898864099328'
+p3661
+S'Not Relevant'
+p3662
+sS'592948004635680768'
+p3663
+S'Not Relevant'
+p3664
+sS'592070248033038336'
+p3665
+S'Sympathy and emotional support'
+p3666
+sS'592693928786325504'
+p3667
+S'Not Relevant'
+p3668
+sS'592623531252285440'
+p3669
+S'Not Relevant'
+p3670
+sS'593157337151643648'
+p3671
+S'Response Efforts'
+p3672
+sS'593019974848892928'
+p3673
+S'Not Relevant'
+p3674
+sS'592673711871897605'
+p3675
+S'Not Relevant'
+p3676
+sS'591918332082655233'
+p3677
+S'Sympathy and emotional support'
+p3678
+sS'593021893340364800'
+p3679
+S'Not Relevant'
+p3680
+sS'593151846363062272'
+p3681
+S'Not Relevant'
+p3682
+sS'592975296296591361'
+p3683
+S'Not Relevant'
+p3684
+sS'593025673314246656'
+p3685
+S'Not Relevant'
+p3686
+sS'591913875785719808'
+p3687
+S'Not related or irrelevant'
+p3688
+sS'592590733686624256'
+p3689
+S'Not Relevant'
+p3690
+sS'592884488323133443'
+p3691
+S'Other Relevant Information'
+p3692
+sS'592751517393879040'
+p3693
+S'Not Relevant'
+p3694
+sS'592085316611100673'
+p3695
+S'Other relevant information'
+p3696
+sS'593030462601359360'
+p3697
+S'Not Relevant'
+p3698
+sS'592868471240790016'
+p3699
+S'Not Relevant'
+p3700
+sS'592940379227422720'
+p3701
+S'Not Relevant'
+p3702
+sS'592896429007441920'
+p3703
+S'Not Relevant'
+p3704
+sS'592833046690267136'
+p3705
+S'Response Efforts'
+p3706
+sS'592075804760264704'
+p3707
+S'Sympathy and emotional support'
+p3708
+sS'592075988735041538'
+p3709
+S'Sympathy and emotional support'
+p3710
+sS'592934634041802753'
+p3711
+S'Response Efforts'
+p3712
+sS'593160418106806273'
+p3713
+S'Not Relevant'
+p3714
+sS'592589926971113472'
+p3715
+S'Not Relevant'
+p3716
+sS'592952733407252481'
+p3717
+S'Not Relevant'
+p3718
+sS'592982721481191424'
+p3719
+S'Not Relevant'
+p3720
+sS'592603979760054272'
+p3721
+S'Not Relevant'
+p3722
+sS'592636814009171968'
+p3723
+S'Response Efforts'
+p3724
+sS'592592368739618817'
+p3725
+S'Other Relevant Information'
+p3726
+sS'592840187870355457'
+p3727
+S'Not Relevant'
+p3728
+sS'591918865761734656'
+p3729
+S'Other relevant information'
+p3730
+sS'592158820417187842'
+p3731
+S'Not Relevant'
+p3732
+sS'592921154018377728'
+p3733
+S'Not Relevant'
+p3734
+sS'592163108992483329'
+p3735
+S'Infrastructure Damage'
+p3736
+sS'592160012543242240'
+p3737
+S'Not Relevant'
+p3738
+sS'593010391480799232'
+p3739
+S'Not Relevant'
+p3740
+sS'592748514217689090'
+p3741
+S'Response Efforts'
+p3742
+sS'591907490956062720'
+p3743
+S'Injured or dead people'
+p3744
+sS'592200425090076674'
+p3745
+S'Not Relevant'
+p3746
+sS'592072428957933568'
+p3747
+S'Not related or irrelevant'
+p3748
+sS'592071648448229376'
+p3749
+S'Sympathy and emotional support'
+p3750
+sS'592083939805798400'
+p3751
+S'Infrastructure Damage'
+p3752
+sS'592590507315855361'
+p3753
+S'Not Relevant'
+p3754
+sS'593245199469535232'
+p3755
+S'Response Efforts'
+p3756
+sS'593188490159988736'
+p3757
+S'Not Relevant'
+p3758
+sS'593166308574826496'
+p3759
+S'Other Relevant Information'
+p3760
+sS'591906203543830529'
+p3761
+S'"Missing'
+p3762
+sS'592850073115074560'
+p3763
+S'Not Relevant'
+p3764
+sS'593246539780202496'
+p3765
+S'Response Efforts'
+p3766
+sS'592927596075057152'
+p3767
+S'Not Relevant'
+p3768
+sS'592898434694283264'
+p3769
+S'Not Relevant'
+p3770
+sS'592733556302028802'
+p3771
+S'Not Relevant'
+p3772
+sS'592868981205245952'
+p3773
+S'Not Relevant'
+p3774
+sS'592069636306259968'
+p3775
+S'"Missing'
+p3776
+sS'592071393543528449'
+p3777
+S'Infrastructure and utilities'
+p3778
+sS'592068059592024066'
+p3779
+S'Sympathy and emotional support'
+p3780
+sS'593019291710042112'
+p3781
+S'Not Relevant'
+p3782
+sS'593016892379504640'
+p3783
+S'Not Relevant'
+p3784
+sS'592903382513385474'
+p3785
+S'Not Relevant'
+p3786
+sS'592960038597165056'
+p3787
+S'Not Relevant'
+p3788
+sS'592593124280569857'
+p3789
+S'Response Efforts'
+p3790
+sS'592802285543129088'
+p3791
+S'Not Relevant'
+p3792
+sS'593030629974999040'
+p3793
+S'Not Relevant'
+p3794
+sS'592607582134501377'
+p3795
+S'Response Efforts'
+p3796
+sS'591961481782099969'
+p3797
+S'Other relevant information'
+p3798
+sS'593207564231315456'
+p3799
+S'Not Relevant'
+p3800
+sS'592594520996323328'
+p3801
+S'Not Relevant'
+p3802
+sS'592765778077843457'
+p3803
+S'Not Relevant'
+p3804
+sS'592774097614016513'
+p3805
+S'Not Relevant'
+p3806
+sS'592875866281144320'
+p3807
+S'Not Relevant'
+p3808
+sS'592967348669157376'
+p3809
+S'Not Relevant'
+p3810
+sS'592626169796632577'
+p3811
+S'Urgent Needs'
+p3812
+sS'593004207361368064'
+p3813
+S'Not Relevant'
+p3814
+sS'592656485013938178'
+p3815
+S'Urgent Needs'
+p3816
+sS'592622375616798720'
+p3817
+S'Not Relevant'
+p3818
+sS'592793103880302592'
+p3819
+S'Not Relevant'
+p3820
+sS'592966711554514944'
+p3821
+S'Not Relevant'
+p3822
+sS'592921709604286464'
+p3823
+S'Not Relevant'
+p3824
+sS'592624015677751296'
+p3825
+S'Not Relevant'
+p3826
+sS'592864729036644353'
+p3827
+S'Not Relevant'
+p3828
+sS'592917013959409664'
+p3829
+S'Not Relevant'
+p3830
+sS'592684965961330690'
+p3831
+S'Not Relevant'
+p3832
+sS'592741282692395008'
+p3833
+S'Not Relevant'
+p3834
+sS'592594169756983296'
+p3835
+S'Other Relevant Information'
+p3836
+sS'592780172824281088'
+p3837
+S'Not Relevant'
+p3838
+sS'592142667309547520'
+p3839
+S'Not Relevant'
+p3840
+sS'592593367357267968'
+p3841
+S'Not Relevant'
+p3842
+sS'592638827308679168'
+p3843
+S'Other Relevant Information'
+p3844
+sS'592739821396860928'
+p3845
+S'Not Relevant'
+p3846
+sS'592160186858475520'
+p3847
+S'Response Efforts'
+p3848
+sS'592886187821498368'
+p3849
+S'Not Relevant'
+p3850
+sS'593033411775832064'
+p3851
+S'Not Relevant'
+p3852
+sS'592643078583889920'
+p3853
+S'Not Relevant'
+p3854
+sS'592737928813633536'
+p3855
+S'Not Relevant'
+p3856
+sS'592670376552980480'
+p3857
+S'Not Relevant'
+p3858
+sS'591912425546387456'
+p3859
+S'Not related or irrelevant'
+p3860
+sS'591914982343839745'
+p3861
+S'Infrastructure and utilities'
+p3862
+sS'592872030866907138'
+p3863
+S'Not Relevant'
+p3864
+sS'591916208183619585'
+p3865
+S'Volunteer or professional services'
+p3866
+sS'591911077656551424'
+p3867
+S'Other relevant information'
+p3868
+sS'592085683298177025'
+p3869
+S'Sympathy and emotional support'
+p3870
+sS'592069095568343040'
+p3871
+S'Sympathy and emotional support'
+p3872
+sS'593227743166234624'
+p3873
+S'Not Relevant'
+p3874
+sS'592670645172965376'
+p3875
+S'Not Relevant'
+p3876
+sS'592155077252673536'
+p3877
+S'Not Relevant'
+p3878
+sS'592649125243543552'
+p3879
+S'Not Relevant'
+p3880
+sS'592791108926763008'
+p3881
+S'Other Relevant Information'
+p3882
+sS'592668162526679040'
+p3883
+S'Response Efforts'
+p3884
+sS'593007715263221761'
+p3885
+S'Not Relevant'
+p3886
+sS'592644870172348416'
+p3887
+S'Response Efforts'
+p3888
+sS'592917444408147968'
+p3889
+S'Not Relevant'
+p3890
+sS'592634819902840832'
+p3891
+S'Not Relevant'
+p3892
+sS'592667921786208258'
+p3893
+S'Not Relevant'
+p3894
+sS'592842868689117185'
+p3895
+S'Not Relevant'
+p3896
+sS'592069241261596672'
+p3897
+S'Sympathy and emotional support'
+p3898
+sS'593010109388722176'
+p3899
+S'Not Relevant'
+p3900
+sS'592591050616745984'
+p3901
+S'Not Relevant'
+p3902
+sS'592764802222661635'
+p3903
+S'Response Efforts'
+p3904
+sS'592656738475737088'
+p3905
+S'Not Relevant'
+p3906
+sS'592590289170243584'
+p3907
+S'Response Efforts'
+p3908
+sS'592201163304345600'
+p3909
+S'Response Efforts'
+p3910
+sS'592089407752122368'
+p3911
+S'Other relevant information'
+p3912
+sS'592837017370828800'
+p3913
+S'Not Relevant'
+p3914
+sS'592755610384347136'
+p3915
+S'Response Efforts'
+p3916
+sS'593024965475205121'
+p3917
+S'Not Relevant'
+p3918
+sS'592590561095323648'
+p3919
+S'Other Relevant Information'
+p3920
+sS'592615658610827265'
+p3921
+S'Not Relevant'
+p3922
+sS'591991626291027969'
+p3923
+S'Not Relevant'
+p3924
+sS'592908514810560512'
+p3925
+S'Response Efforts'
+p3926
+sS'591991610285494272'
+p3927
+S'Not Relevant'
+p3928
+sS'592694713720922115'
+p3929
+S'Not Relevant'
+p3930
+sS'592162395050647552'
+p3931
+S'Not Relevant'
+p3932
+sS'591918468452061187'
+p3933
+S'Sympathy and emotional support'
+p3934
+sS'592159327399489536'
+p3935
+S'Not Relevant'
+p3936
+sS'592693101589897217'
+p3937
+S'Not Relevant'
+p3938
+sS'592873864503422976'
+p3939
+S'Not Relevant'
+p3940
+sS'592618354147373056'
+p3941
+S'Response Efforts'
+p3942
+sS'592636589072842752'
+p3943
+S'Not Relevant'
+p3944
+sS'592086155870531584'
+p3945
+S'Other relevant information'
+p3946
+sS'592593720823783424'
+p3947
+S'Response Efforts'
+p3948
+sS'592634929218985984'
+p3949
+S'Not Relevant'
+p3950
+sS'592071034142097410'
+p3951
+S'Sympathy and emotional support'
+p3952
+sS'592762745705132034'
+p3953
+S'Not Relevant'
+p3954
+sS'592592838443069440'
+p3955
+S'Not Relevant'
+p3956
+sS'591921274407948288'
+p3957
+S'Sympathy and emotional support'
+p3958
+sS'592655504431788032'
+p3959
+S'Not Relevant'
+p3960
+sS'592809984343285761'
+p3961
+S'Not Relevant'
+p3962
+sS'591919201452838912'
+p3963
+S'Not related or irrelevant'
+p3964
+sS'592631744819556352'
+p3965
+S'Response Efforts'
+p3966
+sS'592200592409366528'
+p3967
+S'Response Efforts'
+p3968
+sS'592784991576322048'
+p3969
+S'Not Relevant'
+p3970
+sS'592750110762733568'
+p3971
+S'Not Relevant'
+p3972
+sS'592684985393479680'
+p3973
+S'Not Relevant'
+p3974
+sS'591913828733988864'
+p3975
+S'Other relevant information'
+p3976
+sS'592591898923040768'
+p3977
+S'Other Relevant Information'
+p3978
+sS'593009757885210624'
+p3979
+S'Not Relevant'
+p3980
+sS'592688320003645440'
+p3981
+S'Not Relevant'
+p3982
+sS'592869371132956672'
+p3983
+S'Not Relevant'
+p3984
+sS'592839351140261888'
+p3985
+S'Not Relevant'
+p3986
+sS'592914756261941248'
+p3987
+S'Not Relevant'
+p3988
+sS'593006319126355968'
+p3989
+S'Not Relevant'
+p3990
+sS'592687095510077440'
+p3991
+S'Not Relevant'
+p3992
+sS'592069165135044608'
+p3993
+S'"Missing'
+p3994
+sS'591960778636328960'
+p3995
+S'Personal updates'
+p3996
+sS'591915841714671616'
+p3997
+S'Sympathy and emotional support'
+p3998
+sS'592877772642623489'
+p3999
+S'Not Relevant'
+p4000
+sS'592619930165575680'
+p4001
+S'Not Relevant'
+p4002
+sS'591912615405719552'
+p4003
+S'Injured or dead people'
+p4004
+sS'592774577027158018'
+p4005
+S'Not Relevant'
+p4006
+sS'593187308695887873'
+p4007
+S'Not Relevant'
+p4008
+sS'592810082808819712'
+p4009
+S'Not Relevant'
+p4010
+sS'592762022703562753'
+p4011
+S'Response Efforts'
+p4012
+sS'592182301125054464'
+p4013
+S'Response Efforts'
+p4014
+sS'591963985395617792'
+p4015
+S'Volunteer or professional services'
+p4016
+sS'592650015589462016'
+p4017
+S'Not Relevant'
+p4018
+sS'592933743591071744'
+p4019
+S'Not Relevant'
+p4020
+sS'592683252739088384'
+p4021
+S'Not Relevant'
+p4022
+sS'591990892984213504'
+p4023
+S'Response Efforts'
+p4024
+sS'592590413657051136'
+p4025
+S'Not Relevant'
+p4026
+sS'593017287197724673'
+p4027
+S'Not Relevant'
+p4028
+sS'592921228593213440'
+p4029
+S'Not Relevant'
+p4030
+sS'592657335488753664'
+p4031
+S'Response Efforts'
+p4032
+sS'592601633718013952'
+p4033
+S'Not Relevant'
+p4034
+sS'593200015046254592'
+p4035
+S'Not Relevant'
+p4036
+sS'592972165932158977'
+p4037
+S'Not Relevant'
+p4038
+sS'592833207239839744'
+p4039
+S'Response Efforts'
+p4040
+sS'591917623215947776'
+p4041
+S'Not related or irrelevant'
+p4042
+sS'592594536800591873'
+p4043
+S'Not Relevant'
+p4044
+sS'591920044579233792'
+p4045
+S'Sympathy and emotional support'
+p4046
+sS'591914620530532352'
+p4047
+S'Sympathy and emotional support'
+p4048
+sS'592593466770653184'
+p4049
+S'Other Relevant Information'
+p4050
+sS'592821743129079810'
+p4051
+S'Not Relevant'
+p4052
+sS'593033639987777536'
+p4053
+S'Not Relevant'
+p4054
+sS'592741972764405760'
+p4055
+S'Not Relevant'
+p4056
+sS'593263235115065346'
+p4057
+S'Not Relevant'
+p4058
+sS'592750284759261185'
+p4059
+S'Not Relevant'
+p4060
+sS'592962833001762816'
+p4061
+S'Not Relevant'
+p4062
+sS'593184215174221824'
+p4063
+S'Not Relevant'
+p4064
+sS'593152294084050945'
+p4065
+S'Other Relevant Information'
+p4066
+sS'592889588911308800'
+p4067
+S'Not Relevant'
+p4068
+sS'592689562293575681'
+p4069
+S'Not Relevant'
+p4070
+sS'592883609020805122'
+p4071
+S'Not Relevant'
+p4072
+sS'592200536440610816'
+p4073
+S'Not Relevant'
+p4074
+sS'592657807083732992'
+p4075
+S'Not Relevant'
+p4076
+sS'592590817073606656'
+p4077
+S'Response Efforts'
+p4078
+sS'592589616106106881'
+p4079
+S'Not Relevant'
+p4080
+sS'592999039274127362'
+p4081
+S'Not Relevant'
+p4082
+sS'592777917622558720'
+p4083
+S'Response Efforts'
+p4084
+sS'592747105409736704'
+p4085
+S'Not Relevant'
+p4086
+sS'592742966046916609'
+p4087
+S'Not Relevant'
+p4088
+sS'592640610089197569'
+p4089
+S'Response Efforts'
+p4090
+sS'592657495027486720'
+p4091
+S'Not Relevant'
+p4092
+sS'591911682680737792'
+p4093
+S'Other relevant information'
+p4094
+sS'592195290666401792'
+p4095
+S'Not Relevant'
+p4096
+sS'592619800809119745'
+p4097
+S'Not Relevant'
+p4098
+sS'592912038877331456'
+p4099
+S'Not Relevant'
+p4100
+sS'593244169142816769'
+p4101
+S'Not Relevant'
+p4102
+sS'592593045066907648'
+p4103
+S'Other Relevant Information'
+p4104
+sS'592871074569785345'
+p4105
+S'Urgent Needs'
+p4106
+sS'592140779692236800'
+p4107
+S'Not Relevant'
+p4108
+sS'592937925370740736'
+p4109
+S'Not Relevant'
+p4110
+sS'593186606045069312'
+p4111
+S'Not Relevant'
+p4112
+sS'592786477395910658'
+p4113
+S'Not Relevant'
+p4114
+sS'592085570052042752'
+p4115
+S'Not Relevant'
+p4116
+sS'592683035205709824'
+p4117
+S'Not Relevant'
+p4118
+sS'592837028456353793'
+p4119
+S'Other Relevant Information'
+p4120
+sS'591912156985204736'
+p4121
+S'"Missing'
+p4122
+sS'592594956629385216'
+p4123
+S'Not Relevant'
+p4124
+sS'593010617742532608'
+p4125
+S'Not Relevant'
+p4126
+sS'592901590379536384'
+p4127
+S'Not Relevant'
+p4128
+sS'592951953828782080'
+p4129
+S'Other Relevant Information'
+p4130
+sS'592811876561596418'
+p4131
+S'Response Efforts'
+p4132
+sS'592594342339973120'
+p4133
+S'Not Relevant'
+p4134
+sS'592624817351700481'
+p4135
+S'Other Relevant Information'
+p4136
+sS'592888206007390209'
+p4137
+S'Not Relevant'
+p4138
+sS'592158406066081792'
+p4139
+S'Not Relevant'
+p4140
+sS'592848154476859393'
+p4141
+S'Not Relevant'
+p4142
+sS'592848893328662528'
+p4143
+S'Not Relevant'
+p4144
+sS'592868794856509442'
+p4145
+S'Not Relevant'
+p4146
+sS'592590523304529920'
+p4147
+S'Not Relevant'
+p4148
+sS'592163352857616384'
+p4149
+S'Not Relevant'
+p4150
+sS'593028966505578496'
+p4151
+S'Not Relevant'
+p4152
+sS'592075301770919936'
+p4153
+S'Sympathy and emotional support'
+p4154
+sS'593045489727176705'
+p4155
+S'Not Relevant'
+p4156
+sS'592154928769990656'
+p4157
+S'Response Efforts'
+p4158
+sS'592736531699388417'
+p4159
+S'Not Relevant'
+p4160
+sS'592704096139882497'
+p4161
+S'Other Relevant Information'
+p4162
+sS'592664721255464961'
+p4163
+S'Response Efforts'
+p4164
+sS'592897257155989507'
+p4165
+S'Not Relevant'
+p4166
+sS'592868515226513411'
+p4167
+S'Not Relevant'
+p4168
+sS'592862639174320128'
+p4169
+S'Not Relevant'
+p4170
+sS'592839103978283009'
+p4171
+S'Not Relevant'
+p4172
+sS'592719987388854272'
+p4173
+S'Other Relevant Information'
+p4174
+sS'592598667179073536'
+p4175
+S'Volunteer or professional services'
+p4176
+sS'593256111727202304'
+p4177
+S'Response Efforts'
+p4178
+sS'592591797290860544'
+p4179
+S'Other Relevant Information'
+p4180
+sS'592808184823345153'
+p4181
+S'Not Relevant'
+p4182
+sS'592901041982701568'
+p4183
+S'Not Relevant'
+p4184
+sS'592589600889012224'
+p4185
+S'Not Relevant'
+p4186
+sS'592594154359656449'
+p4187
+S'Not Relevant'
+p4188
+sS'592588995370078208'
+p4189
+S'Not Relevant'
+p4190
+sS'592917080565018625'
+p4191
+S'Not Relevant'
+p4192
+sS'592633808358223872'
+p4193
+S'Not Relevant'
+p4194
+sS'592627711685758976'
+p4195
+S'Response Efforts'
+p4196
+sS'592590310670077952'
+p4197
+S'Other Relevant Information'
+p4198
+sS'592592436553076736'
+p4199
+S'Not Relevant'
+p4200
+sS'592627713749295104'
+p4201
+S'Not Relevant'
+p4202
+sS'592589189390073856'
+p4203
+S'Not Relevant'
+p4204
+sS'592644664278188032'
+p4205
+S'Response Efforts'
+p4206
+sS'593206154081144833'
+p4207
+S'Not Relevant'
+p4208
+sS'592746441443037185'
+p4209
+S'Not Relevant'
+p4210
+sS'592693491282612224'
+p4211
+S'Not Relevant'
+p4212
+sS'593150703138250752'
+p4213
+S'Not Relevant'
+p4214
+sS'592624392078626816'
+p4215
+S'Not Relevant'
+p4216
+sS'592860300593995777'
+p4217
+S'Not Relevant'
+p4218
+sS'592756676144533504'
+p4219
+S'Response Efforts'
+p4220
+sS'592703745483534337'
+p4221
+S'Not Relevant'
+p4222
+sS'592075854185922560'
+p4223
+S'Money'
+p4224
+sS'592982155107704832'
+p4225
+S'Not Relevant'
+p4226
+sS'592149404036956160'
+p4227
+S'Not Relevant'
+p4228
+sS'592067774085787650'
+p4229
+S'Sympathy and emotional support'
+p4230
+sS'593044554728738816'
+p4231
+S'Not Relevant'
+p4232
+sS'591960998275260417'
+p4233
+S'"Missing'
+p4234
+sS'592167563565658114'
+p4235
+S'Not Relevant'
+p4236
+sS'592946244617535488'
+p4237
+S'Not Relevant'
+p4238
+sS'593148234798772224'
+p4239
+S'Not Relevant'
+p4240
+sS'591990608874594305'
+p4241
+S'Response Efforts'
+p4242
+sS'592638213082087424'
+p4243
+S'Other Relevant Information'
+p4244
+sS'592868326289895425'
+p4245
+S'Not Relevant'
+p4246
+sS'592912437260722178'
+p4247
+S'Not Relevant'
+p4248
+sS'592732601103863809'
+p4249
+S'Not Relevant'
+p4250
+sS'592749948090916866'
+p4251
+S'Not Relevant'
+p4252
+sS'592594249494986752'
+p4253
+S'Not Relevant'
+p4254
+sS'592992299371597824'
+p4255
+S'Not Relevant'
+p4256
+sS'593044756877414400'
+p4257
+S'Not Relevant'
+p4258
+sS'593013633967226881'
+p4259
+S'Not Relevant'
+p4260
+sS'592157430772998144'
+p4261
+S'Not Relevant'
+p4262
+sS'592681179121319937'
+p4263
+S'Other Relevant Information'
+p4264
+sS'591906251300151297'
+p4265
+S'Injured or dead people'
+p4266
+sS'593251235895083008'
+p4267
+S'Not Relevant'
+p4268
+sS'593169872500076545'
+p4269
+S'Not Relevant'
+p4270
+sS'592925170928582656'
+p4271
+S'Not Relevant'
+p4272
+sS'592593377843159040'
+p4273
+S'Response Efforts'
+p4274
+sS'592754274003714049'
+p4275
+S'Not Relevant'
+p4276
+sS'591906453306249216'
+p4277
+S'Infrastructure and utilities'
+p4278
+sS'592590486868725760'
+p4279
+S'Not Relevant'
+p4280
+sS'592755894141747200'
+p4281
+S'Not Relevant'
+p4282
+sS'591973557841698816'
+p4283
+S'Sympathy and emotional support'
+p4284
+sS'592588895730044928'
+p4285
+S'Not Relevant'
+p4286
+sS'592875932832157696'
+p4287
+S'Not Relevant'
+p4288
+sS'592642680456372224'
+p4289
+S'Response Efforts'
+p4290
+sS'592824559788826625'
+p4291
+S'Not Relevant'
+p4292
+sS'592943052005777408'
+p4293
+S'Not Relevant'
+p4294
+sS'592669374873493505'
+p4295
+S'Not Relevant'
+p4296
+sS'592992201497452546'
+p4297
+S'Not Relevant'
+p4298
+sS'592781714562383874'
+p4299
+S'Not Relevant'
+p4300
+sS'593035090227138562'
+p4301
+S'Not Relevant'
+p4302
+sS'592623718968340480'
+p4303
+S'Not Relevant'
+p4304
+sS'592770312879607809'
+p4305
+S'Not Relevant'
+p4306
+sS'592734170276884480'
+p4307
+S'Not Relevant'
+p4308
+sS'592731062956126209'
+p4309
+S'Not Relevant'
+p4310
+sS'592880271533432832'
+p4311
+S'Not Relevant'
+p4312
+sS'592613183753359361'
+p4313
+S'Not Relevant'
+p4314
+sS'592644595185483776'
+p4315
+S'Not Relevant'
+p4316
+sS'592835114465370113'
+p4317
+S'Not Relevant'
+p4318
+sS'592797730763874304'
+p4319
+S'Not Relevant'
+p4320
+sS'592702174867681280'
+p4321
+S'Not Relevant'
+p4322
+sS'592160108773244928'
+p4323
+S'Not Relevant'
+p4324
+sS'592810724327628800'
+p4325
+S'Response Efforts'
+p4326
+sS'592074416051396608'
+p4327
+S'Sympathy and emotional support'
+p4328
+sS'591963085851664384'
+p4329
+S'Money'
+p4330
+sS'592931865310437376'
+p4331
+S'Not Relevant'
+p4332
+sS'591962858524573696'
+p4333
+S'Volunteer or professional services'
+p4334
+sS'593223766269767680'
+p4335
+S'Response Efforts'
+p4336
+sS'593037699407224832'
+p4337
+S'Not Relevant'
+p4338
+sS'593260773612224512'
+p4339
+S'Not Relevant'
+p4340
+sS'593241459010048000'
+p4341
+S'Not Relevant'
+p4342
+sS'592968633992744960'
+p4343
+S'Not Relevant'
+p4344
+sS'593015165198540801'
+p4345
+S'Response Efforts'
+p4346
+sS'592670418064023552'
+p4347
+S'Infrastructure Damage'
+p4348
+sS'593228256062611456'
+p4349
+S'Response Efforts'
+p4350
+sS'592647863995408386'
+p4351
+S'Not Relevant'
+p4352
+sS'592922743634407424'
+p4353
+S'Other Relevant Information'
+p4354
+sS'593019870603706369'
+p4355
+S'Not Relevant'
+p4356
+sS'592750967881375744'
+p4357
+S'Not Relevant'
+p4358
+sS'592960145300140033'
+p4359
+S'Response Efforts'
+p4360
+sS'592155054565675009'
+p4361
+S'Response Efforts'
+p4362
+sS'592668638169169920'
+p4363
+S'Not Relevant'
+p4364
+sS'592731580608729088'
+p4365
+S'Not Relevant'
+p4366
+sS'592818573053145089'
+p4367
+S'Not Relevant'
+p4368
+sS'592770840263008258'
+p4369
+S'Not Relevant'
+p4370
+sS'592690113148276738'
+p4371
+S'Not Relevant'
+p4372
+sS'592673339677745152'
+p4373
+S'Other Relevant Information'
+p4374
+sS'592903224518156288'
+p4375
+S'Not Relevant'
+p4376
+sS'592636610904068096'
+p4377
+S'Not Relevant'
+p4378
+sS'592072881594576896'
+p4379
+S'Sympathy and emotional support'
+p4380
+sS'593231479339098112'
+p4381
+S'Other Relevant Information'
+p4382
+sS'592687066972090368'
+p4383
+S'Response Efforts'
+p4384
+sS'592707770102722564'
+p4385
+S'Not Relevant'
+p4386
+sS'593035019490304000'
+p4387
+S'Not Relevant'
+p4388
+sS'592641603564474368'
+p4389
+S'Not Relevant'
+p4390
+sS'592670387491700737'
+p4391
+S'Not Relevant'
+p4392
+sS'592701729977794561'
+p4393
+S'Not Relevant'
+p4394
+sS'592885199446355968'
+p4395
+S'Not Relevant'
+p4396
+sS'591915939660193792'
+p4397
+S'Sympathy and emotional support'
+p4398
+sS'592075086359764993'
+p4399
+S'Sympathy and emotional support'
+p4400
+sS'593159073232588800'
+p4401
+S'Not Relevant'
+p4402
+sS'592876568420208642'
+p4403
+S'Not Relevant'
+p4404
+sS'592694335671500801'
+p4405
+S'Not Relevant'
+p4406
+sS'592155955179036673'
+p4407
+S'Response Efforts'
+p4408
+sS'593251784556027904'
+p4409
+S'Not Relevant'
+p4410
+sS'592089235462574082'
+p4411
+S'Not related or irrelevant'
+p4412
+sS'592986060134752256'
+p4413
+S'Other Relevant Information'
+p4414
+sS'592819864886214656'
+p4415
+S'Not Relevant'
+p4416
+sS'591987837592997888'
+p4417
+S'Not Relevant'
+p4418
+sS'592694490806226946'
+p4419
+S'Not Relevant'
+p4420
+sS'592848735736041472'
+p4421
+S'Not Relevant'
+p4422
+sS'592628366064386048'
+p4423
+S'Response Efforts'
+p4424
+sS'592069221514809344'
+p4425
+S'Injured or dead people'
+p4426
+sS'593031899989217280'
+p4427
+S'Response Efforts'
+p4428
+sS'592967908252319744'
+p4429
+S'Not Relevant'
+p4430
+sS'592626373665099776'
+p4431
+S'Not Relevant'
+p4432
+sS'592936770699993089'
+p4433
+S'Other Relevant Information'
+p4434
+sS'592736288501030912'
+p4435
+S'Not Relevant'
+p4436
+sS'592168383577128960'
+p4437
+S'Not Relevant'
+p4438
+sS'592792401850281984'
+p4439
+S'Not Relevant'
+p4440
+sS'592070717165981696'
+p4441
+S'Not Relevant'
+p4442
+sS'592988012599992320'
+p4443
+S'Not Relevant'
+p4444
+sS'592593079808364544'
+p4445
+S'Not Relevant'
+p4446
+sS'592837053802532866'
+p4447
+S'Not Relevant'
+p4448
+sS'592743968498135040'
+p4449
+S'Not Relevant'
+p4450
+sS'592592798328619010'
+p4451
+S'Not Relevant'
+p4452
+sS'592808154213294081'
+p4453
+S'Not Relevant'
+p4454
+sS'592590356757131265'
+p4455
+S'Not Relevant'
+p4456
+sS'592757215855026176'
+p4457
+S'Other Relevant Information'
+p4458
+sS'592077082915696640'
+p4459
+S'Other relevant information'
+p4460
+sS'593008711511113728'
+p4461
+S'Not Relevant'
+p4462
+sS'593191311357845504'
+p4463
+S'Not Relevant'
+p4464
+sS'592591115326529537'
+p4465
+S'Not Relevant'
+p4466
+sS'592738886624882688'
+p4467
+S'Not Relevant'
+p4468
+sS'593235451504369664'
+p4469
+S'Not Relevant'
+p4470
+sS'592808834181259264'
+p4471
+S'Not Relevant'
+p4472
+sS'592755775115755520'
+p4473
+S'Not Relevant'
+p4474
+sS'592636985941958656'
+p4475
+S'Not Relevant'
+p4476
+sS'592976809056174080'
+p4477
+S'Other Relevant Information'
+p4478
+sS'592760651581419521'
+p4479
+S'Response Efforts'
+p4480
+sS'592673330492272640'
+p4481
+S'Not Relevant'
+p4482
+sS'592158129741242368'
+p4483
+S'Other Relevant Information'
+p4484
+sS'592890757310189568'
+p4485
+S'Not Relevant'
+p4486
+sS'592630912543625217'
+p4487
+S'Urgent Needs'
+p4488
+sS'592720829525454849'
+p4489
+S'Response Efforts'
+p4490
+sS'592708798873268226'
+p4491
+S'Not Relevant'
+p4492
+sS'592862759534075904'
+p4493
+S'Not Relevant'
+p4494
+sS'592690266848493570'
+p4495
+S'Not Relevant'
+p4496
+sS'592864190286659584'
+p4497
+S'Not Relevant'
+p4498
+sS'592732146462236672'
+p4499
+S'Other Relevant Information'
+p4500
+sS'591916097827278848'
+p4501
+S'Other relevant information'
+p4502
+sS'592694367544090624'
+p4503
+S'Not Relevant'
+p4504
+sS'592693929746759683'
+p4505
+S'Not Relevant'
+p4506
+sS'591903889319796736'
+p4507
+S'Sympathy and emotional support'
+p4508
+sS'592591311707967488'
+p4509
+S'Not Relevant'
+p4510
+sS'591962252477071360'
+p4511
+S'Sympathy and emotional support'
+p4512
+sS'592629820867026944'
+p4513
+S'Not Relevant'
+p4514
+sS'593233688357306368'
+p4515
+S'Not Relevant'
+p4516
+sS'592704679638884353'
+p4517
+S'Not Relevant'
+p4518
+sS'592989241728106496'
+p4519
+S'Not Relevant'
+p4520
+sS'591906341893120000'
+p4521
+S'Infrastructure and utilities'
+p4522
+sS'592818528761307136'
+p4523
+S'Not Relevant'
+p4524
+sS'592589292200796160'
+p4525
+S'Not Relevant'
+p4526
+sS'592828116986396677'
+p4527
+S'Not Relevant'
+p4528
+sS'593018601864437760'
+p4529
+S'Not Relevant'
+p4530
+sS'592588898150256640'
+p4531
+S'Other Relevant Information'
+p4532
+sS'592656382043762688'
+p4533
+S'Not Relevant'
+p4534
+sS'593019095592873984'
+p4535
+S'Not Relevant'
+p4536
+sS'592832893266821120'
+p4537
+S'Urgent Needs'
+p4538
+sS'592591057767923712'
+p4539
+S'Not Relevant'
+p4540
+sS'592076727410528256'
+p4541
+S'Sympathy and emotional support'
+p4542
+sS'592163513730138112'
+p4543
+S'Other Relevant Information'
+p4544
+sS'591961514795540480'
+p4545
+S'Volunteer or professional services'
+p4546
+sS'592731270158880769'
+p4547
+S'Not Relevant'
+p4548
+sS'592589568421064704'
+p4549
+S'Other Relevant Information'
+p4550
+sS'591963805527056386'
+p4551
+S'Other relevant information'
+p4552
+sS'592745277934669824'
+p4553
+S'Not Relevant'
+p4554
+sS'593179163927928832'
+p4555
+S'Not Relevant'
+p4556
+sS'592589462334373888'
+p4557
+S'Not Relevant'
+p4558
+sS'592085693427425281'
+p4559
+S'Other relevant information'
+p4560
+sS'592703441115455491'
+p4561
+S'Not Relevant'
+p4562
+sS'593178199510667265'
+p4563
+S'Not Relevant'
+p4564
+sS'592899574173405186'
+p4565
+S'Not Relevant'
+p4566
+sS'592603126261231616'
+p4567
+S'Not Relevant'
+p4568
+sS'592086493209985024'
+p4569
+S'Other relevant information'
+p4570
+sS'592110702573195265'
+p4571
+S'Infrastructure Damage'
+p4572
+sS'592694444262031361'
+p4573
+S'Not Relevant'
+p4574
+sS'592590073092132864'
+p4575
+S'Not Relevant'
+p4576
+sS'592743882141659138'
+p4577
+S'Not Relevant'
+p4578
+sS'593019199636672512'
+p4579
+S'Not Relevant'
+p4580
+sS'592694636730257411'
+p4581
+S'Not Relevant'
+p4582
+sS'592156330758053888'
+p4583
+S'Not Relevant'
+p4584
+sS'592898975138717697'
+p4585
+S'Not Relevant'
+p4586
+sS'592927343208996864'
+p4587
+S'Not Relevant'
+p4588
+sS'592591557087236096'
+p4589
+S'Response Efforts'
+p4590
+sS'592670390536818689'
+p4591
+S'Other Relevant Information'
+p4592
+sS'592872788614078464'
+p4593
+S'Not Relevant'
+p4594
+sS'592071936768806912'
+p4595
+S'Sympathy and emotional support'
+p4596
+sS'592962427727187968'
+p4597
+S'Not Relevant'
+p4598
+sS'592162103202422785'
+p4599
+S'Not Relevant'
+p4600
+sS'592828131964256257'
+p4601
+S'Not Relevant'
+p4602
+sS'591911610886807552'
+p4603
+S'Other relevant information'
+p4604
+sS'592860834080096256'
+p4605
+S'Not Relevant'
+p4606
+sS'592697078926704641'
+p4607
+S'Other Relevant Information'
+p4608
+sS'593047307538432002'
+p4609
+S'Not Relevant'
+p4610
+sS'592931116337602560'
+p4611
+S'Not Relevant'
+p4612
+sS'593245329161486337'
+p4613
+S'Not Relevant'
+p4614
+sS'592709322314018816'
+p4615
+S'Not Relevant'
+p4616
+sS'592849817803587584'
+p4617
+S'Not Relevant'
+p4618
+sS'592882891501215744'
+p4619
+S'Not Relevant'
+p4620
+sS'593005398933807104'
+p4621
+S'Response Efforts'
+p4622
+sS'593016923534848000'
+p4623
+S'Not Relevant'
+p4624
+sS'592815290322411522'
+p4625
+S'Not Relevant'
+p4626
+sS'592589375948587008'
+p4627
+S'Not Relevant'
+p4628
+sS'592689850324799490'
+p4629
+S'Not Relevant'
+p4630
+sS'592592365099032576'
+p4631
+S'Not Relevant'
+p4632
+sS'592158397518065664'
+p4633
+S'Not Relevant'
+p4634
+sS'592614393759793152'
+p4635
+S'Not Relevant'
+p4636
+sS'592750005196296195'
+p4637
+S'Not Relevant'
+p4638
+sS'592201502824931329'
+p4639
+S'Not Relevant'
+p4640
+sS'592771444293120001'
+p4641
+S'Not Relevant'
+p4642
+sS'593044439003725826'
+p4643
+S'Not Relevant'
+p4644
+sS'593032589855879168'
+p4645
+S'Not Relevant'
+p4646
+sS'592945219076624385'
+p4647
+S'Not Relevant'
+p4648
+sS'592200502806360066'
+p4649
+S'Other Relevant Information'
+p4650
+sS'592983957022453760'
+p4651
+S'Not Relevant'
+p4652
+sS'592968818139369472'
+p4653
+S'Not Relevant'
+p4654
+sS'592631115355140096'
+p4655
+S'Infrastructure Damage'
+p4656
+sS'592633714812805120'
+p4657
+S'Response Efforts'
+p4658
+sS'592870389090557953'
+p4659
+S'Not Relevant'
+p4660
+sS'592883906208264195'
+p4661
+S'Not Relevant'
+p4662
+sS'592157486406246401'
+p4663
+S'Not Relevant'
+p4664
+sS'592830305242841091'
+p4665
+S'Not Relevant'
+p4666
+sS'591915689465683969'
+p4667
+S'Volunteer or professional services'
+p4668
+sS'592801581122396162'
+p4669
+S'Not Relevant'
+p4670
+sS'592626856949481472'
+p4671
+S'Not Relevant'
+p4672
+sS'592824693977161729'
+p4673
+S'Other Relevant Information'
+p4674
+sS'592168613483835392'
+p4675
+S'Not Relevant'
+p4676
+sS'592815796595859457'
+p4677
+S'Not Relevant'
+p4678
+sS'592155202393772032'
+p4679
+S'Not Relevant'
+p4680
+sS'592908070549860352'
+p4681
+S'Not Relevant'
+p4682
+sS'592649540035043328'
+p4683
+S'Not Relevant'
+p4684
+sS'592150813050609665'
+p4685
+S'Other Relevant Information'
+p4686
+sS'592760684733145088'
+p4687
+S'Not Relevant'
+p4688
+sS'592139119372869632'
+p4689
+S'Response Efforts'
+p4690
+sS'591961538602213376'
+p4691
+S'Sympathy and emotional support'
+p4692
+sS'592665287499096067'
+p4693
+S'Not Relevant'
+p4694
+sS'593253356069457921'
+p4695
+S'Not Relevant'
+p4696
+sS'592918264424046592'
+p4697
+S'Not Relevant'
+p4698
+sS'592849814116773890'
+p4699
+S'Not Relevant'
+p4700
+sS'592162862564532224'
+p4701
+S'Not Relevant'
+p4702
+sS'592594450615959553'
+p4703
+S'Not Relevant'
+p4704
+sS'593147674167255040'
+p4705
+S'Not Relevant'
+p4706
+sS'591920648588505088'
+p4707
+S'Sympathy and emotional support'
+p4708
+sS'593049565995085824'
+p4709
+S'Not Relevant'
+p4710
+sS'592986742518484993'
+p4711
+S'Not Relevant'
+p4712
+sS'592162894533406720'
+p4713
+S'Infrastructure Damage'
+p4714
+sS'593025389284302849'
+p4715
+S'Not Relevant'
+p4716
+sS'592732012370382849'
+p4717
+S'Not Relevant'
+p4718
+sS'592971718488100864'
+p4719
+S'Response Efforts'
+p4720
+sS'592879419347312640'
+p4721
+S'Not Relevant'
+p4722
+sS'592613320638787584'
+p4723
+S'Not Relevant'
+p4724
+sS'592073746422300672'
+p4725
+S'Sympathy and emotional support'
+p4726
+sS'592592992998940674'
+p4727
+S'Not Relevant'
+p4728
+sS'592619811781222400'
+p4729
+S'Not Relevant'
+p4730
+sS'592866350479081472'
+p4731
+S'Not Relevant'
+p4732
+sS'593243204331274241'
+p4733
+S'Not Relevant'
+p4734
+sS'593017364863520768'
+p4735
+S'Not Relevant'
+p4736
+sS'592750585046245376'
+p4737
+S'Not Relevant'
+p4738
+sS'592068107155415040'
+p4739
+S'Sympathy and emotional support'
+p4740
+sS'592158154957262849'
+p4741
+S'Infrastructure Damage'
+p4742
+sS'592874201490575361'
+p4743
+S'Not Relevant'
+p4744
+sS'592691449461866496'
+p4745
+S'Not Relevant'
+p4746
+sS'592690111197884416'
+p4747
+S'Not Relevant'
+p4748
+sS'592851025356283906'
+p4749
+S'Not Relevant'
+p4750
+sS'592623463287906304'
+p4751
+S'Not Relevant'
+p4752
+sS'592999816348708864'
+p4753
+S'Response Efforts'
+p4754
+sS'592086335906775040'
+p4755
+S'Sympathy and emotional support'
+p4756
+sS'592656236526575618'
+p4757
+S'Not Relevant'
+p4758
+sS'592327226298892288'
+p4759
+S'Not Relevant'
+p4760
+sS'592902742701699072'
+p4761
+S'Not Relevant'
+p4762
+sS'591908737545175040'
+p4763
+S'Infrastructure and utilities'
+p4764
+sS'592590449820442624'
+p4765
+S'Not Relevant'
+p4766
+sS'592628914633093120'
+p4767
+S'Not Relevant'
+p4768
+sS'592201438417133568'
+p4769
+S'Response Efforts'
+p4770
+sS'592069605968871424'
+p4771
+S'Sympathy and emotional support'
+p4772
+sS'592592801163911169'
+p4773
+S'Not Relevant'
+p4774
+sS'592277329478590464'
+p4775
+S'Not Relevant'
+p4776
+sS'593187274910670848'
+p4777
+S'Not Relevant'
+p4778
+sS'592848366406623234'
+p4779
+S'Not Relevant'
+p4780
+sS'592929778023333889'
+p4781
+S'Not Relevant'
+p4782
+sS'592591538238033920'
+p4783
+S'Not Relevant'
+p4784
+sS'592807982540443649'
+p4785
+S'Not Relevant'
+p4786
+sS'591963810518290432'
+p4787
+S'Caution and advice'
+p4788
+sS'592654441364488192'
+p4789
+S'Other Relevant Information'
+p4790
+sS'592589001996967937'
+p4791
+S'Not Relevant'
+p4792
+sS'592941424301056001'
+p4793
+S'Not Relevant'
+p4794
+sS'592589910743257088'
+p4795
+S'Not Relevant'
+p4796
+sS'592706673166438401'
+p4797
+S'Other Relevant Information'
+p4798
+sS'592903739427676160'
+p4799
+S'Response Efforts'
+p4800
+sS'593247489920106496'
+p4801
+S'Not Relevant'
+p4802
+sS'592886863960092672'
+p4803
+S'Not Relevant'
+p4804
+sS'592739797770346496'
+p4805
+S'Not Relevant'
+p4806
+sS'592611972769718273'
+p4807
+S'Not Relevant'
+p4808
+sS'592871530339643394'
+p4809
+S'Not Relevant'
+p4810
+sS'591997306930483200'
+p4811
+S'Not Relevant'
+p4812
+sS'592161242464194560'
+p4813
+S'Not Relevant'
+p4814
+sS'592687987521167361'
+p4815
+S'Other Relevant Information'
+p4816
+sS'593221426804428800'
+p4817
+S'Not Relevant'
+p4818
+sS'593034090984570882'
+p4819
+S'Response Efforts'
+p4820
+sS'592073938378731520'
+p4821
+S'Not related or irrelevant'
+p4822
+sS'593009117368819712'
+p4823
+S'Not Relevant'
+p4824
+sS'592945335036674049'
+p4825
+S'Not Relevant'
+p4826
+sS'592988795395448832'
+p4827
+S'Not Relevant'
+p4828
+sS'592073310172618752'
+p4829
+S'Sympathy and emotional support'
+p4830
+sS'591907032774508544'
+p4831
+S'Infrastructure and utilities'
+p4832
+sS'591962547349278720'
+p4833
+S'Sympathy and emotional support'
+p4834
+sS'592754084844851200'
+p4835
+S'Not Relevant'
+p4836
+sS'591915479691702272'
+p4837
+S'Other relevant information'
+p4838
+sS'592650292912529408'
+p4839
+S'Not Relevant'
+p4840
+sS'592963614530605056'
+p4841
+S'Not Relevant'
+p4842
+sS'592071480567066626'
+p4843
+S'Other relevant information'
+p4844
+sS'592655839351218176'
+p4845
+S'Not Relevant'
+p4846
+sS'593015144000692224'
+p4847
+S'Not Relevant'
+p4848
+sS'592737159808966658'
+p4849
+S'Not Relevant'
+p4850
+sS'592959072351072256'
+p4851
+S'Other Relevant Information'
+p4852
+sS'593008905359388672'
+p4853
+S'Not Relevant'
+p4854
+sS'593019787145412610'
+p4855
+S'Not Relevant'
+p4856
+sS'591920325346074624'
+p4857
+S'Not related or irrelevant'
+p4858
+sS'592943955605524480'
+p4859
+S'Not Relevant'
+p4860
+sS'593163964231581696'
+p4861
+S'Not Relevant'
+p4862
+sS'592706241337634816'
+p4863
+S'Not Relevant'
+p4864
+sS'591963091836928000'
+p4865
+S'Sympathy and emotional support'
+p4866
+sS'592165847197618176'
+p4867
+S'Not Relevant'
+p4868
+sS'592691611336908802'
+p4869
+S'Not Relevant'
+p4870
+sS'592085690663342080'
+p4871
+S'Other relevant information'
+p4872
+sS'592864250399424513'
+p4873
+S'Not Relevant'
+p4874
+sS'592977461920563200'
+p4875
+S'Not Relevant'
+p4876
+sS'593257841496092673'
+p4877
+S'Not Relevant'
+p4878
+sS'592986194377613312'
+p4879
+S'Other Relevant Information'
+p4880
+sS'592804578854313985'
+p4881
+S'Not Relevant'
+p4882
+sS'592719825186721792'
+p4883
+S'Response Efforts'
+p4884
+sS'592819662385238017'
+p4885
+S'Not Relevant'
+p4886
+sS'592652150431330305'
+p4887
+S'Not Relevant'
+p4888
+sS'592073720690298881'
+p4889
+S'Sympathy and emotional support'
+p4890
+sS'592922242473926656'
+p4891
+S'Not Relevant'
+p4892
+sS'592589741557690368'
+p4893
+S'Not Relevant'
+p4894
+sS'592594156087693312'
+p4895
+S'Not Relevant'
+p4896
+sS'592962916447555584'
+p4897
+S'Response Efforts'
+p4898
+sS'592685256618221568'
+p4899
+S'Response Efforts'
+p4900
+sS'592073931890233344'
+p4901
+S'Not related or irrelevant'
+p4902
+sS'591991131874918400'
+p4903
+S'Not Relevant'
+p4904
+sS'592129792633393154'
+p4905
+S'Response Efforts'
+p4906
+sS'591960962409885696'
+p4907
+S'Sympathy and emotional support'
+p4908
+sS'593005460632039424'
+p4909
+S'Not Relevant'
+p4910
+sS'592710066610020354'
+p4911
+S'Response Efforts'
+p4912
+sS'592671363980210178'
+p4913
+S'Not Relevant'
+p4914
+sS'592863804360368128'
+p4915
+S'Not Relevant'
+p4916
+sS'592650246628503553'
+p4917
+S'Response Efforts'
+p4918
+sS'592759449942634497'
+p4919
+S'Not Relevant'
+p4920
+sS'592594170742591488'
+p4921
+S'Not Relevant'
+p4922
+sS'592075895562731520'
+p4923
+S'Not related or irrelevant'
+p4924
+sS'592642215178018816'
+p4925
+S'Not Relevant'
+p4926
+sS'592814245261221888'
+p4927
+S'Not Relevant'
+p4928
+sS'592613133878829057'
+p4929
+S'Not Relevant'
+p4930
+sS'592648710707752960'
+p4931
+S'Response Efforts'
+p4932
+sS'592602515356585984'
+p4933
+S'Response Efforts'
+p4934
+sS'592809449754099713'
+p4935
+S'Not Relevant'
+p4936
+sS'592593052927012864'
+p4937
+S'Response Efforts'
+p4938
+sS'592789506094411777'
+p4939
+S'Not Relevant'
+p4940
+sS'592593107595722753'
+p4941
+S'Response Efforts'
+p4942
+sS'592946599183126530'
+p4943
+S'Other Relevant Information'
+p4944
+sS'592589777137836032'
+p4945
+S'Not Relevant'
+p4946
+sS'593043167718481920'
+p4947
+S'Not Relevant'
+p4948
+sS'592796402310377473'
+p4949
+S'Not Relevant'
+p4950
+sS'591919257321152512'
+p4951
+S'Other relevant information'
+p4952
+sS'592613244705107968'
+p4953
+S'Urgent Needs'
+p4954
+sS'592642385990946818'
+p4955
+S'Not Relevant'
+p4956
+sS'592089399812333568'
+p4957
+S'Not Relevant'
+p4958
+sS'592625232365518848'
+p4959
+S'Not Relevant'
+p4960
+sS'592942682281938944'
+p4961
+S'Not Relevant'
+p4962
+sS'592072299408297984'
+p4963
+S'Sympathy and emotional support'
+p4964
+sS'592162109472944130'
+p4965
+S'Not Relevant'
+p4966
+sS'591964898537660417'
+p4967
+S'Infrastructure damage'
+p4968
+sS'592161568139419650'
+p4969
+S'Not Relevant'
+p4970
+sS'592740717144973314'
+p4971
+S'Not Relevant'
+p4972
+sS'592593544860282880'
+p4973
+S'Not Relevant'
+p4974
+sS'593192916803317761'
+p4975
+S'Not Relevant'
+p4976
+sS'592598697063620608'
+p4977
+S'Not Relevant'
+p4978
+sS'592588986184413184'
+p4979
+S'Response Efforts'
+p4980
+sS'592791306516242433'
+p4981
+S'Not Relevant'
+p4982
+sS'592592031618244609'
+p4983
+S'Not Relevant'
+p4984
+sS'592892586748223489'
+p4985
+S'Not Relevant'
+p4986
+sS'592701981027913728'
+p4987
+S'Not Relevant'
+p4988
+sS'593038483037392898'
+p4989
+S'Not Relevant'
+p4990
+sS'592628988171972609'
+p4991
+S'Not Relevant'
+p4992
+sS'592895742030827521'
+p4993
+S'Response Efforts'
+p4994
+sS'592674224214568960'
+p4995
+S'Not Relevant'
+p4996
+sS'592902818677301248'
+p4997
+S'Not Relevant'
+p4998
+sS'592590601951977472'
+p4999
+S'Response Efforts'
+p5000
+sS'592703324446728193'
+p5001
+S'Not Relevant'
+p5002
+sS'592828445102624768'
+p5003
+S'Other Relevant Information'
+p5004
+sS'591903857657151488'
+p5005
+S'Sympathy and emotional support'
+p5006
+sS'592590476009549824'
+p5007
+S'Urgent Needs'
+p5008
+sS'592760459339628544'
+p5009
+S'Not Relevant'
+p5010
+sS'592077248024436736'
+p5011
+S'Sympathy and emotional support'
+p5012
+sS'592984816938680320'
+p5013
+S'Not Relevant'
+p5014
+sS'592740008307597312'
+p5015
+S'Not Relevant'
+p5016
+sS'592762479794647040'
+p5017
+S'Not Relevant'
+p5018
+sS'592610162466226176'
+p5019
+S'Response Efforts'
+p5020
+sS'593218330674143232'
+p5021
+S'Other Relevant Information'
+p5022
+sS'592612687244210176'
+p5023
+S'Not Relevant'
+p5024
+sS'593032656897462273'
+p5025
+S'Not Relevant'
+p5026
+sS'592592976129368064'
+p5027
+S'Infrastructure Damage'
+p5028
+sS'592166032158150656'
+p5029
+S'Response Efforts'
+p5030
+sS'592072236334383104'
+p5031
+S'Not related or irrelevant'
+p5032
+sS'592928944501821441'
+p5033
+S'Other Relevant Information'
+p5034
+sS'592813894340587522'
+p5035
+S'Not Relevant'
+p5036
+sS'592588899404226560'
+p5037
+S'Not Relevant'
+p5038
+sS'592665058943066113'
+p5039
+S'Not Relevant'
+p5040
+sS'592768475422183424'
+p5041
+S'Not Relevant'
+p5042
+sS'592164889247895552'
+p5043
+S'Not Relevant'
+p5044
+sS'592072242458066944'
+p5045
+S'Not related or irrelevant'
+p5046
+sS'592590617475059713'
+p5047
+S'Not Relevant'
+p5048
+sS'592076522133057536'
+p5049
+S'Money'
+p5050
+sS'592693860821786624'
+p5051
+S'Not Relevant'
+p5052
+sS'592742745950842880'
+p5053
+S'Urgent Needs'
+p5054
+sS'592768086161412097'
+p5055
+S'Not Relevant'
+p5056
+sS'592691371049361408'
+p5057
+S'Not Relevant'
+p5058
+sS'592795139820670976'
+p5059
+S'Not Relevant'
+p5060
+sS'592638916911603712'
+p5061
+S'Not Relevant'
+p5062
+sS'592702049197944832'
+p5063
+S'Not Relevant'
+p5064
+sS'592793217856315393'
+p5065
+S'Not Relevant'
+p5066
+sS'593038697689423873'
+p5067
+S'Not Relevant'
+p5068
+sS'592815767151910913'
+p5069
+S'Not Relevant'
+p5070
+sS'592592445063344128'
+p5071
+S'Not Relevant'
+p5072
+sS'592749230126702592'
+p5073
+S'Not Relevant'
+p5074
+sS'591912704547381248'
+p5075
+S'Other relevant information'
+p5076
+sS'592680375459151872'
+p5077
+S'Not Relevant'
+p5078
+sS'593018922460270592'
+p5079
+S'Not Relevant'
+p5080
+sS'592785018809917441'
+p5081
+S'Not Relevant'
+p5082
+sS'591919041008291840'
+p5083
+S'Sympathy and emotional support'
+p5084
+sS'592750051262337025'
+p5085
+S'Not Relevant'
+p5086
+sS'593205061712519173'
+p5087
+S'Not Relevant'
+p5088
+sS'593149174255751168'
+p5089
+S'Not Relevant'
+p5090
+sS'591910835930312704'
+p5091
+S'Other relevant information'
+p5092
+sS'592794720830623746'
+p5093
+S'Not Relevant'
+p5094
+sS'592195126232895488'
+p5095
+S'Not Relevant'
+p5096
+sS'593231326339141632'
+p5097
+S'Response Efforts'
+p5098
+sS'592909696798949376'
+p5099
+S'Response Efforts'
+p5100
+sS'592072700128002048'
+p5101
+S'Infrastructure and utilities'
+p5102
+sS'592979972970520576'
+p5103
+S'Other Relevant Information'
+p5104
+sS'592915865927987200'
+p5105
+S'Not Relevant'
+p5106
+sS'592744583244750848'
+p5107
+S'Not Relevant'
+p5108
+sS'592811910560686081'
+p5109
+S'Not Relevant'
+p5110
+sS'591911076700106752'
+p5111
+S'Not related or irrelevant'
+p5112
+sS'591910984182308864'
+p5113
+S'Other relevant information'
+p5114
+sS'592656405934510080'
+p5115
+S'Not Relevant'
+p5116
+sS'592707784371793921'
+p5117
+S'Not Relevant'
+p5118
+sS'591964079180226561'
+p5119
+S'Sympathy and emotional support'
+p5120
+sS'591918219767713792'
+p5121
+S'Volunteer or professional services'
+p5122
+sS'592869228342018048'
+p5123
+S'Not Relevant'
+p5124
+sS'592297027981148160'
+p5125
+S'Other Relevant Information'
+p5126
+sS'592695552871145472'
+p5127
+S'Not Relevant'
+p5128
+sS'592075922871865345'
+p5129
+S'"Missing'
+p5130
+sS'592861959051223040'
+p5131
+S'Not Relevant'
+p5132
+sS'591961049290571776'
+p5133
+S'Infrastructure and utilities'
+p5134
+sS'592746700743286784'
+p5135
+S'Not Relevant'
+p5136
+sS'592649816917815297'
+p5137
+S'Response Efforts'
+p5138
+sS'592071378104365056'
+p5139
+S'Sympathy and emotional support'
+p5140
+sS'592932808202526720'
+p5141
+S'Not Relevant'
+p5142
+sS'592590522537082880'
+p5143
+S'Response Efforts'
+p5144
+sS'592738995374845952'
+p5145
+S'Not Relevant'
+p5146
+sS'592759417155772417'
+p5147
+S'Not Relevant'
+p5148
+sS'592938123656601600'
+p5149
+S'Response Efforts'
+p5150
+sS'593005310266179584'
+p5151
+S'Not Relevant'
+p5152
+sS'592738140688752640'
+p5153
+S'Not Relevant'
+p5154
+sS'592963926238855168'
+p5155
+S'Other Relevant Information'
+p5156
+sS'592102066924953600'
+p5157
+S'Sympathy and emotional support'
+p5158
+sS'591985810066440192'
+p5159
+S'Other Relevant Information'
+p5160
+sS'592594011812188160'
+p5161
+S'Infrastructure Damage'
+p5162
+sS'592084544196616192'
+p5163
+S'Other relevant information'
+p5164
+sS'592694584607670274'
+p5165
+S'Not Relevant'
+p5166
+sS'591919818149888000'
+p5167
+S'Not related or irrelevant'
+p5168
+sS'592705484718809088'
+p5169
+S'Not Relevant'
+p5170
+sS'592955670082662400'
+p5171
+S'Infrastructure Damage'
+p5172
+sS'592963889509326849'
+p5173
+S'Not Relevant'
+p5174
+sS'592770128229605377'
+p5175
+S'Not Relevant'
+p5176
+sS'592950142485065728'
+p5177
+S'Not Relevant'
+p5178
+sS'591915357977227265'
+p5179
+S'Not related or irrelevant'
+p5180
+sS'592703377097760768'
+p5181
+S'Not Relevant'
+p5182
+sS'592757002020990977'
+p5183
+S'Not Relevant'
+p5184
+sS'593180695037669376'
+p5185
+S'Not Relevant'
+p5186
+sS'593183454847631360'
+p5187
+S'Not Relevant'
+p5188
+sS'592592861272547328'
+p5189
+S'Not Relevant'
+p5190
+sS'592591998239969281'
+p5191
+S'Other Relevant Information'
+p5192
+sS'592594214971678720'
+p5193
+S'Not Relevant'
+p5194
+sS'592904788947378176'
+p5195
+S'Not Relevant'
+p5196
+sS'592075135495995392'
+p5197
+S'Sympathy and emotional support'
+p5198
+sS'593034832759943169'
+p5199
+S'Not Relevant'
+p5200
+sS'592126072700817408'
+p5201
+S'Not Relevant'
+p5202
+sS'592593880710664193'
+p5203
+S'Not Relevant'
+p5204
+sS'592589144045432833'
+p5205
+S'Not Relevant'
+p5206
+sS'592075555178164224'
+p5207
+S'Volunteer or professional services'
+p5208
+sS'592669460403777537'
+p5209
+S'Not Relevant'
+p5210
+sS'592733177493516288'
+p5211
+S'Other Relevant Information'
+p5212
+sS'592594028278845440'
+p5213
+S'Not Relevant'
+p5214
+sS'592589889742438400'
+p5215
+S'Not Relevant'
+p5216
+sS'592594741029511168'
+p5217
+S'Not Relevant'
+p5218
+sS'592089462034694144'
+p5219
+S'Response Efforts'
+p5220
+sS'591915757946167296'
+p5221
+S'Sympathy and emotional support'
+p5222
+sS'592870894730616833'
+p5223
+S'Not Relevant'
+p5224
+sS'592673367708295168'
+p5225
+S'Other Relevant Information'
+p5226
+sS'592988361565949952'
+p5227
+S'Not Relevant'
+p5228
+sS'592800216673329153'
+p5229
+S'Not Relevant'
+p5230
+sS'592914489500180480'
+p5231
+S'Not Relevant'
+p5232
+sS'592834313449766912'
+p5233
+S'Not Relevant'
+p5234
+sS'593007821391802368'
+p5235
+S'Not Relevant'
+p5236
+sS'592671244803284993'
+p5237
+S'Not Relevant'
+p5238
+sS'592945263771287552'
+p5239
+S'Not Relevant'
+p5240
+sS'592643941645864960'
+p5241
+S'Not Relevant'
+p5242
+sS'593180424278441984'
+p5243
+S'Not Relevant'
+p5244
+sS'592737523740344320'
+p5245
+S'Not Relevant'
+p5246
+sS'592594080724430848'
+p5247
+S'Not Relevant'
+p5248
+sS'592636618818736128'
+p5249
+S'Not Relevant'
+p5250
+sS'592744571156754432'
+p5251
+S'Other Relevant Information'
+p5252
+sS'592751411613544449'
+p5253
+S'Not Relevant'
+p5254
+sS'592720161179860993'
+p5255
+S'Other Relevant Information'
+p5256
+sS'592592927651684352'
+p5257
+S'Not Relevant'
+p5258
+sS'592693296855678976'
+p5259
+S'Not Relevant'
+p5260
+sS'592790591865548800'
+p5261
+S'Not Relevant'
+p5262
+sS'592780035213373441'
+p5263
+S'Not Relevant'
+p5264
+sS'592807518641991683'
+p5265
+S'Not Relevant'
+p5266
+sS'592200621639340033'
+p5267
+S'Not Relevant'
+p5268
+sS'592071074034032640'
+p5269
+S'Sympathy and emotional support'
+p5270
+sS'592805974785826816'
+p5271
+S'Not Relevant'
+p5272
+sS'592592105626710016'
+p5273
+S'Not Relevant'
+p5274
+sS'592652119041245184'
+p5275
+S'Not Relevant'
+p5276
+sS'592161422219554817'
+p5277
+S'Not Relevant'
+p5278
+sS'592760355765526528'
+p5279
+S'Other Relevant Information'
+p5280
+sS'592075627739611136'
+p5281
+S'Not related or irrelevant'
+p5282
+sS'593038666282434561'
+p5283
+S'Not Relevant'
+p5284
+sS'592942103296135168'
+p5285
+S'Urgent Needs'
+p5286
+sS'592703829168259072'
+p5287
+S'Infrastructure Damage'
+p5288
+sS'592810084369047553'
+p5289
+S'Not Relevant'
+p5290
+sS'592588910380904448'
+p5291
+S'Response Efforts'
+p5292
+sS'592681430767030272'
+p5293
+S'Not Relevant'
+p5294
+sS'592618816376471552'
+p5295
+S'Not Relevant'
+p5296
+sS'591907059559464962'
+p5297
+S'Other relevant information'
+p5298
+sS'592197898105946112'
+p5299
+S'Other Relevant Information'
+p5300
+sS'592102682527043585'
+p5301
+S'Infrastructure Damage'
+p5302
+sS'591995253588004866'
+p5303
+S'Response Efforts'
+p5304
+sS'592198196421492736'
+p5305
+S'Other Relevant Information'
+p5306
+sS'592980294157885440'
+p5307
+S'Not Relevant'
+p5308
+sS'592162879442300928'
+p5309
+S'Not Relevant'
+p5310
+sS'592680274951036928'
+p5311
+S'Not Relevant'
+p5312
+sS'591908141584945152'
+p5313
+S'Personal updates'
+p5314
+sS'592703702223425537'
+p5315
+S'Response Efforts'
+p5316
+sS'591947989792464898'
+p5317
+S'Volunteer or professional services'
+p5318
+sS'593150004912594944'
+p5319
+S'Not Relevant'
+p5320
+sS'592881330507141120'
+p5321
+S'Not Relevant'
+p5322
+sS'592658601547825152'
+p5323
+S'Not Relevant'
+p5324
+sS'592784951910727680'
+p5325
+S'Not Relevant'
+p5326
+sS'592590660076642304'
+p5327
+S'Not Relevant'
+p5328
+sS'592670021853323265'
+p5329
+S'Response Efforts'
+p5330
+sS'592924092669497345'
+p5331
+S'Other Relevant Information'
+p5332
+sS'593156661952536576'
+p5333
+S'Not Relevant'
+p5334
+sS'592872089381634049'
+p5335
+S'Not Relevant'
+p5336
+sS'592702434562150402'
+p5337
+S'Not Relevant'
+p5338
+sS'591916216366800898'
+p5339
+S'Other relevant information'
+p5340
+sS'593019260185673730'
+p5341
+S'Other Relevant Information'
+p5342
+sS'592988788135227392'
+p5343
+S'Not Relevant'
+p5344
+sS'592981856993218561'
+p5345
+S'Not Relevant'
+p5346
+sS'592986820448690176'
+p5347
+S'Not Relevant'
+p5348
+sS'592863579692519424'
+p5349
+S'Not Relevant'
+p5350
+sS'592681938823032832'
+p5351
+S'Not Relevant'
+p5352
+sS'592983799824195584'
+p5353
+S'Not Relevant'
+p5354
+sS'592073571771359233'
+p5355
+S'Sympathy and emotional support'
+p5356
+sS'593036181480329216'
+p5357
+S'Not Relevant'
+p5358
+sS'592819352921047041'
+p5359
+S'Not Relevant'
+p5360
+sS'592917166703292416'
+p5361
+S'Not Relevant'
+p5362
+sS'592922175679635456'
+p5363
+S'Not Relevant'
+p5364
+sS'592162407541121024'
+p5365
+S'Not Relevant'
+p5366
+sS'592125128890314753'
+p5367
+S'Response Efforts'
+p5368
+sS'592681145277485056'
+p5369
+S'Response Efforts'
+p5370
+sS'593215698261901312'
+p5371
+S'Not Relevant'
+p5372
+sS'592593627982888960'
+p5373
+S'Not Relevant'
+p5374
+sS'591961929603620865'
+p5375
+S'Volunteer or professional services'
+p5376
+sS'592998669076537344'
+p5377
+S'Not Relevant'
+p5378
+sS'592594632695009280'
+p5379
+S'Not Relevant'
+p5380
+sS'592834327609749504'
+p5381
+S'Not Relevant'
+p5382
+sS'592616622281641984'
+p5383
+S'Not Relevant'
+p5384
+sS'592591143856173056'
+p5385
+S'Not Relevant'
+p5386
+sS'592995207026765824'
+p5387
+S'Not Relevant'
+p5388
+sS'592597629885763584'
+p5389
+S'Not Relevant'
+p5390
+sS'592122525666140160'
+p5391
+S'Not Relevant'
+p5392
+sS'592864067775246336'
+p5393
+S'Not Relevant'
+p5394
+sS'592624864328065024'
+p5395
+S'Not Relevant'
+p5396
+sS'592911878810132481'
+p5397
+S'Response Efforts'
+p5398
+sS'591914992103923712'
+p5399
+S'Not related or irrelevant'
+p5400
+sS'592593794182172673'
+p5401
+S'Not Relevant'
+p5402
+sS'592642937231577088'
+p5403
+S'Not Relevant'
+p5404
+sS'591961172154327041'
+p5405
+S'Other relevant information'
+p5406
+sS'592693656697602053'
+p5407
+S'Not Relevant'
+p5408
+sS'592608289562701825'
+p5409
+S'Not Relevant'
+p5410
+sS'592071937465135104'
+p5411
+S'Sympathy and emotional support'
+p5412
+sS'592774480621076480'
+p5413
+S'Not Relevant'
+p5414
+sS'592592127382593536'
+p5415
+S'Response Efforts'
+p5416
+sS'592890971815342080'
+p5417
+S'Not Relevant'
+p5418
+sS'591909985598189569'
+p5419
+S'Other relevant information'
+p5420
+sS'592825703017623552'
+p5421
+S'Not Relevant'
+p5422
+sS'592161432914894848'
+p5423
+S'Not Relevant'
+p5424
+sS'592886079071588353'
+p5425
+S'Not Relevant'
+p5426
+sS'592867954976493570'
+p5427
+S'Not Relevant'
+p5428
+sS'592602786782666752'
+p5429
+S'Response Efforts'
+p5430
+sS'592593305252171776'
+p5431
+S'Other Relevant Information'
+p5432
+sS'592960175322992640'
+p5433
+S'Not Relevant'
+p5434
+sS'592179388482850816'
+p5435
+S'Not Relevant'
+p5436
+sS'592593395966586881'
+p5437
+S'Not Relevant'
+p5438
+sS'593261661546487808'
+p5439
+S'Not Relevant'
+p5440
+sS'592639806909206528'
+p5441
+S'Other Relevant Information'
+p5442
+sS'592695443420745728'
+p5443
+S'Not Relevant'
+p5444
+sS'592810328234274816'
+p5445
+S'Not Relevant'
+p5446
+sS'592799670742691843'
+p5447
+S'Not Relevant'
+p5448
+sS'593011463465410560'
+p5449
+S'Not Relevant'
+p5450
+sS'591915499480489984'
+p5451
+S'Sympathy and emotional support'
+p5452
+sS'592953627490279424'
+p5453
+S'Not Relevant'
+p5454
+sS'592701556283318273'
+p5455
+S'Not Relevant'
+p5456
+sS'592631179238584320'
+p5457
+S'Urgent Needs'
+p5458
+sS'592592799020625920'
+p5459
+S'Other Relevant Information'
+p5460
+sS'592900430415470592'
+p5461
+S'Other Relevant Information'
+p5462
+sS'592596971560501248'
+p5463
+S'Not Relevant'
+p5464
+sS'592899519186100224'
+p5465
+S'Not Relevant'
+p5466
+sS'592765637484773377'
+p5467
+S'Not Relevant'
+p5468
+sS'592872872001015808'
+p5469
+S'Not Relevant'
+p5470
+sS'592159396274143233'
+p5471
+S'Not Relevant'
+p5472
+sS'593019652332232704'
+p5473
+S'Not Relevant'
+p5474
+sS'592679979286142977'
+p5475
+S'Not Relevant'
+p5476
+sS'592693324869402624'
+p5477
+S'Not Relevant'
+p5478
+sS'592157386325954560'
+p5479
+S'Other Relevant Information'
+p5480
+sS'592608989474488320'
+p5481
+S'Response Efforts'
+p5482
+sS'593160598508077056'
+p5483
+S'Not Relevant'
+p5484
+sS'592602523212611584'
+p5485
+S'Not Relevant'
+p5486
+sS'592602600194707456'
+p5487
+S'Not Relevant'
+p5488
+sS'592621997399539713'
+p5489
+S'Not Relevant'
+p5490
+sS'592126614084784128'
+p5491
+S'Other Relevant Information'
+p5492
+sS'591963864415219712'
+p5493
+S'Volunteer or professional services'
+p5494
+sS'592161147098279936'
+p5495
+S'Not Relevant'
+p5496
+sS'592705411389779971'
+p5497
+S'Not Relevant'
+p5498
+sS'592692799734214657'
+p5499
+S'Response Efforts'
+p5500
+sS'593022071531274240'
+p5501
+S'Not Relevant'
+p5502
+sS'592696384916213760'
+p5503
+S'Response Efforts'
+p5504
+sS'592688945336553474'
+p5505
+S'Not Relevant'
+p5506
+sS'592069765704896513'
+p5507
+S'Not related or irrelevant'
+p5508
+sS'592159921543651330'
+p5509
+S'Not Relevant'
+p5510
+sS'592648881214779392'
+p5511
+S'Not Relevant'
+p5512
+sS'592793738277220352'
+p5513
+S'Not Relevant'
+p5514
+sS'592680924183175169'
+p5515
+S'Response Efforts'
+p5516
+sS'592075481039708161'
+p5517
+S'Money'
+p5518
+sS'592626416375566337'
+p5519
+S'Not Relevant'
+p5520
+sS'592088462611746816'
+p5521
+S'Response Efforts'
+p5522
+sS'592072710735421442'
+p5523
+S'Sympathy and emotional support'
+p5524
+sS'592611351526133761'
+p5525
+S'Not Relevant'
+p5526
+sS'592635880000499712'
+p5527
+S'Not Relevant'
+p5528
+sS'592163664800686080'
+p5529
+S'Not Relevant'
+p5530
+sS'592967548829769728'
+p5531
+S'Not Relevant'
+p5532
+sS'592631207722033152'
+p5533
+S'Not Relevant'
+p5534
+sS'591911568390000640'
+p5535
+S'Sympathy and emotional support'
+p5536
+sS'592634674385588225'
+p5537
+S'Not Relevant'
+p5538
+sS'592643085122711552'
+p5539
+S'Response Efforts'
+p5540
+sS'592633673012371457'
+p5541
+S'Other Relevant Information'
+p5542
+sS'592589579653226496'
+p5543
+S'Not Relevant'
+p5544
+sS'592720602596794368'
+p5545
+S'Not Relevant'
+p5546
+sS'592076443787534336'
+p5547
+S'Not related or irrelevant'
+p5548
+sS'593017316595650561'
+p5549
+S'Other Relevant Information'
+p5550
+sS'592934635321036800'
+p5551
+S'Not Relevant'
+p5552
+sS'592637302570151936'
+p5553
+S'Not Relevant'
+p5554
+sS'592704023117111299'
+p5555
+S'Not Relevant'
+p5556
+sS'591991826418008065'
+p5557
+S'Not Relevant'
+p5558
+sS'592163656575528960'
+p5559
+S'Not Relevant'
+p5560
+sS'592896819476201473'
+p5561
+S'Not Relevant'
+p5562
+sS'593247846716936192'
+p5563
+S'Not Relevant'
+p5564
+sS'593031973741928448'
+p5565
+S'Not Relevant'
+p5566
+sS'593033012889063424'
+p5567
+S'Not Relevant'
+p5568
+sS'593024619277197314'
+p5569
+S'Not Relevant'
+p5570
+sS'592984357566029826'
+p5571
+S'Not Relevant'
+p5572
+sS'591977989132259329'
+p5573
+S'Sympathy and emotional support'
+p5574
+sS'593219354235277313'
+p5575
+S'Not Relevant'
+p5576
+sS'591960807950286848'
+p5577
+S'Sympathy and emotional support'
+p5578
+sS'592695593614581761'
+p5579
+S'Not Relevant'
+p5580
+sS'592071790815383553'
+p5581
+S'Volunteer or professional services'
+p5582
+sS'592704040582119425'
+p5583
+S'Response Efforts'
+p5584
+sS'593031532073226240'
+p5585
+S'Not Relevant'
+p5586
+sS'593170379390124032'
+p5587
+S'Not Relevant'
+p5588
+sS'591918460294144002'
+p5589
+S'Sympathy and emotional support'
+p5590
+sS'591961810909016068'
+p5591
+S'Other relevant information'
+p5592
+sS'593193327626969088'
+p5593
+S'Not Relevant'
+p5594
+sS'592169409986203648'
+p5595
+S'Other Relevant Information'
+p5596
+sS'592163698166222848'
+p5597
+S'Not Relevant'
+p5598
+sS'592809355885551616'
+p5599
+S'Not Relevant'
+p5600
+sS'591912745919848448'
+p5601
+S'Injured or dead people'
+p5602
+sS'593004018563186688'
+p5603
+S'Other Relevant Information'
+p5604
+sS'592749513594556416'
+p5605
+S'Response Efforts'
+p5606
+sS'592681071948517377'
+p5607
+S'Infrastructure Damage'
+p5608
+sS'592862610648891392'
+p5609
+S'Not Relevant'
+p5610
+sS'592793365156069376'
+p5611
+S'Response Efforts'
+p5612
+sS'592593011332153344'
+p5613
+S'Not Relevant'
+p5614
+sS'592805050998726656'
+p5615
+S'Not Relevant'
+p5616
+sS'592708549752594433'
+p5617
+S'Infrastructure Damage'
+p5618
+sS'592184039957659648'
+p5619
+S'Not Relevant'
+p5620
+sS'592671586508996608'
+p5621
+S'Not Relevant'
+p5622
+sS'592979893933117440'
+p5623
+S'Not Relevant'
+p5624
+sS'592989281058095105'
+p5625
+S'Not Relevant'
+p5626
+sS'592591753376505857'
+p5627
+S'Not Relevant'
+p5628
+sS'592591556080631808'
+p5629
+S'Not Relevant'
+p5630
+sS'592924959409872896'
+p5631
+S'Urgent Needs'
+p5632
+sS'592616549900427264'
+p5633
+S'Not Relevant'
+p5634
+sS'592626065366863872'
+p5635
+S'Urgent Needs'
+p5636
+sS'592975087831158784'
+p5637
+S'Not Relevant'
+p5638
+sS'592593837211721729'
+p5639
+S'Response Efforts'
+p5640
+sS'592905828908281858'
+p5641
+S'Not Relevant'
+p5642
+sS'592909741409566723'
+p5643
+S'Not Relevant'
+p5644
+sS'592591614356291584'
+p5645
+S'Other Relevant Information'
+p5646
+sS'592701411651117056'
+p5647
+S'Not Relevant'
+p5648
+sS'592197866069725185'
+p5649
+S'Response Efforts'
+p5650
+sS'591916479777345536'
+p5651
+S'Infrastructure and utilities'
+p5652
+sS'593216618064318465'
+p5653
+S'Not Relevant'
+p5654
+sS'592683019867181057'
+p5655
+S'Not Relevant'
+p5656
+sS'592086920504586241'
+p5657
+S'Sympathy and emotional support'
+p5658
+sS'592641681993826305'
+p5659
+S'Not Relevant'
+p5660
+sS'592590505583644672'
+p5661
+S'Not Relevant'
+p5662
+sS'592592899990286336'
+p5663
+S'Not Relevant'
+p5664
+sS'592735563695988737'
+p5665
+S'Not Relevant'
+p5666
+sS'592707995261411329'
+p5667
+S'Not Relevant'
+p5668
+sS'592593535720886272'
+p5669
+S'Not Relevant'
+p5670
+sS'592865290033229826'
+p5671
+S'Not Relevant'
+p5672
+sS'592592887705149441'
+p5673
+S'Not Relevant'
+p5674
+sS'592885947919966208'
+p5675
+S'Not Relevant'
+p5676
+sS'591980463369146368'
+p5677
+S'Sympathy and emotional support'
+p5678
+sS'592618708490653696'
+p5679
+S'Not Relevant'
+p5680
+sS'591988086659219456'
+p5681
+S'Response Efforts'
+p5682
+sS'593002518067679232'
+p5683
+S'Urgent Needs'
+p5684
+sS'592100152300544000'
+p5685
+S'Other relevant information'
+p5686
+sS'592589548682547200'
+p5687
+S'Response Efforts'
+p5688
+sS'592077463385219072'
+p5689
+S'Caution and advice'
+p5690
+sS'592075753849749504'
+p5691
+S'Sympathy and emotional support'
+p5692
+sS'593250304742674432'
+p5693
+S'Not Relevant'
+p5694
+sS'592955995699212288'
+p5695
+S'Not Relevant'
+p5696
+sS'592735552035811328'
+p5697
+S'Not Relevant'
+p5698
+sS'593029523253366784'
+p5699
+S'Not Relevant'
+p5700
+sS'592085896884682753'
+p5701
+S'Not related or irrelevant'
+p5702
+sS'592808111548792833'
+p5703
+S'Not Relevant'
+p5704
+sS'592602352227524608'
+p5705
+S'Infrastructure Damage'
+p5706
+sS'593257269573222401'
+p5707
+S'Not Relevant'
+p5708
+sS'592155966570762240'
+p5709
+S'Not Relevant'
+p5710
+sS'592792082693128194'
+p5711
+S'Response Efforts'
+p5712
+sS'591915135389700096'
+p5713
+S'Other relevant information'
+p5714
+sS'592591499923050496'
+p5715
+S'Response Efforts'
+p5716
+sS'592592020419452928'
+p5717
+S'Response Efforts'
+p5718
+sS'592922871502020608'
+p5719
+S'Not Relevant'
+p5720
+sS'592960317765750785'
+p5721
+S'Not Relevant'
+p5722
+sS'592789694280278016'
+p5723
+S'Not Relevant'
+p5724
+sS'592980420016246784'
+p5725
+S'Not Relevant'
+p5726
+sS'592164550499151874'
+p5727
+S'Infrastructure Damage'
+p5728
+sS'592626569757102080'
+p5729
+S'Response Efforts'
+p5730
+sS'592649671937363968'
+p5731
+S'Not Relevant'
+p5732
+sS'592641127854968832'
+p5733
+S'Not Relevant'
+p5734
+sS'592593703446917121'
+p5735
+S'Not Relevant'
+p5736
+sS'592651419154522112'
+p5737
+S'Not Relevant'
+p5738
+sS'592177996385153024'
+p5739
+S'Other Relevant Information'
+p5740
+sS'592593193146814464'
+p5741
+S'Urgent Needs'
+p5742
+sS'592593397480878080'
+p5743
+S'Not Relevant'
+p5744
+sS'592594360597778433'
+p5745
+S'Not Relevant'
+p5746
+sS'592590686052077568'
+p5747
+S'Not Relevant'
+p5748
+sS'591944612203266049'
+p5749
+S'Not relevant'
+p5750
+sS'593251914617204736'
+p5751
+S'Response Efforts'
+p5752
+sS'592915995498516480'
+p5753
+S'Not Relevant'
+p5754
+sS'592879690576228352'
+p5755
+S'Response Efforts'
+p5756
+sS'592765016488714241'
+p5757
+S'Not Relevant'
+p5758
+sS'592694210899419136'
+p5759
+S'Not Relevant'
+p5760
+sS'592981593909633024'
+p5761
+S'Not Relevant'
+p5762
+sS'592591393568096256'
+p5763
+S'Response Efforts'
+p5764
+sS'592073940111069184'
+p5765
+S'Sympathy and emotional support'
+p5766
+sS'593031282667323392'
+p5767
+S'Not Relevant'
+p5768
+sS'592648304309227520'
+p5769
+S'Not Relevant'
+p5770
+sS'592684323599450116'
+p5771
+S'Not Relevant'
+p5772
+sS'592181351798833152'
+p5773
+S'Not Relevant'
+p5774
+sS'593022535136092160'
+p5775
+S'Other Relevant Information'
+p5776
+sS'592757983836266498'
+p5777
+S'Not Relevant'
+p5778
+sS'592628864586645504'
+p5779
+S'Not Relevant'
+p5780
+sS'592068860846559232'
+p5781
+S'Sympathy and emotional support'
+p5782
+sS'592839255812087808'
+p5783
+S'Response Efforts'
+p5784
+sS'592917494207094784'
+p5785
+S'Not Relevant'
+p5786
+sS'592135374463442944'
+p5787
+S'Not Relevant'
+p5788
+sS'592845921190285314'
+p5789
+S'Not Relevant'
+p5790
+sS'592906503645966336'
+p5791
+S'Not Relevant'
+p5792
+sS'592921403474767872'
+p5793
+S'Not Relevant'
+p5794
+sS'592634792220467200'
+p5795
+S'Response Efforts'
+p5796
+sS'592070589004681217'
+p5797
+S'Not related or irrelevant'
+p5798
+sS'591911365557620736'
+p5799
+S'Other relevant information'
+p5800
+sS'592828748602417153'
+p5801
+S'Not Relevant'
+p5802
+sS'592592104288694272'
+p5803
+S'Response Efforts'
+p5804
+sS'591910863960834048'
+p5805
+S'Not related or irrelevant'
+p5806
+sS'592659034643234816'
+p5807
+S'Not Relevant'
+p5808
+sS'592086150170472448'
+p5809
+S'Sympathy and emotional support'
+p5810
+sS'593154328858263552'
+p5811
+S'Not Relevant'
+p5812
+sS'592701779495788544'
+p5813
+S'Not Relevant'
+p5814
+sS'592591227410722816'
+p5815
+S'Not Relevant'
+p5816
+sS'592588903581884416'
+p5817
+S'Response Efforts'
+p5818
+sS'592070319759822848'
+p5819
+S'Sympathy and emotional support'
+p5820
+sS'592594854418522113'
+p5821
+S'Not Relevant'
+p5822
+sS'592932833389375489'
+p5823
+S'Other Relevant Information'
+p5824
+sS'592589583428104192'
+p5825
+S'Not Relevant'
+p5826
+sS'592634088042795009'
+p5827
+S'Not Relevant'
+p5828
+sS'592083748105097217'
+p5829
+S'Sympathy and emotional support'
+p5830
+sS'592658200022929408'
+p5831
+S'Not Relevant'
+p5832
+sS'592594867303374848'
+p5833
+S'Not Relevant'
+p5834
+sS'592595109121753088'
+p5835
+S'Not Relevant'
+p5836
+sS'592876571901431809'
+p5837
+S'Not Relevant'
+p5838
+sS'592877317254414337'
+p5839
+S'Response Efforts'
+p5840
+sS'592692009602781184'
+p5841
+S'Not Relevant'
+p5842
+sS'592767697349431296'
+p5843
+S'Other Relevant Information'
+p5844
+sS'592891665419005953'
+p5845
+S'Not Relevant'
+p5846
+sS'591918232497324032'
+p5847
+S'Not related or irrelevant'
+p5848
+sS'592593994640535552'
+p5849
+S'Not Relevant'
+p5850
+sS'592924291064143872'
+p5851
+S'Not Relevant'
+p5852
+sS'592859169683873792'
+p5853
+S'Not Relevant'
+p5854
+sS'592755171760984070'
+p5855
+S'Not Relevant'
+p5856
+sS'592767557570002944'
+p5857
+S'Not Relevant'
+p5858
+sS'591906212108578816'
+p5859
+S'Infrastructure and utilities'
+p5860
+sS'592073899841425409'
+p5861
+S'Not related or irrelevant'
+p5862
+sS'592871712540205056'
+p5863
+S'Not Relevant'
+p5864
+sS'592901612802285570'
+p5865
+S'Not Relevant'
+p5866
+sS'592164387500208128'
+p5867
+S'Not Relevant'
+p5868
+sS'591908120080850944'
+p5869
+S'Injured or dead people'
+p5870
+sS'592692004544520192'
+p5871
+S'Not Relevant'
+p5872
+sS'592593791212605440'
+p5873
+S'Not Relevant'
+p5874
+sS'592688669082963969'
+p5875
+S'Not Relevant'
+p5876
+sS'592873423589810176'
+p5877
+S'Not Relevant'
+p5878
+sS'592658264011231232'
+p5879
+S'Not Relevant'
+p5880
+sS'591996245062733824'
+p5881
+S'Not Relevant'
+p5882
+sS'592592544468434944'
+p5883
+S'Not Relevant'
+p5884
+sS'592597279355310080'
+p5885
+S'Not Relevant'
+p5886
+sS'592596449159880704'
+p5887
+S'Not Relevant'
+p5888
+sS'592767377428865025'
+p5889
+S'Not Relevant'
+p5890
+sS'592888531816701952'
+p5891
+S'Not Relevant'
+p5892
+sS'593162345766989825'
+p5893
+S'Not Relevant'
+p5894
+sS'592607170350469120'
+p5895
+S'Urgent Needs'
+p5896
+sS'592100365102886912'
+p5897
+S'Not related or irrelevant'
+p5898
+sS'592876681469239300'
+p5899
+S'Not Relevant'
+p5900
+sS'592833846590185472'
+p5901
+S'Other Relevant Information'
+p5902
+sS'593255462642065408'
+p5903
+S'Not Relevant'
+p5904
+sS'592686518004756480'
+p5905
+S'Not Relevant'
+p5906
+sS'593004432415064064'
+p5907
+S'Infrastructure Damage'
+p5908
+sS'593198164871663616'
+p5909
+S'Not Relevant'
+p5910
+sS'592671506179747842'
+p5911
+S'Other Relevant Information'
+p5912
+sS'592833113832685571'
+p5913
+S'Not Relevant'
+p5914
+sS'592820784910970880'
+p5915
+S'Not Relevant'
+p5916
+sS'592747076183838721'
+p5917
+S'Not Relevant'
+p5918
+sS'592847727609913344'
+p5919
+S'Not Relevant'
+p5920
+sS'591967031056039937'
+p5921
+S'Caution and advice'
+p5922
+sS'591908136908230657'
+p5923
+S'Not related or irrelevant'
+p5924
+sS'592757622421467137'
+p5925
+S'Not Relevant'
+p5926
+sS'592602356375810048'
+p5927
+S'Response Efforts'
+p5928
+sS'593032071703965697'
+p5929
+S'Not Relevant'
+p5930
+sS'592591516364771329'
+p5931
+S'Response Efforts'
+p5932
+sS'592643312017768448'
+p5933
+S'Not Relevant'
+p5934
+sS'592819859634917378'
+p5935
+S'Not Relevant'
+p5936
+sS'592603755830378496'
+p5937
+S'Not Relevant'
+p5938
+sS'592594140044632064'
+p5939
+S'Response Efforts'
+p5940
+sS'592591457799667712'
+p5941
+S'Other Relevant Information'
+p5942
+sS'593198376642023426'
+p5943
+S'Not Relevant'
+p5944
+sS'592803973410758656'
+p5945
+S'Not Relevant'
+p5946
+sS'591997029611675651'
+p5947
+S'Response Efforts'
+p5948
+sS'592087960583073792'
+p5949
+S'Injured or dead people'
+p5950
+sS'591998767131275265'
+p5951
+S'Not Relevant'
+p5952
+sS'592912943123075072'
+p5953
+S'Not Relevant'
+p5954
+sS'591963851094130688'
+p5955
+S'Sympathy and emotional support'
+p5956
+sS'593004927581966337'
+p5957
+S'Not Relevant'
+p5958
+sS'592164813792530432'
+p5959
+S'Not Relevant'
+p5960
+sS'592996754808680449'
+p5961
+S'Not Relevant'
+p5962
+sS'592933914567573506'
+p5963
+S'Not Relevant'
+p5964
+sS'593025958246031360'
+p5965
+S'Not Relevant'
+p5966
+sS'592732280038252547'
+p5967
+S'Not Relevant'
+p5968
+sS'592773090867806208'
+p5969
+S'Not Relevant'
+p5970
+sS'592843714369814530'
+p5971
+S'Other Relevant Information'
+p5972
+sS'592986862395863043'
+p5973
+S'Not Relevant'
+p5974
+sS'592639774059442176'
+p5975
+S'Not Relevant'
+p5976
+sS'592979092850475008'
+p5977
+S'Not Relevant'
+p5978
+sS'592201015555919872'
+p5979
+S'Other Relevant Information'
+p5980
+sS'592591047844200448'
+p5981
+S'Not Relevant'
+p5982
+sS'592833185559486464'
+p5983
+S'Not Relevant'
+p5984
+sS'592631120820379649'
+p5985
+S'Not Relevant'
+p5986
+sS'592955745802526721'
+p5987
+S'Not Relevant'
+p5988
+sS'592617255868862464'
+p5989
+S'Other Relevant Information'
+p5990
+sS'593243930268958720'
+p5991
+S'Urgent Needs'
+p5992
+sS'592594034599661568'
+p5993
+S'Not Relevant'
+p5994
+sS'592594428134580224'
+p5995
+S'Not Relevant'
+p5996
+sS'592590385978986496'
+p5997
+S'Not Relevant'
+p5998
+sS'592129016917848064'
+p5999
+S'Not Relevant'
+p6000
+sS'592783610387812353'
+p6001
+S'Not Relevant'
+p6002
+sS'592590658189201408'
+p6003
+S'Not Relevant'
+p6004
+sS'592924706061164545'
+p6005
+S'Not Relevant'
+p6006
+sS'593169884428824576'
+p6007
+S'Not Relevant'
+p6008
+sS'592956477591040000'
+p6009
+S'Not Relevant'
+p6010
+sS'592085002269151233'
+p6011
+S'Other relevant information'
+p6012
+sS'591914732380033024'
+p6013
+S'Not related or irrelevant'
+p6014
+sS'592153730780438528'
+p6015
+S'Response Efforts'
+p6016
+sS'592738277796491264'
+p6017
+S'Not Relevant'
+p6018
+sS'592760075372101632'
+p6019
+S'Not Relevant'
+p6020
+sS'592915088367038465'
+p6021
+S'Not Relevant'
+p6022
+sS'592593791803990016'
+p6023
+S'Not Relevant'
+p6024
+sS'592912867881459712'
+p6025
+S'Not Relevant'
+p6026
+sS'593009593330049024'
+p6027
+S'Not Relevant'
+p6028
+sS'592732722126290947'
+p6029
+S'Not Relevant'
+p6030
+sS'592953341367422976'
+p6031
+S'Not Relevant'
+p6032
+sS'591963236678774785'
+p6033
+S'Sympathy and emotional support'
+p6034
+sS'592770711602786304'
+p6035
+S'Not Relevant'
+p6036
+sS'592887227530743808'
+p6037
+S'Infrastructure Damage'
+p6038
+sS'593182678901395456'
+p6039
+S'Not Relevant'
+p6040
+sS'592086058893856768'
+p6041
+S'Sympathy and emotional support'
+p6042
+sS'591911106475614208'
+p6043
+S'Other relevant information'
+p6044
+sS'591909114655027200'
+p6045
+S'Injured or dead people'
+p6046
+sS'592811188267917312'
+p6047
+S'Not Relevant'
+p6048
+sS'592590387321053184'
+p6049
+S'Not Relevant'
+p6050
+sS'592893815335288832'
+p6051
+S'Not Relevant'
+p6052
+sS'592591905059262464'
+p6053
+S'Not Relevant'
+p6054
+sS'592759002406252547'
+p6055
+S'Not Relevant'
+p6056
+sS'592958270911840256'
+p6057
+S'Not Relevant'
+p6058
+sS'592970088673726464'
+p6059
+S'Other Relevant Information'
+p6060
+sS'592979418198466560'
+p6061
+S'Not Relevant'
+p6062
+sS'592159532131844096'
+p6063
+S'Response Efforts'
+p6064
+sS'592686224822935553'
+p6065
+S'Not Relevant'
+p6066
+sS'592591402409689089'
+p6067
+S'Infrastructure Damage'
+p6068
+sS'593010358685540352'
+p6069
+S'Not Relevant'
+p6070
+sS'592736704341082112'
+p6071
+S'Not Relevant'
+p6072
+sS'593202083647660032'
+p6073
+S'Not Relevant'
+p6074
+sS'592974670023958528'
+p6075
+S'Other Relevant Information'
+p6076
+sS'592770006309548033'
+p6077
+S'Not Relevant'
+p6078
+sS'592945762037833728'
+p6079
+S'Response Efforts'
+p6080
+sS'592739925663035394'
+p6081
+S'Not Relevant'
+p6082
+sS'592075310142742528'
+p6083
+S'Sympathy and emotional support'
+p6084
+sS'592978300185739264'
+p6085
+S'Other Relevant Information'
+p6086
+sS'592862557934907393'
+p6087
+S'Response Efforts'
+p6088
+sS'593163892513202176'
+p6089
+S'Response Efforts'
+p6090
+sS'593006174154424320'
+p6091
+S'Not Relevant'
+p6092
+sS'592768914372820992'
+p6093
+S'Not Relevant'
+p6094
+sS'592781365306859521'
+p6095
+S'Other Relevant Information'
+p6096
+sS'592154332184838144'
+p6097
+S'Response Efforts'
+p6098
+sS'591919649421271041'
+p6099
+S'Not related or irrelevant'
+p6100
+sS'592758548536414208'
+p6101
+S'Not Relevant'
+p6102
+sS'592886119143972866'
+p6103
+S'Not Relevant'
+p6104
+sS'592813177823436802'
+p6105
+S'Not Relevant'
+p6106
+sS'591910488285417472'
+p6107
+S'Sympathy and emotional support'
+p6108
+sS'591903085670215681'
+p6109
+S'Sympathy and emotional support'
+p6110
+sS'591920008189476864'
+p6111
+S'Other relevant information'
+p6112
+sS'592656395398422528'
+p6113
+S'Response Efforts'
+p6114
+sS'592635783208509441'
+p6115
+S'Not Relevant'
+p6116
+sS'592914207852601345'
+p6117
+S'Not Relevant'
+p6118
+sS'592197973641175041'
+p6119
+S'Not Relevant'
+p6120
+sS'592832601250988032'
+p6121
+S'Not Relevant'
+p6122
+sS'592803454772506626'
+p6123
+S'Not Relevant'
+p6124
+sS'592695457526185986'
+p6125
+S'Not Relevant'
+p6126
+sS'592915719550939136'
+p6127
+S'Response Efforts'
+p6128
+sS'592085641955037184'
+p6129
+S'Sympathy and emotional support'
+p6130
+sS'592845233374797826'
+p6131
+S'Not Relevant'
+p6132
+sS'592807811161182208'
+p6133
+S'Not Relevant'
+p6134
+sS'592870293691092992'
+p6135
+S'Not Relevant'
+p6136
+sS'592590871519961088'
+p6137
+S'Not Relevant'
+p6138
+sS'592810688587964417'
+p6139
+S'Other Relevant Information'
+p6140
+sS'592620206607990784'
+p6141
+S'Response Efforts'
+p6142
+sS'592639172654931968'
+p6143
+S'Not Relevant'
+p6144
+sS'592591122238676992'
+p6145
+S'Not Relevant'
+p6146
+sS'592185436656668672'
+p6147
+S'Urgent Needs'
+p6148
+sS'592592786706321408'
+p6149
+S'Response Efforts'
+p6150
+sS'593005005382230016'
+p6151
+S'Not Relevant'
+p6152
+sS'592590996497653760'
+p6153
+S'Not Relevant'
+p6154
+sS'592160734085193728'
+p6155
+S'Response Efforts'
+p6156
+sS'591916047483076608'
+p6157
+S'Sympathy and emotional support'
+p6158
+sS'592612693586022401'
+p6159
+S'Not Relevant'
+p6160
+sS'592916101052268544'
+p6161
+S'Not Relevant'
+p6162
+sS'592611653365137408'
+p6163
+S'Other Relevant Information'
+p6164
+sS'592906999693758465'
+p6165
+S'Other Relevant Information'
+p6166
+sS'593181705214636033'
+p6167
+S'Not Relevant'
+p6168
+sS'592589560439156736'
+p6169
+S'Not Relevant'
+p6170
+sS'592589308596330496'
+p6171
+S'Other Relevant Information'
+p6172
+sS'592679713723809792'
+p6173
+S'Not Relevant'
+p6174
+sS'592590172866285568'
+p6175
+S'Not Relevant'
+p6176
+sS'592823368178671616'
+p6177
+S'Other Relevant Information'
+p6178
+sS'592168314253639684'
+p6179
+S'Not Relevant'
+p6180
+sS'592753823988457472'
+p6181
+S'Not Relevant'
+p6182
+sS'592601848810500096'
+p6183
+S'Other Relevant Information'
+p6184
+sS'592949125861224448'
+p6185
+S'Not Relevant'
+p6186
+sS'593021653405212673'
+p6187
+S'Not Relevant'
+p6188
+sS'591911756273856512'
+p6189
+S'Other relevant information'
+p6190
+sS'592890000573870081'
+p6191
+S'Not Relevant'
+p6192
+sS'592702842210787328'
+p6193
+S'Infrastructure Damage'
+p6194
+sS'592700814055088130'
+p6195
+S'Not Relevant'
+p6196
+sS'592818232773505024'
+p6197
+S'Not Relevant'
+p6198
+sS'592593374747566080'
+p6199
+S'Not Relevant'
+p6200
+sS'592085379810926592'
+p6201
+S'Not related or irrelevant'
+p6202
+sS'591920026841526273'
+p6203
+S'Infrastructure and utilities'
+p6204
+sS'592832165752213507'
+p6205
+S'Not Relevant'
+p6206
+sS'592158373052809216'
+p6207
+S'Not Relevant'
+p6208
+sS'592763497676681216'
+p6209
+S'Not Relevant'
+p6210
+sS'592640382879412224'
+p6211
+S'Not Relevant'
+p6212
+sS'592590959126253568'
+p6213
+S'Not Relevant'
+p6214
+sS'592879529913364482'
+p6215
+S'Not Relevant'
+p6216
+sS'592812929906581506'
+p6217
+S'Other Relevant Information'
+p6218
+sS'592592010571173889'
+p6219
+S'Not Relevant'
+p6220
+sS'592636256548495360'
+p6221
+S'Not Relevant'
+p6222
+sS'592591693435699200'
+p6223
+S'Response Efforts'
+p6224
+sS'592956722345553920'
+p6225
+S'Not Relevant'
+p6226
+sS'592589434366791680'
+p6227
+S'Not Relevant'
+p6228
+sS'592955092015435776'
+p6229
+S'Response Efforts'
+p6230
+sS'592913836228878336'
+p6231
+S'Response Efforts'
+p6232
+sS'592178773447024640'
+p6233
+S'Not Relevant'
+p6234
+sS'592648192065478656'
+p6235
+S'Not Relevant'
+p6236
+sS'592594808008409088'
+p6237
+S'Not Relevant'
+p6238
+sS'592683151987765250'
+p6239
+S'Not Relevant'
+p6240
+sS'592925817820356608'
+p6241
+S'Not Relevant'
+p6242
+sS'592589923787612160'
+p6243
+S'Not Relevant'
+p6244
+sS'592076184885821440'
+p6245
+S'Other relevant information'
+p6246
+sS'592964314761334784'
+p6247
+S'Response Efforts'
+p6248
+sS'592704859293556736'
+p6249
+S'Not Relevant'
+p6250
+sS'592594780317753344'
+p6251
+S'Not Relevant'
+p6252
+sS'593255082054946816'
+p6253
+S'Not Relevant'
+p6254
+sS'592956641437470720'
+p6255
+S'Not Relevant'
+p6256
+sS'593022248715296769'
+p6257
+S'Not Relevant'
+p6258
+sS'592798429623001090'
+p6259
+S'Not Relevant'
+p6260
+sS'592840148250918914'
+p6261
+S'Other Relevant Information'
+p6262
+sS'592905346085199876'
+p6263
+S'Not Relevant'
+p6264
+sS'592681775924703232'
+p6265
+S'Not Relevant'
+p6266
+sS'592625864073875456'
+p6267
+S'Not Relevant'
+p6268
+sS'592071122662785024'
+p6269
+S'Sympathy and emotional support'
+p6270
+sS'593019132624433153'
+p6271
+S'Not Relevant'
+p6272
+sS'592795639777513472'
+p6273
+S'Not Relevant'
+p6274
+sS'592167966210392064'
+p6275
+S'Other Relevant Information'
+p6276
+sS'591909472315920384'
+p6277
+S'Sympathy and emotional support'
+p6278
+sS'592913006951956481'
+p6279
+S'Not Relevant'
+p6280
+sS'592783044718768128'
+p6281
+S'Not Relevant'
+p6282
+sS'592592830356463616'
+p6283
+S'Not Relevant'
+p6284
+sS'592691380994056194'
+p6285
+S'Not Relevant'
+p6286
+sS'592801578928705538'
+p6287
+S'Not Relevant'
+p6288
+sS'592906849000812546'
+p6289
+S'Other Relevant Information'
+p6290
+sS'592087566846832640'
+p6291
+S'Sympathy and emotional support'
+p6292
+sS'592753735484473345'
+p6293
+S'Not Relevant'
+p6294
+sS'592933188340568064'
+p6295
+S'Not Relevant'
+p6296
+sS'592896680258883584'
+p6297
+S'Not Relevant'
+p6298
+sS'592838558840401923'
+p6299
+S'Response Efforts'
+p6300
+sS'593165028825542656'
+p6301
+S'Not Relevant'
+p6302
+sS'592156482293997568'
+p6303
+S'Not Relevant'
+p6304
+sS'592599362724761600'
+p6305
+S'Money'
+p6306
+sS'592967844465250304'
+p6307
+S'Not Relevant'
+p6308
+sS'592069581688205312'
+p6309
+S'Sympathy and emotional support'
+p6310
+sS'592074261117804545'
+p6311
+S'Not Relevant'
+p6312
+sS'592648502276182016'
+p6313
+S'Not Relevant'
+p6314
+sS'592846436364083200'
+p6315
+S'Response Efforts'
+p6316
+sS'592922618573004801'
+p6317
+S'Not Relevant'
+p6318
+sS'592686973187395586'
+p6319
+S'Not Relevant'
+p6320
+sS'593011427318833152'
+p6321
+S'Not Relevant'
+p6322
+sS'592130273581600770'
+p6323
+S'Not Relevant'
+p6324
+sS'592978282057969664'
+p6325
+S'Not Relevant'
+p6326
+sS'592083677481463808'
+p6327
+S'Other relevant information'
+p6328
+sS'592593795926994945'
+p6329
+S'Not Relevant'
+p6330
+sS'592372335459590146'
+p6331
+S'Not Relevant'
+p6332
+sS'592114609781243904'
+p6333
+S'Not Relevant'
+p6334
+sS'592594602370150400'
+p6335
+S'Not Relevant'
+p6336
+sS'593254631431634944'
+p6337
+S'Not Relevant'
+p6338
+sS'592684063980441600'
+p6339
+S'Not Relevant'
+p6340
+sS'592803581834702850'
+p6341
+S'Not Relevant'
+p6342
+sS'593165298737385472'
+p6343
+S'Not Relevant'
+p6344
+sS'592589669046456320'
+p6345
+S'Not Relevant'
+p6346
+sS'593234669396561921'
+p6347
+S'Not Relevant'
+p6348
+sS'592906255372578817'
+p6349
+S'Not Relevant'
+p6350
+sS'593256814713548801'
+p6351
+S'Infrastructure Damage'
+p6352
+sS'592827347478405120'
+p6353
+S'Not Relevant'
+p6354
+sS'592640112556580864'
+p6355
+S'Infrastructure Damage'
+p6356
+sS'592884558858756096'
+p6357
+S'Not Relevant'
+p6358
+sS'592888034867175426'
+p6359
+S'Not Relevant'
+p6360
+sS'592819994918019073'
+p6361
+S'Not Relevant'
+p6362
+sS'592589331711315968'
+p6363
+S'Infrastructure Damage'
+p6364
+sS'592975201232523264'
+p6365
+S'Not Relevant'
+p6366
+sS'592643203905511427'
+p6367
+S'Not Relevant'
+p6368
+sS'592946267820564481'
+p6369
+S'Not Relevant'
+p6370
+sS'592958285851938816'
+p6371
+S'Not Relevant'
+p6372
+sS'592988178165936128'
+p6373
+S'Not Relevant'
+p6374
+sS'593262717399478273'
+p6375
+S'Not Relevant'
+p6376
+sS'592593416636104704'
+p6377
+S'Not Relevant'
+p6378
+sS'592833801639829504'
+p6379
+S'Not Relevant'
+p6380
+sS'592908750077501440'
+p6381
+S'Not Relevant'
+p6382
+sS'592143872643366912'
+p6383
+S'Not Relevant'
+p6384
+sS'593010423017971712'
+p6385
+S'Response Efforts'
+p6386
+sS'592966097009188866'
+p6387
+S'Not Relevant'
+p6388
+sS'592806050593640448'
+p6389
+S'Not Relevant'
+p6390
+sS'592875074274856960'
+p6391
+S'Not Relevant'
+p6392
+sS'592637463325118464'
+p6393
+S'Not Relevant'
+p6394
+sS'592763356831952897'
+p6395
+S'Not Relevant'
+p6396
+sS'592158779006787584'
+p6397
+S'Response Efforts'
+p6398
+sS'592594518328881152'
+p6399
+S'Not Relevant'
+p6400
+sS'592621724966883328'
+p6401
+S'Not Relevant'
+p6402
+sS'592592262971920385'
+p6403
+S'Not Relevant'
+p6404
+sS'592128346483392512'
+p6405
+S'Not Relevant'
+p6406
+sS'592156282901016576'
+p6407
+S'Not Relevant'
+p6408
+sS'592182222867668992'
+p6409
+S'Response Efforts'
+p6410
+sS'593148209813450752'
+p6411
+S'Not Relevant'
+p6412
+sS'591963543655882752'
+p6413
+S'Infrastructure damage'
+p6414
+sS'592793924634304513'
+p6415
+S'Not Relevant'
+p6416
+sS'592816594532868096'
+p6417
+S'Not Relevant'
+p6418
+sS'592630262074212352'
+p6419
+S'Not Relevant'
+p6420
+sS'593025159524659200'
+p6421
+S'Response Efforts'
+p6422
+sS'591911677022572545'
+p6423
+S'Other relevant information'
+p6424
+sS'592595116801527808'
+p6425
+S'Urgent Needs'
+p6426
+sS'592635942009200640'
+p6427
+S'Response Efforts'
+p6428
+sS'593220503281803264'
+p6429
+S'Not Relevant'
+p6430
+sS'592911848736989184'
+p6431
+S'Not Relevant'
+p6432
+sS'592684753624702977'
+p6433
+S'Not Relevant'
+p6434
+sS'592164829751738369'
+p6435
+S'Not Relevant'
+p6436
+sS'592797863115157506'
+p6437
+S'Response Efforts'
+p6438
+sS'592591511151366145'
+p6439
+S'Not Relevant'
+p6440
+sS'592889072525438976'
+p6441
+S'Not Relevant'
+p6442
+sS'592621811113676802'
+p6443
+S'Not Relevant'
+p6444
+sS'591920306639343616'
+p6445
+S'Not related or irrelevant'
+p6446
+sS'592702204710125569'
+p6447
+S'Not Relevant'
+p6448
+sS'592592926145966080'
+p6449
+S'Response Efforts'
+p6450
+sS'592981193458642944'
+p6451
+S'Not Relevant'
+p6452
+sS'591918998243127297'
+p6453
+S'Personal updates'
+p6454
+sS'593263442024247296'
+p6455
+S'Not Relevant'
+p6456
+sS'593202118124699649'
+p6457
+S'Not Relevant'
+p6458
+sS'592999389683064832'
+p6459
+S'Not Relevant'
+p6460
+sS'592632951533219840'
+p6461
+S'Response Efforts'
+p6462
+sS'592910521017442305'
+p6463
+S'Not Relevant'
+p6464
+sS'592135098432036864'
+p6465
+S'Not Relevant'
+p6466
+sS'592950687786491904'
+p6467
+S'Not Relevant'
+p6468
+sS'591919740450279424'
+p6469
+S'Other relevant information'
+p6470
+sS'592972068771274753'
+p6471
+S'Not Relevant'
+p6472
+sS'592867173946765313'
+p6473
+S'Not Relevant'
+p6474
+sS'592828730269114368'
+p6475
+S'Not Relevant'
+p6476
+sS'592732376842805250'
+p6477
+S'Not Relevant'
+p6478
+sS'592836640378396672'
+p6479
+S'Not Relevant'
+p6480
+sS'592657209827393537'
+p6481
+S'Not Relevant'
+p6482
+sS'593231773443690496'
+p6483
+S'Other Relevant Information'
+p6484
+sS'591911075869696000'
+p6485
+S'Other relevant information'
+p6486
+sS'592847423178985472'
+p6487
+S'Not Relevant'
+p6488
+sS'592926359787188225'
+p6489
+S'Response Efforts'
+p6490
+sS'592938493648740352'
+p6491
+S'Not Relevant'
+p6492
+sS'592668786945355776'
+p6493
+S'Not Relevant'
+p6494
+sS'592588915267108864'
+p6495
+S'Not Relevant'
+p6496
+sS'592070566292680707'
+p6497
+S'Sympathy and emotional support'
+p6498
+sS'592672355807264770'
+p6499
+S'Not Relevant'
+p6500
+sS'592684467958972417'
+p6501
+S'Not Relevant'
+p6502
+sS'592861454912647168'
+p6503
+S'Not Relevant'
+p6504
+sS'592739297612189698'
+p6505
+S'Not Relevant'
+p6506
+sS'592833220149903362'
+p6507
+S'Not Relevant'
+p6508
+sS'592084816884994048'
+p6509
+S'Not related or irrelevant'
+p6510
+sS'592834934538133506'
+p6511
+S'Not Relevant'
+p6512
+sS'592593795738370048'
+p6513
+S'Not Relevant'
+p6514
+sS'591915523564294144'
+p6515
+S'Sympathy and emotional support'
+p6516
+sS'591918661427810304'
+p6517
+S'Sympathy and emotional support'
+p6518
+sS'592769536430120961'
+p6519
+S'Response Efforts'
+p6520
+sS'591976978372169729'
+p6521
+S'Other relevant information'
+p6522
+sS'592903381510926336'
+p6523
+S'Not Relevant'
+p6524
+sS'592592793668726784'
+p6525
+S'Not Relevant'
+p6526
+sS'592690305876545536'
+p6527
+S'Not Relevant'
+p6528
+sS'592673051692703744'
+p6529
+S'Not Relevant'
+p6530
+sS'593241021921644544'
+p6531
+S'Not Relevant'
+p6532
+sS'592656244948762625'
+p6533
+S'Not Relevant'
+p6534
+sS'593032584533299200'
+p6535
+S'Not Relevant'
+p6536
+sS'592869929264803840'
+p6537
+S'Not Relevant'
+p6538
+sS'592592583110471680'
+p6539
+S'Not Relevant'
+p6540
+sS'592593268958892032'
+p6541
+S'Not Relevant'
+p6542
+sS'592321810223525888'
+p6543
+S'Not Relevant'
+p6544
+sS'592840135647039488'
+p6545
+S'Not Relevant'
+p6546
+sS'592612893172092928'
+p6547
+S'Response Efforts'
+p6548
+sS'592152561370734593'
+p6549
+S'Other Relevant Information'
+p6550
+sS'593247396550705152'
+p6551
+S'Not Relevant'
+p6552
+sS'592843140056412160'
+p6553
+S'Not Relevant'
+p6554
+sS'592896028698923009'
+p6555
+S'Not Relevant'
+p6556
+sS'593030291695927297'
+p6557
+S'Not Relevant'
+p6558
+sS'593012691368857601'
+p6559
+S'Not Relevant'
+p6560
+sS'592820071698984962'
+p6561
+S'Not Relevant'
+p6562
+sS'593021440900857856'
+p6563
+S'Not Relevant'
+p6564
+sS'592603384085028864'
+p6565
+S'Not Relevant'
+p6566
+sS'591915030691450881'
+p6567
+S'Sympathy and emotional support'
+p6568
+sS'591915782939914242'
+p6569
+S'Sympathy and emotional support'
+p6570
+sS'592591388643995650'
+p6571
+S'Other Relevant Information'
+p6572
+sS'592878787106349056'
+p6573
+S'Not Relevant'
+p6574
+sS'592772778643890178'
+p6575
+S'Other Relevant Information'
+p6576
+sS'592933052210229248'
+p6577
+S'Not Relevant'
+p6578
+sS'592955614503968770'
+p6579
+S'Not Relevant'
+p6580
+sS'592592559949484033'
+p6581
+S'Not Relevant'
+p6582
+sS'592763119979618307'
+p6583
+S'Other Relevant Information'
+p6584
+sS'592155264293294081'
+p6585
+S'Not Relevant'
+p6586
+sS'592200850459598848'
+p6587
+S'Not Relevant'
+p6588
+sS'593185877691539456'
+p6589
+S'Not Relevant'
+p6590
+sS'592876896817422337'
+p6591
+S'Not Relevant'
+p6592
+sS'592904982581641216'
+p6593
+S'Not Relevant'
+p6594
+sS'592163590804639746'
+p6595
+S'Response Efforts'
+p6596
+sS'592866133075693568'
+p6597
+S'Not Relevant'
+p6598
+sS'592590084802617345'
+p6599
+S'Not Relevant'
+p6600
+sS'592995307333390336'
+p6601
+S'Not Relevant'
+p6602
+sS'592688329746964482'
+p6603
+S'Not Relevant'
+p6604
+sS'591910317615091713'
+p6605
+S'Injured or dead people'
+p6606
+sS'592164780007247872'
+p6607
+S'Not Relevant'
+p6608
+sS'591911783855718400'
+p6609
+S'Not related or irrelevant'
+p6610
+sS'592930632029704193'
+p6611
+S'Response Efforts'
+p6612
+sS'593206802851889152'
+p6613
+S'Other Relevant Information'
+p6614
+sS'592068969332396032'
+p6615
+S'Sympathy and emotional support'
+p6616
+sS'592780828234616832'
+p6617
+S'Not Relevant'
+p6618
+sS'592184263698579457'
+p6619
+S'Not Relevant'
+p6620
+sS'591907685957763072'
+p6621
+S'Shelter and supplies'
+p6622
+sS'592706615540744192'
+p6623
+S'Not Relevant'
+p6624
+sS'592963580166803457'
+p6625
+S'Response Efforts'
+p6626
+sS'592666036480188417'
+p6627
+S'Not Relevant'
+p6628
+sS'593224225990705153'
+p6629
+S'Not Relevant'
+p6630
+sS'592607314403794944'
+p6631
+S'Response Efforts'
+p6632
+sS'592821123429101570'
+p6633
+S'Not Relevant'
+p6634
+sS'592590974146187264'
+p6635
+S'Not Relevant'
+p6636
+sS'592841197904908288'
+p6637
+S'Not Relevant'
+p6638
+sS'592951917917011969'
+p6639
+S'Not Relevant'
+p6640
+sS'592128835879084032'
+p6641
+S'Response Efforts'
+p6642
+sS'592594734968905728'
+p6643
+S'Not Relevant'
+p6644
+sS'592163519379873792'
+p6645
+S'Not Relevant'
+p6646
+sS'592156570038849536'
+p6647
+S'Not Relevant'
+p6648
+sS'592654974980661248'
+p6649
+S'Not Relevant'
+p6650
+sS'591961183525195777'
+p6651
+S'Infrastructure and utilities'
+p6652
+sS'592070693988143104'
+p6653
+S'Other relevant information'
+p6654
+sS'592627159849566208'
+p6655
+S'Not Relevant'
+p6656
+sS'593033931684876288'
+p6657
+S'Not Relevant'
+p6658
+sS'592842667005980672'
+p6659
+S'Not Relevant'
+p6660
+sS'592992698958794752'
+p6661
+S'Not Relevant'
+p6662
+sS'592175702784479232'
+p6663
+S'Response Efforts'
+p6664
+sS'592151102331744257'
+p6665
+S'Not Relevant'
+p6666
+sS'592738418712571904'
+p6667
+S'Not Relevant'
+p6668
+sS'593026971178786816'
+p6669
+S'Not Relevant'
+p6670
+sS'592808794272436226'
+p6671
+S'Not Relevant'
+p6672
+sS'592621095368396800'
+p6673
+S'Response Efforts'
+p6674
+sS'593194329293721600'
+p6675
+S'Urgent Needs'
+p6676
+sS'592837029299380224'
+p6677
+S'Not Relevant'
+p6678
+sS'592992276919357440'
+p6679
+S'Not Relevant'
+p6680
+sS'592589319296036864'
+p6681
+S'Not Relevant'
+p6682
+sS'592100872592560128'
+p6683
+S'"Missing'
+p6684
+sS'591918453818167296'
+p6685
+S'Other relevant information'
+p6686
+sS'592594803335962624'
+p6687
+S'Not Relevant'
+p6688
+sS'592810745441681409'
+p6689
+S'Not Relevant'
+p6690
+sS'593247125619736579'
+p6691
+S'Not Relevant'
+p6692
+sS'592630539313483776'
+p6693
+S'Other Relevant Information'
+p6694
+sS'592703075766444032'
+p6695
+S'Not Relevant'
+p6696
+sS'592592429917687809'
+p6697
+S'Response Efforts'
+p6698
+sS'592164570917048323'
+p6699
+S'Not Relevant'
+p6700
+sS'592692346665496579'
+p6701
+S'Not Relevant'
+p6702
+sS'592657302861283329'
+p6703
+S'Not Relevant'
+p6704
+sS'592077183058845697'
+p6705
+S'Sympathy and emotional support'
+p6706
+sS'592906797847072770'
+p6707
+S'Not Relevant'
+p6708
+sS'591997187862691840'
+p6709
+S'Other Relevant Information'
+p6710
+sS'591910753151557632'
+p6711
+S'Sympathy and emotional support'
+p6712
+sS'592813462847381504'
+p6713
+S'Not Relevant'
+p6714
+sS'592070022597607424'
+p6715
+S'"Missing'
+p6716
+sS'592328699674001408'
+p6717
+S'Not Relevant'
+p6718
+sS'593251131175903232'
+p6719
+S'Not Relevant'
+p6720
+sS'592591970259890176'
+p6721
+S'Other Relevant Information'
+p6722
+sS'593257636725915648'
+p6723
+S'Not Relevant'
+p6724
+sS'592621338201841665'
+p6725
+S'Response Efforts'
+p6726
+sS'592145011614949376'
+p6727
+S'Other Relevant Information'
+p6728
+sS'592732659190767618'
+p6729
+S'Not Relevant'
+p6730
+sS'592731744077492224'
+p6731
+S'Not Relevant'
+p6732
+sS'592073589760851968'
+p6733
+S'Not related or irrelevant'
+p6734
+sS'592166019877117952'
+p6735
+S'Response Efforts'
+p6736
+sS'593216182473265154'
+p6737
+S'Other Relevant Information'
+p6738
+sS'592731091057901572'
+p6739
+S'Not Relevant'
+p6740
+sS'591915378982428675'
+p6741
+S'Not related or irrelevant'
+p6742
+sS'591921093276999681'
+p6743
+S'Injured or dead people'
+p6744
+sS'592995978472394752'
+p6745
+S'Not Relevant'
+p6746
+sS'593240123933925376'
+p6747
+S'Not Relevant'
+p6748
+sS'592158346624442368'
+p6749
+S'Not Relevant'
+p6750
+sS'592747494880223236'
+p6751
+S'Not Relevant'
+p6752
+sS'592589699383828480'
+p6753
+S'Not Relevant'
+p6754
+sS'592850020082294784'
+p6755
+S'Not Relevant'
+p6756
+sS'592806162187292674'
+p6757
+S'Not Relevant'
+p6758
+sS'592696391849369600'
+p6759
+S'Not Relevant'
+p6760
+sS'592645182996242432'
+p6761
+S'Response Efforts'
+p6762
+sS'592201041510146048'
+p6763
+S'Infrastructure Damage'
+p6764
+sS'592086724764934144'
+p6765
+S'Sympathy and emotional support'
+p6766
+sS'592737285642297344'
+p6767
+S'Not Relevant'
+p6768
+sS'592760485063319552'
+p6769
+S'Not Relevant'
+p6770
+sS'591911437947248640'
+p6771
+S'Injured or dead people'
+p6772
+sS'592989758214705152'
+p6773
+S'Not Relevant'
+p6774
+sS'592702885621825538'
+p6775
+S'Response Efforts'
+p6776
+sS'592682230398513153'
+p6777
+S'Not Relevant'
+p6778
+sS'592990570265452544'
+p6779
+S'Not Relevant'
+p6780
+sS'592592272681635841'
+p6781
+S'Not Relevant'
+p6782
+sS'592071940493471744'
+p6783
+S'Sympathy and emotional support'
+p6784
+sS'592781363503300609'
+p6785
+S'Not Relevant'
+p6786
+sS'592837343167574016'
+p6787
+S'Not Relevant'
+p6788
+sS'592822436095201283'
+p6789
+S'Not Relevant'
+p6790
+sS'592868587687251969'
+p6791
+S'Not Relevant'
+p6792
+sS'592847119008047107'
+p6793
+S'Response Efforts'
+p6794
+sS'593050438477295617'
+p6795
+S'Not Relevant'
+p6796
+sS'592848040140111873'
+p6797
+S'Not Relevant'
+p6798
+sS'591918981474164737'
+p6799
+S'Injured or dead people'
+p6800
+sS'592614773360984065'
+p6801
+S'Not Relevant'
+p6802
+sS'592592963764658176'
+p6803
+S'Infrastructure Damage'
+p6804
+sS'592068359858036737'
+p6805
+S'Money'
+p6806
+sS'591912673798987776'
+p6807
+S'Injured or dead people'
+p6808
+sS'592695062468898816'
+p6809
+S'Infrastructure Damage'
+p6810
+sS'592847579894947842'
+p6811
+S'Not Relevant'
+p6812
+sS'592847616846729217'
+p6813
+S'Response Efforts'
+p6814
+sS'592731429378863106'
+p6815
+S'Not Relevant'
+p6816
+sS'592987231909978113'
+p6817
+S'Not Relevant'
+p6818
+sS'592868129019138048'
+p6819
+S'Not Relevant'
+p6820
+sS'592814968829038593'
+p6821
+S'Not Relevant'
+p6822
+sS'591906736438513664'
+p6823
+S'Sympathy and emotional support'
+p6824
+sS'592981764450045952'
+p6825
+S'Not Relevant'
+p6826
+sS'592782694905438208'
+p6827
+S'Not Relevant'
+p6828
+sS'592758448774901761'
+p6829
+S'Not Relevant'
+p6830
+sS'592593865627996161'
+p6831
+S'Not Relevant'
+p6832
+sS'592591411846905856'
+p6833
+S'Not Relevant'
+p6834
+sS'592637790514470913'
+p6835
+S'Urgent Needs'
+p6836
+sS'592682194734338048'
+p6837
+S'Not Relevant'
+p6838
+sS'592977268533760000'
+p6839
+S'Not Relevant'
+p6840
+sS'592628116478132224'
+p6841
+S'Not Relevant'
+p6842
+sS'592834407209263106'
+p6843
+S'Not Relevant'
+p6844
+sS'593164589082247168'
+p6845
+S'Not Relevant'
+p6846
+sS'592162854016450560'
+p6847
+S'Not Relevant'
+p6848
+sS'592632072151244800'
+p6849
+S'Not Relevant'
+p6850
+sS'592165915271139328'
+p6851
+S'Other Relevant Information'
+p6852
+sS'592603188441800705'
+p6853
+S'Not Relevant'
+p6854
+sS'592948855324282880'
+p6855
+S'Not Relevant'
+p6856
+sS'592657944807899137'
+p6857
+S'Not Relevant'
+p6858
+sS'592653120133435392'
+p6859
+S'Not Relevant'
+p6860
+sS'591961218719481857'
+p6861
+S'Not related or irrelevant'
+p6862
+sS'592594862236504065'
+p6863
+S'Not Relevant'
+p6864
+sS'592643661331959808'
+p6865
+S'Not Relevant'
+p6866
+sS'592872170335956993'
+p6867
+S'Not Relevant'
+p6868
+sS'592655737131814912'
+p6869
+S'Other Relevant Information'
+p6870
+sS'591963794487771136'
+p6871
+S'Other relevant information'
+p6872
+sS'592846073376440323'
+p6873
+S'Not Relevant'
+p6874
+sS'592088728371204096'
+p6875
+S'Other relevant information'
+p6876
+sS'593156033444507651'
+p6877
+S'Not Relevant'
+p6878
+sS'592590460675207168'
+p6879
+S'Not Relevant'
+p6880
+sS'592198102628564993'
+p6881
+S'Not Relevant'
+p6882
+sS'592589189671219200'
+p6883
+S'Not Relevant'
+p6884
+sS'591919957262336001'
+p6885
+S'Injured or dead people'
+p6886
+sS'592618483730481152'
+p6887
+S'Not Relevant'
+p6888
+sS'592592713335185408'
+p6889
+S'Not Relevant'
+p6890
+sS'592875220576423937'
+p6891
+S'Not Relevant'
+p6892
+sS'592164734952087552'
+p6893
+S'Not Relevant'
+p6894
+sS'592849804570537984'
+p6895
+S'Infrastructure Damage'
+p6896
+sS'592828377142296579'
+p6897
+S'Not Relevant'
+p6898
+sS'592958171100020736'
+p6899
+S'Not Relevant'
+p6900
+sS'592731849430032384'
+p6901
+S'Urgent Needs'
+p6902
+sS'592992393374347264'
+p6903
+S'Not Relevant'
+p6904
+sS'592642184433635328'
+p6905
+S'Not Relevant'
+p6906
+sS'592640409903366147'
+p6907
+S'Not Relevant'
+p6908
+sS'592998306013286400'
+p6909
+S'Not Relevant'
+p6910
+sS'592592028082417666'
+p6911
+S'Not Relevant'
+p6912
+sS'592793240748892160'
+p6913
+S'Not Relevant'
+p6914
+sS'592811282413309953'
+p6915
+S'Not Relevant'
+p6916
+sS'592779096641380352'
+p6917
+S'Not Relevant'
+p6918
+sS'592085861556219905'
+p6919
+S'Sympathy and emotional support'
+p6920
+sS'591994276688568320'
+p6921
+S'Not Relevant'
+p6922
+sS'592591940580876289'
+p6923
+S'Not Relevant'
+p6924
+sS'592760483599486976'
+p6925
+S'Not Relevant'
+p6926
+sS'592752748778672128'
+p6927
+S'Not Relevant'
+p6928
+sS'591961418041135104'
+p6929
+S'Infrastructure and utilities'
+p6930
+sS'593035258553040896'
+p6931
+S'Infrastructure Damage'
+p6932
+sS'592690098006810626'
+p6933
+S'Response Efforts'
+p6934
+sS'592590032961015809'
+p6935
+S'Not Relevant'
+p6936
+sS'592158029367246848'
+p6937
+S'Not Relevant'
+p6938
+sS'592068689006043137'
+p6939
+S'Money'
+p6940
+sS'592928761487568896'
+p6941
+S'Not Relevant'
+p6942
+sS'591912900303818752'
+p6943
+S'Sympathy and emotional support'
+p6944
+sS'592696535500075008'
+p6945
+S'Infrastructure Damage'
+p6946
+sS'592794849264435200'
+p6947
+S'Not Relevant'
+p6948
+sS'593017335310495745'
+p6949
+S'Not Relevant'
+p6950
+sS'592589464913911808'
+p6951
+S'Not Relevant'
+p6952
+sS'592073902601404420'
+p6953
+S'Sympathy and emotional support'
+p6954
+sS'593030421492948993'
+p6955
+S'Not Relevant'
+p6956
+sS'592744879853273089'
+p6957
+S'Not Relevant'
+p6958
+sS'592930045590511616'
+p6959
+S'Not Relevant'
+p6960
+sS'592593271924350976'
+p6961
+S'Other Relevant Information'
+p6962
+sS'593210044327464960'
+p6963
+S'Not Relevant'
+p6964
+sS'592160748236713985'
+p6965
+S'Response Efforts'
+p6966
+sS'592694808763858944'
+p6967
+S'Not Relevant'
+p6968
+sS'592752459455602692'
+p6969
+S'Not Relevant'
+p6970
+sS'592979528764403712'
+p6971
+S'Not Relevant'
+p6972
+sS'592813666308902912'
+p6973
+S'Not Relevant'
+p6974
+sS'592784507700404224'
+p6975
+S'Response Efforts'
+p6976
+sS'592899520050106371'
+p6977
+S'Not Relevant'
+p6978
+sS'593030595577573376'
+p6979
+S'Not Relevant'
+p6980
+sS'592788190605475840'
+p6981
+S'Not Relevant'
+p6982
+sS'593217021699084288'
+p6983
+S'Other Relevant Information'
+p6984
+sS'592168301704318976'
+p6985
+S'Infrastructure Damage'
+p6986
+sS'592590554673713152'
+p6987
+S'Other Relevant Information'
+p6988
+sS'593210100455608320'
+p6989
+S'Not Relevant'
+p6990
+sS'593006083402297344'
+p6991
+S'Not Relevant'
+p6992
+sS'592800209559789568'
+p6993
+S'Not Relevant'
+p6994
+sS'592736381451001856'
+p6995
+S'Not Relevant'
+p6996
+sS'592745108807798786'
+p6997
+S'Not Relevant'
+p6998
+sS'592680336246632449'
+p6999
+S'Response Efforts'
+p7000
+sS'592758395725357057'
+p7001
+S'Not Relevant'
+p7002
+sS'593257632221122560'
+p7003
+S'Not Relevant'
+p7004
+sS'592200113222746112'
+p7005
+S'Not Relevant'
+p7006
+sS'592751228830019584'
+p7007
+S'Not Relevant'
+p7008
+sS'592971476103335936'
+p7009
+S'Not Relevant'
+p7010
+sS'592616254034292736'
+p7011
+S'Not Relevant'
+p7012
+sS'592162278289571840'
+p7013
+S'Response Efforts'
+p7014
+sS'592589292632973313'
+p7015
+S'Response Efforts'
+p7016
+sS'592672669167972352'
+p7017
+S'Not Relevant'
+p7018
+sS'592650028562382849'
+p7019
+S'Response Efforts'
+p7020
+sS'592871555404865540'
+p7021
+S'Not Relevant'
+p7022
+sS'592971039409311744'
+p7023
+S'Response Efforts'
+p7024
+sS'592996986804043777'
+p7025
+S'Not Relevant'
+p7026
+sS'592591578344071168'
+p7027
+S'Other Relevant Information'
+p7028
+sS'592732198521982979'
+p7029
+S'Not Relevant'
+p7030
+sS'592907847798784001'
+p7031
+S'Other Relevant Information'
+p7032
+sS'592592276804669441'
+p7033
+S'Not Relevant'
+p7034
+sS'592651433587167234'
+p7035
+S'Infrastructure Damage'
+p7036
+sS'592802889623560193'
+p7037
+S'Not Relevant'
+p7038
+sS'593024219899887616'
+p7039
+S'Response Efforts'
+p7040
+sS'592671192642904066'
+p7041
+S'Not Relevant'
+p7042
+sS'592614326864863232'
+p7043
+S'Not Relevant'
+p7044
+sS'592594058964434944'
+p7045
+S'Other Relevant Information'
+p7046
+sS'592982245196959744'
+p7047
+S'Response Efforts'
+p7048
+sS'592900777171091457'
+p7049
+S'Not Relevant'
+p7050
+sS'592847847411884032'
+p7051
+S'Not Relevant'
+p7052
+sS'592679977881083904'
+p7053
+S'Not Relevant'
+p7054
+sS'592086411630800897'
+p7055
+S'Sympathy and emotional support'
+p7056
+sS'592639526008270848'
+p7057
+S'Not Relevant'
+p7058
+sS'592733038024482816'
+p7059
+S'Not Relevant'
+p7060
+sS'592683937232777219'
+p7061
+S'Not Relevant'
+p7062
+sS'592681565974622209'
+p7063
+S'Not Relevant'
+p7064
+sS'591910555230851072'
+p7065
+S'Other relevant information'
+p7066
+sS'592695605811617792'
+p7067
+S'Not Relevant'
+p7068
+sS'592817743377891329'
+p7069
+S'Not Relevant'
+p7070
+sS'591919526121320448'
+p7071
+S'Shelter and supplies'
+p7072
+sS'593021898763542528'
+p7073
+S'Not Relevant'
+p7074
+sS'592589902165872640'
+p7075
+S'Not Relevant'
+p7076
+sS'591905390272520192'
+p7077
+S'Other relevant information'
+p7078
+sS'592906248175104000'
+p7079
+S'Not Relevant'
+p7080
+sS'592745560727224320'
+p7081
+S'Not Relevant'
+p7082
+sS'592651996861181952'
+p7083
+S'Not Relevant'
+p7084
+sS'593022199608532993'
+p7085
+S'Not Relevant'
+p7086
+sS'592609744365309952'
+p7087
+S'Response Efforts'
+p7088
+sS'592740221378232323'
+p7089
+S'Not Relevant'
+p7090
+sS'591906654536400896'
+p7091
+S'Sympathy and emotional support'
+p7092
+sS'591915800648290304'
+p7093
+S'Not related or irrelevant'
+p7094
+sS'591998586776322048'
+p7095
+S'Not Relevant'
+p7096
+sS'592592181594042368'
+p7097
+S'Not Relevant'
+p7098
+sS'592883126512295937'
+p7099
+S'Not Relevant'
+p7100
+sS'592620186106200064'
+p7101
+S'Not Relevant'
+p7102
+sS'592071743465914369'
+p7103
+S'Not related or irrelevant'
+p7104
+sS'592970385169092608'
+p7105
+S'Not Relevant'
+p7106
+sS'592589339646791680'
+p7107
+S'Not Relevant'
+p7108
+sS'592152314267316224'
+p7109
+S'Other Relevant Information'
+p7110
+sS'592638964818776064'
+p7111
+S'Not Relevant'
+p7112
+sS'592939127403839488'
+p7113
+S'Not Relevant'
+p7114
+sS'592708493620174851'
+p7115
+S'Not Relevant'
+p7116
+sS'592074229446746112'
+p7117
+S'Other relevant information'
+p7118
+sS'592668811557523456'
+p7119
+S'Not Relevant'
+p7120
+sS'592681415382323202'
+p7121
+S'Not Relevant'
+p7122
+sS'593162042493816832'
+p7123
+S'Not Relevant'
+p7124
+sS'592720224941690881'
+p7125
+S'Not Relevant'
+p7126
+sS'593249037823807488'
+p7127
+S'Not Relevant'
+p7128
+sS'592602441117343745'
+p7129
+S'Not Relevant'
+p7130
+sS'592692112212238337'
+p7131
+S'Not Relevant'
+p7132
+sS'592702640389267456'
+p7133
+S'Response Efforts'
+p7134
+sS'592954753333727232'
+p7135
+S'Not Relevant'
+p7136
+sS'592848752995606531'
+p7137
+S'Not Relevant'
+p7138
+sS'591962798587912192'
+p7139
+S'Money'
+p7140
+sS'593255580107558912'
+p7141
+S'Response Efforts'
+p7142
+sS'592657819998003200'
+p7143
+S'Infrastructure Damage'
+p7144
+sS'593148845669765120'
+p7145
+S'Not Relevant'
+p7146
+sS'592973648647958528'
+p7147
+S'Not Relevant'
+p7148
+sS'592087790856318976'
+p7149
+S'Sympathy and emotional support'
+p7150
+sS'592896070302171137'
+p7151
+S'Not Relevant'
+p7152
+sS'592822579657838592'
+p7153
+S'Not Relevant'
+p7154
+sS'592621597506207744'
+p7155
+S'Not Relevant'
+p7156
+sS'592696033093750784'
+p7157
+S'Not Relevant'
+p7158
+sS'592159991605252096'
+p7159
+S'Not Relevant'
+p7160
+sS'592593265725198336'
+p7161
+S'Response Efforts'
+p7162
+sS'592649048630251520'
+p7163
+S'Not Relevant'
+p7164
+sS'593031434303967234'
+p7165
+S'Not Relevant'
+p7166
+sS'593265550387712000'
+p7167
+S'Not Relevant'
+p7168
+sS'592846956558491648'
+p7169
+S'Not Relevant'
+p7170
+sS'592779968481988608'
+p7171
+S'Not Relevant'
+p7172
+sS'592776421401042946'
+p7173
+S'Not Relevant'
+p7174
+sS'592193487971323904'
+p7175
+S'Infrastructure Damage'
+p7176
+sS'592738633276379136'
+p7177
+S'Response Efforts'
+p7178
+sS'592753223284436992'
+p7179
+S'Not Relevant'
+p7180
+sS'592909382851141633'
+p7181
+S'Not Relevant'
+p7182
+sS'592588978915778561'
+p7183
+S'Not Relevant'
+p7184
+sS'592666983138783233'
+p7185
+S'Not Relevant'
+p7186
+sS'592800221215731712'
+p7187
+S'Not Relevant'
+p7188
+sS'592759686765613056'
+p7189
+S'Response Efforts'
+p7190
+sS'592607262578999296'
+p7191
+S'Not Relevant'
+p7192
+sS'593007968951488512'
+p7193
+S'Not Relevant'
+p7194
+sS'592914537856172032'
+p7195
+S'Not Relevant'
+p7196
+sS'592885363439489024'
+p7197
+S'Not Relevant'
+p7198
+sS'592200632435544064'
+p7199
+S'Not Relevant'
+p7200
+sS'592076593624920064'
+p7201
+S'Sympathy and emotional support'
+p7202
+sS'592592027491008512'
+p7203
+S'Not Relevant'
+p7204
+sS'592653709378789376'
+p7205
+S'Infrastructure Damage'
+p7206
+sS'592091489531928576'
+p7207
+S'Other Relevant Information'
+p7208
+sS'592766803467751425'
+p7209
+S'Not Relevant'
+p7210
+sS'593245716954382336'
+p7211
+S'Not Relevant'
+p7212
+sS'592708670397534211'
+p7213
+S'Not Relevant'
+p7214
+sS'592673980332515329'
+p7215
+S'Not Relevant'
+p7216
+sS'592201189946589184'
+p7217
+S'Not Relevant'
+p7218
+sS'593000456764391425'
+p7219
+S'Not Relevant'
+p7220
+sS'592068265393790976'
+p7221
+S'Sympathy and emotional support'
+p7222
+sS'592751185154732032'
+p7223
+S'Not Relevant'
+p7224
+sS'592833447254695936'
+p7225
+S'Response Efforts'
+p7226
+sS'592735818801934337'
+p7227
+S'Not Relevant'
+p7228
+sS'592867576138596352'
+p7229
+S'Not Relevant'
+p7230
+sS'592164475492372480'
+p7231
+S'Response Efforts'
+p7232
+sS'593262918491222017'
+p7233
+S'Not Relevant'
+p7234
+sS'592161571092221953'
+p7235
+S'Not Relevant'
+p7236
+sS'592076520916647936'
+p7237
+S'Sympathy and emotional support'
+p7238
+sS'592659121708621825'
+p7239
+S'Not Relevant'
+p7240
+sS'593204599760105472'
+p7241
+S'Not Relevant'
+p7242
+sS'591963288692338688'
+p7243
+S'"Missing'
+p7244
+sS'592734545880948736'
+p7245
+S'Not Relevant'
+p7246
+sS'592591154031493120'
+p7247
+S'Not Relevant'
+p7248
+sS'592744321536925696'
+p7249
+S'Not Relevant'
+p7250
+sS'592692064678207488'
+p7251
+S'Response Efforts'
+p7252
+sS'592589461550039040'
+p7253
+S'Not Relevant'
+p7254
+sS'592778575109103617'
+p7255
+S'Not Relevant'
+p7256
+sS'592654812002557952'
+p7257
+S'Other Relevant Information'
+p7258
+sS'593038018262343680'
+p7259
+S'Not Relevant'
+p7260
+sS'591909433829011456'
+p7261
+S'Sympathy and emotional support'
+p7262
+sS'593254378586312705'
+p7263
+S'Urgent Needs'
+p7264
+sS'593039695262658562'
+p7265
+S'Not Relevant'
+p7266
+sS'592933831163936768'
+p7267
+S'Not Relevant'
+p7268
+sS'592303978014068736'
+p7269
+S'Response Efforts'
+p7270
+sS'592074468287217664'
+p7271
+S'Personal updates'
+p7272
+sS'592694757203255296'
+p7273
+S'Not Relevant'
+p7274
+sS'592086100321009665'
+p7275
+S'Personal updates'
+p7276
+sS'592881984394960899'
+p7277
+S'Other Relevant Information'
+p7278
+sS'592103220564099072'
+p7279
+S'Not Relevant'
+p7280
+sS'593024067587837952'
+p7281
+S'Not Relevant'
+p7282
+sS'592694604702588929'
+p7283
+S'Not Relevant'
+p7284
+sS'592748386312396800'
+p7285
+S'Not Relevant'
+p7286
+sS'592591547385847808'
+p7287
+S'Not Relevant'
+p7288
+sS'592732212480626688'
+p7289
+S'Not Relevant'
+p7290
+sS'592692189651673088'
+p7291
+S'Not Relevant'
+p7292
+sS'591914184033566720'
+p7293
+S'Other relevant information'
+p7294
+sS'592757131767652352'
+p7295
+S'Not Relevant'
+p7296
+sS'592986560829591552'
+p7297
+S'Not Relevant'
+p7298
+sS'593182270694916096'
+p7299
+S'Not Relevant'
+p7300
+sS'592695914512424961'
+p7301
+S'Not Relevant'
+p7302
+sS'592975144609394688'
+p7303
+S'Not Relevant'
+p7304
+sS'592964327264657408'
+p7305
+S'Not Relevant'
+p7306
+sS'592828125874094081'
+p7307
+S'Not Relevant'
+p7308
+sS'592760114639147009'
+p7309
+S'Not Relevant'
+p7310
+sS'592693286072123393'
+p7311
+S'Not Relevant'
+p7312
+sS'591911070714855424'
+p7313
+S'Sympathy and emotional support'
+p7314
+sS'592067815873454080'
+p7315
+S'"Missing'
+p7316
+sS'592667935677751299'
+p7317
+S'Not Relevant'
+p7318
+sS'592693011202625536'
+p7319
+S'Not Relevant'
+p7320
+sS'592085605066104834'
+p7321
+S'Not related or irrelevant'
+p7322
+sS'592778097084207104'
+p7323
+S'Not Relevant'
+p7324
+sS'593040902022639616'
+p7325
+S'Not Relevant'
+p7326
+sS'593238615326470145'
+p7327
+S'Not Relevant'
+p7328
+sS'592621233063079936'
+p7329
+S'Not Relevant'
+p7330
+sS'592199445766213632'
+p7331
+S'Response Efforts'
+p7332
+sS'592767687031414785'
+p7333
+S'Not Relevant'
+p7334
+sS'592704864897077249'
+p7335
+S'Not Relevant'
+p7336
+sS'591912030292017152'
+p7337
+S'Other relevant information'
+p7338
+sS'593148701973061632'
+p7339
+S'Not Relevant'
+p7340
+sS'592178643494772736'
+p7341
+S'Not Relevant'
+p7342
+sS'592904455986774016'
+p7343
+S'Not Relevant'
+p7344
+sS'592743903658450946'
+p7345
+S'Not Relevant'
+p7346
+sS'593032897994596352'
+p7347
+S'Not Relevant'
+p7348
+sS'592606682192191488'
+p7349
+S'Not Relevant'
+p7350
+sS'592171025493700608'
+p7351
+S'Not Relevant'
+p7352
+sS'592621092533084160'
+p7353
+S'Not Relevant'
+p7354
+sS'592668379409973248'
+p7355
+S'Infrastructure Damage'
+p7356
+sS'591918563209842688'
+p7357
+S'Infrastructure and utilities'
+p7358
+sS'593207910219567105'
+p7359
+S'Not Relevant'
+p7360
+sS'592977249277714432'
+p7361
+S'Other Relevant Information'
+p7362
+sS'593047811903528960'
+p7363
+S'Not Relevant'
+p7364
+sS'591919980666458113'
+p7365
+S'Other relevant information'
+p7366
+sS'593034679902539776'
+p7367
+S'Not Relevant'
+p7368
+sS'592803945044701184'
+p7369
+S'Not Relevant'
+p7370
+sS'592936804220829696'
+p7371
+S'Other Relevant Information'
+p7372
+sS'592907616550006784'
+p7373
+S'Not Relevant'
+p7374
+sS'592160778515456000'
+p7375
+S'Other Relevant Information'
+p7376
+sS'592669169038008321'
+p7377
+S'Not Relevant'
+p7378
+sS'593161772271558656'
+p7379
+S'Not Relevant'
+p7380
+sS'592154775245860864'
+p7381
+S'Not Relevant'
+p7382
+sS'592900224181493761'
+p7383
+S'Not Relevant'
+p7384
+sS'592798178212237312'
+p7385
+S'Not Relevant'
+p7386
+sS'592894189555298304'
+p7387
+S'Not Relevant'
+p7388
+sS'593250004703260673'
+p7389
+S'Not Relevant'
+p7390
+sS'593031337927409664'
+p7391
+S'Not Relevant'
+p7392
+sS'592919456105496577'
+p7393
+S'Not Relevant'
+p7394
+sS'592921682970415104'
+p7395
+S'Not Relevant'
+p7396
+sS'592753594740318208'
+p7397
+S'Not Relevant'
+p7398
+sS'591992454728912896'
+p7399
+S'Urgent Needs'
+p7400
+sS'592958752657027072'
+p7401
+S'Not Relevant'
+p7402
+sS'592682878200356865'
+p7403
+S'Response Efforts'
+p7404
+sS'592825180981977088'
+p7405
+S'Not Relevant'
+p7406
+sS'592751819245355009'
+p7407
+S'Not Relevant'
+p7408
+sS'592720559215157248'
+p7409
+S'Urgent Needs'
+p7410
+sS'592611114837413888'
+p7411
+S'Not Relevant'
+p7412
+sS'592072424503582720'
+p7413
+S'Other relevant information'
+p7414
+sS'592980414345580544'
+p7415
+S'Not Relevant'
+p7416
+sS'591913907540885504'
+p7417
+S'Injured or dead people'
+p7418
+sS'592888661433294848'
+p7419
+S'Not Relevant'
+p7420
+sS'592592471076511745'
+p7421
+S'Not Relevant'
+p7422
+sS'592944692867801088'
+p7423
+S'Not Relevant'
+p7424
+sS'592158315255181312'
+p7425
+S'Response Efforts'
+p7426
+sS'593227828746801153'
+p7427
+S'Other Relevant Information'
+p7428
+sS'591909952479891457'
+p7429
+S'Injured or dead people'
+p7430
+sS'592592256445513728'
+p7431
+S'Not Relevant'
+p7432
+sS'592773497308487680'
+p7433
+S'Not Relevant'
+p7434
+sS'593182689903124480'
+p7435
+S'Not Relevant'
+p7436
+sS'592088410778546177'
+p7437
+S'Not Relevant'
+p7438
+sS'592815536494501889'
+p7439
+S'Not Relevant'
+p7440
+sS'592638722832666625'
+p7441
+S'Not Relevant'
+p7442
+sS'592750551785447424'
+p7443
+S'Not Relevant'
+p7444
+sS'592648321094803456'
+p7445
+S'Other Relevant Information'
+p7446
+sS'593005745722920960'
+p7447
+S'Not Relevant'
+p7448
+sS'592593210968387584'
+p7449
+S'Response Efforts'
+p7450
+sS'592950904950693888'
+p7451
+S'Not Relevant'
+p7452
+sS'592820060995133440'
+p7453
+S'Not Relevant'
+p7454
+sS'592994582150967296'
+p7455
+S'Other Relevant Information'
+p7456
+sS'592704805539291136'
+p7457
+S'Other Relevant Information'
+p7458
+sS'592595169616134144'
+p7459
+S'Not Relevant'
+p7460
+sS'592158412487593984'
+p7461
+S'Not Relevant'
+p7462
+sS'592085547465609216'
+p7463
+S'Sympathy and emotional support'
+p7464
+sS'593206224482488320'
+p7465
+S'Not Relevant'
+p7466
+sS'592891324363313152'
+p7467
+S'Not Relevant'
+p7468
+sS'592068333379260416'
+p7469
+S'Not related or irrelevant'
+p7470
+sS'591961748229357568'
+p7471
+S'Other relevant information'
+p7472
+sS'592880653777133571'
+p7473
+S'Not Relevant'
+p7474
+sS'592630286522920960'
+p7475
+S'Urgent Needs'
+p7476
+sS'592945956099739648'
+p7477
+S'Other Relevant Information'
+p7478
+sS'591916534387191808'
+p7479
+S'Sympathy and emotional support'
+p7480
+sS'592592656670150656'
+p7481
+S'Not Relevant'
+p7482
+sS'593221087720144896'
+p7483
+S'Not Relevant'
+p7484
+sS'592601983468601344'
+p7485
+S'Not Relevant'
+p7486
+sS'592921396415733761'
+p7487
+S'Not Relevant'
+p7488
+sS'593009788360990720'
+p7489
+S'Not Relevant'
+p7490
+sS'592696366058569728'
+p7491
+S'Response Efforts'
+p7492
+sS'592641356352258048'
+p7493
+S'Other Relevant Information'
+p7494
+sS'592779174164754434'
+p7495
+S'Not Relevant'
+p7496
+sS'593018443865133056'
+p7497
+S'Not Relevant'
+p7498
+sS'593026331161534465'
+p7499
+S'Not Relevant'
+p7500
+sS'592201147282100224'
+p7501
+S'Response Efforts'
+p7502
+sS'592645728133984256'
+p7503
+S'Not Relevant'
+p7504
+sS'592671205460725761'
+p7505
+S'Not Relevant'
+p7506
+sS'591969327101911042'
+p7507
+S'"Missing'
+p7508
+sS'592709922602807296'
+p7509
+S'Not Relevant'
+p7510
+sS'592626869003886592'
+p7511
+S'Response Efforts'
+p7512
+sS'591907197820370944'
+p7513
+S'Other relevant information'
+p7514
+sS'592813822089506817'
+p7515
+S'Not Relevant'
+p7516
+sS'592750269080969216'
+p7517
+S'Not Relevant'
+p7518
+sS'592645318501597185'
+p7519
+S'Response Efforts'
+p7520
+sS'591910057438105600'
+p7521
+S'Sympathy and emotional support'
+p7522
+sS'592685071867445249'
+p7523
+S'Not Relevant'
+p7524
+sS'592068612254527488'
+p7525
+S'"Missing'
+p7526
+sS'591915939983020034'
+p7527
+S'Other relevant information'
+p7528
+sS'591921814118338560'
+p7529
+S'Other relevant information'
+p7530
+sS'593222397295271938'
+p7531
+S'Not Relevant'
+p7532
+sS'592168597541167104'
+p7533
+S'Not Relevant'
+p7534
+sS'592594741553926144'
+p7535
+S'Not Relevant'
+p7536
+sS'591910947997884416'
+p7537
+S'Other relevant information'
+p7538
+sS'593151719854452736'
+p7539
+S'Response Efforts'
+p7540
+sS'592168065925656576'
+p7541
+S'Infrastructure Damage'
+p7542
+sS'592692150640496640'
+p7543
+S'Not Relevant'
+p7544
+sS'592787171414802433'
+p7545
+S'Not Relevant'
+p7546
+sS'592084975500939264'
+p7547
+S'Not related or irrelevant'
+p7548
+sS'592895353650839553'
+p7549
+S'Not Relevant'
+p7550
+sS'592156399309688832'
+p7551
+S'Not Relevant'
+p7552
+sS'593255555419938816'
+p7553
+S'Not Relevant'
+p7554
+sS'592794968328118273'
+p7555
+S'Not Relevant'
+p7556
+sS'592972815663521792'
+p7557
+S'Not Relevant'
+p7558
+sS'592781709478916096'
+p7559
+S'Not Relevant'
+p7560
+sS'592645735008641024'
+p7561
+S'Not Relevant'
+p7562
+sS'592750132204052480'
+p7563
+S'Not Relevant'
+p7564
+sS'592152261406564352'
+p7565
+S'Not Relevant'
+p7566
+sS'592781999145877510'
+p7567
+S'Not Relevant'
+p7568
+sS'592753080170590208'
+p7569
+S'Not Relevant'
+p7570
+sS'593160796969963521'
+p7571
+S'Not Relevant'
+p7572
+sS'592745278148575232'
+p7573
+S'Not Relevant'
+p7574
+sS'592971612036669441'
+p7575
+S'Infrastructure Damage'
+p7576
+sS'592592518182739968'
+p7577
+S'Not Relevant'
+p7578
+sS'592591825665396736'
+p7579
+S'Response Efforts'
+p7580
+sS'591999017778720768'
+p7581
+S'Not Relevant'
+p7582
+sS'592731077887860738'
+p7583
+S'Other Relevant Information'
+p7584
+sS'592748989881126913'
+p7585
+S'Not Relevant'
+p7586
+sS'592776215846617088'
+p7587
+S'Not Relevant'
+p7588
+sS'592945208196788224'
+p7589
+S'Not Relevant'
+p7590
+sS'591920339774345216'
+p7591
+S'Sympathy and emotional support'
+p7592
+sS'591921731964567552'
+p7593
+S'Personal updates'
+p7594
+sS'592145144477921280'
+p7595
+S'Other Relevant Information'
+p7596
+sS'592753997112602625'
+p7597
+S'Not Relevant'
+p7598
+sS'592899395118563329'
+p7599
+S'Not Relevant'
+p7600
+sS'592067876967690240'
+p7601
+S'Sympathy and emotional support'
+p7602
+sS'592929349273309184'
+p7603
+S'Not Relevant'
+p7604
+sS'592703120553181184'
+p7605
+S'Not Relevant'
+p7606
+sS'592685426466541568'
+p7607
+S'Not Relevant'
+p7608
+sS'592590233687863296'
+p7609
+S'Not Relevant'
+p7610
+sS'592589742526439424'
+p7611
+S'Not Relevant'
+p7612
+sS'592790611742318594'
+p7613
+S'Not Relevant'
+p7614
+sS'592988671709552640'
+p7615
+S'Not Relevant'
+p7616
+sS'592836621122285568'
+p7617
+S'Not Relevant'
+p7618
+sS'591915776753475584'
+p7619
+S'Not related or irrelevant'
+p7620
+sS'592837285202255873'
+p7621
+S'Not Relevant'
+p7622
+sS'592849928172503040'
+p7623
+S'Not Relevant'
+p7624
+sS'591906395106234368'
+p7625
+S'Sympathy and emotional support'
+p7626
+sS'592162826615128064'
+p7627
+S'Not Relevant'
+p7628
+sS'592784967899414528'
+p7629
+S'Not Relevant'
+p7630
+sS'592648563269771264'
+p7631
+S'Response Efforts'
+p7632
+sS'592622314761490432'
+p7633
+S'Not Relevant'
+p7634
+sS'592801858760122369'
+p7635
+S'Not Relevant'
+p7636
+sS'592796516802293763'
+p7637
+S'Response Efforts'
+p7638
+sS'592752543337467906'
+p7639
+S'Not Relevant'
+p7640
+sS'591961061865066498'
+p7641
+S'Sympathy and emotional support'
+p7642
+sS'593035164143366144'
+p7643
+S'Not Relevant'
+p7644
+sS'591906158492852225'
+p7645
+S'Not related or irrelevant'
+p7646
+sS'592695042017521664'
+p7647
+S'Not Relevant'
+p7648
+sS'592794894919434240'
+p7649
+S'Not Relevant'
+p7650
+sS'592906012522328065'
+p7651
+S'Not Relevant'
+p7652
+sS'592670383293206528'
+p7653
+S'Not Relevant'
+p7654
+sS'592832194357415937'
+p7655
+S'Response Efforts'
+p7656
+sS'591963224670613507'
+p7657
+S'Infrastructure damage'
+p7658
+sS'592708905748307968'
+p7659
+S'Response Efforts'
+p7660
+sS'591913370573344768'
+p7661
+S'Not related or irrelevant'
+p7662
+sS'592200366713745409'
+p7663
+S'Infrastructure Damage'
+p7664
+sS'592610130161610752'
+p7665
+S'Not Relevant'
+p7666
+sS'592158389783826434'
+p7667
+S'Not Relevant'
+p7668
+sS'593012128686219264'
+p7669
+S'Not Relevant'
+p7670
+sS'592656210266042368'
+p7671
+S'Response Efforts'
+p7672
+sS'592977412402450432'
+p7673
+S'Not Relevant'
+p7674
+sS'592839206793261056'
+p7675
+S'Other Relevant Information'
+p7676
+sS'591915912263049217'
+p7677
+S'Other relevant information'
+p7678
+sS'592781952735977472'
+p7679
+S'Not Relevant'
+p7680
+sS'592132304681758720'
+p7681
+S'Not Relevant'
+p7682
+sS'593189410042155008'
+p7683
+S'Not Relevant'
+p7684
+sS'592939871817244672'
+p7685
+S'Not Relevant'
+p7686
+sS'593028739266654208'
+p7687
+S'Not Relevant'
+p7688
+sS'592732441846099968'
+p7689
+S'Not Relevant'
+p7690
+sS'592623763612512256'
+p7691
+S'Not Relevant'
+p7692
+sS'592959687714316288'
+p7693
+S'Not Relevant'
+p7694
+sS'592155886413488129'
+p7695
+S'Response Efforts'
+p7696
+sS'591914925183803392'
+p7697
+S'Not related or irrelevant'
+p7698
+sS'592962535193595904'
+p7699
+S'Not Relevant'
+p7700
+sS'592739862840778752'
+p7701
+S'Not Relevant'
+p7702
+sS'592086865026486272'
+p7703
+S'Not related or irrelevant'
+p7704
+sS'592765750529622018'
+p7705
+S'Not Relevant'
+p7706
+sS'592069088920272896'
+p7707
+S'Shelter and supplies'
+p7708
+sS'592159891453706241'
+p7709
+S'Response Efforts'
+p7710
+sS'592975263983607808'
+p7711
+S'Not Relevant'
+p7712
+sS'592959000146149378'
+p7713
+S'Not Relevant'
+p7714
+sS'593230107860279296'
+p7715
+S'Not Relevant'
+p7716
+sS'592807445715619840'
+p7717
+S'Not Relevant'
+p7718
+sS'593260043799236608'
+p7719
+S'Not Relevant'
+p7720
+sS'592814209077014529'
+p7721
+S'Not Relevant'
+p7722
+sS'593026746649321472'
+p7723
+S'Not Relevant'
+p7724
+sS'592985762661945344'
+p7725
+S'Not Relevant'
+p7726
+sS'592633915313119232'
+p7727
+S'Response Efforts'
+p7728
+sS'593236864594612224'
+p7729
+S'Not Relevant'
+p7730
+sS'592076785388425216'
+p7731
+S'Volunteer or professional services'
+p7732
+sS'593151719699128320'
+p7733
+S'Not Relevant'
+p7734
+sS'592752239476940800'
+p7735
+S'Not Relevant'
+p7736
+sS'592156594227384322'
+p7737
+S'Response Efforts'
+p7738
+sS'591961721322885120'
+p7739
+S'"Missing'
+p7740
+sS'592682099397808129'
+p7741
+S'Urgent Needs'
+p7742
+sS'592624082283200512'
+p7743
+S'Not Relevant'
+p7744
+sS'592684142552285184'
+p7745
+S'Not Relevant'
+p7746
+sS'592161394495135744'
+p7747
+S'Not Relevant'
+p7748
+sS'593229670616801280'
+p7749
+S'Not Relevant'
+p7750
+sS'592067993544237058'
+p7751
+S'Sympathy and emotional support'
+p7752
+sS'592653477022736386'
+p7753
+S'Not Relevant'
+p7754
+sS'592594869438132224'
+p7755
+S'Not Relevant'
+p7756
+sS'592156591970914304'
+p7757
+S'Not Relevant'
+p7758
+sS'591914946457260032'
+p7759
+S'Sympathy and emotional support'
+p7760
+sS'593035534198386688'
+p7761
+S'Not Relevant'
+p7762
+sS'593201071108952065'
+p7763
+S'Not Relevant'
+p7764
+sS'592073811433951232'
+p7765
+S'Sympathy and emotional support'
+p7766
+sS'592625985452834816'
+p7767
+S'Not Relevant'
+p7768
+sS'592589125099749376'
+p7769
+S'Not Relevant'
+p7770
+sS'592823140776091649'
+p7771
+S'Not Relevant'
+p7772
+sS'593019175401959424'
+p7773
+S'Not Relevant'
+p7774
+sS'592087038062563329'
+p7775
+S'Injured or dead people'
+p7776
+sS'592165907637534721'
+p7777
+S'Not Relevant'
+p7778
+sS'592610551626207232'
+p7779
+S'Not Relevant'
+p7780
+sS'592696948982972416'
+p7781
+S'Response Efforts'
+p7782
+sS'592967570711412736'
+p7783
+S'Not Relevant'
+p7784
+sS'591919786935857152'
+p7785
+S'Other relevant information'
+p7786
+sS'592775339824254976'
+p7787
+S'Not Relevant'
+p7788
+sS'592673338402709504'
+p7789
+S'Not Relevant'
+p7790
+sS'591920730482184192'
+p7791
+S'Sympathy and emotional support'
+p7792
+sS'591921768585039872'
+p7793
+S'Volunteer or professional services'
+p7794
+sS'592756796948877312'
+p7795
+S'Not Relevant'
+p7796
+sS'591962060340199425'
+p7797
+S'Not related or irrelevant'
+p7798
+sS'592632286719438848'
+p7799
+S'Not Relevant'
+p7800
+sS'591917854225661953'
+p7801
+S'"Missing'
+p7802
+sS'592695930249412611'
+p7803
+S'Not Relevant'
+p7804
+sS'592594806435512320'
+p7805
+S'Not Relevant'
+p7806
+sS'592648766471081984'
+p7807
+S'Urgent Needs'
+p7808
+sS'592071875422867457'
+p7809
+S'Other relevant information'
+p7810
+sS'592688811089514498'
+p7811
+S'Not Relevant'
+p7812
+sS'592672894636990464'
+p7813
+S'Not Relevant'
+p7814
+sS'592657393013694464'
+p7815
+S'Not Relevant'
+p7816
+sS'592667031079616513'
+p7817
+S'Response Efforts'
+p7818
+sS'592619591110529024'
+p7819
+S'Other Relevant Information'
+p7820
+sS'592593604201185280'
+p7821
+S'Not Relevant'
+p7822
+sS'591912368210317313'
+p7823
+S'Infrastructure and utilities'
+p7824
+sS'592752811693232128'
+p7825
+S'Not Relevant'
+p7826
+sS'592779669834981376'
+p7827
+S'Not Relevant'
+p7828
+sS'592961248037339137'
+p7829
+S'Response Efforts'
+p7830
+sS'592666145360125953'
+p7831
+S'Not Relevant'
+p7832
+sS'592635635384586240'
+p7833
+S'Not Relevant'
+p7834
+sS'592173316636422144'
+p7835
+S'Response Efforts'
+p7836
+sS'592593594562650112'
+p7837
+S'Not Relevant'
+p7838
+sS'592088829827284992'
+p7839
+S'Sympathy and emotional support'
+p7840
+sS'593183087195860993'
+p7841
+S'Not Relevant'
+p7842
+sS'592155147037495297'
+p7843
+S'Not Relevant'
+p7844
+sS'592068183609241600'
+p7845
+S'Volunteer or professional services'
+p7846
+sS'592625947846672384'
+p7847
+S'Response Efforts'
+p7848
+sS'592594412258996225'
+p7849
+S'Not Relevant'
+p7850
+sS'592590295646097408'
+p7851
+S'Response Efforts'
+p7852
+sS'592768277648125952'
+p7853
+S'Not Relevant'
+p7854
+sS'592179300167766017'
+p7855
+S'Not Relevant'
+p7856
+sS'591974340117143553'
+p7857
+S'Not related or irrelevant'
+p7858
+sS'592872635974975488'
+p7859
+S'Not Relevant'
+p7860
+sS'592161556953223168'
+p7861
+S'Not Relevant'
+p7862
+sS'592836540700712960'
+p7863
+S'Not Relevant'
+p7864
+sS'592076091541430272'
+p7865
+S'Sympathy and emotional support'
+p7866
+sS'592199195911532544'
+p7867
+S'Not Relevant'
+p7868
+sS'592869916245635074'
+p7869
+S'Not Relevant'
+p7870
+sS'591998492685500416'
+p7871
+S'Not Relevant'
+p7872
+sS'592890897680957440'
+p7873
+S'Other Relevant Information'
+p7874
+sS'592084966789394432'
+p7875
+S'Sympathy and emotional support'
+p7876
+sS'593002121030668288'
+p7877
+S'Not Relevant'
+p7878
+sS'593200398782976001'
+p7879
+S'Not Relevant'
+p7880
+sS'592762112398782465'
+p7881
+S'Not Relevant'
+p7882
+sS'592891027700248578'
+p7883
+S'Not Relevant'
+p7884
+sS'593038324148867072'
+p7885
+S'Not Relevant'
+p7886
+sS'593212724076740609'
+p7887
+S'Not Relevant'
+p7888
+sS'593152905722494976'
+p7889
+S'Not Relevant'
+p7890
+sS'591910810093359104'
+p7891
+S'Not related or irrelevant'
+p7892
+sS'592596796549046272'
+p7893
+S'Not Relevant'
+p7894
+sS'592632345632624640'
+p7895
+S'Not Relevant'
+p7896
+sS'592618587489226752'
+p7897
+S'Response Efforts'
+p7898
+sS'592589619117428736'
+p7899
+S'Not Relevant'
+p7900
+sS'592589290279809025'
+p7901
+S'Not Relevant'
+p7902
+sS'592881885195427840'
+p7903
+S'Not Relevant'
+p7904
+sS'592655726520197122'
+p7905
+S'Response Efforts'
+p7906
+sS'592920913693147136'
+p7907
+S'Not Relevant'
+p7908
+sS'591907246356959232'
+p7909
+S'Other relevant information'
+p7910
+sS'592617337737457664'
+p7911
+S'Not Relevant'
+p7912
+sS'592820140250660864'
+p7913
+S'Not Relevant'
+p7914
+sS'593147665971482626'
+p7915
+S'Not Relevant'
+p7916
+sS'592168652335554560'
+p7917
+S'Response Efforts'
+p7918
+sS'592707001785982976'
+p7919
+S'Not Relevant'
+p7920
+sS'592652278294835200'
+p7921
+S'Not Relevant'
+p7922
+sS'593029360426328064'
+p7923
+S'Infrastructure Damage'
+p7924
+sS'592774795361710081'
+p7925
+S'Not Relevant'
+p7926
+sS'592647261932388352'
+p7927
+S'Not Relevant'
+p7928
+sS'592781186902134784'
+p7929
+S'Not Relevant'
+p7930
+sS'591916490728689664'
+p7931
+S'Sympathy and emotional support'
+p7932
+sS'592812188131295235'
+p7933
+S'Not Relevant'
+p7934
+sS'592594092091027457'
+p7935
+S'Other Relevant Information'
+p7936
+sS'593182071864086528'
+p7937
+S'Not Relevant'
+p7938
+sS'592704543403671552'
+p7939
+S'Not Relevant'
+p7940
+sS'593218737504972800'
+p7941
+S'Not Relevant'
+p7942
+sS'592076491510321152'
+p7943
+S'Sympathy and emotional support'
+p7944
+sS'593035730135478273'
+p7945
+S'Not Relevant'
+p7946
+sS'592592277391872000'
+p7947
+S'Not Relevant'
+p7948
+sS'591994925023105024'
+p7949
+S'Response Efforts'
+p7950
+sS'592791046750412800'
+p7951
+S'Not Relevant'
+p7952
+sS'592898576373706752'
+p7953
+S'Not Relevant'
+p7954
+sS'592894046529531907'
+p7955
+S'Not Relevant'
+p7956
+sS'592588908560416768'
+p7957
+S'Not Relevant'
+p7958
+sS'591914565291511808'
+p7959
+S'Infrastructure and utilities'
+p7960
+sS'592074832159707136'
+p7961
+S'Response Efforts'
+p7962
+sS'592075899652046849'
+p7963
+S'Not related or irrelevant'
+p7964
+sS'592618278540840960'
+p7965
+S'Not Relevant'
+p7966
+sS'592701672029290496'
+p7967
+S'Not Relevant'
+p7968
+sS'593180787844886528'
+p7969
+S'Not Relevant'
+p7970
+sS'592622468243660801'
+p7971
+S'Not Relevant'
+p7972
+sS'592884263239983105'
+p7973
+S'Not Relevant'
+p7974
+sS'593263291503280129'
+p7975
+S'Response Efforts'
+p7976
+sS'592720452138721281'
+p7977
+S'Not Relevant'
+p7978
+sS'592589492529291264'
+p7979
+S'Not Relevant'
+p7980
+sS'592913117165658112'
+p7981
+S'Not Relevant'
+p7982
+sS'593185708094914560'
+p7983
+S'Not Relevant'
+p7984
+sS'592147508735774720'
+p7985
+S'Not Relevant'
+p7986
+sS'592638329499176960'
+p7987
+S'Not Relevant'
+p7988
+sS'592931763153842177'
+p7989
+S'Not Relevant'
+p7990
+sS'592657775400001536'
+p7991
+S'Other Relevant Information'
+p7992
+sS'592788544235667459'
+p7993
+S'Not Relevant'
+p7994
+sS'592155922060816384'
+p7995
+S'Not Relevant'
+p7996
+sS'592593302190448641'
+p7997
+S'Response Efforts'
+p7998
+sS'592155973562675202'
+p7999
+S'Not Relevant'
+p8000
+sS'592782020754984960'
+p8001
+S'Other Relevant Information'
+p8002
+sS'593157709072977920'
+p8003
+S'Not Relevant'
+p8004
+sS'593179352562540544'
+p8005
+S'Not Relevant'
+p8006
+sS'592633817241821184'
+p8007
+S'Not Relevant'
+p8008
+sS'592086386846670850'
+p8009
+S'Sympathy and emotional support'
+p8010
+sS'592594963046600704'
+p8011
+S'Not Relevant'
+p8012
+sS'592594949977190400'
+p8013
+S'Not Relevant'
+p8014
+sS'593256325510877185'
+p8015
+S'Not Relevant'
+p8016
+sS'592741497927241729'
+p8017
+S'Response Efforts'
+p8018
+sS'592068172406198272'
+p8019
+S'Not Relevant'
+p8020
+sS'592183497940307968'
+p8021
+S'Not Relevant'
+p8022
+sS'592787465712328704'
+p8023
+S'Not Relevant'
+p8024
+sS'592684715569750017'
+p8025
+S'Not Relevant'
+p8026
+sS'592656573849313280'
+p8027
+S'Not Relevant'
+p8028
+sS'592626430262939648'
+p8029
+S'Not Relevant'
+p8030
+sS'592593177317511168'
+p8031
+S'Not Relevant'
+p8032
+sS'592931342003888128'
+p8033
+S'Not Relevant'
+p8034
+sS'592650039706689536'
+p8035
+S'Not Relevant'
+p8036
+sS'592845132145283072'
+p8037
+S'Infrastructure Damage'
+p8038
+sS'593030219969212416'
+p8039
+S'Not Relevant'
+p8040
+sS'592644488113299456'
+p8041
+S'Not Relevant'
+p8042
+sS'591913523334090752'
+p8043
+S'Volunteer or professional services'
+p8044
+sS'592589847103086592'
+p8045
+S'Not Relevant'
+p8046
+sS'592663582359351296'
+p8047
+S'Not Relevant'
+p8048
+sS'592748082007257090'
+p8049
+S'Not Relevant'
+p8050
+sS'592763178968297472'
+p8051
+S'Other Relevant Information'
+p8052
+sS'592695944866570240'
+p8053
+S'Not Relevant'
+p8054
+sS'592159446433861633'
+p8055
+S'Not Relevant'
+p8056
+sS'591980505714675713'
+p8057
+S'Other relevant information'
+p8058
+sS'592591597050535936'
+p8059
+S'Other Relevant Information'
+p8060
+sS'592594697882730497'
+p8061
+S'Response Efforts'
+p8062
+sS'592956222543790080'
+p8063
+S'Not Relevant'
+p8064
+sS'593029348946350081'
+p8065
+S'Not Relevant'
+p8066
+sS'592921563843944449'
+p8067
+S'Not Relevant'
+p8068
+sS'592812188462616576'
+p8069
+S'Other Relevant Information'
+p8070
+sS'592685373152694272'
+p8071
+S'Response Efforts'
+p8072
+sS'592809461082923009'
+p8073
+S'Not Relevant'
+p8074
+sS'592841233015406592'
+p8075
+S'Other Relevant Information'
+p8076
+sS'591962730342395904'
+p8077
+S'Infrastructure and utilities'
+p8078
+sS'592982485530767360'
+p8079
+S'Not Relevant'
+p8080
+sS'591911554712502273'
+p8081
+S'Not related or irrelevant'
+p8082
+sS'592160334422511618'
+p8083
+S'Not Relevant'
+p8084
+sS'591962349952585728'
+p8085
+S'Money'
+p8086
+sS'592808967199395841'
+p8087
+S'Not Relevant'
+p8088
+sS'593014650528264194'
+p8089
+S'Other Relevant Information'
+p8090
+sS'592992181721378816'
+p8091
+S'Not Relevant'
+p8092
+sS'593009178593067009'
+p8093
+S'Not Relevant'
+p8094
+sS'593003399748186112'
+p8095
+S'Other Relevant Information'
+p8096
+sS'592647639629332480'
+p8097
+S'Not Relevant'
+p8098
+sS'592844956747857920'
+p8099
+S'Not Relevant'
+p8100
+sS'592742788237754368'
+p8101
+S'Not Relevant'
+p8102
+sS'592896519164002305'
+p8103
+S'Not Relevant'
+p8104
+sS'591966439646466049'
+p8105
+S'Sympathy and emotional support'
+p8106
+sS'592790511171280897'
+p8107
+S'Not Relevant'
+p8108
+sS'592763390528987136'
+p8109
+S'Not Relevant'
+p8110
+sS'592815371796766722'
+p8111
+S'Response Efforts'
+p8112
+sS'592884910744014848'
+p8113
+S'Not Relevant'
+p8114
+sS'592628060035239936'
+p8115
+S'Not Relevant'
+p8116
+sS'593240793890103297'
+p8117
+S'Infrastructure Damage'
+p8118
+sS'592893167000772608'
+p8119
+S'Not Relevant'
+p8120
+sS'592778050024173568'
+p8121
+S'Not Relevant'
+p8122
+sS'591920063558463488'
+p8123
+S'Sympathy and emotional support'
+p8124
+sS'592077461984149505'
+p8125
+S'Volunteer or professional services'
+p8126
+sS'592201109168467968'
+p8127
+S'Not Relevant'
+p8128
+sS'592791053331243008'
+p8129
+S'Not Relevant'
+p8130
+sS'592623390118182912'
+p8131
+S'Response Efforts'
+p8132
+sS'592070188142563329'
+p8133
+S'Sympathy and emotional support'
+p8134
+sS'592658313193611264'
+p8135
+S'Not Relevant'
+p8136
+sS'592834429233553408'
+p8137
+S'Response Efforts'
+p8138
+sS'593000888396095491'
+p8139
+S'Other Relevant Information'
+p8140
+sS'593024382655533056'
+p8141
+S'Not Relevant'
+p8142
+sS'591912918553382912'
+p8143
+S'Personal updates'
+p8144
+sS'592667300643364864'
+p8145
+S'Other Relevant Information'
+p8146
+sS'592591638733586433'
+p8147
+S'Urgent Needs'
+p8148
+sS'592808403887628288'
+p8149
+S'Other Relevant Information'
+p8150
+sS'592758972601475074'
+p8151
+S'Infrastructure Damage'
+p8152
+sS'592595786703110144'
+p8153
+S'Infrastructure Damage'
+p8154
+sS'592627685588766721'
+p8155
+S'Not Relevant'
+p8156
+sS'592731312261312512'
+p8157
+S'Not Relevant'
+p8158
+sS'592815327039397888'
+p8159
+S'Urgent Needs'
+p8160
+sS'592641720581562368'
+p8161
+S'Other Relevant Information'
+p8162
+sS'593155916473630720'
+p8163
+S'Not Relevant'
+p8164
+sS'592735165664915456'
+p8165
+S'Not Relevant'
+p8166
+sS'591915001503457280'
+p8167
+S'Sympathy and emotional support'
+p8168
+sS'592999094055874561'
+p8169
+S'Not Relevant'
+p8170
+sS'592085366888239104'
+p8171
+S'Sympathy and emotional support'
+p8172
+sS'592672570220118016'
+p8173
+S'Not Relevant'
+p8174
+sS'593206233932427264'
+p8175
+S'Other Relevant Information'
+p8176
+sS'593182751701991425'
+p8177
+S'Not Relevant'
+p8178
+sS'592067753164451840'
+p8179
+S'Not related or irrelevant'
+p8180
+sS'592938216770170880'
+p8181
+S'Not Relevant'
+p8182
+sS'592595098824642560'
+p8183
+S'Other Relevant Information'
+p8184
+sS'592803474833809409'
+p8185
+S'Not Relevant'
+p8186
+sS'592652482930552832'
+p8187
+S'Not Relevant'
+p8188
+sS'593239820245323776'
+p8189
+S'Not Relevant'
+p8190
+sS'591921788956889089'
+p8191
+S'Other relevant information'
+p8192
+sS'592768803852963840'
+p8193
+S'Not Relevant'
+p8194
+sS'593012525396033536'
+p8195
+S'Not Relevant'
+p8196
+sS'592620464779833344'
+p8197
+S'Not Relevant'
+p8198
+sS'592127348264144898'
+p8199
+S'Response Efforts'
+p8200
+sS'593181369284632576'
+p8201
+S'Other Relevant Information'
+p8202
+sS'592597608633237504'
+p8203
+S'Response Efforts'
+p8204
+sS'593241142667259904'
+p8205
+S'Not Relevant'
+p8206
+sS'592595567391281152'
+p8207
+S'Not Relevant'
+p8208
+sS'592706900753567744'
+p8209
+S'Infrastructure Damage'
+p8210
+sS'592910506840694787'
+p8211
+S'Not Relevant'
+p8212
+sS'591963611704102914'
+p8213
+S'Sympathy and emotional support'
+p8214
+sS'592953463144873984'
+p8215
+S'Response Efforts'
+p8216
+sS'592904888201441280'
+p8217
+S'Not Relevant'
+p8218
+sS'591910752526663680'
+p8219
+S'Other relevant information'
+p8220
+sS'592924489459044352'
+p8221
+S'Not Relevant'
+p8222
+sS'592590576303804416'
+p8223
+S'Not Relevant'
+p8224
+sS'592656399437541376'
+p8225
+S'Not Relevant'
+p8226
+sS'592801353350705153'
+p8227
+S'Response Efforts'
+p8228
+sS'592927756586983424'
+p8229
+S'Not Relevant'
+p8230
+sS'592963583069196288'
+p8231
+S'Not Relevant'
+p8232
+sS'593024202459848704'
+p8233
+S'Not Relevant'
+p8234
+sS'592782035082698752'
+p8235
+S'Not Relevant'
+p8236
+sS'592777406609502208'
+p8237
+S'Not Relevant'
+p8238
+sS'592129313048145920'
+p8239
+S'Not Relevant'
+p8240
+sS'592593791493808128'
+p8241
+S'Not Relevant'
+p8242
+sS'592619437674606592'
+p8243
+S'Not Relevant'
+p8244
+sS'591913529428475904'
+p8245
+S'Shelter and supplies'
+p8246
+sS'592589409687474177'
+p8247
+S'Not Relevant'
+p8248
+sS'591961697012850688'
+p8249
+S'Infrastructure and utilities'
+p8250
+sS'593010145518485504'
+p8251
+S'Not Relevant'
+p8252
+sS'592671924418936832'
+p8253
+S'Infrastructure Damage'
+p8254
+sS'592148308610580480'
+p8255
+S'Not Relevant'
+p8256
+sS'592911784954175488'
+p8257
+S'Not Relevant'
+p8258
+sS'592654592157949952'
+p8259
+S'Not Relevant'
+p8260
+sS'593001527498960896'
+p8261
+S'Not Relevant'
+p8262
+sS'592806230965485568'
+p8263
+S'Response Efforts'
+p8264
+sS'592075062439608320'
+p8265
+S'Sympathy and emotional support'
+p8266
+sS'591960962623668224'
+p8267
+S'Sympathy and emotional support'
+p8268
+sS'593191353296822272'
+p8269
+S'Not Relevant'
+p8270
+sS'592763604878946306'
+p8271
+S'Not Relevant'
+p8272
+sS'592810933199724545'
+p8273
+S'Not Relevant'
+p8274
+sS'592689054170374144'
+p8275
+S'Response Efforts'
+p8276
+sS'592321050597265408'
+p8277
+S'Not Relevant'
+p8278
+sS'592906356073594880'
+p8279
+S'Not Relevant'
+p8280
+sS'592636001635282944'
+p8281
+S'Infrastructure Damage'
+p8282
+sS'593026353458454528'
+p8283
+S'Urgent Needs'
+p8284
+sS'592628352609079296'
+p8285
+S'Not Relevant'
+p8286
+sS'592593681561030657'
+p8287
+S'Not Relevant'
+p8288
+sS'592849243834048512'
+p8289
+S'Not Relevant'
+p8290
+sS'591915378424619008'
+p8291
+S'Injured or dead people'
+p8292
+sS'592179162992902145'
+p8293
+S'Other Relevant Information'
+p8294
+sS'592592768477728768'
+p8295
+S'Not Relevant'
+p8296
+sS'592996926418726912'
+p8297
+S'Not Relevant'
+p8298
+sS'592611517188677632'
+p8299
+S'Not Relevant'
+p8300
+sS'592593056362328064'
+p8301
+S'Other Relevant Information'
+p8302
+sS'592704707711369216'
+p8303
+S'Not Relevant'
+p8304
+sS'592846365086081024'
+p8305
+S'Not Relevant'
+p8306
+sS'593034909750525952'
+p8307
+S'Not Relevant'
+p8308
+sS'592790502820466688'
+p8309
+S'Not Relevant'
+p8310
+sS'592672403857235968'
+p8311
+S'Response Efforts'
+p8312
+sS'592618388859396096'
+p8313
+S'Not Relevant'
+p8314
+sS'592592056863760384'
+p8315
+S'Not Relevant'
+p8316
+sS'592971158120701952'
+p8317
+S'Not Relevant'
+p8318
+sS'592593459548200960'
+p8319
+S'Not Relevant'
+p8320
+sS'592753148479037442'
+p8321
+S'Not Relevant'
+p8322
+sS'592980572986703872'
+p8323
+S'Not Relevant'
+p8324
+sS'593216600041369600'
+p8325
+S'Other Relevant Information'
+p8326
+sS'592942917536329728'
+p8327
+S'Not Relevant'
+p8328
+sS'592960222454362112'
+p8329
+S'Not Relevant'
+p8330
+sS'592110147247284224'
+p8331
+S'Not Relevant'
+p8332
+sS'592738966350274561'
+p8333
+S'Not Relevant'
+p8334
+sS'592155098760884224'
+p8335
+S'Response Efforts'
+p8336
+sS'592127233080168449'
+p8337
+S'Not Relevant'
+p8338
+sS'592987289472659456'
+p8339
+S'Response Efforts'
+p8340
+sS'592827659463303172'
+p8341
+S'Response Efforts'
+p8342
+sS'592100491657682944'
+p8343
+S'Not Relevant'
+p8344
+sS'592653520907665408'
+p8345
+S'Not Relevant'
+p8346
+sS'592709686568321024'
+p8347
+S'Not Relevant'
+p8348
+sS'592709377859166208'
+p8349
+S'Not Relevant'
+p8350
+sS'593158931519827968'
+p8351
+S'Not Relevant'
+p8352
+sS'591919397456982017'
+p8353
+S'Not related or irrelevant'
+p8354
+sS'592791650109358081'
+p8355
+S'Not Relevant'
+p8356
+sS'592590493646594048'
+p8357
+S'Not Relevant'
+p8358
+sS'591915722718064640'
+p8359
+S'Not related or irrelevant'
+p8360
+sS'592807377717567490'
+p8361
+S'Response Efforts'
+p8362
+sS'592680894873399297'
+p8363
+S'Not Relevant'
+p8364
+sS'592071803775766528'
+p8365
+S'Not related or irrelevant'
+p8366
+sS'592833258196434945'
+p8367
+S'Other Relevant Information'
+p8368
+sS'593255018754629632'
+p8369
+S'Not Relevant'
+p8370
+sS'592672225578332160'
+p8371
+S'Not Relevant'
+p8372
+sS'592643203087659008'
+p8373
+S'Not Relevant'
+p8374
+sS'592071001934008320'
+p8375
+S'Sympathy and emotional support'
+p8376
+sS'592997050217844736'
+p8377
+S'Not Relevant'
+p8378
+sS'593192313238654976'
+p8379
+S'Not Relevant'
+p8380
+sS'592951775377797120'
+p8381
+S'Other Relevant Information'
+p8382
+sS'591907778077134848'
+p8383
+S'Injured or dead people'
+p8384
+sS'592756018637086720'
+p8385
+S'Response Efforts'
+p8386
+sS'593227491914846209'
+p8387
+S'Not Relevant'
+p8388
+sS'592919033084674048'
+p8389
+S'Not Relevant'
+p8390
+sS'593149519220514816'
+p8391
+S'Not Relevant'
+p8392
+sS'592886910802108417'
+p8393
+S'Not Relevant'
+p8394
+sS'592595034769264641'
+p8395
+S'Not Relevant'
+p8396
+sS'592999482712784896'
+p8397
+S'Not Relevant'
+p8398
+sS'592923982476644352'
+p8399
+S'Not Relevant'
+p8400
+sS'592825455838928896'
+p8401
+S'Other Relevant Information'
+p8402
+sS'592073956141600768'
+p8403
+S'Personal updates'
+p8404
+sS'592163801862045697'
+p8405
+S'Not Relevant'
+p8406
+sS'592697071355953152'
+p8407
+S'Not Relevant'
+p8408
+sS'592814835622137859'
+p8409
+S'Not Relevant'
+p8410
+sS'592609783699537920'
+p8411
+S'Not Relevant'
+p8412
+sS'592878597603483648'
+p8413
+S'Not Relevant'
+p8414
+sS'592592570653528068'
+p8415
+S'Not Relevant'
+p8416
+sS'591908835264221184'
+p8417
+S'Injured or dead people'
+p8418
+sS'592680394576769024'
+p8419
+S'Not Relevant'
+p8420
+sS'592919121836306432'
+p8421
+S'Not Relevant'
+p8422
+sS'592594670108061697'
+p8423
+S'Not Relevant'
+p8424
+sS'592895288198705152'
+p8425
+S'Not Relevant'
+p8426
+sS'592649149792718848'
+p8427
+S'Not Relevant'
+p8428
+sS'593208487750012928'
+p8429
+S'Other Relevant Information'
+p8430
+sS'592906319159517186'
+p8431
+S'Not Relevant'
+p8432
+sS'592169744108630016'
+p8433
+S'Other Relevant Information'
+p8434
+sS'592197887527882752'
+p8435
+S'Not Relevant'
+p8436
+sS'592163574232981505'
+p8437
+S'Not Relevant'
+p8438
+sS'593004660635480065'
+p8439
+S'Not Relevant'
+p8440
+sS'592169320693800960'
+p8441
+S'Not Relevant'
+p8442
+sS'592876370620973056'
+p8443
+S'Not Relevant'
+p8444
+sS'592637634200997888'
+p8445
+S'Not Relevant'
+p8446
+sS'592594029507809282'
+p8447
+S'Not Relevant'
+p8448
+sS'592917928053440512'
+p8449
+S'Not Relevant'
+p8450
+sS'592850499487047683'
+p8451
+S'Not Relevant'
+p8452
+sS'592680159691538435'
+p8453
+S'Not Relevant'
+p8454
+sS'593010380244287488'
+p8455
+S'Not Relevant'
+p8456
+sS'592820813226717184'
+p8457
+S'Not Relevant'
+p8458
+sS'592071556622233600'
+p8459
+S'Not Relevant'
+p8460
+sS'592862534014763008'
+p8461
+S'Response Efforts'
+p8462
+sS'592200328537350145'
+p8463
+S'Not Relevant'
+p8464
+sS'591904874293518336'
+p8465
+S'Sympathy and emotional support'
+p8466
+sS'592163860280250368'
+p8467
+S'Not Relevant'
+p8468
+sS'592158023696560129'
+p8469
+S'Not Relevant'
+p8470
+sS'592765980796923906'
+p8471
+S'Not Relevant'
+p8472
+sS'592795497380900864'
+p8473
+S'Not Relevant'
+p8474
+sS'593160670511640576'
+p8475
+S'Not Relevant'
+p8476
+sS'592803554408140801'
+p8477
+S'Not Relevant'
+p8478
+sS'592626841300508673'
+p8479
+S'Not Relevant'
+p8480
+sS'592639724831023104'
+p8481
+S'Not Relevant'
+p8482
+sS'592864580080119808'
+p8483
+S'Not Relevant'
+p8484
+sS'592838994771222528'
+p8485
+S'Not Relevant'
+p8486
+sS'592918277396963328'
+p8487
+S'Not Relevant'
+p8488
+sS'592129066511290368'
+p8489
+S'Other Relevant Information'
+p8490
+sS'592765207543427074'
+p8491
+S'Not Relevant'
+p8492
+sS'592623033694617602'
+p8493
+S'Not Relevant'
+p8494
+sS'592156315570479104'
+p8495
+S'Not Relevant'
+p8496
+sS'592154659080392705'
+p8497
+S'Not Relevant'
+p8498
+sS'592936869576450048'
+p8499
+S'Not Relevant'
+p8500
+sS'592846793127374850'
+p8501
+S'Not Relevant'
+p8502
+sS'592748415181856770'
+p8503
+S'Not Relevant'
+p8504
+sS'592950916854067200'
+p8505
+S'Not Relevant'
+p8506
+sS'593009269135568896'
+p8507
+S'Not Relevant'
+p8508
+sS'593043788186132480'
+p8509
+S'Not Relevant'
+p8510
+sS'592200533135400960'
+p8511
+S'Not Relevant'
+p8512
+sS'592756734336307204'
+p8513
+S'Not Relevant'
+p8514
+sS'592157219442962433'
+p8515
+S'Not Relevant'
+p8516
+sS'592755717402193920'
+p8517
+S'Not Relevant'
+p8518
+sS'593018360637562880'
+p8519
+S'Not Relevant'
+p8520
+sS'592828853288046592'
+p8521
+S'Other Relevant Information'
+p8522
+sS'592996636478967808'
+p8523
+S'Not Relevant'
+p8524
+sS'592073649588346880'
+p8525
+S'Sympathy and emotional support'
+p8526
+sS'591919961754447872'
+p8527
+S'Other relevant information'
+p8528
+sS'592833404812558337'
+p8529
+S'Not Relevant'
+p8530
+sS'593147377881632771'
+p8531
+S'Not Relevant'
+p8532
+sS'593015405142212608'
+p8533
+S'Not Relevant'
+p8534
+sS'592593184380702720'
+p8535
+S'Response Efforts'
+p8536
+sS'593005998127882240'
+p8537
+S'Not Relevant'
+p8538
+sS'593237108736847873'
+p8539
+S'Not Relevant'
+p8540
+sS'592821083490881538'
+p8541
+S'Response Efforts'
+p8542
+sS'592947223131992064'
+p8543
+S'Not Relevant'
+p8544
+sS'592681251389251586'
+p8545
+S'Not Relevant'
+p8546
+sS'593001867459756032'
+p8547
+S'Not Relevant'
+p8548
+sS'592989343993630721'
+p8549
+S'Not Relevant'
+p8550
+sS'592072808861052928'
+p8551
+S'Not related or irrelevant'
+p8552
+sS'593009822179536896'
+p8553
+S'Not Relevant'
+p8554
+sS'592084369918930945'
+p8555
+S'Sympathy and emotional support'
+p8556
+sS'592887989245747201'
+p8557
+S'Not Relevant'
+p8558
+sS'592839881207975937'
+p8559
+S'Infrastructure Damage'
+p8560
+sS'592700004084666368'
+p8561
+S'Not Relevant'
+p8562
+sS'592076814329257985'
+p8563
+S'Sympathy and emotional support'
+p8564
+sS'592109772259876864'
+p8565
+S'Not Relevant'
+p8566
+sS'592832473580621824'
+p8567
+S'Other Relevant Information'
+p8568
+sS'592709036170149890'
+p8569
+S'Not Relevant'
+p8570
+sS'593017272869978112'
+p8571
+S'Not Relevant'
+p8572
+sS'592941452650356736'
+p8573
+S'Not Relevant'
+p8574
+sS'591919245266710529'
+p8575
+S'Not related or irrelevant'
+p8576
+sS'592842998142148609'
+p8577
+S'Not Relevant'
+p8578
+sS'592696817399267328'
+p8579
+S'Not Relevant'
+p8580
+sS'592802685201551360'
+p8581
+S'Response Efforts'
+p8582
+sS'592590076305080321'
+p8583
+S'Not Relevant'
+p8584
+sS'592702675373989889'
+p8585
+S'Not Relevant'
+p8586
+sS'593238956805763073'
+p8587
+S'Not Relevant'
+p8588
+sS'592692211994775552'
+p8589
+S'Not Relevant'
+p8590
+sS'592601808285134848'
+p8591
+S'Not Relevant'
+p8592
+sS'592741359209054208'
+p8593
+S'Not Relevant'
+p8594
+sS'593153271189131264'
+p8595
+S'Not Relevant'
+p8596
+sS'592345370581180419'
+p8597
+S'Not Relevant'
+p8598
+sS'592684074906574850'
+p8599
+S'Not Relevant'
+p8600
+sS'593011832199258112'
+p8601
+S'Not Relevant'
+p8602
+sS'593035819956461568'
+p8603
+S'Not Relevant'
+p8604
+sS'591963347995734017'
+p8605
+S'Not related or irrelevant'
+p8606
+sS'592590563532222465'
+p8607
+S'Not Relevant'
+p8608
+sS'592916986428051458'
+p8609
+S'Not Relevant'
+p8610
+sS'592617183198347264'
+p8611
+S'Not Relevant'
+p8612
+sS'592590657220280320'
+p8613
+S'Response Efforts'
+p8614
+sS'592944333210386433'
+p8615
+S'Not Relevant'
+p8616
+sS'592947482939813888'
+p8617
+S'Not Relevant'
+p8618
+sS'591993592970752000'
+p8619
+S'Response Efforts'
+p8620
+sS'592904675025883136'
+p8621
+S'Not Relevant'
+p8622
+sS'591993621437665280'
+p8623
+S'Response Efforts'
+p8624
+sS'592156509355704320'
+p8625
+S'Not Relevant'
+p8626
+sS'592897046270599168'
+p8627
+S'Other Relevant Information'
+p8628
+sS'592875492707016706'
+p8629
+S'Not Relevant'
+p8630
+sS'591919500829700099'
+p8631
+S'Other relevant information'
+p8632
+sS'592736557657915392'
+p8633
+S'Not Relevant'
+p8634
+sS'592753262983516160'
+p8635
+S'Not Relevant'
+p8636
+sS'592646301390508034'
+p8637
+S'Not Relevant'
+p8638
+sS'592350980626190336'
+p8639
+S'Not Relevant'
+p8640
+sS'592803454017478656'
+p8641
+S'Not Relevant'
+p8642
+sS'592766158228627457'
+p8643
+S'Not Relevant'
+p8644
+sS'592657447350861825'
+p8645
+S'Not Relevant'
+p8646
+sS'592757612359327744'
+p8647
+S'Not Relevant'
+p8648
+sS'592131813012873216'
+p8649
+S'Not Relevant'
+p8650
+sS'592671180160655361'
+p8651
+S'Not Relevant'
+p8652
+sS'592745575776387073'
+p8653
+S'Not Relevant'
+p8654
+sS'593032158907748353'
+p8655
+S'Not Relevant'
+p8656
+sS'592963859637346305'
+p8657
+S'Not Relevant'
+p8658
+sS'592072705316380672'
+p8659
+S'Other relevant information'
+p8660
+sS'593192103611600896'
+p8661
+S'Not Relevant'
+p8662
+sS'592643592075681793'
+p8663
+S'Not Relevant'
+p8664
+sS'592594429912879105'
+p8665
+S'Not Relevant'
+p8666
+sS'591920792037785602'
+p8667
+S'Volunteer or professional services'
+p8668
+sS'592765724000649216'
+p8669
+S'Not Relevant'
+p8670
+sS'593227976340156416'
+p8671
+S'Not Relevant'
+p8672
+sS'592168598304501760'
+p8673
+S'Other Relevant Information'
+p8674
+sS'592892934254665730'
+p8675
+S'Other Relevant Information'
+p8676
+sS'592667909337575425'
+p8677
+S'Not Relevant'
+p8678
+sS'592591233521819648'
+p8679
+S'Response Efforts'
+p8680
+sS'591908184131964928'
+p8681
+S'Other relevant information'
+p8682
+sS'592642088870682624'
+p8683
+S'Not Relevant'
+p8684
+sS'592184649515839488'
+p8685
+S'Response Efforts'
+p8686
+sS'592673282433929216'
+p8687
+S'Not Relevant'
+p8688
+sS'592834204209131521'
+p8689
+S'Other Relevant Information'
+p8690
+sS'592775521735450626'
+p8691
+S'Not Relevant'
+p8692
+sS'592155380244840449'
+p8693
+S'Response Efforts'
+p8694
+sS'591915757887426560'
+p8695
+S'Other relevant information'
+p8696
+sS'591917381326401536'
+p8697
+S'Not related or irrelevant'
+p8698
+sS'593017164472385536'
+p8699
+S'Not Relevant'
+p8700
+sS'592076524280352768'
+p8701
+S'Volunteer or professional services'
+p8702
+sS'592862774788792321'
+p8703
+S'Not Relevant'
+p8704
+sS'592085002810171392'
+p8705
+S'Sympathy and emotional support'
+p8706
+sS'592773520049987584'
+p8707
+S'Not Relevant'
+p8708
+sS'592842052712411136'
+p8709
+S'Other Relevant Information'
+p8710
+sS'593195463513219072'
+p8711
+S'Not Relevant'
+p8712
+sS'592917245371682816'
+p8713
+S'Not Relevant'
+p8714
+sS'591917456387616768'
+p8715
+S'Other relevant information'
+p8716
+sS'592813280172867586'
+p8717
+S'Not Relevant'
+p8718
+sS'591909466561470464'
+p8719
+S'Other relevant information'
+p8720
+sS'592071405224656896'
+p8721
+S'Other relevant information'
+p8722
+sS'592873500353912832'
+p8723
+S'Not Relevant'
+p8724
+sS'592072854146981888'
+p8725
+S'Sympathy and emotional support'
+p8726
+sS'592591714918903808'
+p8727
+S'Not Relevant'
+p8728
+sS'592591151741411328'
+p8729
+S'Response Efforts'
+p8730
+sS'592992492011786240'
+p8731
+S'Not Relevant'
+p8732
+sS'593026985078575104'
+p8733
+S'Not Relevant'
+p8734
+sS'592824284596346881'
+p8735
+S'Not Relevant'
+p8736
+sS'592809369395421184'
+p8737
+S'Not Relevant'
+p8738
+sS'592952919395147776'
+p8739
+S'Not Relevant'
+p8740
+sS'592593572697808896'
+p8741
+S'Response Efforts'
+p8742
+sS'593015549870739456'
+p8743
+S'Not Relevant'
+p8744
+sS'593017605260214273'
+p8745
+S'Not Relevant'
+p8746
+sS'592100719081168896'
+p8747
+S'Sympathy and emotional support'
+p8748
+sS'592695744496332804'
+p8749
+S'Not Relevant'
+p8750
+sS'592674174411345922'
+p8751
+S'Not Relevant'
+p8752
+sS'592625391954567168'
+p8753
+S'Not Relevant'
+p8754
+sS'593164682506022913'
+p8755
+S'Response Efforts'
+p8756
+sS'592819411922333697'
+p8757
+S'Infrastructure Damage'
+p8758
+sS'593039191975407616'
+p8759
+S'Not Relevant'
+p8760
+sS'592746575488778240'
+p8761
+S'Not Relevant'
+p8762
+sS'592940939624218625'
+p8763
+S'Not Relevant'
+p8764
+sS'592665813993283586'
+p8765
+S'Not Relevant'
+p8766
+sS'592690293230706688'
+p8767
+S'Not Relevant'
+p8768
+sS'592774044665126912'
+p8769
+S'Not Relevant'
+p8770
+sS'591914098654326784'
+p8771
+S'Other relevant information'
+p8772
+sS'591919523013341184'
+p8773
+S'Money'
+p8774
+sS'592592216410849280'
+p8775
+S'Not Relevant'
+p8776
+sS'592589322676645889'
+p8777
+S'Not Relevant'
+p8778
+sS'592850262735364097'
+p8779
+S'Not Relevant'
+p8780
+sS'592169894264893440'
+p8781
+S'Response Efforts'
+p8782
+sS'592737863864815617'
+p8783
+S'Not Relevant'
+p8784
+sS'592680387412946944'
+p8785
+S'Not Relevant'
+p8786
+sS'592733918798946304'
+p8787
+S'Other Relevant Information'
+p8788
+sS'592686865137958912'
+p8789
+S'Not Relevant'
+p8790
+sS'592670479305056258'
+p8791
+S'Not Relevant'
+p8792
+sS'592169869640073216'
+p8793
+S'Not Relevant'
+p8794
+sS'593262749074882560'
+p8795
+S'Not Relevant'
+p8796
+sS'592641580802015232'
+p8797
+S'Response Efforts'
+p8798
+sS'591963796022894592'
+p8799
+S'Not related or irrelevant'
+p8800
+sS'592798574309679104'
+p8801
+S'Not Relevant'
+p8802
+sS'592891247888596993'
+p8803
+S'Not Relevant'
+p8804
+sS'592589416121573377'
+p8805
+S'Not Relevant'
+p8806
+sS'592154818916974593'
+p8807
+S'Not Relevant'
+p8808
+sS'592841519817748480'
+p8809
+S'Not Relevant'
+p8810
+sS'592076058104573952'
+p8811
+S'Sympathy and emotional support'
+p8812
+sS'592870891387621376'
+p8813
+S'Not Relevant'
+p8814
+sS'592934783589584899'
+p8815
+S'Not Relevant'
+p8816
+sS'592617956040900608'
+p8817
+S'Not Relevant'
+p8818
+sS'592800191570382848'
+p8819
+S'Not Relevant'
+p8820
+sS'592705269869711362'
+p8821
+S'Not Relevant'
+p8822
+sS'592647294115282944'
+p8823
+S'Not Relevant'
+p8824
+sS'592957026390663168'
+p8825
+S'Not Relevant'
+p8826
+sS'592719830014386176'
+p8827
+S'Not Relevant'
+p8828
+sS'592883007142395904'
+p8829
+S'Other Relevant Information'
+p8830
+sS'593027186510012416'
+p8831
+S'Response Efforts'
+p8832
+sS'592069337529372672'
+p8833
+S'Sympathy and emotional support'
+p8834
+sS'592626516007071745'
+p8835
+S'Not Relevant'
+p8836
+sS'592995251377152001'
+p8837
+S'Other Relevant Information'
+p8838
+sS'592894948271398913'
+p8839
+S'Not Relevant'
+p8840
+sS'591987288713760769'
+p8841
+S'Other Relevant Information'
+p8842
+sS'592636224633843712'
+p8843
+S'Not Relevant'
+p8844
+sS'593005187830124544'
+p8845
+S'Not Relevant'
+p8846
+sS'592645539692326912'
+p8847
+S'Not Relevant'
+p8848
+sS'592646494630453248'
+p8849
+S'Not Relevant'
+p8850
+sS'592667057377927168'
+p8851
+S'Not Relevant'
+p8852
+sS'592845627261919233'
+p8853
+S'Response Efforts'
+p8854
+sS'592693340044447745'
+p8855
+S'Not Relevant'
+p8856
+sS'592750261564788738'
+p8857
+S'Not Relevant'
+p8858
+sS'592731403005108224'
+p8859
+S'Not Relevant'
+p8860
+sS'592943782624100352'
+p8861
+S'Not Relevant'
+p8862
+sS'592808791202226177'
+p8863
+S'Not Relevant'
+p8864
+sS'592826068437999617'
+p8865
+S'Not Relevant'
+p8866
+sS'592834429694914560'
+p8867
+S'Not Relevant'
+p8868
+sS'592736732061290496'
+p8869
+S'Other Relevant Information'
+p8870
+sS'593257536641372161'
+p8871
+S'Not Relevant'
+p8872
+sS'592606699418230784'
+p8873
+S'Not Relevant'
+p8874
+sS'592117678736715777'
+p8875
+S'Response Efforts'
+p8876
+sS'592591936709615616'
+p8877
+S'Not Relevant'
+p8878
+sS'592945897715015680'
+p8879
+S'Infrastructure Damage'
+p8880
+sS'592778581102698497'
+p8881
+S'Not Relevant'
+p8882
+sS'591907384877973504'
+p8883
+S'Sympathy and emotional support'
+p8884
+sS'592937323760726017'
+p8885
+S'Not Relevant'
+p8886
+sS'592882199323660288'
+p8887
+S'Other Relevant Information'
+p8888
+sS'591996242864967680'
+p8889
+S'Sympathy and emotional support'
+p8890
+sS'593148025318453248'
+p8891
+S'Not Relevant'
+p8892
+sS'592766305343827969'
+p8893
+S'Other Relevant Information'
+p8894
+sS'593014484014366720'
+p8895
+S'Response Efforts'
+p8896
+sS'592751994936414208'
+p8897
+S'Not Relevant'
+p8898
+sS'593254010192154624'
+p8899
+S'Not Relevant'
+p8900
+sS'592632053813813248'
+p8901
+S'Response Efforts'
+p8902
+sS'592708114140536834'
+p8903
+S'Not Relevant'
+p8904
+sS'592639861183488000'
+p8905
+S'Other Relevant Information'
+p8906
+sS'592828685654335489'
+p8907
+S'Urgent Needs'
+p8908
+sS'592930003022696449'
+p8909
+S'Response Efforts'
+p8910
+sS'592809100787974144'
+p8911
+S'Not Relevant'
+p8912
+sS'593243350829957120'
+p8913
+S'Not Relevant'
+p8914
+sS'592156340711129089'
+p8915
+S'Not Relevant'
+p8916
+sS'591920477523812352'
+p8917
+S'Other relevant information'
+p8918
+sS'592590085087891456'
+p8919
+S'Not Relevant'
+p8920
+sS'592630794025209856'
+p8921
+S'Infrastructure Damage'
+p8922
+sS'592784467292463104'
+p8923
+S'Not Relevant'
+p8924
+sS'592590257717149696'
+p8925
+S'Response Efforts'
+p8926
+sS'592658139356495872'
+p8927
+S'Response Efforts'
+p8928
+sS'592113183365664768'
+p8929
+S'Not Relevant'
+p8930
+sS'592654706905903105'
+p8931
+S'Not Relevant'
+p8932
+sS'592821625822834688'
+p8933
+S'Not Relevant'
+p8934
+sS'592719961937829890'
+p8935
+S'Not Relevant'
+p8936
+sS'592626172363669504'
+p8937
+S'Not Relevant'
+p8938
+sS'592607621992951808'
+p8939
+S'Not Relevant'
+p8940
+sS'592687177303220225'
+p8941
+S'Not Relevant'
+p8942
+sS'592883675697643521'
+p8943
+S'Not Relevant'
+p8944
+sS'592591327834943488'
+p8945
+S'Response Efforts'
+p8946
+sS'592788628948017153'
+p8947
+S'Not Relevant'
+p8948
+sS'593155382001958913'
+p8949
+S'Not Relevant'
+p8950
+sS'592653553061273601'
+p8951
+S'Not Relevant'
+p8952
+sS'593235622719987712'
+p8953
+S'Not Relevant'
+p8954
+sS'592834904880189440'
+p8955
+S'Not Relevant'
+p8956
+sS'592991661782732800'
+p8957
+S'Not Relevant'
+p8958
+sS'592132052947963904'
+p8959
+S'Not Relevant'
+p8960
+sS'592788462383853569'
+p8961
+S'Not Relevant'
+p8962
+sS'592826161920679938'
+p8963
+S'Not Relevant'
+p8964
+sS'593224679201968128'
+p8965
+S'Response Efforts'
+p8966
+sS'592914609146695680'
+p8967
+S'Not Relevant'
+p8968
+sS'592839772864917505'
+p8969
+S'Not Relevant'
+p8970
+sS'592756552794243072'
+p8971
+S'Not Relevant'
+p8972
+sS'592882404777426944'
+p8973
+S'Not Relevant'
+p8974
+sS'592971601525735424'
+p8975
+S'Not Relevant'
+p8976
+sS'592733021603831809'
+p8977
+S'Infrastructure Damage'
+p8978
+sS'592780157938757634'
+p8979
+S'Not Relevant'
+p8980
+sS'592593326374670336'
+p8981
+S'Response Efforts'
+p8982
+sS'592194859315826688'
+p8983
+S'Not Relevant'
+p8984
+sS'592707420331319296'
+p8985
+S'Response Efforts'
+p8986
+sS'592899622005243905'
+p8987
+S'Not Relevant'
+p8988
+sS'592198322221293568'
+p8989
+S'Not Relevant'
+p8990
+sS'592107704216395776'
+p8991
+S'Not Relevant'
+p8992
+sS'592702323564109827'
+p8993
+S'Not Relevant'
+p8994
+sS'592068302588940289'
+p8995
+S'Not related or irrelevant'
+p8996
+sS'592672686159069185'
+p8997
+S'Not Relevant'
+p8998
+sS'592775557374451712'
+p8999
+S'Not Relevant'
+p9000
+sS'591918526140706816'
+p9001
+S'Other relevant information'
+p9002
+sS'592701531981488128'
+p9003
+S'Not Relevant'
+p9004
+sS'592990956258983937'
+p9005
+S'Other Relevant Information'
+p9006
+sS'592588896845725696'
+p9007
+S'Response Efforts'
+p9008
+sS'592951384770740224'
+p9009
+S'Not Relevant'
+p9010
+sS'592986868599418880'
+p9011
+S'Not Relevant'
+p9012
+sS'592068844799139843'
+p9013
+S'Not related or irrelevant'
+p9014
+sS'591912387030163456'
+p9015
+S'Not related or irrelevant'
+p9016
+sS'592592563862831104'
+p9017
+S'Not Relevant'
+p9018
+sS'592654431302332418'
+p9019
+S'Response Efforts'
+p9020
+sS'592591481526947840'
+p9021
+S'Response Efforts'
+p9022
+sS'592916182144974848'
+p9023
+S'Not Relevant'
+p9024
+sS'592601509474340865'
+p9025
+S'Other Relevant Information'
+p9026
+sS'592069899574378496'
+p9027
+S'Other relevant information'
+p9028
+sS'592735133582622720'
+p9029
+S'Not Relevant'
+p9030
+sS'592083468265365505'
+p9031
+S'Other relevant information'
+p9032
+sS'592071841704910848'
+p9033
+S'Not related or irrelevant'
+p9034
+sS'592651929739730944'
+p9035
+S'Not Relevant'
+p9036
+sS'592683046127689728'
+p9037
+S'Not Relevant'
+p9038
+sS'592706973440827395'
+p9039
+S'Not Relevant'
+p9040
+sS'592673322908909568'
+p9041
+S'Not Relevant'
+p9042
+sS'593008215383797760'
+p9043
+S'Not Relevant'
+p9044
+sS'593002041670311936'
+p9045
+S'Other Relevant Information'
+p9046
+sS'592785104700874752'
+p9047
+S'Not Relevant'
+p9048
+sS'592708368449536001'
+p9049
+S'Not Relevant'
+p9050
+sS'592200581558599680'
+p9051
+S'Not Relevant'
+p9052
+sS'592808181308489730'
+p9053
+S'Not Relevant'
+p9054
+sS'592167323257081857'
+p9055
+S'Not Relevant'
+p9056
+sS'592673243095511040'
+p9057
+S'Not Relevant'
+p9058
+sS'592981737182928896'
+p9059
+S'Not Relevant'
+p9060
+sS'592589623454347265'
+p9061
+S'Not Relevant'
+p9062
+sS'592746366738243585'
+p9063
+S'Not Relevant'
+p9064
+sS'592164447042543616'
+p9065
+S'Not Relevant'
+p9066
+sS'592620741289467904'
+p9067
+S'Not Relevant'
+p9068
+sS'592878843083530241'
+p9069
+S'Not Relevant'
+p9070
+sS'592071761702846466'
+p9071
+S'Other relevant information'
+p9072
+sS'593023941884583939'
+p9073
+S'Not Relevant'
+p9074
+sS'592873916806344705'
+p9075
+S'Not Relevant'
+p9076
+sS'592682519595646976'
+p9077
+S'Not Relevant'
+p9078
+sS'591909154614161409'
+p9079
+S'Not related or irrelevant'
+p9080
+sS'591916027790786561'
+p9081
+S'Other relevant information'
+p9082
+sS'593155356030857216'
+p9083
+S'Not Relevant'
+p9084
+sS'592073345065099264'
+p9085
+S'Not Relevant'
+p9086
+sS'592594548771000321'
+p9087
+S'Not Relevant'
+p9088
+sS'592979805676507136'
+p9089
+S'Not Relevant'
+p9090
+sS'592966933017980928'
+p9091
+S'Not Relevant'
+p9092
+sS'591963729392214016'
+p9093
+S'Sympathy and emotional support'
+p9094
+sS'592996007874408448'
+p9095
+S'Not Relevant'
+p9096
+sS'592780431164071936'
+p9097
+S'Not Relevant'
+p9098
+sS'593008172270510080'
+p9099
+S'Not Relevant'
+p9100
+sS'592857622094708737'
+p9101
+S'Not Relevant'
+p9102
+sS'592157266247163904'
+p9103
+S'Not Relevant'
+p9104
+sS'592877374032715776'
+p9105
+S'Not Relevant'
+p9106
+sS'592594127054766080'
+p9107
+S'Response Efforts'
+p9108
+sS'592810022247215105'
+p9109
+S'Not Relevant'
+p9110
+sS'592740635259592705'
+p9111
+S'Not Relevant'
+p9112
+sS'592592120860450816'
+p9113
+S'Response Efforts'
+p9114
+sS'592197964673613824'
+p9115
+S'Not Relevant'
+p9116
+sS'592941262858297344'
+p9117
+S'Not Relevant'
+p9118
+sS'592907589500952579'
+p9119
+S'Not Relevant'
+p9120
+sS'592599982462607360'
+p9121
+S'Response Efforts'
+p9122
+sS'592808176304705536'
+p9123
+S'Not Relevant'
+p9124
+sS'592201153762365440'
+p9125
+S'Infrastructure Damage'
+p9126
+sS'592740253590560769'
+p9127
+S'Not Relevant'
+p9128
+sS'592667450468073472'
+p9129
+S'Not Relevant'
+p9130
+sS'592876401306554369'
+p9131
+S'Not Relevant'
+p9132
+sS'591993435562749952'
+p9133
+S'Not Relevant'
+p9134
+sS'592879195262423040'
+p9135
+S'Not Relevant'
+p9136
+sS'591913658415845376'
+p9137
+S'Not related or irrelevant'
+p9138
+sS'592816778511781890'
+p9139
+S'Not Relevant'
+p9140
+sS'592333232827473920'
+p9141
+S'Not Relevant'
+p9142
+sS'592628956412518400'
+p9143
+S'Not Relevant'
+p9144
+sS'591904895839694848'
+p9145
+S'Other relevant information'
+p9146
+sS'592593412504825856'
+p9147
+S'Not Relevant'
+p9148
+sS'591908613146288129'
+p9149
+S'"Missing'
+p9150
+sS'592753387424325632'
+p9151
+S'Not Relevant'
+p9152
+sS'592739663410012160'
+p9153
+S'Not Relevant'
+p9154
+sS'592757307634749440'
+p9155
+S'Urgent Needs'
+p9156
+sS'592809313447608320'
+p9157
+S'Not Relevant'
+p9158
+sS'592639840321015808'
+p9159
+S'Not Relevant'
+p9160
+sS'591917976040951808'
+p9161
+S'Not related or irrelevant'
+p9162
+sS'592703712793120769'
+p9163
+S'Other Relevant Information'
+p9164
+sS'592710321950892032'
+p9165
+S'Not Relevant'
+p9166
+sS'592769025656098818'
+p9167
+S'Not Relevant'
+p9168
+sS'592157227504500736'
+p9169
+S'Response Efforts'
+p9170
+sS'592878797332082688'
+p9171
+S'Not Relevant'
+p9172
+sS'592176147175239680'
+p9173
+S'Not Relevant'
+p9174
+sS'593031082871689217'
+p9175
+S'Not Relevant'
+p9176
+sS'593038246730305537'
+p9177
+S'Not Relevant'
+p9178
+sS'592777669764349952'
+p9179
+S'Not Relevant'
+p9180
+sS'592594027259764737'
+p9181
+S'Response Efforts'
+p9182
+sS'592923799441387520'
+p9183
+S'Not Relevant'
+p9184
+sS'592834050710249473'
+p9185
+S'Other Relevant Information'
+p9186
+sS'592626165409394689'
+p9187
+S'Not Relevant'
+p9188
+sS'592898478063378435'
+p9189
+S'Not Relevant'
+p9190
+sS'592784709870080000'
+p9191
+S'Not Relevant'
+p9192
+sS'592945904887275520'
+p9193
+S'Not Relevant'
+p9194
+sS'592781444608598016'
+p9195
+S'Not Relevant'
+p9196
+sS'591906860195708929'
+p9197
+S'Sympathy and emotional support'
+p9198
+sS'592998850228592640'
+p9199
+S'Not Relevant'
+p9200
+sS'592592189521289216'
+p9201
+S'Other Relevant Information'
+p9202
+sS'592590682600026112'
+p9203
+S'Response Efforts'
+p9204
+sS'592156140760248320'
+p9205
+S'Not Relevant'
+p9206
+sS'592590884031434752'
+p9207
+S'Not Relevant'
+p9208
+sS'593038207551479808'
+p9209
+S'Not Relevant'
+p9210
+sS'591911417076396032'
+p9211
+S'Other relevant information'
+p9212
+sS'592696796394184708'
+p9213
+S'Not Relevant'
+p9214
+sS'592871530041868288'
+p9215
+S'Not Relevant'
+p9216
+sS'592657668864618496'
+p9217
+S'Not Relevant'
+p9218
+sS'592849026468413442'
+p9219
+S'Response Efforts'
+p9220
+sS'592702679824105474'
+p9221
+S'Not Relevant'
+p9222
+sS'592706073863319554'
+p9223
+S'Not Relevant'
+p9224
+sS'592594523194138624'
+p9225
+S'Response Efforts'
+p9226
+sS'592658321456439297'
+p9227
+S'Not Relevant'
+p9228
+sS'592981137779220481'
+p9229
+S'Not Relevant'
+p9230
+sS'592945565568237568'
+p9231
+S'Response Efforts'
+p9232
+sS'592858861343735808'
+p9233
+S'Not Relevant'
+p9234
+sS'592768484674789378'
+p9235
+S'Not Relevant'
+p9236
+sS'592786102924218368'
+p9237
+S'Not Relevant'
+p9238
+sS'592840673000325120'
+p9239
+S'Other Relevant Information'
+p9240
+sS'592589718887497728'
+p9241
+S'Not Relevant'
+p9242
+sS'592606727511547906'
+p9243
+S'Not Relevant'
+p9244
+sS'591914738990350337'
+p9245
+S'Other relevant information'
+p9246
+sS'592912897132498944'
+p9247
+S'Urgent Needs'
+p9248
+sS'592776021314797568'
+p9249
+S'Not Relevant'
+p9250
+sS'592810096025034752'
+p9251
+S'Not Relevant'
+p9252
+sS'592161411494596609'
+p9253
+S'Not Relevant'
+p9254
+sS'592200628471877632'
+p9255
+S'Infrastructure Damage'
+p9256
+sS'591997239033106432'
+p9257
+S'Not Relevant'
+p9258
+sS'592889442584657920'
+p9259
+S'Not Relevant'
+p9260
+sS'593194622735634432'
+p9261
+S'Not Relevant'
+p9262
+sS'592748811266727936'
+p9263
+S'Not Relevant'
+p9264
+sS'592786879981953025'
+p9265
+S'Not Relevant'
+p9266
+sS'592589849447763970'
+p9267
+S'Not Relevant'
+p9268
+sS'592928544482693120'
+p9269
+S'Not Relevant'
+p9270
+sS'591963241321926658'
+p9271
+S'Response efforts'
+p9272
+sS'592948095383687168'
+p9273
+S'Not Relevant'
+p9274
+sS'592753508765593600'
+p9275
+S'Not Relevant'
+p9276
+sS'592804090352119809'
+p9277
+S'Not Relevant'
+p9278
+sS'592075511049920513'
+p9279
+S'Sympathy and emotional support'
+p9280
+sS'592593253012152320'
+p9281
+S'Response Efforts'
+p9282
+sS'592901969334902786'
+p9283
+S'Not Relevant'
+p9284
+sS'592198939878686720'
+p9285
+S'Response Efforts'
+p9286
+sS'592963599171063808'
+p9287
+S'Not Relevant'
+p9288
+sS'592071028848852993'
+p9289
+S'Sympathy and emotional support'
+p9290
+sS'592883474694025217'
+p9291
+S'Not Relevant'
+p9292
+sS'592594027653898241'
+p9293
+S'Other Relevant Information'
+p9294
+sS'592068008647991296'
+p9295
+S'Injured or dead people'
+p9296
+sS'592946576655548416'
+p9297
+S'Not Relevant'
+p9298
+sS'592086635136745474'
+p9299
+S'Response Efforts'
+p9300
+sS'592653610137362432'
+p9301
+S'Response Efforts'
+p9302
+sS'592673512629886980'
+p9303
+S'Not Relevant'
+p9304
+sS'592732029889978368'
+p9305
+S'Not Relevant'
+p9306
+sS'592589796595376128'
+p9307
+S'Not Relevant'
+p9308
+sS'592276226284195840'
+p9309
+S'Not Relevant'
+p9310
+sS'592680954537320448'
+p9311
+S'Urgent Needs'
+p9312
+sS'592970151835901952'
+p9313
+S'Not Relevant'
+p9314
+sS'592673607274364930'
+p9315
+S'Infrastructure Damage'
+p9316
+sS'592682561505259520'
+p9317
+S'Infrastructure Damage'
+p9318
+sS'592591012188573696'
+p9319
+S'Not Relevant'
+p9320
+sS'592070240743231488'
+p9321
+S'"Missing'
+p9322
+sS'592600594164101120'
+p9323
+S'Not Relevant'
+p9324
+sS'592825802942742530'
+p9325
+S'Not Relevant'
+p9326
+sS'592895640620965890'
+p9327
+S'Not Relevant'
+p9328
+sS'592074974254366722'
+p9329
+S'Not related or irrelevant'
+p9330
+sS'592125098879909888'
+p9331
+S'Not Relevant'
+p9332
+sS'592966897680949249'
+p9333
+S'Not Relevant'
+p9334
+sS'591903104276234242'
+p9335
+S'Other relevant information'
+p9336
+sS'592995461532790784'
+p9337
+S'Not Relevant'
+p9338
+sS'592592971758895104'
+p9339
+S'Urgent Needs'
+p9340
+sS'592163229616381952'
+p9341
+S'Infrastructure Damage'
+p9342
+sS'592591864823287808'
+p9343
+S'Not Relevant'
+p9344
+sS'592076804648644609'
+p9345
+S'Volunteer or professional services'
+p9346
+sS'592594100882427904'
+p9347
+S'Not Relevant'
+p9348
+sS'592075630168027136'
+p9349
+S'Volunteer or professional services'
+p9350
+sS'592874082531680257'
+p9351
+S'Not Relevant'
+p9352
+sS'592748781852094464'
+p9353
+S'Not Relevant'
+p9354
+sS'591986202418393088'
+p9355
+S'Response Efforts'
+p9356
+sS'592737171351707648'
+p9357
+S'Not Relevant'
+p9358
+sS'592986848009461760'
+p9359
+S'Not Relevant'
+p9360
+sS'592748003053674497'
+p9361
+S'Not Relevant'
+p9362
+sS'592792967519346689'
+p9363
+S'Not Relevant'
+p9364
+sS'592700019213467648'
+p9365
+S'Other Relevant Information'
+p9366
+sS'591910216779767808'
+p9367
+S'Sympathy and emotional support'
+p9368
+sS'592776007540744193'
+p9369
+S'Not Relevant'
+p9370
+sS'592595059050086400'
+p9371
+S'Other Relevant Information'
+p9372
+sS'592871302643503104'
+p9373
+S'Not Relevant'
+p9374
+sS'592876333836951555'
+p9375
+S'Not Relevant'
+p9376
+sS'592999194597556224'
+p9377
+S'Not Relevant'
+p9378
+sS'592084895536648192'
+p9379
+S'Sympathy and emotional support'
+p9380
+sS'592901128465022976'
+p9381
+S'Not Relevant'
+p9382
+sS'592835018805870594'
+p9383
+S'Not Relevant'
+p9384
+sS'593032116390080512'
+p9385
+S'Not Relevant'
+p9386
+sS'592809937979445248'
+p9387
+S'Not Relevant'
+p9388
+sS'592594710507560960'
+p9389
+S'Response Efforts'
+p9390
+sS'592591308490964992'
+p9391
+S'Infrastructure Damage'
+p9392
+sS'592756597132255232'
+p9393
+S'Response Efforts'
+p9394
+sS'593182454002814977'
+p9395
+S'Not Relevant'
+p9396
+sS'592608282834915329'
+p9397
+S'Not Relevant'
+p9398
+sS'592590599854759938'
+p9399
+S'Not Relevant'
+p9400
+sS'592775828804661249'
+p9401
+S'Not Relevant'
+p9402
+sS'592865500587233280'
+p9403
+S'Response Efforts'
+p9404
+sS'592769399892873218'
+p9405
+S'Not Relevant'
+p9406
+sS'592157532182839296'
+p9407
+S'Not Relevant'
+p9408
+sS'592814369232289793'
+p9409
+S'Not Relevant'
+p9410
+sS'592178497218416641'
+p9411
+S'Not Relevant'
+p9412
+sS'592607813689413633'
+p9413
+S'Not Relevant'
+p9414
+sS'592965944323899393'
+p9415
+S'Not Relevant'
+p9416
+sS'592906126745804800'
+p9417
+S'Not Relevant'
+p9418
+sS'593164779398696960'
+p9419
+S'Not Relevant'
+p9420
+sS'592938251029127168'
+p9421
+S'Not Relevant'
+p9422
+sS'592948088672759808'
+p9423
+S'Not Relevant'
+p9424
+sS'592933628042211328'
+p9425
+S'Response Efforts'
+p9426
+sS'591907977294143488'
+p9427
+S'Sympathy and emotional support'
+p9428
+sS'592634093327683584'
+p9429
+S'Not Relevant'
+p9430
+sS'593246230081220608'
+p9431
+S'Not Relevant'
+p9432
+sS'592808048651018242'
+p9433
+S'Not Relevant'
+p9434
+sS'592895091628466176'
+p9435
+S'Not Relevant'
+p9436
+sS'592983610988236800'
+p9437
+S'Not Relevant'
+p9438
+sS'593256471237820416'
+p9439
+S'Not Relevant'
+p9440
+sS'592769453324181506'
+p9441
+S'Not Relevant'
+p9442
+sS'592594447294148609'
+p9443
+S'Not Relevant'
+p9444
+sS'592588896275410944'
+p9445
+S'Not Relevant'
+p9446
+sS'592592504702115840'
+p9447
+S'Not Relevant'
+p9448
+sS'592588895990185984'
+p9449
+S'Not Relevant'
+p9450
+sS'592912258969300993'
+p9451
+S'Not Relevant'
+p9452
+sS'592692130142953473'
+p9453
+S'Not Relevant'
+p9454
+sS'592071695357251584'
+p9455
+S'Sympathy and emotional support'
+p9456
+sS'592658045769019392'
+p9457
+S'Not Relevant'
+p9458
+sS'592640154491363328'
+p9459
+S'Response Efforts'
+p9460
+sS'591910118851129345'
+p9461
+S'Other relevant information'
+p9462
+sS'592771487117012993'
+p9463
+S'Response Efforts'
+p9464
+sS'592755122914107393'
+p9465
+S'Not Relevant'
+p9466
+sS'592068088457076737'
+p9467
+S'Sympathy and emotional support'
+p9468
+sS'592812926093885440'
+p9469
+S'Infrastructure Damage'
+p9470
+sS'592132770945597440'
+p9471
+S'Other Relevant Information'
+p9472
+sS'592593428812210176'
+p9473
+S'Response Efforts'
+p9474
+sS'592813322896076801'
+p9475
+S'Other Relevant Information'
+p9476
+sS'592765352049795075'
+p9477
+S'Not Relevant'
+p9478
+sS'592593263472717825'
+p9479
+S'Response Efforts'
+p9480
+sS'592709515486863360'
+p9481
+S'Not Relevant'
+p9482
+sS'591921910738325505'
+p9483
+S'Injured or dead people'
+p9484
+sS'592885989078609921'
+p9485
+S'Not Relevant'
+p9486
+sS'592642881480892416'
+p9487
+S'Not Relevant'
+p9488
+sS'592859680742989825'
+p9489
+S'Urgent Needs'
+p9490
+sS'592647652702953472'
+p9491
+S'Other Relevant Information'
+p9492
+sS'591994286289199104'
+p9493
+S'Not Relevant'
+p9494
+sS'593215534994456576'
+p9495
+S'Not Relevant'
+p9496
+sS'592923265162735617'
+p9497
+S'Not Relevant'
+p9498
+sS'592963748555546624'
+p9499
+S'Not Relevant'
+p9500
+sS'592909497900933121'
+p9501
+S'Infrastructure Damage'
+p9502
+sS'592165904944738305'
+p9503
+S'Not Relevant'
+p9504
+sS'592635625800474624'
+p9505
+S'Not Relevant'
+p9506
+sS'592960678018715648'
+p9507
+S'Not Relevant'
+p9508
+sS'592748745743331328'
+p9509
+S'Not Relevant'
+p9510
+sS'592701585899261952'
+p9511
+S'Response Efforts'
+p9512
+sS'592911550316474370'
+p9513
+S'Not Relevant'
+p9514
+sS'592692338444652544'
+p9515
+S'Not Relevant'
+p9516
+sS'592200945703919616'
+p9517
+S'Not Relevant'
+p9518
+sS'593243828867465216'
+p9519
+S'Not Relevant'
+p9520
+sS'592592470187216896'
+p9521
+S'Not Relevant'
+p9522
+sS'593004416543936512'
+p9523
+S'Response Efforts'
+p9524
+sS'592993462917701632'
+p9525
+S'Response Efforts'
+p9526
+sS'591961164529053696'
+p9527
+S'Infrastructure and utilities'
+p9528
+sS'592987892324130817'
+p9529
+S'Not Relevant'
+p9530
+sS'592164732087373824'
+p9531
+S'Not Relevant'
+p9532
+sS'592867389689171969'
+p9533
+S'Not Relevant'
+p9534
+sS'592709515017064449'
+p9535
+S'Not Relevant'
+p9536
+sS'592850711941140480'
+p9537
+S'Not Relevant'
+p9538
+sS'592834518651949058'
+p9539
+S'Not Relevant'
+p9540
+sS'592635108215001090'
+p9541
+S'Not Relevant'
+p9542
+sS'592764508495548416'
+p9543
+S'Not Relevant'
+p9544
+sS'592685973026316288'
+p9545
+S'Not Relevant'
+p9546
+sS'592754504342319104'
+p9547
+S'Not Relevant'
+p9548
+sS'592783026431590400'
+p9549
+S'Not Relevant'
+p9550
+sS'592708428625256448'
+p9551
+S'Not Relevant'
+p9552
+sS'591960244647043072'
+p9553
+S'Other relevant'
+p9554
+sS'591903131505659904'
+p9555
+S'Sympathy and emotional support'
+p9556
+sS'592162410913402880'
+p9557
+S'Not Relevant'
+p9558
+sS'592602922233434112'
+p9559
+S'Not Relevant'
+p9560
+sS'593183758787870720'
+p9561
+S'Not Relevant'
+p9562
+sS'592068246779645952'
+p9563
+S'Not Relevant'
+p9564
+sS'592777358379249665'
+p9565
+S'Not Relevant'
+p9566
+sS'592741525102133250'
+p9567
+S'Not Relevant'
+p9568
+sS'592866566074667009'
+p9569
+S'Not Relevant'
+p9570
+sS'592083158482493440'
+p9571
+S'Not Relevant'
+p9572
+sS'592860433834446850'
+p9573
+S'Not Relevant'
+p9574
+sS'592888394272866304'
+p9575
+S'Not Relevant'
+p9576
+sS'592591841582710784'
+p9577
+S'Response Efforts'
+p9578
+sS'592593743624081408'
+p9579
+S'Not Relevant'
+p9580
+sS'592667759533752320'
+p9581
+S'Response Efforts'
+p9582
+sS'592068996788199425'
+p9583
+S'Displaced people'
+p9584
+sS'593001259264782336'
+p9585
+S'Not Relevant'
+p9586
+sS'592594944604254208'
+p9587
+S'Not Relevant'
+p9588
+sS'592939509727133697'
+p9589
+S'Not Relevant'
+p9590
+sS'592659225756721152'
+p9591
+S'Not Relevant'
+p9592
+sS'592648187384594432'
+p9593
+S'Not Relevant'
+p9594
+sS'592121568068702209'
+p9595
+S'Not Relevant'
+p9596
+sS'593179767010160642'
+p9597
+S'Infrastructure Damage'
+p9598
+sS'592731060821172225'
+p9599
+S'Not Relevant'
+p9600
+sS'592952310512295936'
+p9601
+S'Not Relevant'
+p9602
+sS'592912851821580288'
+p9603
+S'Not Relevant'
+p9604
+sS'592640323794423808'
+p9605
+S'Response Efforts'
+p9606
+sS'592599000722771968'
+p9607
+S'Response Efforts'
+p9608
+sS'592627083953733632'
+p9609
+S'Not Relevant'
+p9610
+sS'592848102232567808'
+p9611
+S'Not Relevant'
+p9612
+sS'592589766539026432'
+p9613
+S'Not Relevant'
+p9614
+sS'593161818736037890'
+p9615
+S'Not Relevant'
+p9616
+sS'593028423888535553'
+p9617
+S'Not Relevant'
+p9618
+sS'592775807841480706'
+p9619
+S'Not Relevant'
+p9620
+sS'592949882488528897'
+p9621
+S'Not Relevant'
+p9622
+sS'592817981979303937'
+p9623
+S'Not Relevant'
+p9624
+sS'592688057159122946'
+p9625
+S'Not Relevant'
+p9626
+sS'592590959239680000'
+p9627
+S'Not Relevant'
+p9628
+sS'592967202195828736'
+p9629
+S'Not Relevant'
+p9630
+sS'592593578473304065'
+p9631
+S'Not Relevant'
+p9632
+sS'592665043961012226'
+p9633
+S'Not Relevant'
+p9634
+sS'592594668010999808'
+p9635
+S'Not Relevant'
+p9636
+sS'591918554426920960'
+p9637
+S'Sympathy and emotional support'
+p9638
+sS'591913712509919232'
+p9639
+S'Not related or irrelevant'
+p9640
+sS'592707741409476608'
+p9641
+S'Response Efforts'
+p9642
+sS'592590458427084800'
+p9643
+S'Not Relevant'
+p9644
+sS'592640251727847424'
+p9645
+S'Not Relevant'
+p9646
+sS'593212091546398720'
+p9647
+S'Response Efforts'
+p9648
+sS'592974390905667585'
+p9649
+S'Not Relevant'
+p9650
+sS'591909957290708992'
+p9651
+S'Sympathy and emotional support'
+p9652
+sS'592627765645565952'
+p9653
+S'Response Efforts'
+p9654
+sS'592591324479553536'
+p9655
+S'Not Relevant'
+p9656
+sS'593229993716514816'
+p9657
+S'Not Relevant'
+p9658
+sS'592772775250657280'
+p9659
+S'Other Relevant Information'
+p9660
+sS'591920013864341504'
+p9661
+S'"Missing'
+p9662
+sS'592988719700963328'
+p9663
+S'Not Relevant'
+p9664
+sS'592622323095760896'
+p9665
+S'Infrastructure Damage'
+p9666
+sS'592591018886729728'
+p9667
+S'Not Relevant'
+p9668
+sS'592200093169635329'
+p9669
+S'Response Efforts'
+p9670
+sS'592790932854038528'
+p9671
+S'Not Relevant'
+p9672
+sS'592980194362728449'
+p9673
+S'Not Relevant'
+p9674
+sS'593044277942452224'
+p9675
+S'Not Relevant'
+p9676
+sS'593163571049025536'
+p9677
+S'Not Relevant'
+p9678
+sS'592594341324922880'
+p9679
+S'Not Relevant'
+p9680
+sS'592828196925657089'
+p9681
+S'Not Relevant'
+p9682
+sS'592591373993431040'
+p9683
+S'Not Relevant'
+p9684
+sS'592819384760016896'
+p9685
+S'Not Relevant'
+p9686
+sS'592636574887780352'
+p9687
+S'Not Relevant'
+p9688
+sS'593192509435674624'
+p9689
+S'Not Relevant'
+p9690
+sS'592158905679024128'
+p9691
+S'Not Relevant'
+p9692
+sS'592945828349652992'
+p9693
+S'Response Efforts'
+p9694
+sS'592100219765919744'
+p9695
+S'Sympathy and emotional support'
+p9696
+sS'592925436595675136'
+p9697
+S'Not Relevant'
+p9698
+sS'592625573001760768'
+p9699
+S'Not Relevant'
+p9700
+sS'592756369809395712'
+p9701
+S'Not Relevant'
+p9702
+sS'591915082717732864'
+p9703
+S'Not related or irrelevant'
+p9704
+sS'592072051118092288'
+p9705
+S'Not related or irrelevant'
+p9706
+sS'592955217894842368'
+p9707
+S'Response Efforts'
+p9708
+sS'592669177166635008'
+p9709
+S'Not Relevant'
+p9710
+sS'592737513372033024'
+p9711
+S'Not Relevant'
+p9712
+sS'592895424354213889'
+p9713
+S'Not Relevant'
+p9714
+sS'592831096531877888'
+p9715
+S'Not Relevant'
+p9716
+sS'593154120791531520'
+p9717
+S'Not Relevant'
+p9718
+sS'592594301604995072'
+p9719
+S'Not Relevant'
+p9720
+sS'593022466357862400'
+p9721
+S'Not Relevant'
+p9722
+sS'592720198131707906'
+p9723
+S'Not Relevant'
+p9724
+sS'592670422489034752'
+p9725
+S'Not Relevant'
+p9726
+sS'592995038117961728'
+p9727
+S'Not Relevant'
+p9728
+sS'593007233916502017'
+p9729
+S'Not Relevant'
+p9730
+sS'593033592101478403'
+p9731
+S'Not Relevant'
+p9732
+sS'592737053525319680'
+p9733
+S'Not Relevant'
+p9734
+sS'592161318469271552'
+p9735
+S'Response Efforts'
+p9736
+sS'592788042932424705'
+p9737
+S'Not Relevant'
+p9738
+sS'592885282669735938'
+p9739
+S'Not Relevant'
+p9740
+sS'592777837125476353'
+p9741
+S'Not Relevant'
+p9742
+sS'592703386425896960'
+p9743
+S'Not Relevant'
+p9744
+sS'592825637963997186'
+p9745
+S'Not Relevant'
+p9746
+sS'592625482744635394'
+p9747
+S'Response Efforts'
+p9748
+sS'593024350086762496'
+p9749
+S'Not Relevant'
+p9750
+sS'593007030237057024'
+p9751
+S'Not Relevant'
+p9752
+sS'592069860240162816'
+p9753
+S'Sympathy and emotional support'
+p9754
+sS'592776313448046593'
+p9755
+S'Not Relevant'
+p9756
+sS'592629342385131522'
+p9757
+S'Infrastructure Damage'
+p9758
+sS'592830612056219648'
+p9759
+S'Urgent Needs'
+p9760
+sS'592654440982777856'
+p9761
+S'Not Relevant'
+p9762
+sS'591943492244348928'
+p9763
+S'Other relevant'
+p9764
+sS'592086038350278658'
+p9765
+S'Animal management'
+p9766
+sS'592665382978215937'
+p9767
+S'Not Relevant'
+p9768
+sS'592074333218013185'
+p9769
+S'Sympathy and emotional support'
+p9770
+sS'592842436239568896'
+p9771
+S'Response Efforts'
+p9772
+sS'592817855898456065'
+p9773
+S'Infrastructure Damage'
+p9774
+sS'592803423709429760'
+p9775
+S'Not Relevant'
+p9776
+sS'592809890353172480'
+p9777
+S'Not Relevant'
+p9778
+sS'592159363332083712'
+p9779
+S'Not Relevant'
+p9780
+sS'592706186501296128'
+p9781
+S'Response Efforts'
+p9782
+sS'592802666415292418'
+p9783
+S'Not Relevant'
+p9784
+sS'592693291113684992'
+p9785
+S'Not Relevant'
+p9786
+sS'591911419869691904'
+p9787
+S'Other relevant information'
+p9788
+sS'592825655726907392'
+p9789
+S'Not Relevant'
+p9790
+sS'592693362244857856'
+p9791
+S'Not Relevant'
+p9792
+sS'592762404389396480'
+p9793
+S'Not Relevant'
+p9794
+sS'592690181783875585'
+p9795
+S'Not Relevant'
+p9796
+sS'592972223633227777'
+p9797
+S'Not Relevant'
+p9798
+sS'592592531877040128'
+p9799
+S'Not Relevant'
+p9800
+sS'592592816083185664'
+p9801
+S'Not Relevant'
+p9802
+sS'592913418551750656'
+p9803
+S'Not Relevant'
+p9804
+sS'592592594221293568'
+p9805
+S'Not Relevant'
+p9806
+sS'592073476816515072'
+p9807
+S'Not related or irrelevant'
+p9808
+sS'592702327892611072'
+p9809
+S'Not Relevant'
+p9810
+sS'592978096090787840'
+p9811
+S'Not Relevant'
+p9812
+sS'592609884434145281'
+p9813
+S'Response Efforts'
+p9814
+sS'592683603986935808'
+p9815
+S'Not Relevant'
+p9816
+sS'592161963309826048'
+p9817
+S'Response Efforts'
+p9818
+sS'592812536237576192'
+p9819
+S'Not Relevant'
+p9820
+sS'592706870940405761'
+p9821
+S'Not Relevant'
+p9822
+sS'592858391925620736'
+p9823
+S'Not Relevant'
+p9824
+sS'593009028311162883'
+p9825
+S'Not Relevant'
+p9826
+sS'592773329183977472'
+p9827
+S'Response Efforts'
+p9828
+sS'592868342932844545'
+p9829
+S'Not Relevant'
+p9830
+sS'593024832847028224'
+p9831
+S'Not Relevant'
+p9832
+sS'592905425013604354'
+p9833
+S'Response Efforts'
+p9834
+sS'592842835050819588'
+p9835
+S'Not Relevant'
+p9836
+sS'593214953814765568'
+p9837
+S'Not Relevant'
+p9838
+sS'592688262088622082'
+p9839
+S'Not Relevant'
+p9840
+sS'591906664422330368'
+p9841
+S'Not related or irrelevant'
+p9842
+sS'592072360607490048'
+p9843
+S'Sympathy and emotional support'
+p9844
+sS'592895896658018305'
+p9845
+S'Not Relevant'
+p9846
+sS'591961674137137152'
+p9847
+S'Not related or irrelevant'
+p9848
+sS'592602641793875968'
+p9849
+S'Not Relevant'
+p9850
+sS'592604046164365312'
+p9851
+S'Response Efforts'
+p9852
+sS'591910770385899520'
+p9853
+S'Other relevant information'
+p9854
+sS'593024466181033984'
+p9855
+S'Not Relevant'
+p9856
+sS'592620915025776640'
+p9857
+S'Infrastructure Damage'
+p9858
+sS'592074294190014464'
+p9859
+S'Sympathy and emotional support'
+p9860
+sS'592628126737244160'
+p9861
+S'Other Relevant Information'
+p9862
+sS'592731304338292736'
+p9863
+S'Not Relevant'
+p9864
+sS'592592706242613248'
+p9865
+S'Response Efforts'
+p9866
+sS'592774439001006080'
+p9867
+S'Not Relevant'
+p9868
+sS'593250245351317504'
+p9869
+S'Not Relevant'
+p9870
+sS'592642188279844864'
+p9871
+S'Not Relevant'
+p9872
+sS'592842042100822016'
+p9873
+S'Other Relevant Information'
+p9874
+sS'592674088000364547'
+p9875
+S'Not Relevant'
+p9876
+sS'592735208119607296'
+p9877
+S'Not Relevant'
+p9878
+sS'593006038275731456'
+p9879
+S'Not Relevant'
+p9880
+sS'592797424932003840'
+p9881
+S'Not Relevant'
+p9882
+sS'592072745044844544'
+p9883
+S'Volunteer or professional services'
+p9884
+sS'592960411785424896'
+p9885
+S'Other Relevant Information'
+p9886
+sS'592163693133111296'
+p9887
+S'Not Relevant'
+p9888
+sS'592813573283454977'
+p9889
+S'Not Relevant'
+p9890
+sS'592638824074715136'
+p9891
+S'Not Relevant'
+p9892
+sS'592752301481267200'
+p9893
+S'Not Relevant'
+p9894
+sS'593257802963034112'
+p9895
+S'Not Relevant'
+p9896
+sS'592758580077559809'
+p9897
+S'Not Relevant'
+p9898
+sS'591919527048380416'
+p9899
+S'Not related or irrelevant'
+p9900
+sS'592594641884557313'
+p9901
+S'Not Relevant'
+p9902
+sS'591909609029259264'
+p9903
+S'Other relevant information'
+p9904
+sS'592074790577418240'
+p9905
+S'Sympathy and emotional support'
+p9906
+sS'592919978728419328'
+p9907
+S'Not Relevant'
+p9908
+sS'592088916737413121'
+p9909
+S'"Missing'
+p9910
+sS'592655763631374336'
+p9911
+S'Not Relevant'
+p9912
+sS'592821328148824066'
+p9913
+S'Not Relevant'
+p9914
+sS'592181202938896384'
+p9915
+S'Infrastructure Damage'
+p9916
+sS'592707429751721984'
+p9917
+S'Not Relevant'
+p9918
+sS'591961996054126593'
+p9919
+S'Not related or irrelevant'
+p9920
+sS'592778485585838080'
+p9921
+S'Not Relevant'
+p9922
+sS'592720448439373824'
+p9923
+S'Response Efforts'
+p9924
+sS'592886672729231360'
+p9925
+S'Response Efforts'
+p9926
+sS'592624521158336512'
+p9927
+S'Not Relevant'
+p9928
+sS'592593006865223680'
+p9929
+S'Other Relevant Information'
+p9930
+sS'592842227099037697'
+p9931
+S'Response Efforts'
+p9932
+sS'592648714239528960'
+p9933
+S'Other Relevant Information'
+p9934
+sS'592804282442846208'
+p9935
+S'Not Relevant'
+p9936
+sS'592986021098332160'
+p9937
+S'Other Relevant Information'
+p9938
+sS'592134211605110785'
+p9939
+S'Infrastructure Damage'
+p9940
+sS'592200769127976960'
+p9941
+S'Not Relevant'
+p9942
+sS'592812194552766464'
+p9943
+S'Response Efforts'
+p9944
+sS'591992411787755520'
+p9945
+S'Response Efforts'
+p9946
+sS'592603471242612736'
+p9947
+S'Not Relevant'
+p9948
+sS'592842550689591296'
+p9949
+S'Response Efforts'
+p9950
+sS'591914179340042240'
+p9951
+S'Not related or irrelevant'
+p9952
+sS'592720551568871424'
+p9953
+S'Not Relevant'
+p9954
+sS'592720476499288064'
+p9955
+S'Response Efforts'
+p9956
+sS'591911771977428992'
+p9957
+S'Injured or dead people'
+p9958
+sS'592337677564936192'
+p9959
+S'Not Relevant'
+p9960
+sS'593026218535956480'
+p9961
+S'Not Relevant'
+p9962
+sS'592737130465591299'
+p9963
+S'Not Relevant'
+p9964
+sS'592619438622408704'
+p9965
+S'Not Relevant'
+p9966
+sS'592739118515355652'
+p9967
+S'Not Relevant'
+p9968
+sS'593157251189317632'
+p9969
+S'Not Relevant'
+p9970
+sS'591990798469582849'
+p9971
+S'Response Efforts'
+p9972
+sS'593226967710900225'
+p9973
+S'Not Relevant'
+p9974
+sS'593228469699489794'
+p9975
+S'Not Relevant'
+p9976
+sS'592754449564708864'
+p9977
+S'Response Efforts'
+p9978
+sS'592680427191697409'
+p9979
+S'Not Relevant'
+p9980
+sS'592758749410029569'
+p9981
+S'Not Relevant'
+p9982
+sS'592706042695409664'
+p9983
+S'Not Relevant'
+p9984
+sS'592668832050843648'
+p9985
+S'Not Relevant'
+p9986
+sS'592865840195842048'
+p9987
+S'Not Relevant'
+p9988
+sS'593005734725562368'
+p9989
+S'Not Relevant'
+p9990
+sS'591913871809589249'
+p9991
+S'Sympathy and emotional support'
+p9992
+sS'593203865605971970'
+p9993
+S'Not Relevant'
+p9994
+sS'592901853395984385'
+p9995
+S'Not Relevant'
+p9996
+sS'592617808510390272'
+p9997
+S'Not Relevant'
+p9998
+sS'593233617494540288'
+p9999
+S'Not Relevant'
+p10000
+sS'592750051283312640'
+p10001
+S'Not Relevant'
+p10002
+sS'592734322651746304'
+p10003
+S'Not Relevant'
+p10004
+sS'592689729344303104'
+p10005
+S'Not Relevant'
+p10006
+sS'591961829728882689'
+p10007
+S'Infrastructure and utilities'
+p10008
+sS'592754568422895616'
+p10009
+S'Not Relevant'
+p10010
+sS'592643591731712001'
+p10011
+S'Not Relevant'
+p10012
+sS'592801067143974912'
+p10013
+S'Not Relevant'
+p10014
+sS'592896999462154241'
+p10015
+S'Not Relevant'
+p10016
+sS'592744435865223170'
+p10017
+S'Not Relevant'
+p10018
+sS'592159314921463808'
+p10019
+S'Not Relevant'
+p10020
+sS'592826055553110019'
+p10021
+S'Not Relevant'
+p10022
+sS'592068328476127233'
+p10023
+S'Not related or irrelevant'
+p10024
+sS'592839929480224768'
+p10025
+S'Other Relevant Information'
+p10026
+sS'592978479525670913'
+p10027
+S'Not Relevant'
+p10028
+sS'591962851310379008'
+p10029
+S'Sympathy and emotional support'
+p10030
+sS'592593562966962176'
+p10031
+S'Not Relevant'
+p10032
+sS'592622691523305472'
+p10033
+S'Not Relevant'
+p10034
+sS'592798885321539584'
+p10035
+S'Not Relevant'
+p10036
+sS'592629183777472512'
+p10037
+S'Other Relevant Information'
+p10038
+sS'592702587280961537'
+p10039
+S'Not Relevant'
+p10040
+sS'592732779189768192'
+p10041
+S'Not Relevant'
+p10042
+sS'592705819843633153'
+p10043
+S'Not Relevant'
+p10044
+sS'592672908339748866'
+p10045
+S'Not Relevant'
+p10046
+sS'591916220699508736'
+p10047
+S'Shelter and supplies'
+p10048
+sS'593038797803126784'
+p10049
+S'Not Relevant'
+p10050
+sS'592591013555802113'
+p10051
+S'Not Relevant'
+p10052
+sS'592994977380204544'
+p10053
+S'Response Efforts'
+p10054
+sS'592889937076350979'
+p10055
+S'Response Efforts'
+p10056
+sS'592163783533056001'
+p10057
+S'Not Relevant'
+p10058
+sS'592732315077505025'
+p10059
+S'Not Relevant'
+p10060
+sS'592870925634265090'
+p10061
+S'Response Efforts'
+p10062
+sS'592708695781412865'
+p10063
+S'Not Relevant'
+p10064
+sS'592866887693934593'
+p10065
+S'Not Relevant'
+p10066
+sS'593013919138058240'
+p10067
+S'Not Relevant'
+p10068
+sS'592641474187014145'
+p10069
+S'Response Efforts'
+p10070
+sS'593015034437046273'
+p10071
+S'Not Relevant'
+p10072
+sS'592592282131435521'
+p10073
+S'Not Relevant'
+p10074
+sS'592744908332605440'
+p10075
+S'Not Relevant'
+p10076
+sS'592860425009627136'
+p10077
+S'Not Relevant'
+p10078
+sS'593032516820340737'
+p10079
+S'Not Relevant'
+p10080
+sS'592833525172334592'
+p10081
+S'Not Relevant'
+p10082
+sS'591906240277557248'
+p10083
+S'Injured or dead people'
+p10084
+sS'592998244050862081'
+p10085
+S'Not Relevant'
+p10086
+sS'592779937687404545'
+p10087
+S'Not Relevant'
+p10088
+sS'592622826927992832'
+p10089
+S'Not Relevant'
+p10090
+sS'592636241713102849'
+p10091
+S'Infrastructure Damage'
+p10092
+sS'592843974936829953'
+p10093
+S'Not Relevant'
+p10094
+sS'592591838034448385'
+p10095
+S'Response Efforts'
+p10096
+sS'592591941272907776'
+p10097
+S'Response Efforts'
+p10098
+sS'592595136086847489'
+p10099
+S'Not Relevant'
+p10100
+sS'591912047366918144'
+p10101
+S'Other relevant information'
+p10102
+sS'592654795397320704'
+p10103
+S'Not Relevant'
+p10104
+sS'592860508656705536'
+p10105
+S'Not Relevant'
+p10106
+sS'592989740414078976'
+p10107
+S'Not Relevant'
+p10108
+sS'592088403468001280'
+p10109
+S'Personal updates'
+p10110
+sS'592086599409737728'
+p10111
+S'Not related or irrelevant'
+p10112
+sS'592969016932630528'
+p10113
+S'Other Relevant Information'
+p10114
+sS'592125593912639488'
+p10115
+S'Not Relevant'
+p10116
+sS'593005821501579264'
+p10117
+S'Response Efforts'
+p10118
+sS'592926351558123520'
+p10119
+S'Not Relevant'
+p10120
+sS'592594475051978752'
+p10121
+S'Not Relevant'
+p10122
+sS'592590597753438209'
+p10123
+S'Not Relevant'
+p10124
+sS'592862511428464641'
+p10125
+S'Not Relevant'
+p10126
+sS'592637249386315776'
+p10127
+S'Not Relevant'
+p10128
+sS'591993923582627840'
+p10129
+S'Not Relevant'
+p10130
+sS'592070650359087104'
+p10131
+S'"Missing'
+p10132
+sS'592595594201460738'
+p10133
+S'Response Efforts'
+p10134
+sS'593213105443770369'
+p10135
+S'Other Relevant Information'
+p10136
+sS'592601807341236226'
+p10137
+S'Response Efforts'
+p10138
+sS'592086861402640385'
+p10139
+S'Not related or irrelevant'
+p10140
+sS'592182515194007553'
+p10141
+S'Response Efforts'
+p10142
+sS'593021097278222336'
+p10143
+S'Not Relevant'
+p10144
+sS'592083192267427840'
+p10145
+S'Sympathy and emotional support'
+p10146
+sS'592734971527303169'
+p10147
+S'Infrastructure Damage'
+p10148
+sS'592612195122290688'
+p10149
+S'Not Relevant'
+p10150
+sS'592590325236957184'
+p10151
+S'Urgent Needs'
+p10152
+sS'592754378760712193'
+p10153
+S'Not Relevant'
+p10154
+sS'592134704515534848'
+p10155
+S'Infrastructure Damage'
+p10156
+sS'592770723652984832'
+p10157
+S'Not Relevant'
+p10158
+sS'592999778780258304'
+p10159
+S'Not Relevant'
+p10160
+sS'592943711190913024'
+p10161
+S'Not Relevant'
+p10162
+sS'592860341039722496'
+p10163
+S'Response Efforts'
+p10164
+sS'593253915249913856'
+p10165
+S'Not Relevant'
+p10166
+sS'593030173169045504'
+p10167
+S'Other Relevant Information'
+p10168
+sS'592684978074480642'
+p10169
+S'Not Relevant'
+p10170
+sS'592946536117440512'
+p10171
+S'Not Relevant'
+p10172
+sS'593031869060554753'
+p10173
+S'Response Efforts'
+p10174
+sS'593029246714544128'
+p10175
+S'Not Relevant'
+p10176
+sS'592740359156998145'
+p10177
+S'Not Relevant'
+p10178
+sS'592748494366109696'
+p10179
+S'Not Relevant'
+p10180
+sS'592164573467119616'
+p10181
+S'Not Relevant'
+p10182
+sS'592590109721108480'
+p10183
+S'Not Relevant'
+p10184
+sS'592951829505253376'
+p10185
+S'Not Relevant'
+p10186
+sS'593043292511707136'
+p10187
+S'Not Relevant'
+p10188
+sS'592074659048239104'
+p10189
+S'Volunteer or professional services'
+p10190
+sS'592182053191426048'
+p10191
+S'Response Efforts'
+p10192
+sS'593247701652938752'
+p10193
+S'Not Relevant'
+p10194
+sS'592201015472033792'
+p10195
+S'Infrastructure Damage'
+p10196
+sS'591960979908362240'
+p10197
+S'Not related or irrelevant'
+p10198
+sS'592835728876384257'
+p10199
+S'Not Relevant'
+p10200
+sS'591963874091507712'
+p10201
+S'Not related or irrelevant'
+p10202
+sS'592673274364035073'
+p10203
+S'Not Relevant'
+p10204
+sS'593243925327949826'
+p10205
+S'Not Relevant'
+p10206
+sS'592955569973133312'
+p10207
+S'Other Relevant Information'
+p10208
+sS'592631763698065408'
+p10209
+S'Not Relevant'
+p10210
+sS'592994065022590976'
+p10211
+S'Not Relevant'
+p10212
+sS'592084754356432896'
+p10213
+S'Not related or irrelevant'
+p10214
+sS'592732547177644035'
+p10215
+S'Not Relevant'
+p10216
+sS'592074042229719040'
+p10217
+S'Not related or irrelevant'
+p10218
+sS'592594386401230848'
+p10219
+S'Not Relevant'
+p10220
+sS'592806922740436993'
+p10221
+S'Not Relevant'
+p10222
+sS'592590756948279296'
+p10223
+S'Not Relevant'
+p10224
+sS'592743908150530048'
+p10225
+S'Not Relevant'
+p10226
+sS'591918229985095680'
+p10227
+S'Sympathy and emotional support'
+p10228
+sS'591913758068379648'
+p10229
+S'"Missing'
+p10230
+sS'592778675592024064'
+p10231
+S'Not Relevant'
+p10232
+sS'591912029767618560'
+p10233
+S'Infrastructure and utilities'
+p10234
+sS'592923349791088640'
+p10235
+S'Not Relevant'
+p10236
+sS'592637988426948608'
+p10237
+S'Not Relevant'
+p10238
+sS'591919167885942784'
+p10239
+S'Other relevant information'
+p10240
+sS'592950655641354240'
+p10241
+S'Not Relevant'
+p10242
+sS'592733479609233410'
+p10243
+S'Not Relevant'
+p10244
+sS'592841361298214912'
+p10245
+S'Other Relevant Information'
+p10246
+sS'592733323220426754'
+p10247
+S'Not Relevant'
+p10248
+sS'592812619418963969'
+p10249
+S'Urgent Needs'
+p10250
+sS'592589467828948992'
+p10251
+S'Not Relevant'
+p10252
+sS'592589412451614720'
+p10253
+S'Not Relevant'
+p10254
+sS'592069837628821505'
+p10255
+S'Sympathy and emotional support'
+p10256
+sS'591919338841579521'
+p10257
+S'Not related or irrelevant'
+p10258
+sS'592640875437502464'
+p10259
+S'Not Relevant'
+p10260
+sS'592920634214092800'
+p10261
+S'Not Relevant'
+p10262
+sS'592954317188964352'
+p10263
+S'Not Relevant'
+p10264
+sS'592981886336503808'
+p10265
+S'Not Relevant'
+p10266
+sS'592590807544246272'
+p10267
+S'Not Relevant'
+p10268
+sS'592618320135786496'
+p10269
+S'Not Relevant'
+p10270
+sS'591921563143839745'
+p10271
+S'Sympathy and emotional support'
+p10272
+sS'592981285339017216'
+p10273
+S'Not Relevant'
+p10274
+sS'592830399086252032'
+p10275
+S'Other Relevant Information'
+p10276
+sS'592885618008563713'
+p10277
+S'Not Relevant'
+p10278
+sS'592645932031864834'
+p10279
+S'Not Relevant'
+p10280
+sS'592703757726580736'
+p10281
+S'Not Relevant'
+p10282
+sS'592623903891042304'
+p10283
+S'Not Relevant'
+p10284
+sS'593032635833683968'
+p10285
+S'Not Relevant'
+p10286
+sS'592644887998148610'
+p10287
+S'Response Efforts'
+p10288
+sS'592647352042659841'
+p10289
+S'Response Efforts'
+p10290
+sS'592873717174263809'
+p10291
+S'Not Relevant'
+p10292
+sS'592110084743950336'
+p10293
+S'Response Efforts'
+p10294
+sS'592593964965986304'
+p10295
+S'Not Relevant'
+p10296
+sS'592069873083219971'
+p10297
+S'Sympathy and emotional support'
+p10298
+sS'592595071087685632'
+p10299
+S'Other Relevant Information'
+p10300
+sS'592947353402941440'
+p10301
+S'Not Relevant'
+p10302
+sS'592825666262929408'
+p10303
+S'Other Relevant Information'
+p10304
+sS'592600857407029249'
+p10305
+S'"Missing'
+p10306
+sS'592767740039008256'
+p10307
+S'Not Relevant'
+p10308
+sS'592160691500388353'
+p10309
+S'Not Relevant'
+p10310
+sS'592075261778071552'
+p10311
+S'Money'
+p10312
+sS'592878791963316226'
+p10313
+S'Not Relevant'
+p10314
+sS'592732606078255104'
+p10315
+S'Not Relevant'
+p10316
+sS'592805888324403201'
+p10317
+S'Not Relevant'
+p10318
+sS'592760048000094209'
+p10319
+S'Other Relevant Information'
+p10320
+sS'592656557294428160'
+p10321
+S'Not Relevant'
+p10322
+sS'592665474061737985'
+p10323
+S'Not Relevant'
+p10324
+sS'592750037110751232'
+p10325
+S'Not Relevant'
+p10326
+sS'592648588582195200'
+p10327
+S'Not Relevant'
+p10328
+sS'592641634845773824'
+p10329
+S'Not Relevant'
+p10330
+sS'592673020508041217'
+p10331
+S'Infrastructure Damage'
+p10332
+sS'592720078061309953'
+p10333
+S'Not Relevant'
+p10334
+sS'592969070972116992'
+p10335
+S'Other Relevant Information'
+p10336
+sS'592836738537660416'
+p10337
+S'Not Relevant'
+p10338
+sS'592634122343829504'
+p10339
+S'Not Relevant'
+p10340
+sS'592630855819886592'
+p10341
+S'Not Relevant'
+p10342
+sS'592622275645427712'
+p10343
+S'Not Relevant'
+p10344
+sS'592832805664600065'
+p10345
+S'Response Efforts'
+p10346
+sS'592799758978256898'
+p10347
+S'Not Relevant'
+p10348
+sS'592910296488026112'
+p10349
+S'Not Relevant'
+p10350
+sS'593020786560135168'
+p10351
+S'Not Relevant'
+p10352
+sS'592593057817604096'
+p10353
+S'Response Efforts'
+p10354
+sS'592339485628727297'
+p10355
+S'Response Efforts'
+p10356
+sS'592099845910953984'
+p10357
+S'Not Relevant'
+p10358
+sS'592162141504806912'
+p10359
+S'Not Relevant'
+p10360
+sS'592841503980036097'
+p10361
+S'Not Relevant'
+p10362
+sS'592091589268254720'
+p10363
+S'Shelter and supplies'
+p10364
+sS'592673458502377473'
+p10365
+S'Not Relevant'
+p10366
+sS'592932546398269441'
+p10367
+S'Not Relevant'
+p10368
+sS'592599289009819649'
+p10369
+S'Not Relevant'
+p10370
+sS'592666492648497152'
+p10371
+S'Not Relevant'
+p10372
+sS'593020328005079041'
+p10373
+S'Not Relevant'
+p10374
+sS'592669066130755584'
+p10375
+S'Not Relevant'
+p10376
+sS'593155108013219841'
+p10377
+S'Not Relevant'
+p10378
+sS'592777691713183745'
+p10379
+S'Not Relevant'
+p10380
+sS'592889375945527296'
+p10381
+S'Not Relevant'
+p10382
+sS'592825627432091649'
+p10383
+S'Not Relevant'
+p10384
+sS'592779391257677824'
+p10385
+S'Not Relevant'
+p10386
+sS'592735508394070016'
+p10387
+S'Not Relevant'
+p10388
+sS'593000040995561472'
+p10389
+S'Not Relevant'
+p10390
+sS'592591787463573504'
+p10391
+S'Not Relevant'
+p10392
+sS'592818523895943169'
+p10393
+S'Not Relevant'
+p10394
+sS'592592609069010944'
+p10395
+S'Not Relevant'
+p10396
+sS'592774444860473344'
+p10397
+S'Not Relevant'
+p10398
+sS'592813579574878210'
+p10399
+S'Other Relevant Information'
+p10400
+sS'592199319098294274'
+p10401
+S'Response Efforts'
+p10402
+sS'592071944188653570'
+p10403
+S'Sympathy and emotional support'
+p10404
+sS'592821115472449537'
+p10405
+S'Response Efforts'
+p10406
+sS'591906534805938176'
+p10407
+S'Other relevant information'
+p10408
+sS'592814793007996930'
+p10409
+S'Not Relevant'
+p10410
+sS'592068281076318208'
+p10411
+S'Infrastructure and utilities'
+p10412
+sS'591907531829616640'
+p10413
+S'Infrastructure and utilities'
+p10414
+sS'592915556589776897'
+p10415
+S'Not Relevant'
+p10416
+sS'592959111932686336'
+p10417
+S'Not Relevant'
+p10418
+sS'592731226462642178'
+p10419
+S'Not Relevant'
+p10420
+sS'593007327361441792'
+p10421
+S'Not Relevant'
+p10422
+sS'593009051023351809'
+p10423
+S'Not Relevant'
+p10424
+sS'592592483839803392'
+p10425
+S'Not Relevant'
+p10426
+sS'592878110674157570'
+p10427
+S'Not Relevant'
+p10428
+sS'593001848103043072'
+p10429
+S'Not Relevant'
+p10430
+sS'592610910415364096'
+p10431
+S'Response Efforts'
+p10432
+sS'592085449033654273'
+p10433
+S'Not related or irrelevant'
+p10434
+sS'593233991928426497'
+p10435
+S'Response Efforts'
+p10436
+sS'592655624732844033'
+p10437
+S'Not Relevant'
+p10438
+sS'592760062164267009'
+p10439
+S'Not Relevant'
+p10440
+sS'592185877813563392'
+p10441
+S'Other Relevant Information'
+p10442
+sS'593242281316065280'
+p10443
+S'Not Relevant'
+p10444
+sS'592741379316576256'
+p10445
+S'Not Relevant'
+p10446
+sS'591909140508909569'
+p10447
+S'Other relevant information'
+p10448
+sS'592861903086592000'
+p10449
+S'Not Relevant'
+p10450
+sS'592627491644145664'
+p10451
+S'Not Relevant'
+p10452
+sS'591908028993114113'
+p10453
+S'Other relevant information'
+p10454
+sS'592705278094790656'
+p10455
+S'Response Efforts'
+p10456
+sS'592590652476510208'
+p10457
+S'Not Relevant'
+p10458
+sS'592794292529270787'
+p10459
+S'Not Relevant'
+p10460
+sS'593253644562264066'
+p10461
+S'Not Relevant'
+p10462
+sS'592867149066141697'
+p10463
+S'Not Relevant'
+p10464
+sS'592750669364338688'
+p10465
+S'Not Relevant'
+p10466
+sS'593243402587787264'
+p10467
+S'Other Relevant Information'
+p10468
+sS'592696612104863746'
+p10469
+S'Not Relevant'
+p10470
+sS'592884212891570178'
+p10471
+S'Not Relevant'
+p10472
+sS'592732867685457921'
+p10473
+S'Other Relevant Information'
+p10474
+sS'593009102659420160'
+p10475
+S'Not Relevant'
+p10476
+sS'592860501274697728'
+p10477
+S'Not Relevant'
+p10478
+sS'592987451926441984'
+p10479
+S'Not Relevant'
+p10480
+sS'592809795717050371'
+p10481
+S'Not Relevant'
+p10482
+sS'593000311163346945'
+p10483
+S'Not Relevant'
+p10484
+sS'592085999703990272'
+p10485
+S'Sympathy and emotional support'
+p10486
+sS'593236732709056512'
+p10487
+S'Not Relevant'
+p10488
+sS'592926704261320704'
+p10489
+S'Other Relevant Information'
+p10490
+sS'593241729752379392'
+p10491
+S'Not Relevant'
+p10492
+sS'592643219508199424'
+p10493
+S'Not Relevant'
+p10494
+sS'592946744188633088'
+p10495
+S'Infrastructure Damage'
+p10496
+sS'593009719104659457'
+p10497
+S'Not Relevant'
+p10498
+sS'592068030588387328'
+p10499
+S'Sympathy and emotional support'
+p10500
+sS'593217537904513024'
+p10501
+S'Not Relevant'
+p10502
+sS'592655515471192064'
+p10503
+S'Not Relevant'
+p10504
+sS'592703879604744192'
+p10505
+S'Not Relevant'
+p10506
+sS'592637430504628224'
+p10507
+S'Response Efforts'
+p10508
+sS'592952277213814784'
+p10509
+S'Not Relevant'
+p10510
+sS'592070521040277504'
+p10511
+S'Volunteer or professional services'
+p10512
+sS'592604333419659264'
+p10513
+S'Response Efforts'
+p10514
+sS'593022320081403905'
+p10515
+S'Not Relevant'
+p10516
+sS'592904683347382273'
+p10517
+S'Not Relevant'
+p10518
+sS'592609862019780608'
+p10519
+S'Not Relevant'
+p10520
+sS'592870265392074753'
+p10521
+S'Not Relevant'
+p10522
+sS'593028837643980800'
+p10523
+S'Not Relevant'
+p10524
+sS'592794251618029569'
+p10525
+S'Not Relevant'
+p10526
+sS'592591522442285057'
+p10527
+S'Response Efforts'
+p10528
+sS'593036564684525568'
+p10529
+S'Not Relevant'
+p10530
+sS'592901060320178176'
+p10531
+S'Not Relevant'
+p10532
+sS'592068851753472000'
+p10533
+S'Money'
+p10534
+sS'592178688998940673'
+p10535
+S'Not Relevant'
+p10536
+sS'592592306961838080'
+p10537
+S'Other Relevant Information'
+p10538
+sS'592666035704229889'
+p10539
+S'Not Relevant'
+p10540
+sS'592351411163246593'
+p10541
+S'Not Relevant'
+p10542
+sS'592861653529698304'
+p10543
+S'Not Relevant'
+p10544
+sS'593198825126301696'
+p10545
+S'Not Relevant'
+p10546
+sS'592623821439508480'
+p10547
+S'Not Relevant'
+p10548
+sS'592952677543366657'
+p10549
+S'Other Relevant Information'
+p10550
+sS'592068716717842432'
+p10551
+S'"Missing'
+p10552
+sS'592071606505250816'
+p10553
+S'Response Efforts'
+p10554
+sS'592809690310037504'
+p10555
+S'Not Relevant'
+p10556
+sS'592814113895620608'
+p10557
+S'Not Relevant'
+p10558
+sS'592640351258746880'
+p10559
+S'Not Relevant'
+p10560
+sS'592589007491567616'
+p10561
+S'Not Relevant'
+p10562
+sS'592879197095370752'
+p10563
+S'Not Relevant'
+p10564
+sS'592636908527685632'
+p10565
+S'Other Relevant Information'
+p10566
+sS'593015098039529473'
+p10567
+S'Not Relevant'
+p10568
+sS'592792841681788929'
+p10569
+S'Not Relevant'
+p10570
+sS'592876379642929153'
+p10571
+S'Not Relevant'
+p10572
+sS'592866307122536452'
+p10573
+S'Not Relevant'
+p10574
+sS'592368142917062656'
+p10575
+S'Not Relevant'
+p10576
+sS'592161265205686273'
+p10577
+S'Not Relevant'
+p10578
+sS'592925423077597184'
+p10579
+S'Not Relevant'
+p10580
+sS'592113242241011712'
+p10581
+S'Response Efforts'
+p10582
+sS'592887769002815488'
+p10583
+S'Not Relevant'
+p10584
+sS'592936704119541760'
+p10585
+S'Not Relevant'
+p10586
+sS'592681269823152128'
+p10587
+S'Not Relevant'
+p10588
+sS'592757270141861888'
+p10589
+S'Not Relevant'
+p10590
+sS'592670166133137408'
+p10591
+S'Not Relevant'
+p10592
+sS'593209757965516801'
+p10593
+S'Response Efforts'
+p10594
+sS'593213451247292418'
+p10595
+S'Not Relevant'
+p10596
+sS'592067758252232704'
+p10597
+S'Sympathy and emotional support'
+p10598
+sS'592590985013624832'
+p10599
+S'Not Relevant'
+p10600
+sS'592084870358110208'
+p10601
+S'Not related or irrelevant'
+p10602
+sS'592125393542381568'
+p10603
+S'Not Relevant'
+p10604
+sS'592784476289249281'
+p10605
+S'Not Relevant'
+p10606
+sS'592636166299471873'
+p10607
+S'Not Relevant'
+p10608
+sS'593004084564762624'
+p10609
+S'Not Relevant'
+p10610
+sS'592741943563681792'
+p10611
+S'Not Relevant'
+p10612
+sS'592890120459681792'
+p10613
+S'Not Relevant'
+p10614
+sS'592118437914103808'
+p10615
+S'Urgent Needs'
+p10616
+sS'591914735018217472'
+p10617
+S'Not related or irrelevant'
+p10618
+sS'592995565782179840'
+p10619
+S'Response Efforts'
+p10620
+sS'593002800512110592'
+p10621
+S'Not Relevant'
+p10622
+sS'592939706788216832'
+p10623
+S'Other Relevant Information'
+p10624
+sS'591963055484985344'
+p10625
+S'Sympathy and emotional support'
+p10626
+sS'592653140513705984'
+p10627
+S'Not Relevant'
+p10628
+sS'592956836090945536'
+p10629
+S'Not Relevant'
+p10630
+sS'592939778259169280'
+p10631
+S'Not Relevant'
+p10632
+sS'592674335170637824'
+p10633
+S'Not Relevant'
+p10634
+sS'592869989499174912'
+p10635
+S'Not Relevant'
+p10636
+sS'592825451460046850'
+p10637
+S'Not Relevant'
+p10638
+sS'592702646156398593'
+p10639
+S'Not Relevant'
+p10640
+sS'592797021930651650'
+p10641
+S'Not Relevant'
+p10642
+sS'592857027325603840'
+p10643
+S'Not Relevant'
+p10644
+sS'592792971780759553'
+p10645
+S'Not Relevant'
+p10646
+sS'592789919413772288'
+p10647
+S'Not Relevant'
+p10648
+sS'592945246167666688'
+p10649
+S'Not Relevant'
+p10650
+sS'592848624595374080'
+p10651
+S'Not Relevant'
+p10652
+sS'593028560606007296'
+p10653
+S'Not Relevant'
+p10654
+sS'593194470977318912'
+p10655
+S'Not Relevant'
+p10656
+sS'592615027284135936'
+p10657
+S'Not Relevant'
+p10658
+sS'593248662370652161'
+p10659
+S'Not Relevant'
+p10660
+sS'592628988750626816'
+p10661
+S'Not Relevant'
+p10662
+sS'592790784119853060'
+p10663
+S'Not Relevant'
+p10664
+sS'593253733049323520'
+p10665
+S'Not Relevant'
+p10666
+sS'592806012991713281'
+p10667
+S'Not Relevant'
+p10668
+sS'592896442219536384'
+p10669
+S'Not Relevant'
+p10670
+sS'592976614511616000'
+p10671
+S'Not Relevant'
+p10672
+sS'592963715655405568'
+p10673
+S'Not Relevant'
+p10674
+sS'593249306565550080'
+p10675
+S'Not Relevant'
+p10676
+sS'592656337710010372'
+p10677
+S'Other Relevant Information'
+p10678
+sS'592628206324219904'
+p10679
+S'Response Efforts'
+p10680
+sS'592792886573412352'
+p10681
+S'Response Efforts'
+p10682
+sS'592620637585289217'
+p10683
+S'Not Relevant'
+p10684
+sS'592160780675522560'
+p10685
+S'Response Efforts'
+p10686
+sS'592069023279415296'
+p10687
+S'Not related or irrelevant'
+p10688
+sS'592665152748691456'
+p10689
+S'Not Relevant'
+p10690
+sS'592593305017257985'
+p10691
+S'Response Efforts'
+p10692
+sS'591964011979264000'
+p10693
+S'Sympathy and emotional support'
+p10694
+sS'592163334474047489'
+p10695
+S'Not Relevant'
+p10696
+sS'592167381541126144'
+p10697
+S'Not Relevant'
+p10698
+sS'593029553905250305'
+p10699
+S'Not Relevant'
+p10700
+sS'592793764978110464'
+p10701
+S'Not Relevant'
+p10702
+sS'592708430542024707'
+p10703
+S'Response Efforts'
+p10704
+sS'592755413109596160'
+p10705
+S'Response Efforts'
+p10706
+sS'592999747151073280'
+p10707
+S'Not Relevant'
+p10708
+sS'592749376566595584'
+p10709
+S'Other Relevant Information'
+p10710
+sS'592624890772992000'
+p10711
+S'Other Relevant Information'
+p10712
+sS'593213578360037376'
+p10713
+S'Response Efforts'
+p10714
+sS'592681991549648896'
+p10715
+S'Not Relevant'
+p10716
+sS'592896748235923456'
+p10717
+S'Not Relevant'
+p10718
+sS'591918127677603840'
+p10719
+S'Sympathy and emotional support'
+p10720
+sS'592155267069935616'
+p10721
+S'Response Efforts'
+p10722
+sS'593184904738959361'
+p10723
+S'Not Relevant'
+p10724
+sS'592589347242659840'
+p10725
+S'Not Relevant'
+p10726
+sS'593196998469099520'
+p10727
+S'Not Relevant'
+p10728
+sS'592865835477176321'
+p10729
+S'Not Relevant'
+p10730
+sS'592739752425697282'
+p10731
+S'Not Relevant'
+p10732
+sS'593239721968406528'
+p10733
+S'Not Relevant'
+p10734
+sS'592594325311082496'
+p10735
+S'Not Relevant'
+p10736
+sS'592594010360918017'
+p10737
+S'Not Relevant'
+p10738
+sS'592929211628781569'
+p10739
+S'Not Relevant'
+p10740
+sS'592683508797186048'
+p10741
+S'Response Efforts'
+p10742
+sS'592751829060079616'
+p10743
+S'Not Relevant'
+p10744
+sS'592805162080739328'
+p10745
+S'Not Relevant'
+p10746
+sS'592590236313518081'
+p10747
+S'Response Efforts'
+p10748
+sS'593019545100517377'
+p10749
+S'Not Relevant'
+p10750
+sS'592785339003097089'
+p10751
+S'Not Relevant'
+p10752
+sS'592075768722776064'
+p10753
+S'Not related or irrelevant'
+p10754
+sS'592178699090333696'
+p10755
+S'Not Relevant'
+p10756
+sS'591964069197914114'
+p10757
+S'Not related or irrelevant'
+p10758
+sS'592823491726041088'
+p10759
+S'Not Relevant'
+p10760
+sS'592906635804282881'
+p10761
+S'Other Relevant Information'
+p10762
+sS'592198034794029056'
+p10763
+S'Not Relevant'
+p10764
+sS'592373602495823872'
+p10765
+S'Not Relevant'
+p10766
+sS'592633887257427968'
+p10767
+S'Other Relevant Information'
+p10768
+sS'592639351676399617'
+p10769
+S'Response Efforts'
+p10770
+sS'592276359608598529'
+p10771
+S'Not Relevant'
+p10772
+sS'592824157890584576'
+p10773
+S'Not Relevant'
+p10774
+sS'592590477620195329'
+p10775
+S'Not Relevant'
+p10776
+sS'592652189526556672'
+p10777
+S'Response Efforts'
+p10778
+sS'592984842096254976'
+p10779
+S'Not Relevant'
+p10780
+sS'592955952472657921'
+p10781
+S'Other Relevant Information'
+p10782
+sS'591995218293043203'
+p10783
+S'Not Relevant'
+p10784
+sS'592176718372212739'
+p10785
+S'Not Relevant'
+p10786
+sS'592696749854216194'
+p10787
+S'Not Relevant'
+p10788
+sS'593228742366990336'
+p10789
+S'Not Relevant'
+p10790
+sS'592998309415002112'
+p10791
+S'Not Relevant'
+p10792
+sS'592927647820189696'
+p10793
+S'Not Relevant'
+p10794
+sS'592630976565612545'
+p10795
+S'Not Relevant'
+p10796
+sS'592634433750081536'
+p10797
+S'Response Efforts'
+p10798
+sS'592693831004479489'
+p10799
+S'Not Relevant'
+p10800
+sS'592072536944345088'
+p10801
+S'Not related or irrelevant'
+p10802
+sS'592069421243465731'
+p10803
+S'Money'
+p10804
+sS'592807885123559424'
+p10805
+S'Not Relevant'
+p10806
+sS'592654669882744832'
+p10807
+S'Not Relevant'
+p10808
+sS'592165884438978561'
+p10809
+S'Not Relevant'
+p10810
+sS'592126002857291776'
+p10811
+S'Not Relevant'
+p10812
+sS'592704575083253761'
+p10813
+S'Not Relevant'
+p10814
+sS'592613751439917057'
+p10815
+S'Not Relevant'
+p10816
+sS'591911807851233280'
+p10817
+S'"Missing'
+p10818
+sS'592594878741155840'
+p10819
+S'Not Relevant'
+p10820
+sS'592623646625128448'
+p10821
+S'Not Relevant'
+p10822
+sS'592783391495446528'
+p10823
+S'Not Relevant'
+p10824
+sS'592087040692355073'
+p10825
+S'Sympathy and emotional support'
+p10826
+sS'592706629155586051'
+p10827
+S'Not Relevant'
+p10828
+sS'592823512248778752'
+p10829
+S'Not Relevant'
+p10830
+sS'592897061642711041'
+p10831
+S'Not Relevant'
+p10832
+sS'592848241026293760'
+p10833
+S'Not Relevant'
+p10834
+sS'592590471614078976'
+p10835
+S'Not Relevant'
+p10836
+sS'592691793180925952'
+p10837
+S'Infrastructure Damage'
+p10838
+sS'592594886085443584'
+p10839
+S'Other Relevant Information'
+p10840
+sS'592592492073132032'
+p10841
+S'Not Relevant'
+p10842
+sS'592764779107844097'
+p10843
+S'Not Relevant'
+p10844
+sS'591913939564265472'
+p10845
+S'Other relevant information'
+p10846
+sS'592154956842446850'
+p10847
+S'Not Relevant'
+p10848
+sS'592692594469150721'
+p10849
+S'Not Relevant'
+p10850
+sS'592590270333595648'
+p10851
+S'Not Relevant'
+p10852
+sS'592591920737554432'
+p10853
+S'Response Efforts'
+p10854
+sS'592709177715400707'
+p10855
+S'Not Relevant'
+p10856
+sS'592361982117818368'
+p10857
+S'Not Relevant'
+p10858
+sS'592971863086608385'
+p10859
+S'Not Relevant'
+p10860
+sS'592788630646710273'
+p10861
+S'Not Relevant'
+p10862
+sS'592593429554692096'
+p10863
+S'Other Relevant Information'
+p10864
+sS'592897096300265472'
+p10865
+S'Not Relevant'
+p10866
+sS'593006247466643456'
+p10867
+S'Response Efforts'
+p10868
+sS'592787890901508096'
+p10869
+S'Not Relevant'
+p10870
+sS'592915050156929027'
+p10871
+S'Not Relevant'
+p10872
+sS'592904207914635266'
+p10873
+S'Not Relevant'
+p10874
+sS'592775275890479104'
+p10875
+S'Not Relevant'
+p10876
+sS'592167419365437440'
+p10877
+S'Not Relevant'
+p10878
+sS'592968288411455488'
+p10879
+S'Not Relevant'
+p10880
+sS'592645298960211969'
+p10881
+S'Not Relevant'
+p10882
+sS'593034856558301184'
+p10883
+S'Not Relevant'
+p10884
+sS'592929481247031296'
+p10885
+S'Not Relevant'
+p10886
+sS'593027084169031680'
+p10887
+S'Not Relevant'
+p10888
+sS'592900812164042752'
+p10889
+S'Not Relevant'
+p10890
+sS'592672729737908224'
+p10891
+S'Not Relevant'
+p10892
+sS'592595139379515392'
+p10893
+S'Not Relevant'
+p10894
+sS'592196723390328835'
+p10895
+S'Other Relevant Information'
+p10896
+sS'592707781578350593'
+p10897
+S'Not Relevant'
+p10898
+sS'592108749097140225'
+p10899
+S'Response Efforts'
+p10900
+sS'592997690247553024'
+p10901
+S'Response Efforts'
+p10902
+sS'591998311877505024'
+p10903
+S'Other Relevant Information'
+p10904
+sS'592589490641743872'
+p10905
+S'Not Relevant'
+p10906
+sS'592707372591767552'
+p10907
+S'Not Relevant'
+p10908
+sS'591990388103122946'
+p10909
+S'Other Relevant Information'
+p10910
+sS'591961067091136513'
+p10911
+S'Sympathy and emotional support'
+p10912
+sS'592919131302690816'
+p10913
+S'Not Relevant'
+p10914
+sS'592594785162133504'
+p10915
+S'Not Relevant'
+p10916
+sS'592087243902312448'
+p10917
+S'Other relevant information'
+p10918
+sS'593000049417842690'
+p10919
+S'Not Relevant'
+p10920
+sS'592683460260663296'
+p10921
+S'Not Relevant'
+p10922
+sS'592952422282207232'
+p10923
+S'Not Relevant'
+p10924
+sS'592674068173889536'
+p10925
+S'Other Relevant Information'
+p10926
+sS'592929201621053440'
+p10927
+S'Other Relevant Information'
+p10928
+sS'593154226680889344'
+p10929
+S'Not Relevant'
+p10930
+sS'593003404563124226'
+p10931
+S'Not Relevant'
+p10932
+sS'592839034201845762'
+p10933
+S'Not Relevant'
+p10934
+sS'592840273547374592'
+p10935
+S'Not Relevant'
+p10936
+sS'593003517469728768'
+p10937
+S'Not Relevant'
+p10938
+sS'591918578565259264'
+p10939
+S'Injured or dead people'
+p10940
+sS'592797739177639936'
+p10941
+S'Not Relevant'
+p10942
+sS'592773232312381442'
+p10943
+S'Not Relevant'
+p10944
+sS'591916018525581312'
+p10945
+S'"Missing'
+p10946
+sS'592075999086448643'
+p10947
+S'Other relevant information'
+p10948
+sS'592164362078433280'
+p10949
+S'Not Relevant'
+p10950
+sS'592073025614393344'
+p10951
+S'Sympathy and emotional support'
+p10952
+sS'592154322181312512'
+p10953
+S'Not Relevant'
+p10954
+sS'592775513279696896'
+p10955
+S'Not Relevant'
+p10956
+sS'592627899796193281'
+p10957
+S'Not Relevant'
+p10958
+sS'592071818594226176'
+p10959
+S'Shelter and supplies'
+p10960
+sS'592164145073692672'
+p10961
+S'Other Relevant Information'
+p10962
+sS'592812271090462722'
+p10963
+S'Not Relevant'
+p10964
+sS'592658487827689472'
+p10965
+S'Not Relevant'
+p10966
+sS'592736299481747456'
+p10967
+S'Not Relevant'
+p10968
+sS'592075505450397696'
+p10969
+S'Volunteer or professional services'
+p10970
+sS'592915634318548992'
+p10971
+S'Response Efforts'
+p10972
+sS'592814774389440512'
+p10973
+S'Not Relevant'
+p10974
+sS'593002141511340032'
+p10975
+S'Not Relevant'
+p10976
+sS'592744433805873153'
+p10977
+S'Not Relevant'
+p10978
+sS'592589429480427520'
+p10979
+S'Not Relevant'
+p10980
+sS'592589739284238336'
+p10981
+S'Not Relevant'
+p10982
+sS'592649392823369729'
+p10983
+S'Response Efforts'
+p10984
+sS'592748909048537088'
+p10985
+S'Not Relevant'
+p10986
+sS'593039597468127233'
+p10987
+S'Not Relevant'
+p10988
+sS'592085859068841984'
+p10989
+S'"Missing'
+p10990
+sS'592998641024966656'
+p10991
+S'Not Relevant'
+p10992
+sS'592593906409316352'
+p10993
+S'Other Relevant Information'
+p10994
+sS'592888253377847296'
+p10995
+S'Response Efforts'
+p10996
+sS'592198331285184512'
+p10997
+S'Not Relevant'
+p10998
+sS'592964475365552128'
+p10999
+S'Not Relevant'
+p11000
+sS'592589035731693569'
+p11001
+S'Not Relevant'
+p11002
+sS'592768381851414530'
+p11003
+S'Not Relevant'
+p11004
+sS'592614391096283137'
+p11005
+S'Response Efforts'
+p11006
+sS'592756641969414144'
+p11007
+S'Not Relevant'
+p11008
+sS'592124822852870144'
+p11009
+S'Urgent Needs'
+p11010
+sS'592600419743862785'
+p11011
+S'Urgent Needs'
+p11012
+sS'593265536932261888'
+p11013
+S'Other Relevant Information'
+p11014
+sS'591962723212087296'
+p11015
+S'Other relevant information'
+p11016
+sS'592687157300465664'
+p11017
+S'Not Relevant'
+p11018
+sS'592593470621003776'
+p11019
+S'Other Relevant Information'
+p11020
+sS'591914727221112832'
+p11021
+S'Sympathy and emotional support'
+p11022
+sS'591913970602221568'
+p11023
+S'Injured or dead people'
+p11024
+sS'592753793076428800'
+p11025
+S'Not Relevant'
+p11026
+sS'592682649195544580'
+p11027
+S'Not Relevant'
+p11028
+sS'592813393234534400'
+p11029
+S'Other Relevant Information'
+p11030
+sS'592590057925574656'
+p11031
+S'Not Relevant'
+p11032
+sS'591912082062249985'
+p11033
+S'Not related or irrelevant'
+p11034
+sS'592783975069908996'
+p11035
+S'Not Relevant'
+p11036
+sS'592375707474374657'
+p11037
+S'Not Relevant'
+p11038
+sS'592957123690008576'
+p11039
+S'Not Relevant'
+p11040
+sS'592593468481875968'
+p11041
+S'Not Relevant'
+p11042
+sS'591911724363718656'
+p11043
+S'Other relevant information'
+p11044
+sS'592635326042087424'
+p11045
+S'Response Efforts'
+p11046
+sS'592835769535987712'
+p11047
+S'Not Relevant'
+p11048
+sS'592743061417041920'
+p11049
+S'Not Relevant'
+p11050
+sS'591921812935680000'
+p11051
+S'Other relevant information'
+p11052
+sS'592746718711705600'
+p11053
+S'Not Relevant'
+p11054
+sS'592688894002515968'
+p11055
+S'Not Relevant'
+p11056
+sS'592156107205775360'
+p11057
+S'Other Relevant Information'
+p11058
+sS'592707882799525890'
+p11059
+S'Not Relevant'
+p11060
+sS'592163264961744896'
+p11061
+S'Not Relevant'
+p11062
+sS'591961423644790784'
+p11063
+S'Sympathy and emotional support'
+p11064
+sS'592073750499037184'
+p11065
+S'Sympathy and emotional support'
+p11066
+sS'592981899510841344'
+p11067
+S'Not Relevant'
+p11068
+sS'592776144941887488'
+p11069
+S'Not Relevant'
+p11070
+sS'592814067913457666'
+p11071
+S'Not Relevant'
+p11072
+sS'592814889552498689'
+p11073
+S'Not Relevant'
+p11074
+sS'593032767857958912'
+p11075
+S'Not Relevant'
+p11076
+sS'592087519124135936'
+p11077
+S'Sympathy and emotional support'
+p11078
+sS'592648600359841792'
+p11079
+S'Not Relevant'
+p11080
+sS'592705934088077314'
+p11081
+S'Not Relevant'
+p11082
+sS'593240831315705856'
+p11083
+S'Not Relevant'
+p11084
+sS'592951503826112513'
+p11085
+S'Not Relevant'
+p11086
+sS'592073444872687616'
+p11087
+S'Sympathy and emotional support'
+p11088
+sS'592067841328812033'
+p11089
+S'Sympathy and emotional support'
+p11090
+sS'592164514122047489'
+p11091
+S'Not Relevant'
+p11092
+sS'592667683029680128'
+p11093
+S'Not Relevant'
+p11094
+sS'592884913982038016'
+p11095
+S'Not Relevant'
+p11096
+sS'593243464747360256'
+p11097
+S'Not Relevant'
+p11098
+sS'592164381942751232'
+p11099
+S'Response Efforts'
+p11100
+sS'592733518884675584'
+p11101
+S'Not Relevant'
+p11102
+sS'592751860618022912'
+p11103
+S'Not Relevant'
+p11104
+sS'592819928249585665'
+p11105
+S'Not Relevant'
+p11106
+sS'592959319462711296'
+p11107
+S'Not Relevant'
+p11108
+sS'592160554812321792'
+p11109
+S'Not Relevant'
+p11110
+sS'592744608083386370'
+p11111
+S'Not Relevant'
+p11112
+sS'592664914289946624'
+p11113
+S'Not Relevant'
+p11114
+sS'592887632058810368'
+p11115
+S'Not Relevant'
+p11116
+sS'593187748338606080'
+p11117
+S'Not Relevant'
+p11118
+sS'592706378013212672'
+p11119
+S'Not Relevant'
+p11120
+sS'593241657711185920'
+p11121
+S'Not Relevant'
+p11122
+sS'592686268460437504'
+p11123
+S'Not Relevant'
+p11124
+sS'592673921092218882'
+p11125
+S'Not Relevant'
+p11126
+sS'592591368322682880'
+p11127
+S'Response Efforts'
+p11128
+sS'592861585212846080'
+p11129
+S'Not Relevant'
+p11130
+sS'592938806522712064'
+p11131
+S'Not Relevant'
+p11132
+sS'592637959817465856'
+p11133
+S'Other Relevant Information'
+p11134
+sS'592923929565618176'
+p11135
+S'Not Relevant'
+p11136
+sS'591962242960084992'
+p11137
+S'Sympathy and emotional support'
+p11138
+sS'592069614768627712'
+p11139
+S'Not related or irrelevant'
+p11140
+sS'591919918209196033'
+p11141
+S'Not related or irrelevant'
+p11142
+sS'592731606898614272'
+p11143
+S'Not Relevant'
+p11144
+sS'593016821206253569'
+p11145
+S'Not Relevant'
+p11146
+sS'592164216192151553'
+p11147
+S'Not Relevant'
+p11148
+sS'592904868228165633'
+p11149
+S'Not Relevant'
+p11150
+sS'592708515929665539'
+p11151
+S'Not Relevant'
+p11152
+sS'592860272290836480'
+p11153
+S'Not Relevant'
+p11154
+sS'591916090713722881'
+p11155
+S'Not related or irrelevant'
+p11156
+sS'592841830569484289'
+p11157
+S'Response Efforts'
+p11158
+sS'592071454251880449'
+p11159
+S'Not related or irrelevant'
+p11160
+sS'592780473140645888'
+p11161
+S'Not Relevant'
+p11162
+sS'593162770868113408'
+p11163
+S'Not Relevant'
+p11164
+sS'592882343980990464'
+p11165
+S'Not Relevant'
+p11166
+sS'592795720530407425'
+p11167
+S'Not Relevant'
+p11168
+sS'592591901804482560'
+p11169
+S'Not Relevant'
+p11170
+sS'592076357565186049'
+p11171
+S'Infrastructure and utilities'
+p11172
+sS'592707059650568192'
+p11173
+S'Not Relevant'
+p11174
+sS'592768627977388032'
+p11175
+S'Not Relevant'
+p11176
+sS'592773528665137152'
+p11177
+S'Not Relevant'
+p11178
+sS'592613868620283906'
+p11179
+S'Not Relevant'
+p11180
+sS'592625587371548672'
+p11181
+S'Not Relevant'
+p11182
+sS'593163976021803008'
+p11183
+S'Not Relevant'
+p11184
+sS'593221584472580098'
+p11185
+S'Not Relevant'
+p11186
+sS'592801151587876864'
+p11187
+S'Not Relevant'
+p11188
+sS'592836820372738049'
+p11189
+S'Not Relevant'
+p11190
+sS'592735586496204800'
+p11191
+S'Not Relevant'
+p11192
+sS'592158960234287104'
+p11193
+S'Not Relevant'
+p11194
+sS'592731072275820544'
+p11195
+S'Not Relevant'
+p11196
+sS'592672213184184320'
+p11197
+S'Not Relevant'
+p11198
+sS'592965395478237184'
+p11199
+S'Not Relevant'
+p11200
+sS'592593590959771648'
+p11201
+S'Not Relevant'
+p11202
+sS'592992685687869440'
+p11203
+S'Not Relevant'
+p11204
+sS'592929082809057280'
+p11205
+S'Not Relevant'
+p11206
+sS'592887396670242816'
+p11207
+S'Not Relevant'
+p11208
+sS'593017015771627523'
+p11209
+S'Not Relevant'
+p11210
+sS'592782202116636673'
+p11211
+S'Not Relevant'
+p11212
+sS'592799599385018369'
+p11213
+S'Not Relevant'
+p11214
+sS'592904450957774849'
+p11215
+S'Not Relevant'
+p11216
+sS'592749584604078083'
+p11217
+S'Response Efforts'
+p11218
+sS'593025177761484800'
+p11219
+S'Not Relevant'
+p11220
+sS'592198039021850625'
+p11221
+S'Not Relevant'
+p11222
+sS'592686516691951617'
+p11223
+S'Not Relevant'
+p11224
+sS'593026966699278337'
+p11225
+S'Infrastructure Damage'
+p11226
+sS'592594288380370945'
+p11227
+S'Not Relevant'
+p11228
+sS'591911061747445760'
+p11229
+S'Other relevant information'
+p11230
+sS'592909129586450433'
+p11231
+S'Not Relevant'
+p11232
+sS'592594521705357312'
+p11233
+S'Not Relevant'
+p11234
+sS'591918734605881345'
+p11235
+S'Money'
+p11236
+sS'592653709395501056'
+p11237
+S'Not Relevant'
+p11238
+sS'592607176855658496'
+p11239
+S'Not Relevant'
+p11240
+sS'592591601874169857'
+p11241
+S'Not Relevant'
+p11242
+sS'591963593366753280'
+p11243
+S'Sympathy and emotional support'
+p11244
+sS'592085744698667008'
+p11245
+S'Not related or irrelevant'
+p11246
+sS'592076352674766848'
+p11247
+S'Not related or irrelevant'
+p11248
+sS'592929027368886272'
+p11249
+S'Not Relevant'
+p11250
+sS'591916167171678211'
+p11251
+S'Other relevant information'
+p11252
+sS'592942339510968320'
+p11253
+S'Not Relevant'
+p11254
+sS'591986570716127232'
+p11255
+S'Not Relevant'
+p11256
+sS'593043141466402816'
+p11257
+S'Response Efforts'
+p11258
+sS'593188658146054144'
+p11259
+S'Not Relevant'
+p11260
+sS'592605893897756672'
+p11261
+S'Not Relevant'
+p11262
+sS'592794484393541632'
+p11263
+S'Not Relevant'
+p11264
+sS'592763551145680896'
+p11265
+S'Not Relevant'
+p11266
+sS'592154694606139392'
+p11267
+S'Not Relevant'
+p11268
+sS'592155118176374784'
+p11269
+S'Response Efforts'
+p11270
+sS'592742749276864512'
+p11271
+S'Not Relevant'
+p11272
+sS'592130076667301889'
+p11273
+S'Response Efforts'
+p11274
+sS'592749993414504448'
+p11275
+S'Not Relevant'
+p11276
+sS'592589555812864003'
+p11277
+S'Response Efforts'
+p11278
+sS'593014503895367680'
+p11279
+S'Not Relevant'
+p11280
+sS'592622037136322560'
+p11281
+S'Not Relevant'
+p11282
+sS'591921682161491968'
+p11283
+S'Injured or dead people'
+p11284
+sS'592154339898167296'
+p11285
+S'Other Relevant Information'
+p11286
+sS'592606282248368129'
+p11287
+S'Not Relevant'
+p11288
+sS'592069576462045184'
+p11289
+S'Not related or irrelevant'
+p11290
+sS'592812387587203072'
+p11291
+S'Not Relevant'
+p11292
+sS'591921569531695104'
+p11293
+S'Sympathy and emotional support'
+p11294
+sS'591919896214265857'
+p11295
+S'Not related or irrelevant'
+p11296
+sS'592591039858397184'
+p11297
+S'Other Relevant Information'
+p11298
+sS'591960967388364801'
+p11299
+S'Sympathy and emotional support'
+p11300
+sS'592740401464930304'
+p11301
+S'Not Relevant'
+p11302
+sS'592658828874907648'
+p11303
+S'Not Relevant'
+p11304
+sS'591907359728926722'
+p11305
+S'"Missing'
+p11306
+sS'592884810768584704'
+p11307
+S'Not Relevant'
+p11308
+sS'592952584580820992'
+p11309
+S'Not Relevant'
+p11310
+sS'592684335460909056'
+p11311
+S'Not Relevant'
+p11312
+sS'592590301086097409'
+p11313
+S'Not Relevant'
+p11314
+sS'592883489923530752'
+p11315
+S'Not Relevant'
+p11316
+sS'592955875930714112'
+p11317
+S'Not Relevant'
+p11318
+sS'592085194833842176'
+p11319
+S'Sympathy and emotional support'
+p11320
+sS'593183825640980480'
+p11321
+S'Not Relevant'
+p11322
+sS'592812213594923010'
+p11323
+S'Not Relevant'
+p11324
+sS'592626271428870146'
+p11325
+S'Not Relevant'
+p11326
+sS'592773363619262464'
+p11327
+S'Response Efforts'
+p11328
+sS'592977295532490752'
+p11329
+S'Not Relevant'
+p11330
+sS'592740889446973440'
+p11331
+S'Not Relevant'
+p11332
+sS'592755774444666881'
+p11333
+S'Not Relevant'
+p11334
+sS'592958749188337664'
+p11335
+S'Not Relevant'
+p11336
+sS'591961661570945024'
+p11337
+S'Not related or irrelevant'
+p11338
+sS'592594819312037888'
+p11339
+S'Not Relevant'
+p11340
+sS'592770305480859649'
+p11341
+S'Not Relevant'
+p11342
+sS'592953527858630656'
+p11343
+S'Not Relevant'
+p11344
+sS'592128255685238784'
+p11345
+S'Other Relevant Information'
+p11346
+sS'592784242851057665'
+p11347
+S'Not Relevant'
+p11348
+sS'592890207302725632'
+p11349
+S'Not Relevant'
+p11350
+sS'592959260243435520'
+p11351
+S'Not Relevant'
+p11352
+sS'592733498307387393'
+p11353
+S'Infrastructure Damage'
+p11354
+sS'592076688269418496'
+p11355
+S'Sympathy and emotional support'
+p11356
+sS'592877930470072322'
+p11357
+S'Not Relevant'
+p11358
+sS'592832955204116480'
+p11359
+S'Not Relevant'
+p11360
+sS'593199018139758593'
+p11361
+S'Not Relevant'
+p11362
+sS'592779080157757441'
+p11363
+S'Not Relevant'
+p11364
+sS'591908305422913536'
+p11365
+S'Sympathy and emotional support'
+p11366
+sS'592735598349316096'
+p11367
+S'Not Relevant'
+p11368
+sS'592594685274775552'
+p11369
+S'Not Relevant'
+p11370
+sS'592800286051295232'
+p11371
+S'Not Relevant'
+p11372
+sS'592594052152885248'
+p11373
+S'Other Relevant Information'
+p11374
+sS'592796814220333059'
+p11375
+S'Not Relevant'
+p11376
+sS'592737482657112064'
+p11377
+S'Response Efforts'
+p11378
+sS'591963270279364608'
+p11379
+S'Other relevant information'
+p11380
+sS'592593182598107136'
+p11381
+S'Infrastructure Damage'
+p11382
+sS'592156356594900992'
+p11383
+S'Response Efforts'
+p11384
+sS'591908557815095296'
+p11385
+S'Injured or dead people'
+p11386
+sS'592168568537489409'
+p11387
+S'Not Relevant'
+p11388
+sS'592780838363930626'
+p11389
+S'Not Relevant'
+p11390
+sS'592787288431689728'
+p11391
+S'Not Relevant'
+p11392
+sS'592754659397341184'
+p11393
+S'Not Relevant'
+p11394
+sS'592178716479922176'
+p11395
+S'Not Relevant'
+p11396
+sS'592776485355782144'
+p11397
+S'Not Relevant'
+p11398
+sS'592968227438796800'
+p11399
+S'Not Relevant'
+p11400
+sS'592589909841547264'
+p11401
+S'Not Relevant'
+p11402
+sS'593043964569128961'
+p11403
+S'Not Relevant'
+p11404
+sS'592593112842665985'
+p11405
+S'Not Relevant'
+p11406
+sS'592591537118183424'
+p11407
+S'Not Relevant'
+p11408
+sS'592695513927004162'
+p11409
+S'Not Relevant'
+p11410
+sS'592927365925183488'
+p11411
+S'Not Relevant'
+p11412
+sS'592950604156293120'
+p11413
+S'Not Relevant'
+p11414
+sS'592069854913536001'
+p11415
+S'Sympathy and emotional support'
+p11416
+sS'592781168803762177'
+p11417
+S'Not Relevant'
+p11418
+sS'592669904177856512'
+p11419
+S'Response Efforts'
+p11420
+sS'591920317678755840'
+p11421
+S'Infrastructure and utilities'
+p11422
+sS'593155795543527424'
+p11423
+S'Not Relevant'
+p11424
+sS'592695704100990977'
+p11425
+S'Not Relevant'
+p11426
+sS'592833384361103362'
+p11427
+S'Not Relevant'
+p11428
+sS'592594131433574400'
+p11429
+S'Not Relevant'
+p11430
+sS'592867323410837505'
+p11431
+S'Response Efforts'
+p11432
+sS'592072245301743616'
+p11433
+S'Sympathy and emotional support'
+p11434
+sS'592159928858447872'
+p11435
+S'Not Relevant'
+p11436
+sS'592654445827219456'
+p11437
+S'Not Relevant'
+p11438
+sS'592658631734259712'
+p11439
+S'Not Relevant'
+p11440
+sS'592959825576927232'
+p11441
+S'Not Relevant'
+p11442
+sS'592649083807895552'
+p11443
+S'Not Relevant'
+p11444
+sS'592903779848163328'
+p11445
+S'Not Relevant'
+p11446
+sS'592610975825559552'
+p11447
+S'Other Relevant Information'
+p11448
+sS'592849466736119808'
+p11449
+S'Not Relevant'
+p11450
+sS'593148307410550784'
+p11451
+S'Not Relevant'
+p11452
+sS'592668832113766400'
+p11453
+S'Not Relevant'
+p11454
+sS'592701406295007232'
+p11455
+S'Response Efforts'
+p11456
+sS'592591901729107968'
+p11457
+S'Not Relevant'
+p11458
+sS'592169403648585729'
+p11459
+S'Other Relevant Information'
+p11460
+sS'592997440900308992'
+p11461
+S'Urgent Needs'
+p11462
+sS'592637183401426945'
+p11463
+S'Not Relevant'
+p11464
+sS'592872125637197824'
+p11465
+S'Not Relevant'
+p11466
+sS'592631784816250881'
+p11467
+S'Infrastructure Damage'
+p11468
+sS'592602429360857088'
+p11469
+S'Not Relevant'
+p11470
+sS'592603760540688384'
+p11471
+S'Not Relevant'
+p11472
+sS'592672187791847429'
+p11473
+S'Not Relevant'
+p11474
+sS'591912493049589760'
+p11475
+S'Injured or dead people'
+p11476
+sS'592681246507040769'
+p11477
+S'Not Relevant'
+p11478
+sS'593159029855297537'
+p11479
+S'Response Efforts'
+p11480
+sS'592667904606371840'
+p11481
+S'Response Efforts'
+p11482
+sS'592765243815788545'
+p11483
+S'Not Relevant'
+p11484
+sS'593162784805953537'
+p11485
+S'Not Relevant'
+p11486
+sS'592591039837413376'
+p11487
+S'Not Relevant'
+p11488
+sS'591920401170726914'
+p11489
+S'Sympathy and emotional support'
+p11490
+sS'592591406843240449'
+p11491
+S'Response Efforts'
+p11492
+sS'592703180426899456'
+p11493
+S'Not Relevant'
+p11494
+sS'592773999932878850'
+p11495
+S'Not Relevant'
+p11496
+sS'592608300035743744'
+p11497
+S'Not Relevant'
+p11498
+sS'592732081173700609'
+p11499
+S'Not Relevant'
+p11500
+sS'592594198471122945'
+p11501
+S'Response Efforts'
+p11502
+sS'592664735604207616'
+p11503
+S'Not Relevant'
+p11504
+sS'592696057705947137'
+p11505
+S'Not Relevant'
+p11506
+sS'592082929574109184'
+p11507
+S'Not Relevant'
+p11508
+sS'592641808041148416'
+p11509
+S'Other Relevant Information'
+p11510
+sS'592758240468979712'
+p11511
+S'Not Relevant'
+p11512
+sS'592751640685457409'
+p11513
+S'Response Efforts'
+p11514
+sS'592190911062278147'
+p11515
+S'Not Relevant'
+p11516
+sS'592817134935384064'
+p11517
+S'Not Relevant'
+p11518
+sS'591963010589065216'
+p11519
+S'Other relevant information'
+p11520
+sS'591964011710849025'
+p11521
+S'Sympathy and emotional support'
+p11522
+sS'592757064864260096'
+p11523
+S'Not Relevant'
+p11524
+sS'592163795016921088'
+p11525
+S'Response Efforts'
+p11526
+sS'592601307640365057'
+p11527
+S'Not Relevant'
+p11528
+sS'592087794161307648'
+p11529
+S'Volunteer or professional services'
+p11530
+sS'592753325545824257'
+p11531
+S'Not Relevant'
+p11532
+sS'592634170708402176'
+p11533
+S'Not Relevant'
+p11534
+sS'592647966848118785'
+p11535
+S'Not Relevant'
+p11536
+sS'592861520633176065'
+p11537
+S'Not Relevant'
+p11538
+sS'592736453060382720'
+p11539
+S'Not Relevant'
+p11540
+sS'592693365487095810'
+p11541
+S'Infrastructure Damage'
+p11542
+sS'591913499661619201'
+p11543
+S'Sympathy and emotional support'
+p11544
+sS'592673863466647553'
+p11545
+S'Not Relevant'
+p11546
+sS'592656632791838721'
+p11547
+S'Other Relevant Information'
+p11548
+sS'592824660426936321'
+p11549
+S'Not Relevant'
+p11550
+sS'593211516519915520'
+p11551
+S'Response Efforts'
+p11552
+sS'593154475763859456'
+p11553
+S'Not Relevant'
+p11554
+sS'592665133442293760'
+p11555
+S'Not Relevant'
+p11556
+sS'592073191708844033'
+p11557
+S'Money'
+p11558
+sS'592637871862910976'
+p11559
+S'Response Efforts'
+p11560
+sS'592162390088679424'
+p11561
+S'Infrastructure Damage'
+p11562
+sS'592833526950719489'
+p11563
+S'Other Relevant Information'
+p11564
+sS'592594813536641024'
+p11565
+S'Not Relevant'
+p11566
+sS'592735073457274880'
+p11567
+S'Not Relevant'
+p11568
+sS'592681874318880769'
+p11569
+S'Not Relevant'
+p11570
+sS'592594742275284992'
+p11571
+S'Not Relevant'
+p11572
+sS'592842940273295360'
+p11573
+S'Not Relevant'
+p11574
+sS'592593240764780544'
+p11575
+S'Not Relevant'
+p11576
+sS'592733714297282560'
+p11577
+S'Not Relevant'
+p11578
+sS'592813240486371328'
+p11579
+S'Not Relevant'
+p11580
+sS'592645023100960768'
+p11581
+S'Response Efforts'
+p11582
+sS'592590201278586880'
+p11583
+S'Not Relevant'
+p11584
+sS'592691466771767300'
+p11585
+S'Not Relevant'
+p11586
+sS'592160793770098688'
+p11587
+S'Not Relevant'
+p11588
+sS'592075169599979521'
+p11589
+S'Sympathy and emotional support'
+p11590
+sS'592073333157400576'
+p11591
+S'Sympathy and emotional support'
+p11592
+sS'592907267906936832'
+p11593
+S'Response Efforts'
+p11594
+sS'593018307990691840'
+p11595
+S'Not Relevant'
+p11596
+sS'592673952109076481'
+p11597
+S'Not Relevant'
+p11598
+sS'592158841464164352'
+p11599
+S'Not Relevant'
+p11600
+sS'592872827931463681'
+p11601
+S'Not Relevant'
+p11602
+sS'592200569474961408'
+p11603
+S'Not Relevant'
+p11604
+sS'592651885980622848'
+p11605
+S'Not Relevant'
+p11606
+sS'592656291719438336'
+p11607
+S'Not Relevant'
+p11608
+sS'592084861965508608'
+p11609
+S'Not related or irrelevant'
+p11610
+sS'592620724457607168'
+p11611
+S'Other Relevant Information'
+p11612
+sS'592374762640429057'
+p11613
+S'Not Relevant'
+p11614
+sS'592709339531608064'
+p11615
+S'Not Relevant'
+p11616
+sS'592345036035006464'
+p11617
+S'Response Efforts'
+p11618
+sS'592760635513012224'
+p11619
+S'Other Relevant Information'
+p11620
+sS'592623794784772096'
+p11621
+S'Not Relevant'
+p11622
+sS'592630941773864960'
+p11623
+S'Not Relevant'
+p11624
+sS'592706707639402496'
+p11625
+S'Response Efforts'
+p11626
+sS'592749220798529536'
+p11627
+S'Other Relevant Information'
+p11628
+sS'593156491525410816'
+p11629
+S'Not Relevant'
+p11630
+sS'592164247876083713'
+p11631
+S'Not Relevant'
+p11632
+sS'593004735319310336'
+p11633
+S'Not Relevant'
+p11634
+sS'592771084061147137'
+p11635
+S'Not Relevant'
+p11636
+sS'592867052580397057'
+p11637
+S'Not Relevant'
+p11638
+sS'592689492919746561'
+p11639
+S'Other Relevant Information'
+p11640
+sS'592672685206953985'
+p11641
+S'Not Relevant'
+p11642
+sS'592930156370464768'
+p11643
+S'Not Relevant'
+p11644
+sS'593200090489167872'
+p11645
+S'Not Relevant'
+p11646
+sS'592693748657688576'
+p11647
+S'Response Efforts'
+p11648
+sS'592751667382198272'
+p11649
+S'Not Relevant'
+p11650
+sS'592862136545730562'
+p11651
+S'Not Relevant'
+p11652
+sS'592201098263339008'
+p11653
+S'Other Relevant Information'
+p11654
+sS'592618939571658752'
+p11655
+S'Not Relevant'
+p11656
+sS'592708731395256323'
+p11657
+S'Not Relevant'
+p11658
+sS'591912988099158016'
+p11659
+S'Not related or irrelevant'
+p11660
+sS'592595002645053440'
+p11661
+S'Not Relevant'
+p11662
+sS'592681876973821954'
+p11663
+S'Not Relevant'
+p11664
+sS'593186145296523264'
+p11665
+S'Not Relevant'
+p11666
+sS'593032119552606208'
+p11667
+S'Not Relevant'
+p11668
+sS'591914278547894272'
+p11669
+S'Other relevant information'
+p11670
+sS'591998216524197890'
+p11671
+S'Not Relevant'
+p11672
+sS'592067779223629824'
+p11673
+S'Sympathy and emotional support'
+p11674
+sS'592085515689717760'
+p11675
+S'Displaced people'
+p11676
+sS'591910414444863488'
+p11677
+S'Not related or irrelevant'
+p11678
+sS'592833180010418176'
+p11679
+S'Infrastructure Damage'
+p11680
+sS'592740375003017218'
+p11681
+S'Not Relevant'
+p11682
+sS'592904746370994177'
+p11683
+S'Not Relevant'
+p11684
+sS'592923612459315200'
+p11685
+S'Not Relevant'
+p11686
+sS'591912625904058368'
+p11687
+S'"Missing'
+p11688
+sS'592999448806055937'
+p11689
+S'Not Relevant'
+p11690
+sS'592690444015927296'
+p11691
+S'Infrastructure Damage'
+p11692
+sS'592905063250731008'
+p11693
+S'Not Relevant'
+p11694
+sS'592074711724478464'
+p11695
+S'Other relevant information'
+p11696
+sS'592749610948501505'
+p11697
+S'Not Relevant'
+p11698
+sS'591962774139338753'
+p11699
+S'Sympathy and emotional support'
+p11700
+sS'592647727458168832'
+p11701
+S'Not Relevant'
+p11702
+sS'592070380900200448'
+p11703
+S'"Missing'
+p11704
+sS'592734521952477185'
+p11705
+S'Not Relevant'
+p11706
+sS'592608481657532416'
+p11707
+S'Response Efforts'
+p11708
+sS'592832744700452864'
+p11709
+S'Not Relevant'
+p11710
+sS'592197174856781826'
+p11711
+S'Response Efforts'
+p11712
+sS'592740479525134340'
+p11713
+S'Not Relevant'
+p11714
+sS'591909505945899008'
+p11715
+S'Other relevant information'
+p11716
+sS'592946083661152256'
+p11717
+S'Not Relevant'
+p11718
+sS'592592658947842049'
+p11719
+S'Not Relevant'
+p11720
+sS'592752051760791553'
+p11721
+S'Not Relevant'
+p11722
+sS'592800174189256704'
+p11723
+S'Not Relevant'
+p11724
+sS'592656775033262081'
+p11725
+S'Other Relevant Information'
+p11726
+sS'592594898546753537'
+p11727
+S'Not Relevant'
+p11728
+sS'592900359410036739'
+p11729
+S'Response Efforts'
+p11730
+sS'592156231743217665'
+p11731
+S'Other Relevant Information'
+p11732
+sS'592694838916685825'
+p11733
+S'Response Efforts'
+p11734
+sS'592156002625015809'
+p11735
+S'Not Relevant'
+p11736
+sS'592629797173514240'
+p11737
+S'Response Efforts'
+p11738
+sS'592636710841929728'
+p11739
+S'Not Relevant'
+p11740
+sS'592680600722644993'
+p11741
+S'Not Relevant'
+p11742
+sS'593211168358993920'
+p11743
+S'Not Relevant'
+p11744
+sS'592969673920094208'
+p11745
+S'Not Relevant'
+p11746
+sS'593150916238266368'
+p11747
+S'Not Relevant'
+p11748
+sS'592589752207020032'
+p11749
+S'Not Relevant'
+p11750
+sS'592162437161459712'
+p11751
+S'Not Relevant'
+p11752
+sS'592648318594973696'
+p11753
+S'Other Relevant Information'
+p11754
+sS'592594350447689728'
+p11755
+S'Not Relevant'
+p11756
+sS'592850017129525250'
+p11757
+S'Not Relevant'
+p11758
+sS'592085790944964608'
+p11759
+S'Sympathy and emotional support'
+p11760
+sS'593261444935745536'
+p11761
+S'Not Relevant'
+p11762
+sS'592999488786075648'
+p11763
+S'Response Efforts'
+p11764
+sS'591911803459768321'
+p11765
+S'Not related or irrelevant'
+p11766
+sS'592646226283212801'
+p11767
+S'Not Relevant'
+p11768
+sS'592720212174237696'
+p11769
+S'Not Relevant'
+p11770
+sS'592643324206575617'
+p11771
+S'Infrastructure Damage'
+p11772
+sS'591915391883948032'
+p11773
+S'Not related or irrelevant'
+p11774
+sS'592622210579333120'
+p11775
+S'Not Relevant'
+p11776
+sS'593009801975693313'
+p11777
+S'Not Relevant'
+p11778
+sS'592593508978040833'
+p11779
+S'Response Efforts'
+p11780
+sS'592624850151309313'
+p11781
+S'Not Relevant'
+p11782
+sS'592076601061310464'
+p11783
+S'Not related or irrelevant'
+p11784
+sS'592643882506063872'
+p11785
+S'Response Efforts'
+p11786
+sS'592592472431337472'
+p11787
+S'Other Relevant Information'
+p11788
+sS'592769087194935297'
+p11789
+S'Not Relevant'
+p11790
+sS'591974839839133696'
+p11791
+S'Displaced people'
+p11792
+sS'591915408409501697'
+p11793
+S'Sympathy and emotional support'
+p11794
+sS'592764031259258881'
+p11795
+S'Not Relevant'
+p11796
+sS'591909854224089090'
+p11797
+S'Personal updates'
+p11798
+sS'592623334749155328'
+p11799
+S'Response Efforts'
+p11800
+sS'592681544189370369'
+p11801
+S'Not Relevant'
+p11802
+sS'592680897780031489'
+p11803
+S'Urgent Needs'
+p11804
+sS'592780671770370048'
+p11805
+S'Not Relevant'
+p11806
+sS'592181390613028864'
+p11807
+S'Not Relevant'
+p11808
+sS'593000811388481536'
+p11809
+S'Not Relevant'
+p11810
+sS'592163113115332608'
+p11811
+S'Not Relevant'
+p11812
+sS'592594135023915008'
+p11813
+S'Response Efforts'
+p11814
+sS'592821717527060480'
+p11815
+S'Not Relevant'
+p11816
+sS'592655143138697216'
+p11817
+S'Not Relevant'
+p11818
+sS'593024664558915585'
+p11819
+S'Not Relevant'
+p11820
+sS'593035641434148865'
+p11821
+S'Not Relevant'
+p11822
+sS'592955318419791872'
+p11823
+S'Not Relevant'
+p11824
+sS'592696665594822657'
+p11825
+S'Not Relevant'
+p11826
+sS'592824914006118402'
+p11827
+S'Not Relevant'
+p11828
+sS'592706428353302528'
+p11829
+S'Not Relevant'
+p11830
+sS'592594379132407809'
+p11831
+S'Not Relevant'
+p11832
+sS'592634602453209088'
+p11833
+S'Other Relevant Information'
+p11834
+sS'593019813477265408'
+p11835
+S'Not Relevant'
+p11836
+sS'592589352988905472'
+p11837
+S'Not Relevant'
+p11838
+sS'592735173801811970'
+p11839
+S'Not Relevant'
+p11840
+sS'592940108392738817'
+p11841
+S'Not Relevant'
+p11842
+sS'592870010252566528'
+p11843
+S'Not Relevant'
+p11844
+sS'592873910011633665'
+p11845
+S'Not Relevant'
+p11846
+sS'593038547667529728'
+p11847
+S'Not Relevant'
+p11848
+sS'592813308996096001'
+p11849
+S'Not Relevant'
+p11850
+sS'592085381752950785'
+p11851
+S'Sympathy and emotional support'
+p11852
+sS'592840993231220739'
+p11853
+S'Not Relevant'
+p11854
+sS'592916186247122944'
+p11855
+S'Other Relevant Information'
+p11856
+sS'592637645156700160'
+p11857
+S'Infrastructure Damage'
+p11858
+sS'592635533165088768'
+p11859
+S'Not Relevant'
+p11860
+sS'592752720425164802'
+p11861
+S'Not Relevant'
+p11862
+sS'592665218666340353'
+p11863
+S'Not Relevant'
+p11864
+sS'592739121967271939'
+p11865
+S'Not Relevant'
+p11866
+sS'592649275332493312'
+p11867
+S'Not Relevant'
+p11868
+sS'593007470190022657'
+p11869
+S'Not Relevant'
+p11870
+sS'592075045465419776'
+p11871
+S'Sympathy and emotional support'
+p11872
+sS'592701437932654594'
+p11873
+S'Not Relevant'
+p11874
+sS'592592620041347072'
+p11875
+S'Response Efforts'
+p11876
+sS'592878473754083328'
+p11877
+S'Not Relevant'
+p11878
+sS'593013559417827328'
+p11879
+S'Not Relevant'
+p11880
+sS'592901963374792704'
+p11881
+S'Not Relevant'
+p11882
+sS'592673592795602947'
+p11883
+S'Not Relevant'
+p11884
+sS'592592259188715521'
+p11885
+S'Not Relevant'
+p11886
+sS'592088807610130433'
+p11887
+S'Money'
+p11888
+sS'592089389360029697'
+p11889
+S'Not related or irrelevant'
+p11890
+sS'592748169865334784'
+p11891
+S'Not Relevant'
+p11892
+sS'592986188614639616'
+p11893
+S'Not Relevant'
+p11894
+sS'593003100572626944'
+p11895
+S'Not Relevant'
+p11896
+sS'593160601012023296'
+p11897
+S'Not Relevant'
+p11898
+sS'592817290703417344'
+p11899
+S'Not Relevant'
+p11900
+sS'593029478739247105'
+p11901
+S'Not Relevant'
+p11902
+sS'592918435350228992'
+p11903
+S'Not Relevant'
+p11904
+sS'592897622253424640'
+p11905
+S'Not Relevant'
+p11906
+sS'592590658453393408'
+p11907
+S'Not Relevant'
+p11908
+sS'593253506435387392'
+p11909
+S'Not Relevant'
+p11910
+sS'592733869125869568'
+p11911
+S'Response Efforts'
+p11912
+sS'592591981634793473'
+p11913
+S'Response Efforts'
+p11914
+sS'592826352186826753'
+p11915
+S'Urgent Needs'
+p11916
+sS'592824351428345856'
+p11917
+S'Response Efforts'
+p11918
+sS'592747728519745536'
+p11919
+S'Not Relevant'
+p11920
+sS'592069822915223552'
+p11921
+S'Money'
+p11922
+sS'592747668260188163'
+p11923
+S'Not Relevant'
+p11924
+sS'592085707813847042'
+p11925
+S'Not related or irrelevant'
+p11926
+sS'592993185795805185'
+p11927
+S'Not Relevant'
+p11928
+sS'592673540819832832'
+p11929
+S'Infrastructure Damage'
+p11930
+sS'592077462126895104'
+p11931
+S'Sympathy and emotional support'
+p11932
+sS'591909693611585536'
+p11933
+S'Sympathy and emotional support'
+p11934
+sS'592893832947195904'
+p11935
+S'Not Relevant'
+p11936
+sS'592589156372459522'
+p11937
+S'Response Efforts'
+p11938
+sS'593035703472226304'
+p11939
+S'Other Relevant Information'
+p11940
+sS'592790383433797632'
+p11941
+S'Response Efforts'
+p11942
+sS'592591208062418945'
+p11943
+S'Not Relevant'
+p11944
+sS'592199029389336579'
+p11945
+S'Response Efforts'
+p11946
+sS'592112518153179136'
+p11947
+S'Response Efforts'
+p11948
+sS'592914331626545152'
+p11949
+S'Not Relevant'
+p11950
+sS'592589525056032770'
+p11951
+S'Not Relevant'
+p11952
+sS'592719710522875904'
+p11953
+S'Not Relevant'
+p11954
+sS'592832760840065027'
+p11955
+S'Not Relevant'
+p11956
+sS'592593631191511041'
+p11957
+S'Response Efforts'
+p11958
+sS'593022489858543616'
+p11959
+S'Not Relevant'
+p11960
+sS'591915696998735872'
+p11961
+S'Infrastructure and utilities'
+p11962
+sS'592884218499301376'
+p11963
+S'Not Relevant'
+p11964
+sS'592642156218621952'
+p11965
+S'Not Relevant'
+p11966
+sS'593248587112435712'
+p11967
+S'Not Relevant'
+p11968
+sS'592747882106728448'
+p11969
+S'Not Relevant'
+p11970
+sS'593262087045943296'
+p11971
+S'Not Relevant'
+p11972
+sS'592276362368458752'
+p11973
+S'Not Relevant'
+p11974
+sS'593212865684705280'
+p11975
+S'Not Relevant'
+p11976
+sS'592940722694660096'
+p11977
+S'Not Relevant'
+p11978
+sS'592594708863418370'
+p11979
+S'Not Relevant'
+p11980
+sS'591961266928881664'
+p11981
+S'Other relevant information'
+p11982
+sS'592667830811762688'
+p11983
+S'Not Relevant'
+p11984
+sS'593147316640546816'
+p11985
+S'Not Relevant'
+p11986
+sS'592838910809612288'
+p11987
+S'Not Relevant'
+p11988
+sS'592591762008465408'
+p11989
+S'Other Relevant Information'
+p11990
+sS'593148496670171136'
+p11991
+S'Not Relevant'
+p11992
+sS'592818921016827904'
+p11993
+S'Not Relevant'
+p11994
+sS'592166044007038976'
+p11995
+S'Other Relevant Information'
+p11996
+sS'592166265067741184'
+p11997
+S'Not Relevant'
+p11998
+sS'592873286574407680'
+p11999
+S'Not Relevant'
+p12000
+sS'592641873694470144'
+p12001
+S'Not Relevant'
+p12002
+sS'592818975672795136'
+p12003
+S'Not Relevant'
+p12004
+sS'592647606829977600'
+p12005
+S'Not Relevant'
+p12006
+sS'591962309301379075'
+p12007
+S'Sympathy and emotional support'
+p12008
+sS'592638279347937284'
+p12009
+S'Not Relevant'
+p12010
+sS'592731418796646400'
+p12011
+S'Response Efforts'
+p12012
+sS'592179756793135104'
+p12013
+S'Not Relevant'
+p12014
+sS'592642564827815936'
+p12015
+S'Response Efforts'
+p12016
+sS'592086887638167552'
+p12017
+S'Money'
+p12018
+sS'592630011989008385'
+p12019
+S'Not Relevant'
+p12020
+sS'592591999888433153'
+p12021
+S'Other Relevant Information'
+p12022
+sS'592621539733938177'
+p12023
+S'Response Efforts'
+p12024
+sS'592685977363206144'
+p12025
+S'Not Relevant'
+p12026
+sS'591942814050684929'
+p12027
+S'Injured or dead people'
+p12028
+sS'593001352336265216'
+p12029
+S'Not Relevant'
+p12030
+sS'592658140098854913'
+p12031
+S'Infrastructure Damage'
+p12032
+sS'592800087866265600'
+p12033
+S'Not Relevant'
+p12034
+sS'592649617826783233'
+p12035
+S'Urgent Needs'
+p12036
+sS'591994400969916417'
+p12037
+S'Not Relevant'
+p12038
+sS'592845412551237634'
+p12039
+S'Infrastructure Damage'
+p12040
+sS'592694145191387137'
+p12041
+S'Not Relevant'
+p12042
+sS'592849108416733185'
+p12043
+S'Urgent Needs'
+p12044
+sS'592590260913250305'
+p12045
+S'Not Relevant'
+p12046
+sS'592828723046576128'
+p12047
+S'Not Relevant'
+p12048
+sS'592680086475780098'
+p12049
+S'Not Relevant'
+p12050
+sS'592084646504112128'
+p12051
+S'Money'
+p12052
+sS'592880623381061635'
+p12053
+S'Not Relevant'
+p12054
+sS'592882841865818114'
+p12055
+S'Not Relevant'
+p12056
+sS'592592644045344768'
+p12057
+S'Not Relevant'
+p12058
+sS'591993989085024256'
+p12059
+S'Not Relevant'
+p12060
+sS'592636898415398912'
+p12061
+S'Not Relevant'
+p12062
+sS'592590281662332929'
+p12063
+S'Not Relevant'
+p12064
+sS'592591574623776768'
+p12065
+S'Not Relevant'
+p12066
+sS'591907992301240321'
+p12067
+S'Sympathy and emotional support'
+p12068
+sS'592592715465916416'
+p12069
+S'Not Relevant'
+p12070
+sS'592707947962204160'
+p12071
+S'Not Relevant'
+p12072
+sS'592942541173043201'
+p12073
+S'Not Relevant'
+p12074
+sS'591962578286350338'
+p12075
+S'Sympathy and emotional support'
+p12076
+sS'593017540797923329'
+p12077
+S'Not Relevant'
+p12078
+sS'592955855416393728'
+p12079
+S'Not Relevant'
+p12080
+sS'593035956589965313'
+p12081
+S'Not Relevant'
+p12082
+sS'593010845120008193'
+p12083
+S'Not Relevant'
+p12084
+sS'592590696680304641'
+p12085
+S'Not Relevant'
+p12086
+sS'592589221493354496'
+p12087
+S'Not Relevant'
+p12088
+sS'592076184747282433'
+p12089
+S'Volunteer or professional services'
+p12090
+sS'592594674210078723'
+p12091
+S'Not Relevant'
+p12092
+sS'591907210315239424'
+p12093
+S'Other relevant information'
+p12094
+sS'592077029849341952'
+p12095
+S'Sympathy and emotional support'
+p12096
+sS'592844984111497216'
+p12097
+S'Not Relevant'
+p12098
+sS'592811839232319489'
+p12099
+S'Not Relevant'
+p12100
+sS'592671122992291841'
+p12101
+S'Not Relevant'
+p12102
+sS'593205295788077056'
+p12103
+S'Not Relevant'
+p12104
+sS'592086442828046339'
+p12105
+S'Sympathy and emotional support'
+p12106
+sS'592668540169277440'
+p12107
+S'Not Relevant'
+p12108
+sS'592188098928226305'
+p12109
+S'Other Relevant Information'
+p12110
+sS'592745239527424003'
+p12111
+S'Not Relevant'
+p12112
+sS'592689612805505027'
+p12113
+S'Response Efforts'
+p12114
+sS'591911201270956032'
+p12115
+S'Other relevant information'
+p12116
+sS'592873867909148672'
+p12117
+S'Not Relevant'
+p12118
+sS'592601118934441984'
+p12119
+S'Other Relevant Information'
+p12120
+sS'591906430350860288'
+p12121
+S'Injured or dead people'
+p12122
+sS'592076424149872641'
+p12123
+S'Not related or irrelevant'
+p12124
+sS'593238098915553280'
+p12125
+S'Not Relevant'
+p12126
+sS'592652003031052288'
+p12127
+S'Other Relevant Information'
+p12128
+sS'592167862833262592'
+p12129
+S'Not Relevant'
+p12130
+sS'593240971560685568'
+p12131
+S'Not Relevant'
+p12132
+sS'592074734881402881'
+p12133
+S'Sympathy and emotional support'
+p12134
+sS'592589687950184448'
+p12135
+S'Response Efforts'
+p12136
+sS'592845875954720768'
+p12137
+S'Not Relevant'
+p12138
+sS'592706621106688001'
+p12139
+S'Not Relevant'
+p12140
+sS'592847080617566210'
+p12141
+S'Not Relevant'
+p12142
+sS'592840793259450368'
+p12143
+S'Not Relevant'
+p12144
+sS'593242614503202816'
+p12145
+S'Not Relevant'
+p12146
+sS'592778412965687298'
+p12147
+S'Not Relevant'
+p12148
+sS'592953941954015232'
+p12149
+S'Response Efforts'
+p12150
+sS'592948038269673472'
+p12151
+S'Not Relevant'
+p12152
+sS'591963754868387840'
+p12153
+S'Not related or irrelevant'
+p12154
+sS'593013247869120513'
+p12155
+S'Not Relevant'
+p12156
+sS'592753538033426432'
+p12157
+S'Not Relevant'
+p12158
+sS'592871769276608512'
+p12159
+S'Not Relevant'
+p12160
+sS'592593370184294400'
+p12161
+S'Infrastructure Damage'
+p12162
+sS'592742725482610689'
+p12163
+S'Not Relevant'
+p12164
+sS'592704691991085056'
+p12165
+S'Response Efforts'
+p12166
+sS'593250672688111616'
+p12167
+S'Not Relevant'
+p12168
+sS'592703281325039616'
+p12169
+S'Not Relevant'
+p12170
+sS'593150204574044161'
+p12171
+S'Not Relevant'
+p12172
+sS'592896030024310784'
+p12173
+S'Not Relevant'
+p12174
+sS'592750109768683520'
+p12175
+S'Urgent Needs'
+p12176
+sS'592949685410787328'
+p12177
+S'Not Relevant'
+p12178
+sS'592941796340191232'
+p12179
+S'Not Relevant'
+p12180
+sS'592657556608258048'
+p12181
+S'Not Relevant'
+p12182
+sS'592824650880679936'
+p12183
+S'Not Relevant'
+p12184
+sS'592743467253682176'
+p12185
+S'Not Relevant'
+p12186
+sS'592651930750562304'
+p12187
+S'Not Relevant'
+p12188
+sS'592820014421516289'
+p12189
+S'Other Relevant Information'
+p12190
+sS'592826665572655106'
+p12191
+S'Response Efforts'
+p12192
+sS'592594421062873088'
+p12193
+S'Not Relevant'
+p12194
+sS'592657175576760324'
+p12195
+S'Not Relevant'
+p12196
+sS'592593835458334720'
+p12197
+S'Not Relevant'
+p12198
+sS'592833974759743489'
+p12199
+S'Not Relevant'
+p12200
+sS'592180393027055616'
+p12201
+S'Not Relevant'
+p12202
+sS'592599576063909888'
+p12203
+S'Not Relevant'
+p12204
+sS'592873292190654465'
+p12205
+S'Not Relevant'
+p12206
+sS'592621670730493952'
+p12207
+S'Not Relevant'
+p12208
+sS'592842754406883328'
+p12209
+S'Not Relevant'
+p12210
+sS'592590606934892544'
+p12211
+S'Not Relevant'
+p12212
+sS'592988085924724736'
+p12213
+S'Not Relevant'
+p12214
+sS'592973408507437056'
+p12215
+S'Not Relevant'
+p12216
+sS'592085588578172928'
+p12217
+S'Sympathy and emotional support'
+p12218
+sS'592733360142852098'
+p12219
+S'Not Relevant'
+p12220
+sS'592591682866020352'
+p12221
+S'Not Relevant'
+p12222
+sS'591909837744701440'
+p12223
+S'Other relevant information'
+p12224
+sS'592129586059612160'
+p12225
+S'Not Relevant'
+p12226
+sS'592766824917377025'
+p12227
+S'Not Relevant'
+p12228
+sS'592157540672098304'
+p12229
+S'Response Efforts'
+p12230
+sS'592624519665225728'
+p12231
+S'Not Relevant'
+p12232
+sS'593041385780957185'
+p12233
+S'Not Relevant'
+p12234
+sS'593160297818550274'
+p12235
+S'Not Relevant'
+p12236
+sS'592862551228207104'
+p12237
+S'Not Relevant'
+p12238
+sS'593238515246301184'
+p12239
+S'Not Relevant'
+p12240
+sS'592952126550241280'
+p12241
+S'Other Relevant Information'
+p12242
+sS'592928318888026112'
+p12243
+S'Not Relevant'
+p12244
+sS'592733264655360003'
+p12245
+S'Not Relevant'
+p12246
+sS'592793483590672385'
+p12247
+S'Not Relevant'
+p12248
+sS'592640841283436544'
+p12249
+S'Other Relevant Information'
+p12250
+sS'592901184018640896'
+p12251
+S'Not Relevant'
+p12252
+sS'592754661943279616'
+p12253
+S'Not Relevant'
+p12254
+sS'592592831945969664'
+p12255
+S'Not Relevant'
+p12256
+sS'592984414134632448'
+p12257
+S'Not Relevant'
+p12258
+sS'592808010533249024'
+p12259
+S'Not Relevant'
+p12260
+sS'592592266193084416'
+p12261
+S'Not Relevant'
+p12262
+sS'592981240485158912'
+p12263
+S'Not Relevant'
+p12264
+sS'592157499970695168'
+p12265
+S'Not Relevant'
+p12266
+sS'592881702336331778'
+p12267
+S'Response Efforts'
+p12268
+sS'592167538676486145'
+p12269
+S'Not Relevant'
+p12270
+sS'593182948129570816'
+p12271
+S'Not Relevant'
+p12272
+sS'592647067173982208'
+p12273
+S'Not Relevant'
+p12274
+sS'592159488146165760'
+p12275
+S'Not Relevant'
+p12276
+sS'592131013427523584'
+p12277
+S'Other Relevant Information'
+p12278
+sS'592682934278201344'
+p12279
+S'Not Relevant'
+p12280
+sS'592605808992485376'
+p12281
+S'Not Relevant'
+p12282
+sS'592720645810716673'
+p12283
+S'Not Relevant'
+p12284
+sS'592834985238929408'
+p12285
+S'Not Relevant'
+p12286
+sS'593020359101784064'
+p12287
+S'Not Relevant'
+p12288
+sS'592624510643372032'
+p12289
+S'Response Efforts'
+p12290
+sS'592594176295895040'
+p12291
+S'Not Relevant'
+p12292
+sS'592813841651740676'
+p12293
+S'Not Relevant'
+p12294
+sS'591914962878013440'
+p12295
+S'Other relevant information'
+p12296
+sS'592073203071193088'
+p12297
+S'Sympathy and emotional support'
+p12298
+sS'593036232675831808'
+p12299
+S'Not Relevant'
+p12300
+sS'592674309451194368'
+p12301
+S'Not Relevant'
+p12302
+sS'592671496285364224'
+p12303
+S'Not Relevant'
+p12304
+sS'593010911318810626'
+p12305
+S'Not Relevant'
+p12306
+sS'593014057814228992'
+p12307
+S'Not Relevant'
+p12308
+sS'592644397273067520'
+p12309
+S'Not Relevant'
+p12310
+sS'592820574436597761'
+p12311
+S'Not Relevant'
+p12312
+sS'592672242976317440'
+p12313
+S'Not Relevant'
+p12314
+sS'592590598751694849'
+p12315
+S'Not Relevant'
+p12316
+sS'592709599750443009'
+p12317
+S'Not Relevant'
+p12318
+sS'592594513471741952'
+p12319
+S'Not Relevant'
+p12320
+sS'592806006981263362'
+p12321
+S'Not Relevant'
+p12322
+sS'592992808673234944'
+p12323
+S'Not Relevant'
+p12324
+sS'592627454205927424'
+p12325
+S'Response Efforts'
+p12326
+sS'592824616697131008'
+p12327
+S'Not Relevant'
+p12328
+sS'592738294955417600'
+p12329
+S'Not Relevant'
+p12330
+sS'593195546707238912'
+p12331
+S'Other Relevant Information'
+p12332
+sS'593009782732279808'
+p12333
+S'Not Relevant'
+p12334
+sS'592626633460293632'
+p12335
+S'Not Relevant'
+p12336
+sS'592685003017986050'
+p12337
+S'Not Relevant'
+p12338
+sS'593033056534941696'
+p12339
+S'Other Relevant Information'
+p12340
+sS'592591122892853249'
+p12341
+S'Not Relevant'
+p12342
+sS'592900613131886592'
+p12343
+S'Not Relevant'
+p12344
+sS'592833825648017410'
+p12345
+S'Not Relevant'
+p12346
+sS'592912564318679040'
+p12347
+S'Not Relevant'
+p12348
+sS'592848810847686656'
+p12349
+S'Not Relevant'
+p12350
+sS'592659000187068417'
+p12351
+S'Not Relevant'
+p12352
+sS'593151260997607424'
+p12353
+S'Not Relevant'
+p12354
+sS'592593073332363264'
+p12355
+S'Not Relevant'
+p12356
+sS'592971076923035648'
+p12357
+S'Other Relevant Information'
+p12358
+sS'592072132689014784'
+p12359
+S'Sympathy and emotional support'
+p12360
+sS'593162753197604864'
+p12361
+S'Response Efforts'
+p12362
+sS'592624979436380160'
+p12363
+S'Not Relevant'
+p12364
+sS'592200777273253889'
+p12365
+S'Not Relevant'
+p12366
+sS'592643293894340608'
+p12367
+S'Response Efforts'
+p12368
+sS'592688163463770112'
+p12369
+S'Not Relevant'
+p12370
+sS'592759253062045698'
+p12371
+S'Response Efforts'
+p12372
+sS'591960954868527104'
+p12373
+S'Sympathy and emotional support'
+p12374
+sS'592866196933976064'
+p12375
+S'Not Relevant'
+p12376
+sS'592786352992837632'
+p12377
+S'Other Relevant Information'
+p12378
+sS'592970415800061952'
+p12379
+S'Not Relevant'
+p12380
+sS'592073437838909440'
+p12381
+S'Sympathy and emotional support'
+p12382
+sS'592940607980621824'
+p12383
+S'Not Relevant'
+p12384
+sS'592620598280507392'
+p12385
+S'Not Relevant'
+p12386
+sS'591974966536609793'
+p12387
+S'Money'
+p12388
+sS'592625149188276224'
+p12389
+S'Not Relevant'
+p12390
+sS'592593139354836992'
+p12391
+S'Not Relevant'
+p12392
+sS'592809134761869312'
+p12393
+S'Response Efforts'
+p12394
+sS'593241937047465984'
+p12395
+S'Not Relevant'
+p12396
+sS'592594486607220736'
+p12397
+S'Not Relevant'
+p12398
+sS'592591285170626561'
+p12399
+S'Not Relevant'
+p12400
+sS'592686717213220866'
+p12401
+S'Not Relevant'
+p12402
+sS'592997106551422976'
+p12403
+S'Not Relevant'
+p12404
+sS'593010704711491584'
+p12405
+S'Response Efforts'
+p12406
+sS'592110989388226560'
+p12407
+S'Not Relevant'
+p12408
+sS'592804693778309120'
+p12409
+S'Not Relevant'
+p12410
+sS'592202682561069057'
+p12411
+S'Response Efforts'
+p12412
+sS'592742303258796032'
+p12413
+S'Not Relevant'
+p12414
+sS'592657471451303937'
+p12415
+S'Not Relevant'
+p12416
+sS'592810703964270592'
+p12417
+S'Not Relevant'
+p12418
+sS'592753282394824704'
+p12419
+S'Not Relevant'
+p12420
+sS'592071984273444864'
+p12421
+S'Not related or irrelevant'
+p12422
+sS'592709630066860036'
+p12423
+S'Not Relevant'
+p12424
+sS'592071012855906304'
+p12425
+S'Caution and advice'
+p12426
+sS'592762783793549313'
+p12427
+S'Not Relevant'
+p12428
+sS'592974115377545216'
+p12429
+S'Not Relevant'
+p12430
+sS'592593400685170688'
+p12431
+S'Not Relevant'
+p12432
+sS'592074743135608834'
+p12433
+S'Other relevant information'
+p12434
+sS'592672657268678657'
+p12435
+S'Not Relevant'
+p12436
+sS'592988137766461440'
+p12437
+S'Other Relevant Information'
+p12438
+sS'593020942772613120'
+p12439
+S'Infrastructure Damage'
+p12440
+sS'591920656758886400'
+p12441
+S'Other relevant information'
+p12442
+sS'592991653079691265'
+p12443
+S'Not Relevant'
+p12444
+sS'592076037804072960'
+p12445
+S'Sympathy and emotional support'
+p12446
+sS'593004561742200832'
+p12447
+S'Not Relevant'
+p12448
+sS'592121228397154304'
+p12449
+S'Response Efforts'
+p12450
+sS'592846840011333632'
+p12451
+S'Response Efforts'
+p12452
+sS'592181068335157248'
+p12453
+S'Not Relevant'
+p12454
+sS'592169389081763840'
+p12455
+S'Not Relevant'
+p12456
+sS'592615273498214400'
+p12457
+S'Not Relevant'
+p12458
+sS'592592960803479552'
+p12459
+S'Not Relevant'
+p12460
+sS'592695394771017729'
+p12461
+S'Not Relevant'
+p12462
+sS'591918661780303874'
+p12463
+S'Not related or irrelevant'
+p12464
+sS'593237660602339328'
+p12465
+S'Not Relevant'
+p12466
+sS'592613118217359360'
+p12467
+S'Not Relevant'
+p12468
+sS'592651898773209088'
+p12469
+S'Response Efforts'
+p12470
+sS'592588967502942209'
+p12471
+S'Not Relevant'
+p12472
+sS'592700069461303296'
+p12473
+S'Not Relevant'
+p12474
+sS'592617053099585536'
+p12475
+S'Not Relevant'
+p12476
+sS'593026564633272320'
+p12477
+S'Not Relevant'
+p12478
+sS'592086002233167872'
+p12479
+S'Sympathy and emotional support'
+p12480
+sS'592593522546606080'
+p12481
+S'Other Relevant Information'
+p12482
+sS'592893296722186242'
+p12483
+S'Not Relevant'
+p12484
+sS'592695974935601153'
+p12485
+S'Not Relevant'
+p12486
+sS'592765965479317506'
+p12487
+S'Not Relevant'
+p12488
+sS'593015258458918913'
+p12489
+S'Not Relevant'
+p12490
+sS'592169375177773056'
+p12491
+S'Not Relevant'
+p12492
+sS'592590712929013760'
+p12493
+S'Not Relevant'
+p12494
+sS'592833757033472000'
+p12495
+S'Not Relevant'
+p12496
+sS'592589675069472768'
+p12497
+S'Not Relevant'
+p12498
+sS'592924518538203136'
+p12499
+S'Not Relevant'
+p12500
+sS'592075954417205248'
+p12501
+S'Personal updates'
+p12502
+sS'592838578801094656'
+p12503
+S'Not Relevant'
+p12504
+sS'593040875711782912'
+p12505
+S'Not Relevant'
+p12506
+sS'592085504721575936'
+p12507
+S'Volunteer or professional services'
+p12508
+sS'593045064202526720'
+p12509
+S'Not Relevant'
+p12510
+sS'592906014879555585'
+p12511
+S'Other Relevant Information'
+p12512
+sS'592073318339112960'
+p12513
+S'Not related or irrelevant'
+p12514
+sS'593153298510848000'
+p12515
+S'Response Efforts'
+p12516
+sS'591915292118290432'
+p12517
+S'Not related or irrelevant'
+p12518
+sS'592896378692608001'
+p12519
+S'Not Relevant'
+p12520
+sS'592914753078501376'
+p12521
+S'Not Relevant'
+p12522
+sS'592593372973379584'
+p12523
+S'Not Relevant'
+p12524
+sS'592772764563599360'
+p12525
+S'Not Relevant'
+p12526
+sS'591915422758412289'
+p12527
+S'Injured or dead people'
+p12528
+sS'592923769741582337'
+p12529
+S'Not Relevant'
+p12530
+sS'591910527992991744'
+p12531
+S'Volunteer or professional services'
+p12532
+sS'592200588873625600'
+p12533
+S'Not Relevant'
+p12534
+sS'591919383804387328'
+p12535
+S'Infrastructure and utilities'
+p12536
+sS'593008564567937024'
+p12537
+S'Not Relevant'
+p12538
+sS'592759757305454593'
+p12539
+S'Not Relevant'
+p12540
+sS'592147382705516544'
+p12541
+S'Not Relevant'
+p12542
+sS'592665472019079168'
+p12543
+S'Not Relevant'
+p12544
+sS'591912051288576001'
+p12545
+S'Other relevant information'
+p12546
+sS'591913842470432769'
+p12547
+S'Other relevant information'
+p12548
+sS'592743395476504576'
+p12549
+S'Not Relevant'
+p12550
+sS'592593054516674560'
+p12551
+S'Response Efforts'
+p12552
+sS'592816904378699776'
+p12553
+S'Not Relevant'
+p12554
+sS'592073799513804801'
+p12555
+S'Not related or irrelevant'
+p12556
+sS'592768549048967168'
+p12557
+S'Not Relevant'
+p12558
+sS'592160655861522432'
+p12559
+S'Not Relevant'
+p12560
+sS'592671127362805761'
+p12561
+S'Not Relevant'
+p12562
+sS'592737107422158851'
+p12563
+S'Not Relevant'
+p12564
+sS'593241052175208448'
+p12565
+S'Not Relevant'
+p12566
+sS'592790128424329217'
+p12567
+S'Not Relevant'
+p12568
+sS'592914855323181057'
+p12569
+S'Not Relevant'
+p12570
+sS'593019783836147712'
+p12571
+S'Not Relevant'
+p12572
+sS'592746725342871554'
+p12573
+S'Not Relevant'
+p12574
+sS'592869875317616640'
+p12575
+S'Not Relevant'
+p12576
+sS'592989170286526464'
+p12577
+S'Not Relevant'
+p12578
+sS'593002440108023808'
+p12579
+S'Not Relevant'
+p12580
+sS'592780338990022656'
+p12581
+S'Not Relevant'
+p12582
+sS'592753940682428417'
+p12583
+S'Not Relevant'
+p12584
+sS'591910796298493952'
+p12585
+S'Not related or irrelevant'
+p12586
+sS'592685962972569601'
+p12587
+S'Not Relevant'
+p12588
+sS'591916206224846848'
+p12589
+S'Not related or irrelevant'
+p12590
+sS'592198287345590272'
+p12591
+S'Not Relevant'
+p12592
+sS'592686175166529536'
+p12593
+S'Not Relevant'
+p12594
+sS'592883574921101312'
+p12595
+S'Not Relevant'
+p12596
+sS'593041157480906752'
+p12597
+S'Not Relevant'
+p12598
+sS'591912578974031872'
+p12599
+S'Other relevant information'
+p12600
+sS'592931637878358017'
+p12601
+S'Not Relevant'
+p12602
+sS'592902169290022912'
+p12603
+S'Response Efforts'
+p12604
+sS'592589274098180097'
+p12605
+S'Not Relevant'
+p12606
+sS'592962311800786946'
+p12607
+S'Response Efforts'
+p12608
+sS'593187981227380736'
+p12609
+S'Not Relevant'
+p12610
+sS'592802671096176642'
+p12611
+S'Not Relevant'
+p12612
+sS'592591608278745088'
+p12613
+S'Urgent Needs'
+p12614
+sS'592590369478483968'
+p12615
+S'Not Relevant'
+p12616
+sS'592075658349543424'
+p12617
+S'Money'
+p12618
+sS'592683789870051328'
+p12619
+S'Not Relevant'
+p12620
+sS'592992802230837248'
+p12621
+S'Response Efforts'
+p12622
+sS'592896862794973185'
+p12623
+S'Not Relevant'
+p12624
+sS'593015304382455808'
+p12625
+S'Not Relevant'
+p12626
+sS'592120728071208961'
+p12627
+S'Response Efforts'
+p12628
+sS'593212281162506240'
+p12629
+S'Not Relevant'
+p12630
+sS'592910980847382529'
+p12631
+S'Not Relevant'
+p12632
+sS'592790533459816448'
+p12633
+S'Not Relevant'
+p12634
+sS'592796035040288769'
+p12635
+S'Not Relevant'
+p12636
+sS'592637199021117440'
+p12637
+S'Response Efforts'
+p12638
+sS'592883094857850880'
+p12639
+S'Not Relevant'
+p12640
+sS'592201017040637953'
+p12641
+S'Not Relevant'
+p12642
+sS'593179097427148800'
+p12643
+S'Not Relevant'
+p12644
+sS'592654867895865344'
+p12645
+S'Not Relevant'
+p12646
+sS'592785325635837953'
+p12647
+S'Response Efforts'
+p12648
+sS'592923610995527680'
+p12649
+S'Not Relevant'
+p12650
+sS'592157387257151488'
+p12651
+S'Not Relevant'
+p12652
+sS'592076065696157697'
+p12653
+S'Sympathy and emotional support'
+p12654
+sS'593153647493718017'
+p12655
+S'Not Relevant'
+p12656
+sS'592745334348079104'
+p12657
+S'Not Relevant'
+p12658
+sS'593262492043837440'
+p12659
+S'Not Relevant'
+p12660
+sS'592101165480988672'
+p12661
+S'Sympathy and emotional support'
+p12662
+sS'592780826632429569'
+p12663
+S'Not Relevant'
+p12664
+sS'592822925402734593'
+p12665
+S'Not Relevant'
+p12666
+sS'592630771749232641'
+p12667
+S'Not Relevant'
+p12668
+sS'592088107379482625'
+p12669
+S'Sympathy and emotional support'
+p12670
+sS'591915261604724738'
+p12671
+S'Not related or irrelevant'
+p12672
+sS'592593601873444864'
+p12673
+S'Not Relevant'
+p12674
+sS'592784178900504577'
+p12675
+S'Not Relevant'
+p12676
+sS'592644600663126016'
+p12677
+S'Response Efforts'
+p12678
+sS'592657560076996609'
+p12679
+S'Not Relevant'
+p12680
+sS'592706098198618112'
+p12681
+S'Other Relevant Information'
+p12682
+sS'593234679811047424'
+p12683
+S'Not Relevant'
+p12684
+sS'593252574855233536'
+p12685
+S'Response Efforts'
+p12686
+sS'592077407139590144'
+p12687
+S'Other Relevant Information'
+p12688
+sS'593264050403835904'
+p12689
+S'Not Relevant'
+p12690
+sS'591917977848647680'
+p12691
+S'Shelter and supplies'
+p12692
+sS'591918640494063616'
+p12693
+S'Sympathy and emotional support'
+p12694
+sS'591994740574269440'
+p12695
+S'Not Relevant'
+p12696
+sS'593004241796636672'
+p12697
+S'Other Relevant Information'
+p12698
+sS'592901963429388288'
+p12699
+S'Not Relevant'
+p12700
+sS'592943136147550208'
+p12701
+S'Not Relevant'
+p12702
+sS'592784628102094848'
+p12703
+S'Not Relevant'
+p12704
+sS'592705979512414208'
+p12705
+S'Not Relevant'
+p12706
+sS'592751808084373505'
+p12707
+S'Not Relevant'
+p12708
+sS'592816335769436160'
+p12709
+S'Not Relevant'
+p12710
+sS'593147583100358657'
+p12711
+S'Not Relevant'
+p12712
+sS'592740344917262337'
+p12713
+S'Not Relevant'
+p12714
+sS'592820346199416832'
+p12715
+S'Not Relevant'
+p12716
+sS'592592273424175105'
+p12717
+S'Not Relevant'
+p12718
+sS'592846080901021696'
+p12719
+S'Not Relevant'
+p12720
+sS'592592717965819904'
+p12721
+S'Not Relevant'
+p12722
+sS'592593388341305345'
+p12723
+S'Response Efforts'
+p12724
+sS'592075295118745601'
+p12725
+S'Volunteer or professional services'
+p12726
+sS'592840672102772736'
+p12727
+S'Response Efforts'
+p12728
+sS'592180647151542273'
+p12729
+S'Not Relevant'
+p12730
+sS'592747291561295872'
+p12731
+S'Not Relevant'
+p12732
+sS'592613159304695808'
+p12733
+S'Not Relevant'
+p12734
+sS'592746350145572866'
+p12735
+S'Response Efforts'
+p12736
+sS'592702835520856066'
+p12737
+S'Not Relevant'
+p12738
+sS'592735160984051713'
+p12739
+S'Infrastructure Damage'
+p12740
+sS'593153150959243266'
+p12741
+S'Not Relevant'
+p12742
+sS'592927101738586112'
+p12743
+S'Not Relevant'
+p12744
+sS'592692187114110979'
+p12745
+S'Not Relevant'
+p12746
+sS'592963550160756736'
+p12747
+S'Not Relevant'
+p12748
+sS'592817555800207360'
+p12749
+S'Not Relevant'
+p12750
+sS'592134570604036096'
+p12751
+S'Other Relevant Information'
+p12752
+sS'592645818701615104'
+p12753
+S'Not Relevant'
+p12754
+sS'592598790386876416'
+p12755
+S'"Missing'
+p12756
+sS'593189237597544449'
+p12757
+S'Not Relevant'
+p12758
+sS'592892141522780161'
+p12759
+S'Not Relevant'
+p12760
+sS'593026101988982784'
+p12761
+S'Not Relevant'
+p12762
+sS'592183119802933248'
+p12763
+S'Not Relevant'
+p12764
+sS'592168145303052289'
+p12765
+S'Not Relevant'
+p12766
+sS'592680545026482176'
+p12767
+S'Not Relevant'
+p12768
+sS'592668545684795394'
+p12769
+S'Not Relevant'
+p12770
+sS'592837125936160768'
+p12771
+S'Infrastructure Damage'
+p12772
+sS'592751721228677120'
+p12773
+S'Not Relevant'
+p12774
+sS'592198049369174016'
+p12775
+S'Not Relevant'
+p12776
+sS'592588897726533632'
+p12777
+S'Other Relevant Information'
+p12778
+sS'592594497709604864'
+p12779
+S'Not Relevant'
+p12780
+sS'592684559550001153'
+p12781
+S'Not Relevant'
+p12782
+sS'592809977745645568'
+p12783
+S'Not Relevant'
+p12784
+sS'593009982901215232'
+p12785
+S'Urgent Needs'
+p12786
+sS'592591384130899968'
+p12787
+S'Not Relevant'
+p12788
+sS'592655433086697473'
+p12789
+S'Not Relevant'
+p12790
+sS'592859361447387136'
+p12791
+S'Not Relevant'
+p12792
+sS'592804244434120704'
+p12793
+S'Not Relevant'
+p12794
+sS'592164351647293441'
+p12795
+S'Not Relevant'
+p12796
+sS'592589447331385344'
+p12797
+S'Other Relevant Information'
+p12798
+sS'592088905563922432'
+p12799
+S'Sympathy and emotional support'
+p12800
+sS'592138298492985345'
+p12801
+S'Not Relevant'
+p12802
+sS'592741559826829313'
+p12803
+S'Not Relevant'
+p12804
+sS'592681253054349312'
+p12805
+S'Not Relevant'
+p12806
+sS'592965374997569536'
+p12807
+S'Not Relevant'
+p12808
+sS'592830863097929728'
+p12809
+S'Not Relevant'
+p12810
+sS'592976690151755777'
+p12811
+S'Not Relevant'
+p12812
+sS'592681528930467841'
+p12813
+S'Response Efforts'
+p12814
+sS'593018175035482112'
+p12815
+S'Not Relevant'
+p12816
+sS'592594519511543808'
+p12817
+S'Not Relevant'
+p12818
+sS'593190739095355392'
+p12819
+S'Not Relevant'
+p12820
+sS'592957532055941120'
+p12821
+S'Not Relevant'
+p12822
+sS'592849312704503809'
+p12823
+S'Not Relevant'
+p12824
+sS'592622131558547456'
+p12825
+S'Not Relevant'
+p12826
+sS'592736599236059137'
+p12827
+S'Not Relevant'
+p12828
+sS'592590449996619776'
+p12829
+S'Not Relevant'
+p12830
+sS'592701487161151488'
+p12831
+S'Not Relevant'
+p12832
+sS'593156449200648193'
+p12833
+S'Response Efforts'
+p12834
+sS'592838115586347008'
+p12835
+S'Other Relevant Information'
+p12836
+sS'592767978715947009'
+p12837
+S'Not Relevant'
+p12838
+sS'592847894996221953'
+p12839
+S'Other Relevant Information'
+p12840
+sS'592656595995205632'
+p12841
+S'Not Relevant'
+p12842
+sS'592590175873564672'
+p12843
+S'Not Relevant'
+p12844
+sS'592992618352508929'
+p12845
+S'Not Relevant'
+p12846
+sS'593021840966098946'
+p12847
+S'Not Relevant'
+p12848
+sS'593227396804780033'
+p12849
+S'Not Relevant'
+p12850
+sS'592653015837999104'
+p12851
+S'Response Efforts'
+p12852
+sS'591908564123459584'
+p12853
+S'Injured or dead people'
+p12854
+sS'592939220441964544'
+p12855
+S'Other Relevant Information'
+p12856
+sS'592335349038329856'
+p12857
+S'Not Relevant'
+p12858
+sS'592707206837084161'
+p12859
+S'Not Relevant'
+p12860
+sS'592069911943499777'
+p12861
+S'Not related or irrelevant'
+p12862
+sS'592131308643602432'
+p12863
+S'Response Efforts'
+p12864
+sS'592839665876611072'
+p12865
+S'Not Relevant'
+p12866
+sS'591992718412226561'
+p12867
+S'Not Relevant'
+p12868
+sS'592911644482805761'
+p12869
+S'Not Relevant'
+p12870
+sS'592644975587786753'
+p12871
+S'Response Efforts'
+p12872
+sS'592970010223628288'
+p12873
+S'Not Relevant'
+p12874
+sS'592753217278255104'
+p12875
+S'Not Relevant'
+p12876
+sS'592165117267030017'
+p12877
+S'Infrastructure Damage'
+p12878
+sS'591916144216248320'
+p12879
+S'Not related or irrelevant'
+p12880
+sS'592989038069547009'
+p12881
+S'Not Relevant'
+p12882
+sS'592197999754813441'
+p12883
+S'Not Relevant'
+p12884
+sS'592865984773500928'
+p12885
+S'Not Relevant'
+p12886
+sS'592159879797743616'
+p12887
+S'Not Relevant'
+p12888
+sS'592169542362800131'
+p12889
+S'Response Efforts'
+p12890
+sS'592167491075481601'
+p12891
+S'Other Relevant Information'
+p12892
+sS'592686831742877698'
+p12893
+S'Not Relevant'
+p12894
+sS'592637135888384000'
+p12895
+S'Not Relevant'
+p12896
+sS'592608029553614848'
+p12897
+S'Not Relevant'
+p12898
+sS'591996734198263808'
+p12899
+S'Other Relevant Information'
+p12900
+sS'592071059890835456'
+p12901
+S'"Missing'
+p12902
+sS'592859850624913408'
+p12903
+S'Not Relevant'
+p12904
+sS'592648064122294272'
+p12905
+S'Not Relevant'
+p12906
+sS'592590015177232384'
+p12907
+S'Not Relevant'
+p12908
+sS'592591449029509120'
+p12909
+S'Not Relevant'
+p12910
+sS'592592299168632832'
+p12911
+S'Not Relevant'
+p12912
+sS'592590047431405568'
+p12913
+S'Response Efforts'
+p12914
+sS'592962343732060160'
+p12915
+S'Not Relevant'
+p12916
+sS'592894650177978368'
+p12917
+S'Not Relevant'
+p12918
+sS'592703613430059008'
+p12919
+S'Not Relevant'
+p12920
+sS'592747743233384449'
+p12921
+S'Not Relevant'
+p12922
+sS'592809325736890368'
+p12923
+S'Not Relevant'
+p12924
+sS'592633985454317568'
+p12925
+S'Not Relevant'
+p12926
+sS'592157514386378752'
+p12927
+S'Not Relevant'
+p12928
+sS'592799362239045634'
+p12929
+S'Not Relevant'
+p12930
+sS'592835034903613440'
+p12931
+S'Not Relevant'
+p12932
+sS'592849879875067905'
+p12933
+S'Other Relevant Information'
+p12934
+sS'591906033276035073'
+p12935
+S'Other relevant information'
+p12936
+sS'592700961459720192'
+p12937
+S'Not Relevant'
+p12938
+sS'592637452331843584'
+p12939
+S'Not Relevant'
+p12940
+sS'592647106977861632'
+p12941
+S'Not Relevant'
+p12942
+sS'592643953402335232'
+p12943
+S'Not Relevant'
+p12944
+sS'592750058321354752'
+p12945
+S'Not Relevant'
+p12946
+sS'592628142050709504'
+p12947
+S'Not Relevant'
+p12948
+sS'592685291372212224'
+p12949
+S'Response Efforts'
+p12950
+sS'591907150252748800'
+p12951
+S'Other relevant information'
+p12952
+sS'592765807030968320'
+p12953
+S'Not Relevant'
+p12954
+sS'592908603268460544'
+p12955
+S'Not Relevant'
+p12956
+sS'592719674506252288'
+p12957
+S'Not Relevant'
+p12958
+sS'592719949539504129'
+p12959
+S'Not Relevant'
+p12960
+sS'592156274143301632'
+p12961
+S'Not Relevant'
+p12962
+sS'592590239597666304'
+p12963
+S'Not Relevant'
+p12964
+sS'592622097416884224'
+p12965
+S'Response Efforts'
+p12966
+sS'592086706469228544'
+p12967
+S'Other relevant information'
+p12968
+sS'592801303081914369'
+p12969
+S'Not Relevant'
+p12970
+sS'592807819612684289'
+p12971
+S'Infrastructure Damage'
+p12972
+sS'592686191272656896'
+p12973
+S'Not Relevant'
+p12974
+sS'593034102825164800'
+p12975
+S'Not Relevant'
+p12976
+sS'592654420304867328'
+p12977
+S'Not Relevant'
+p12978
+sS'592640632339828736'
+p12979
+S'Urgent Needs'
+p12980
+sS'592954957810245633'
+p12981
+S'Not Relevant'
+p12982
+sS'592908337194336257'
+p12983
+S'Not Relevant'
+p12984
+sS'592652829564735488'
+p12985
+S'Not Relevant'
+p12986
+sS'592945218380439552'
+p12987
+S'Not Relevant'
+p12988
+sS'592740079543652354'
+p12989
+S'Not Relevant'
+p12990
+sS'592703493665882112'
+p12991
+S'Response Efforts'
+p12992
+sS'593223880854130688'
+p12993
+S'Urgent Needs'
+p12994
+sS'592704306849161220'
+p12995
+S'Response Efforts'
+p12996
+sS'592982906349453312'
+p12997
+S'Not Relevant'
+p12998
+sS'592988884222382082'
+p12999
+S'Other Relevant Information'
+p13000
+sS'592689289084952576'
+p13001
+S'Not Relevant'
+p13002
+sS'592863994374967297'
+p13003
+S'Not Relevant'
+p13004
+sS'592592624600645632'
+p13005
+S'Not Relevant'
+p13006
+sS'591921835408793600'
+p13007
+S'Sympathy and emotional support'
+p13008
+sS'592200518010699776'
+p13009
+S'Other Relevant Information'
+p13010
+sS'592592624109785088'
+p13011
+S'Response Efforts'
+p13012
+sS'593009070363119616'
+p13013
+S'Not Relevant'
+p13014
+sS'592766368480632832'
+p13015
+S'Not Relevant'
+p13016
+sS'592590779446603778'
+p13017
+S'Response Efforts'
+p13018
+sS'592819815024357378'
+p13019
+S'Urgent Needs'
+p13020
+sS'592975118067830784'
+p13021
+S'Response Efforts'
+p13022
+sS'592592711133212672'
+p13023
+S'Not Relevant'
+p13024
+sS'592836365362012160'
+p13025
+S'Other Relevant Information'
+p13026
+sS'592785425565122562'
+p13027
+S'Not Relevant'
+p13028
+sS'592906241048977409'
+p13029
+S'Not Relevant'
+p13030
+sS'592593658437701632'
+p13031
+S'Not Relevant'
+p13032
+sS'592753297653661696'
+p13033
+S'Not Relevant'
+p13034
+sS'593149030051356672'
+p13035
+S'Not Relevant'
+p13036
+sS'592732405859000322'
+p13037
+S'Other Relevant Information'
+p13038
+sS'592591076340473856'
+p13039
+S'Other Relevant Information'
+p13040
+sS'592818711054123009'
+p13041
+S'Not Relevant'
+p13042
+sS'593208583191420929'
+p13043
+S'Response Efforts'
+p13044
+sS'592958451841536000'
+p13045
+S'Not Relevant'
+p13046
+sS'592930120291241984'
+p13047
+S'Not Relevant'
+p13048
+sS'592167864292913152'
+p13049
+S'Other Relevant Information'
+p13050
+sS'592742899227435009'
+p13051
+S'Not Relevant'
+p13052
+sS'592642102602895360'
+p13053
+S'Not Relevant'
+p13054
+sS'593165616309215232'
+p13055
+S'Not Relevant'
+p13056
+sS'592644151939825665'
+p13057
+S'Not Relevant'
+p13058
+sS'591981422732308481'
+p13059
+S'Other relevant information'
+p13060
+sS'591918388659654656'
+p13061
+S'Sympathy and emotional support'
+p13062
+sS'592828048380194816'
+p13063
+S'Not Relevant'
+p13064
+sS'592919486849622017'
+p13065
+S'Not Relevant'
+p13066
+sS'592076632237559808'
+p13067
+S'Other relevant information'
+p13068
+sS'592594799607226368'
+p13069
+S'Not Relevant'
+p13070
+sS'592164802635530241'
+p13071
+S'Not Relevant'
+p13072
+sS'592086419440537600'
+p13073
+S'Sympathy and emotional support'
+p13074
+sS'593013537624104961'
+p13075
+S'Not Relevant'
+p13076
+sS'593018840428224512'
+p13077
+S'Response Efforts'
+p13078
+sS'592592468857593856'
+p13079
+S'Not Relevant'
+p13080
+sS'592750401071542274'
+p13081
+S'Not Relevant'
+p13082
+sS'592083763292692480'
+p13083
+S'Sympathy and emotional support'
+p13084
+sS'592590692326580225'
+p13085
+S'Not Relevant'
+p13086
+sS'592592469549830145'
+p13087
+S'Other Relevant Information'
+p13088
+sS'592997531732340736'
+p13089
+S'Response Efforts'
+p13090
+sS'593260209910521856'
+p13091
+S'Not Relevant'
+p13092
+sS'591962845111160833'
+p13093
+S'Sympathy and emotional support'
+p13094
+sS'592757755372544002'
+p13095
+S'Not Relevant'
+p13096
+sS'592629441051893761'
+p13097
+S'Response Efforts'
+p13098
+sS'593027192872833024'
+p13099
+S'Not Relevant'
+p13100
+sS'592793464951152640'
+p13101
+S'Not Relevant'
+p13102
+sS'593217966583472128'
+p13103
+S'Response Efforts'
+p13104
+sS'592642072659755008'
+p13105
+S'Not Relevant'
+p13106
+sS'592590940813930496'
+p13107
+S'Not Relevant'
+p13108
+sS'592201234393640960'
+p13109
+S'Not Relevant'
+p13110
+sS'592873347647709185'
+p13111
+S'Not Relevant'
+p13112
+sS'593148050157268992'
+p13113
+S'Not Relevant'
+p13114
+sS'592707444595392513'
+p13115
+S'Not Relevant'
+p13116
+sS'592835220895866881'
+p13117
+S'Response Efforts'
+p13118
+sS'593253216848093184'
+p13119
+S'Not Relevant'
+p13120
+sS'591910288510812160'
+p13121
+S'Injured or dead people'
+p13122
+sS'592861512320024576'
+p13123
+S'Other Relevant Information'
+p13124
+sS'592589309217116160'
+p13125
+S'Not Relevant'
+p13126
+sS'592893859555897346'
+p13127
+S'Not Relevant'
+p13128
+sS'592593931214290946'
+p13129
+S'Not Relevant'
+p13130
+sS'591979908982673408'
+p13131
+S'Other relevant information'
+p13132
+sS'592663963546050562'
+p13133
+S'Not Relevant'
+p13134
+sS'592800046149697537'
+p13135
+S'Response Efforts'
+p13136
+sS'591907293014466561'
+p13137
+S'Not related or irrelevant'
+p13138
+sS'591911005342404608'
+p13139
+S'Sympathy and emotional support'
+p13140
+sS'592720199813595136'
+p13141
+S'Not Relevant'
+p13142
+sS'593158600433872897'
+p13143
+S'Infrastructure Damage'
+p13144
+sS'592794858403831810'
+p13145
+S'Not Relevant'
+p13146
+sS'593045537642917888'
+p13147
+S'Not Relevant'
+p13148
+sS'592815296479649794'
+p13149
+S'Not Relevant'
+p13150
+sS'592175996415053824'
+p13151
+S'Not Relevant'
+p13152
+sS'592592750543032321'
+p13153
+S'Not Relevant'
+p13154
+sS'592812831331979264'
+p13155
+S'Not Relevant'
+p13156
+sS'592688100247281664'
+p13157
+S'Not Relevant'
+p13158
+sS'592592559467200512'
+p13159
+S'Not Relevant'
+p13160
+sS'593033981764898816'
+p13161
+S'Not Relevant'
+p13162
+sS'592720203013840898'
+p13163
+S'Not Relevant'
+p13164
+sS'592070592456601601'
+p13165
+S'Not related or irrelevant'
+p13166
+sS'592603190836776960'
+p13167
+S'Not Relevant'
+p13168
+sS'592589902346203136'
+p13169
+S'Not Relevant'
+p13170
+sS'592959784409636864'
+p13171
+S'Not Relevant'
+p13172
+sS'592749218776928256'
+p13173
+S'Not Relevant'
+p13174
+sS'593039749599731712'
+p13175
+S'Not Relevant'
+p13176
+sS'592636190328651776'
+p13177
+S'Other Relevant Information'
+p13178
+sS'592948298585133056'
+p13179
+S'Not Relevant'
+p13180
+sS'592868240533127168'
+p13181
+S'Not Relevant'
+p13182
+sS'593025858585161728'
+p13183
+S'Not Relevant'
+p13184
+sS'592084508423270400'
+p13185
+S'Other relevant information'
+p13186
+sS'592827619277692929'
+p13187
+S'Not Relevant'
+p13188
+sS'592594056938528771'
+p13189
+S'Not Relevant'
+p13190
+sS'592913816528130049'
+p13191
+S'Not Relevant'
+p13192
+sS'592589430394736640'
+p13193
+S'Not Relevant'
+p13194
+sS'592706818104766464'
+p13195
+S'Response Efforts'
+p13196
+sS'591962531159252992'
+p13197
+S'Sympathy and emotional support'
+p13198
+sS'592833844656676864'
+p13199
+S'Urgent Needs'
+p13200
+sS'592182483346542592'
+p13201
+S'Not Relevant'
+p13202
+sS'592802991910088705'
+p13203
+S'Not Relevant'
+p13204
+sS'592638536286797824'
+p13205
+S'Not Relevant'
+p13206
+sS'592659132789952513'
+p13207
+S'Not Relevant'
+p13208
+sS'592646232549515264'
+p13209
+S'Other Relevant Information'
+p13210
+sS'592633097264304129'
+p13211
+S'Infrastructure Damage'
+p13212
+sS'592656077352730624'
+p13213
+S'Response Efforts'
+p13214
+sS'592755848532885504'
+p13215
+S'Not Relevant'
+p13216
+sS'592068622249394177'
+p13217
+S'"Missing'
+p13218
+sS'592173860935507968'
+p13219
+S'Not Relevant'
+p13220
+sS'593014444256403456'
+p13221
+S'Not Relevant'
+p13222
+sS'592629150302674944'
+p13223
+S'Not Relevant'
+p13224
+sS'592735446259671040'
+p13225
+S'Not Relevant'
+p13226
+sS'592709049109639168'
+p13227
+S'Not Relevant'
+p13228
+sS'591915506094866432'
+p13229
+S'Sympathy and emotional support'
+p13230
+sS'592931696636473344'
+p13231
+S'Response Efforts'
+p13232
+sS'592696837078970371'
+p13233
+S'Not Relevant'
+p13234
+sS'592991235524038656'
+p13235
+S'Not Relevant'
+p13236
+sS'592787867073683457'
+p13237
+S'Other Relevant Information'
+p13238
+sS'592755038369554433'
+p13239
+S'Not Relevant'
+p13240
+sS'592631202349191168'
+p13241
+S'Not Relevant'
+p13242
+sS'592737283171864576'
+p13243
+S'Not Relevant'
+p13244
+sS'592632279802871808'
+p13245
+S'Not Relevant'
+p13246
+sS'593180406301634560'
+p13247
+S'Not Relevant'
+p13248
+sS'592668140837961728'
+p13249
+S'Not Relevant'
+p13250
+sS'592902766277853184'
+p13251
+S'Not Relevant'
+p13252
+sS'593013505210470401'
+p13253
+S'Not Relevant'
+p13254
+sS'592878392107728898'
+p13255
+S'Not Relevant'
+p13256
+sS'592701497827336192'
+p13257
+S'Response Efforts'
+p13258
+sS'592820764530876416'
+p13259
+S'Not Relevant'
+p13260
+sS'592835015165247488'
+p13261
+S'Not Relevant'
+p13262
+sS'592820698147590144'
+p13263
+S'Response Efforts'
+p13264
+sS'592731375872188417'
+p13265
+S'Not Relevant'
+p13266
+sS'592076434753122304'
+p13267
+S'Not related or irrelevant'
+p13268
+sS'592672272072253441'
+p13269
+S'Response Efforts'
+p13270
+sS'592626381302935553'
+p13271
+S'Not Relevant'
+p13272
+sS'592593632277843968'
+p13273
+S'Not Relevant'
+p13274
+sS'592936897439203329'
+p13275
+S'Not Relevant'
+p13276
+sS'592823881410412545'
+p13277
+S'Not Relevant'
+p13278
+sS'592084963857702912'
+p13279
+S'Other Relevant Information'
+p13280
+sS'591976370441420802'
+p13281
+S'Sympathy and emotional support'
+p13282
+sS'592599791810400256'
+p13283
+S'Urgent Needs'
+p13284
+sS'592588983294664704'
+p13285
+S'Not Relevant'
+p13286
+sS'592626953473171456'
+p13287
+S'Not Relevant'
+p13288
+sS'592943965365805056'
+p13289
+S'Not Relevant'
+p13290
+sS'592788604507856896'
+p13291
+S'Not Relevant'
+p13292
+sS'592878903976394752'
+p13293
+S'Not Relevant'
+p13294
+sS'593195286194970626'
+p13295
+S'Not Relevant'
+p13296
+sS'592592026849386496'
+p13297
+S'Not Relevant'
+p13298
+sS'593261221912055810'
+p13299
+S'Other Relevant Information'
+p13300
+sS'592071713124261888'
+p13301
+S'"Missing'
+p13302
+sS'592592136865984513'
+p13303
+S'Other Relevant Information'
+p13304
+sS'592367653370466305'
+p13305
+S'Not Relevant'
+p13306
+sS'592790122489348096'
+p13307
+S'Not Relevant'
+p13308
+sS'592084768403030017'
+p13309
+S'Other relevant information'
+p13310
+sS'592737300687237120'
+p13311
+S'Not Relevant'
+p13312
+sS'592961877799407616'
+p13313
+S'Not Relevant'
+p13314
+sS'593048939479314432'
+p13315
+S'Not Relevant'
+p13316
+sS'592795091527462912'
+p13317
+S'Not Relevant'
+p13318
+sS'592755153058541571'
+p13319
+S'Not Relevant'
+p13320
+sS'592088205010325505'
+p13321
+S'Sympathy and emotional support'
+p13322
+sS'592607401263570944'
+p13323
+S'Not Relevant'
+p13324
+sS'593240032581849090'
+p13325
+S'Not Relevant'
+p13326
+sS'593235935153684480'
+p13327
+S'Not Relevant'
+p13328
+sS'592701686365483008'
+p13329
+S'Not Relevant'
+p13330
+sS'592649214355709952'
+p13331
+S'Not Relevant'
+p13332
+sS'592955660100206592'
+p13333
+S'Not Relevant'
+p13334
+sS'592732635731984384'
+p13335
+S'Not Relevant'
+p13336
+sS'592835229468983298'
+p13337
+S'Not Relevant'
+p13338
+sS'592592628438343680'
+p13339
+S'Other Relevant Information'
+p13340
+sS'591919727322255360'
+p13341
+S'Not related or irrelevant'
+p13342
+sS'591963617735507968'
+p13343
+S'Sympathy and emotional support'
+p13344
+sS'593219394345533443'
+p13345
+S'Not Relevant'
+p13346
+sS'592168623315156992'
+p13347
+S'Not Relevant'
+p13348
+sS'592602932794654720'
+p13349
+S'Not Relevant'
+p13350
+sS'592915972937424896'
+p13351
+S'Other Relevant Information'
+p13352
+sS'591916079007432704'
+p13353
+S'Not related or irrelevant'
+p13354
+sS'592701397218525186'
+p13355
+S'Not Relevant'
+p13356
+sS'592641105985818625'
+p13357
+S'Not Relevant'
+p13358
+sS'592087335208103936'
+p13359
+S'Sympathy and emotional support'
+p13360
+sS'592670390889119744'
+p13361
+S'Not Relevant'
+p13362
+sS'592920337676771328'
+p13363
+S'Not Relevant'
+p13364
+sS'592930325480734721'
+p13365
+S'Not Relevant'
+p13366
+sS'592825340193546240'
+p13367
+S'Not Relevant'
+p13368
+sS'591914656014344193'
+p13369
+S'Sympathy and emotional support'
+p13370
+sS'592591145441431552'
+p13371
+S'Not Relevant'
+p13372
+sS'592670477967032322'
+p13373
+S'Not Relevant'
+p13374
+sS'592593936390103040'
+p13375
+S'Not Relevant'
+p13376
+sS'592628583689916417'
+p13377
+S'Not Relevant'
+p13378
+sS'592163534697443330'
+p13379
+S'Not Relevant'
+p13380
+sS'592972203253178368'
+p13381
+S'Not Relevant'
+p13382
+sS'592631079229501440'
+p13383
+S'Response Efforts'
+p13384
+sS'592068149383573505'
+p13385
+S'Injured or dead people'
+p13386
+sS'592068902043136000'
+p13387
+S'Other relevant information'
+p13388
+sS'592160643668582401'
+p13389
+S'Not Relevant'
+p13390
+sS'592957076202131456'
+p13391
+S'Response Efforts'
+p13392
+sS'592828064519868419'
+p13393
+S'Not Relevant'
+p13394
+sS'592594259779461121'
+p13395
+S'Not Relevant'
+p13396
+sS'592592018515202048'
+p13397
+S'Not Relevant'
+p13398
+sS'592797328760766465'
+p13399
+S'Not Relevant'
+p13400
+sS'592636889691070465'
+p13401
+S'Response Efforts'
+p13402
+sS'592990211438678016'
+p13403
+S'Other Relevant Information'
+p13404
+sS'592979216267784192'
+p13405
+S'Not Relevant'
+p13406
+sS'592809741627305987'
+p13407
+S'Not Relevant'
+p13408
+sS'592783789283266560'
+p13409
+S'Not Relevant'
+p13410
+sS'592637475530608641'
+p13411
+S'Not Relevant'
+p13412
+sS'592701621580210179'
+p13413
+S'Other Relevant Information'
+p13414
+sS'592891880205111296'
+p13415
+S'Not Relevant'
+p13416
+sS'592633654733574144'
+p13417
+S'Other Relevant Information'
+p13418
+sS'592076882486677504'
+p13419
+S'Volunteer or professional services'
+p13420
+sS'592958421588119552'
+p13421
+S'Not Relevant'
+p13422
+sS'592615841746694144'
+p13423
+S'Not Relevant'
+p13424
+sS'592672388183171072'
+p13425
+S'Not Relevant'
+p13426
+sS'592658380285706241'
+p13427
+S'Response Efforts'
+p13428
+sS'592836227818217473'
+p13429
+S'Not Relevant'
+p13430
+sS'592789109283905537'
+p13431
+S'Not Relevant'
+p13432
+sS'592589932679471104'
+p13433
+S'Not Relevant'
+p13434
+sS'592609460184489984'
+p13435
+S'Urgent Needs'
+p13436
+sS'592596851779575809'
+p13437
+S'Not Relevant'
+p13438
+sS'592633384687435776'
+p13439
+S'Not Relevant'
+p13440
+sS'592848626621292544'
+p13441
+S'Not Relevant'
+p13442
+sS'593254058137243648'
+p13443
+S'Not Relevant'
+p13444
+sS'592111944355557376'
+p13445
+S'Other Relevant Information'
+p13446
+sS'592155057048530944'
+p13447
+S'Not Relevant'
+p13448
+sS'592084552333565952'
+p13449
+S'Money'
+p13450
+sS'592673052716048384'
+p13451
+S'Not Relevant'
+p13452
+sS'592594739037220864'
+p13453
+S'Not Relevant'
+p13454
+sS'592896053898260481'
+p13455
+S'Not Relevant'
+p13456
+sS'591915020298096640'
+p13457
+S'Other relevant information'
+p13458
+sS'592594369091399680'
+p13459
+S'Response Efforts'
+p13460
+sS'592068824368680961'
+p13461
+S'Money'
+p13462
+sS'592940534622064640'
+p13463
+S'Not Relevant'
+p13464
+sS'592075670508982272'
+p13465
+S'Not related or irrelevant'
+p13466
+sS'592707674959122432'
+p13467
+S'Not Relevant'
+p13468
+sS'592754437975834624'
+p13469
+S'Not Relevant'
+p13470
+sS'592690424332087296'
+p13471
+S'Not Relevant'
+p13472
+sS'592164161058054144'
+p13473
+S'Response Efforts'
+p13474
+sS'592946908840103937'
+p13475
+S'Not Relevant'
+p13476
+sS'592753653871697920'
+p13477
+S'Other Relevant Information'
+p13478
+sS'592872379971416064'
+p13479
+S'Other Relevant Information'
+p13480
+sS'592133596053397504'
+p13481
+S'Other Relevant Information'
+p13482
+sS'592708668619128832'
+p13483
+S'Not Relevant'
+p13484
+sS'592885878520963074'
+p13485
+S'Not Relevant'
+p13486
+sS'591920256739909632'
+p13487
+S'Sympathy and emotional support'
+p13488
+sS'592653398949900288'
+p13489
+S'Not Relevant'
+p13490
+sS'592896935956189184'
+p13491
+S'Not Relevant'
+p13492
+sS'592767695977914371'
+p13493
+S'Response Efforts'
+p13494
+sS'593045445644931074'
+p13495
+S'Not Relevant'
+p13496
+sS'593035482843521024'
+p13497
+S'Not Relevant'
+p13498
+sS'592929517234032642'
+p13499
+S'Not Relevant'
+p13500
+sS'592720694632443904'
+p13501
+S'Not Relevant'
+p13502
+sS'592987458113003520'
+p13503
+S'Not Relevant'
+p13504
+sS'592774440888446977'
+p13505
+S'Not Relevant'
+p13506
+sS'592639216258940928'
+p13507
+S'Other Relevant Information'
+p13508
+sS'592589738336391169'
+p13509
+S'Not Relevant'
+p13510
+sS'592620213029441536'
+p13511
+S'Not Relevant'
+p13512
+sS'592720244852060160'
+p13513
+S'Not Relevant'
+p13514
+sS'592196332175003648'
+p13515
+S'Not Relevant'
+p13516
+sS'591918755069865984'
+p13517
+S'Not related or irrelevant'
+p13518
+sS'592871966039810048'
+p13519
+S'Not Relevant'
+p13520
+sS'592986137842589696'
+p13521
+S'Not Relevant'
+p13522
+sS'592618676064538624'
+p13523
+S'Not Relevant'
+p13524
+sS'592777741990305794'
+p13525
+S'Not Relevant'
+p13526
+sS'592165971684536320'
+p13527
+S'Not Relevant'
+p13528
+sS'592075281873182720'
+p13529
+S'Money'
+p13530
+sS'592794994035073024'
+p13531
+S'Not Relevant'
+p13532
+sS'592866927766327297'
+p13533
+S'Not Relevant'
+p13534
+sS'592741518483525632'
+p13535
+S'Not Relevant'
+p13536
+sS'593020333726113792'
+p13537
+S'Not Relevant'
+p13538
+sS'592182126503690240'
+p13539
+S'Not Relevant'
+p13540
+sS'592692904558239747'
+p13541
+S'Not Relevant'
+p13542
+sS'593040890400092162'
+p13543
+S'Not Relevant'
+p13544
+sS'592590108387336192'
+p13545
+S'Not Relevant'
+p13546
+sS'592162633626685441'
+p13547
+S'Not Relevant'
+p13548
+sS'592683471228772352'
+p13549
+S'Not Relevant'
+p13550
+sS'592643683188518912'
+p13551
+S'Not Relevant'
+p13552
+sS'593049553089101824'
+p13553
+S'Urgent Needs'
+p13554
+sS'593031422614503426'
+p13555
+S'Not Relevant'
+p13556
+sS'593021543438913537'
+p13557
+S'Other Relevant Information'
+p13558
+sS'591919708003299328'
+p13559
+S'Sympathy and emotional support'
+p13560
+sS'592949931003908097'
+p13561
+S'Other Relevant Information'
+p13562
+sS'592777922299191296'
+p13563
+S'Not Relevant'
+p13564
+sS'592339185710706688'
+p13565
+S'Infrastructure Damage'
+p13566
+sS'593000644736225282'
+p13567
+S'Response Efforts'
+p13568
+sS'592667596492800000'
+p13569
+S'Not Relevant'
+p13570
+sS'592981518231805952'
+p13571
+S'Response Efforts'
+p13572
+sS'592707611864244225'
+p13573
+S'Not Relevant'
+p13574
+sS'592593350236119041'
+p13575
+S'Not Relevant'
+p13576
+sS'592696374120034304'
+p13577
+S'Not Relevant'
+p13578
+sS'592178215805849600'
+p13579
+S'Not Relevant'
+p13580
+sS'592773057397321730'
+p13581
+S'Not Relevant'
+p13582
+sS'593000757730750464'
+p13583
+S'Not Relevant'
+p13584
+sS'592872568194990084'
+p13585
+S'Not Relevant'
+p13586
+sS'592938820808544256'
+p13587
+S'Not Relevant'
+p13588
+sS'592203160908898305'
+p13589
+S'Not Relevant'
+p13590
+sS'593186318173081600'
+p13591
+S'Other Relevant Information'
+p13592
+sS'593006773000220672'
+p13593
+S'Not Relevant'
+p13594
+sS'592610494827008000'
+p13595
+S'Not Relevant'
+p13596
+sS'592777914187444224'
+p13597
+S'Not Relevant'
+p13598
+sS'593257718653194240'
+p13599
+S'Not Relevant'
+p13600
+sS'592591861874724865'
+p13601
+S'Not Relevant'
+p13602
+sS'592688200088432641'
+p13603
+S'Not Relevant'
+p13604
+sS'592693093608103936'
+p13605
+S'Not Relevant'
+p13606
+sS'591919764303269889'
+p13607
+S'Sympathy and emotional support'
+p13608
+sS'592757880643842048'
+p13609
+S'Not Relevant'
+p13610
+sS'592737188518952961'
+p13611
+S'Not Relevant'
+p13612
+sS'592765658900869121'
+p13613
+S'Not Relevant'
+p13614
+sS'592278549618364416'
+p13615
+S'Not Relevant'
+p13616
+sS'592590137026052097'
+p13617
+S'Not Relevant'
+p13618
+sS'591921698397642752'
+p13619
+S'Not related or irrelevant'
+p13620
+sS'592611478420742145'
+p13621
+S'Not Relevant'
+p13622
+sS'592992311103070210'
+p13623
+S'Not Relevant'
+p13624
+sS'592737653294006273'
+p13625
+S'Not Relevant'
+p13626
+sS'592689827759415297'
+p13627
+S'Not Relevant'
+p13628
+sS'592810091411316738'
+p13629
+S'Not Relevant'
+p13630
+sS'592683844551180288'
+p13631
+S'Not Relevant'
+p13632
+sS'592705817536761856'
+p13633
+S'Not Relevant'
+p13634
+sS'592594772520345601'
+p13635
+S'Not Relevant'
+p13636
+sS'593164170239016960'
+p13637
+S'Not Relevant'
+p13638
+sS'593151131821416448'
+p13639
+S'Not Relevant'
+p13640
+sS'593212999806025728'
+p13641
+S'Not Relevant'
+p13642
+sS'592939173184729088'
+p13643
+S'Not Relevant'
+p13644
+sS'592075313221238784'
+p13645
+S'Money'
+p13646
+sS'593018816734633984'
+p13647
+S'Not Relevant'
+p13648
+sS'592601153969459200'
+p13649
+S'Not Relevant'
+p13650
+sS'592641188341100544'
+p13651
+S'Other Relevant Information'
+p13652
+sS'593006167825088513'
+p13653
+S'Not Relevant'
+p13654
+sS'592202911402184704'
+p13655
+S'Not Relevant'
+p13656
+sS'592791238643982337'
+p13657
+S'Not Relevant'
+p13658
+sS'592651636184481792'
+p13659
+S'Not Relevant'
+p13660
+sS'592072643496423424'
+p13661
+S'Sympathy and emotional support'
+p13662
+sS'592820209725091843'
+p13663
+S'Not Relevant'
+p13664
+sS'591920514915897344'
+p13665
+S'Injured or dead people'
+p13666
+sS'591911068336672768'
+p13667
+S'Sympathy and emotional support'
+p13668
+sS'593005694808297474'
+p13669
+S'Not Relevant'
+p13670
+sS'592742231443939328'
+p13671
+S'Not Relevant'
+p13672
+sS'592664902344540162'
+p13673
+S'Not Relevant'
+p13674
+sS'592073527131529217'
+p13675
+S'Other relevant information'
+p13676
+sS'592820177525469185'
+p13677
+S'Response Efforts'
+p13678
+sS'592589809417322496'
+p13679
+S'Not Relevant'
+p13680
+sS'593014804144500736'
+p13681
+S'Not Relevant'
+p13682
+sS'591904807025188864'
+p13683
+S'Sympathy and emotional support'
+p13684
+sS'592691776730857474'
+p13685
+S'Response Efforts'
+p13686
+sS'592779488255209473'
+p13687
+S'Not Relevant'
+p13688
+sS'591919663266693121'
+p13689
+S'Sympathy and emotional support'
+p13690
+sS'592154430163779584'
+p13691
+S'Response Efforts'
+p13692
+sS'592594703637303296'
+p13693
+S'Not Relevant'
+p13694
+sS'592833389398499328'
+p13695
+S'Response Efforts'
+p13696
+sS'592593265049735169'
+p13697
+S'Not Relevant'
+p13698
+sS'593214215629869056'
+p13699
+S'Not Relevant'
+p13700
+sS'592075614103863296'
+p13701
+S'Personal updates'
+p13702
+sS'592767563869847554'
+p13703
+S'Not Relevant'
+p13704
+sS'592832435588567041'
+p13705
+S'Response Efforts'
+p13706
+sS'592895111270420481'
+p13707
+S'Not Relevant'
+p13708
+sS'593219838564118528'
+p13709
+S'Not Relevant'
+p13710
+sS'592650232971677696'
+p13711
+S'Response Efforts'
+p13712
+sS'591908085070856192'
+p13713
+S'Sympathy and emotional support'
+p13714
+sS'592962724021325824'
+p13715
+S'Not Relevant'
+p13716
+sS'592759515185074178'
+p13717
+S'Not Relevant'
+p13718
+sS'592330323507191808'
+p13719
+S'Not Relevant'
+p13720
+sS'592994917544132608'
+p13721
+S'Not Relevant'
+p13722
+sS'592750236319260673'
+p13723
+S'Not Relevant'
+p13724
+sS'592592167920504832'
+p13725
+S'Not Relevant'
+p13726
+sS'591990694153031682'
+p13727
+S'Response Efforts'
+p13728
+sS'592687288435507201'
+p13729
+S'Not Relevant'
+p13730
+sS'592198176372850688'
+p13731
+S'Not Relevant'
+p13732
+sS'592955381426561024'
+p13733
+S'Not Relevant'
+p13734
+sS'593010732528107520'
+p13735
+S'Not Relevant'
+p13736
+sS'592594629238730752'
+p13737
+S'Not Relevant'
+p13738
+sS'592760100969910275'
+p13739
+S'Response Efforts'
+p13740
+sS'592862075996794881'
+p13741
+S'Not Relevant'
+p13742
+sS'592665503157657605'
+p13743
+S'Other Relevant Information'
+p13744
+sS'592658383850893313'
+p13745
+S'Not Relevant'
+p13746
+sS'592592267539517440'
+p13747
+S'Other Relevant Information'
+p13748
+sS'592739677897101312'
+p13749
+S'Not Relevant'
+p13750
+sS'592735193775091713'
+p13751
+S'Not Relevant'
+p13752
+sS'593226561471512576'
+p13753
+S'Response Efforts'
+p13754
+sS'592590917443293184'
+p13755
+S'Response Efforts'
+p13756
+sS'592802951405637633'
+p13757
+S'Not Relevant'
+p13758
+sS'593037765337550849'
+p13759
+S'Not Relevant'
+p13760
+sS'592987446603862016'
+p13761
+S'Other Relevant Information'
+p13762
+sS'592740133016834048'
+p13763
+S'Not Relevant'
+p13764
+sS'592856858815266816'
+p13765
+S'Not Relevant'
+p13766
+sS'592973949111312384'
+p13767
+S'Not Relevant'
+p13768
+sS'592846970865229826'
+p13769
+S'Other Relevant Information'
+p13770
+sS'593015078468849664'
+p13771
+S'Not Relevant'
+p13772
+sS'593181187180367872'
+p13773
+S'Not Relevant'
+p13774
+sS'593192586501869569'
+p13775
+S'Other Relevant Information'
+p13776
+sS'592166536204259331'
+p13777
+S'Urgent Needs'
+p13778
+sS'593199423192051712'
+p13779
+S'Not Relevant'
+p13780
+sS'592991886329192449'
+p13781
+S'Not Relevant'
+p13782
+sS'592201492544749568'
+p13783
+S'Response Efforts'
+p13784
+sS'593039681228410880'
+p13785
+S'Not Relevant'
+p13786
+sS'592667649328467968'
+p13787
+S'Response Efforts'
+p13788
+sS'592874375558373376'
+p13789
+S'Not Relevant'
+p13790
+sS'592954427331452928'
+p13791
+S'Not Relevant'
+p13792
+sS'592671036434440194'
+p13793
+S'Not Relevant'
+p13794
+sS'592881558073257984'
+p13795
+S'Not Relevant'
+p13796
+sS'592757176185331714'
+p13797
+S'Other Relevant Information'
+p13798
+sS'592778600312676352'
+p13799
+S'Not Relevant'
+p13800
+sS'592847334377136128'
+p13801
+S'Other Relevant Information'
+p13802
+sS'591918661360873473'
+p13803
+S'Not related or irrelevant'
+p13804
+sS'592889826275368961'
+p13805
+S'Not Relevant'
+p13806
+sS'592777311994392577'
+p13807
+S'Not Relevant'
+p13808
+sS'592750256619704322'
+p13809
+S'Not Relevant'
+p13810
+sS'592594852044410881'
+p13811
+S'Not Relevant'
+p13812
+sS'592673729152430081'
+p13813
+S'Not Relevant'
+p13814
+sS'592992547846238208'
+p13815
+S'Other Relevant Information'
+p13816
+sS'592847225589506052'
+p13817
+S'Not Relevant'
+p13818
+sS'592695585230200833'
+p13819
+S'Not Relevant'
+p13820
+sS'592639304804872192'
+p13821
+S'Not Relevant'
+p13822
+sS'592915484917436416'
+p13823
+S'Not Relevant'
+p13824
+sS'592608738135003136'
+p13825
+S'Not Relevant'
+p13826
+sS'592164550562193408'
+p13827
+S'Not Relevant'
+p13828
+sS'592791653087367170'
+p13829
+S'Response Efforts'
+p13830
+sS'592707756483858432'
+p13831
+S'Not Relevant'
+p13832
+sS'592758135145771010'
+p13833
+S'Response Efforts'
+p13834
+sS'592918099394834432'
+p13835
+S'Not Relevant'
+p13836
+sS'592073871244795905'
+p13837
+S'Sympathy and emotional support'
+p13838
+sS'592775513401389056'
+p13839
+S'Not Relevant'
+p13840
+sS'592702283588182016'
+p13841
+S'Response Efforts'
+p13842
+sS'592083115956314112'
+p13843
+S'Sympathy and emotional support'
+p13844
+sS'592906374008479746'
+p13845
+S'Not Relevant'
+p13846
+sS'592594128862466048'
+p13847
+S'Not Relevant'
+p13848
+sS'592899068277448705'
+p13849
+S'Not Relevant'
+p13850
+sS'592978650670043136'
+p13851
+S'Not Relevant'
+p13852
+sS'591918569073614848'
+p13853
+S'Sympathy and emotional support'
+p13854
+sS'592841263008845824'
+p13855
+S'Not Relevant'
+p13856
+sS'592796423743217665'
+p13857
+S'Response Efforts'
+p13858
+sS'592687579297906689'
+p13859
+S'Not Relevant'
+p13860
+sS'591914741473357824'
+p13861
+S'Sympathy and emotional support'
+p13862
+sS'593204701283393536'
+p13863
+S'Not Relevant'
+p13864
+sS'593260011977052161'
+p13865
+S'Not Relevant'
+p13866
+sS'592863446024232962'
+p13867
+S'Not Relevant'
+p13868
+sS'592591178270437376'
+p13869
+S'Other Relevant Information'
+p13870
+sS'592988996042493952'
+p13871
+S'Not Relevant'
+p13872
+sS'592696538603855872'
+p13873
+S'Not Relevant'
+p13874
+sS'592689402960306177'
+p13875
+S'Not Relevant'
+p13876
+sS'592162354995015681'
+p13877
+S'Not Relevant'
+p13878
+sS'592799369004453888'
+p13879
+S'Not Relevant'
+p13880
+sS'592163501755342848'
+p13881
+S'Not Relevant'
+p13882
+sS'592696218947563521'
+p13883
+S'Not Relevant'
+p13884
+sS'592590211617525760'
+p13885
+S'Not Relevant'
+p13886
+sS'592591154610311168'
+p13887
+S'Not Relevant'
+p13888
+sS'592709407982624771'
+p13889
+S'Not Relevant'
+p13890
+sS'593164542542278658'
+p13891
+S'Response Efforts'
+p13892
+sS'592734260588630017'
+p13893
+S'Not Relevant'
+p13894
+sS'592964823207424000'
+p13895
+S'Not Relevant'
+p13896
+sS'592621670998749184'
+p13897
+S'Not Relevant'
+p13898
+sS'592649636805877760'
+p13899
+S'Response Efforts'
+p13900
+sS'592628291804139520'
+p13901
+S'Not Relevant'
+p13902
+sS'592592386313854976'
+p13903
+S'Not Relevant'
+p13904
+sS'592594859678048256'
+p13905
+S'Not Relevant'
+p13906
+sS'592805291412062209'
+p13907
+S'Not Relevant'
+p13908
+sS'592820388784173056'
+p13909
+S'Not Relevant'
+p13910
+sS'593154352346431488'
+p13911
+S'Not Relevant'
+p13912
+sS'592986797698904064'
+p13913
+S'Not Relevant'
+p13914
+sS'592973052792692736'
+p13915
+S'Not Relevant'
+p13916
+sS'592753374765961218'
+p13917
+S'Not Relevant'
+p13918
+sS'592689653687410688'
+p13919
+S'Not Relevant'
+p13920
+sS'592822688390979585'
+p13921
+S'Not Relevant'
+p13922
+sS'592808355443388419'
+p13923
+S'Not Relevant'
+p13924
+sS'591920480505868288'
+p13925
+S'Sympathy and emotional support'
+p13926
+sS'592845899514171392'
+p13927
+S'Not Relevant'
+p13928
+sS'592838170124918785'
+p13929
+S'Not Relevant'
+p13930
+sS'592616302138658817'
+p13931
+S'Not Relevant'
+p13932
+sS'592741544286953472'
+p13933
+S'Not Relevant'
+p13934
+sS'592809533082365954'
+p13935
+S'Not Relevant'
+p13936
+sS'591904774938759168'
+p13937
+S'Not related or irrelevant'
+p13938
+sS'592800306527924225'
+p13939
+S'Not Relevant'
+p13940
+sS'592624030051639296'
+p13941
+S'Response Efforts'
+p13942
+sS'592749219225698304'
+p13943
+S'Not Relevant'
+p13944
+sS'591962870818205696'
+p13945
+S'Sympathy and emotional support'
+p13946
+sS'592069182713278465'
+p13947
+S'Not related or irrelevant'
+p13948
+sS'592866876293775361'
+p13949
+S'Not Relevant'
+p13950
+sS'592744329787088896'
+p13951
+S'Not Relevant'
+p13952
+sS'592909142949527552'
+p13953
+S'Response Efforts'
+p13954
+sS'592826024989196288'
+p13955
+S'Not Relevant'
+p13956
+sS'593218321207533568'
+p13957
+S'Response Efforts'
+p13958
+sS'593155636264763392'
+p13959
+S'Response Efforts'
+p13960
+sS'592103139672657920'
+p13961
+S'Other Relevant Information'
+p13962
+sS'592821527831248899'
+p13963
+S'Response Efforts'
+p13964
+sS'592669031376801792'
+p13965
+S'Other Relevant Information'
+p13966
+sS'592924414313902080'
+p13967
+S'Not Relevant'
+p13968
+sS'592640404152922112'
+p13969
+S'Not Relevant'
+p13970
+sS'592666171389915136'
+p13971
+S'Not Relevant'
+p13972
+sS'592310326009303042'
+p13973
+S'Not Relevant'
+p13974
+sS'592970548633821184'
+p13975
+S'Not Relevant'
+p13976
+sS'592847913925156864'
+p13977
+S'Not Relevant'
+p13978
+sS'592074956667822081'
+p13979
+S'"Missing'
+p13980
+sS'592164747698507777'
+p13981
+S'Not Relevant'
+p13982
+sS'592815810344783872'
+p13983
+S'Not Relevant'
+p13984
+sS'592198121637089280'
+p13985
+S'Not Relevant'
+p13986
+sS'592069648528580608'
+p13987
+S'Sympathy and emotional support'
+p13988
+sS'591961252173217793'
+p13989
+S'Infrastructure and utilities'
+p13990
+sS'592619147156000768'
+p13991
+S'Other Relevant Information'
+p13992
+sS'592129640740818945'
+p13993
+S'Not Relevant'
+p13994
+sS'592706237059436544'
+p13995
+S'Other Relevant Information'
+p13996
+sS'592072516908093440'
+p13997
+S'Sympathy and emotional support'
+p13998
+sS'592709944480260096'
+p13999
+S'Not Relevant'
+p14000
+sS'592839662718177280'
+p14001
+S'Not Relevant'
+p14002
+sS'591999314844454912'
+p14003
+S'Not Relevant'
+p14004
+sS'592658523701583873'
+p14005
+S'Other Relevant Information'
+p14006
+sS'592902061181775873'
+p14007
+S'Not Relevant'
+p14008
+sS'592612650476965890'
+p14009
+S'Not Relevant'
+p14010
+sS'592769143612547075'
+p14011
+S'Not Relevant'
+p14012
+sS'593155683349975040'
+p14013
+S'Not Relevant'
+p14014
+sS'592658141130686464'
+p14015
+S'Not Relevant'
+p14016
+sS'592667460769337345'
+p14017
+S'Not Relevant'
+p14018
+sS'592591653757652992'
+p14019
+S'Other Relevant Information'
+p14020
+sS'591907705998200833'
+p14021
+S'Sympathy and emotional support'
+p14022
+sS'592201373036322816'
+p14023
+S'Not Relevant'
+p14024
+sS'592591679875604481'
+p14025
+S'Response Efforts'
+p14026
+sS'592834972265934849'
+p14027
+S'Not Relevant'
+p14028
+sS'592593414790623233'
+p14029
+S'Other Relevant Information'
+p14030
+sS'591912029801197568'
+p14031
+S'Infrastructure and utilities'
+p14032
+sS'592590506548408320'
+p14033
+S'Not Relevant'
+p14034
+sS'592159409045770240'
+p14035
+S'Not Relevant'
+p14036
+sS'592694469377536000'
+p14037
+S'Not Relevant'
+p14038
+sS'593031259456204801'
+p14039
+S'Not Relevant'
+p14040
+sS'592989908911947776'
+p14041
+S'Other Relevant Information'
+p14042
+sS'592640290004971520'
+p14043
+S'Not Relevant'
+p14044
+sS'592664384108888065'
+p14045
+S'Not Relevant'
+p14046
+sS'592817550448295936'
+p14047
+S'Not Relevant'
+p14048
+sS'591906701516742658'
+p14049
+S'Sympathy and emotional support'
+p14050
+sS'592603036062625792'
+p14051
+S'Response Efforts'
+p14052
+sS'592898282617237506'
+p14053
+S'Not Relevant'
+p14054
+sS'592608789330800640'
+p14055
+S'Not Relevant'
+p14056
+sS'592589869295144961'
+p14057
+S'Not Relevant'
+p14058
+sS'592881452582313985'
+p14059
+S'Not Relevant'
+p14060
+sS'592762882581995520'
+p14061
+S'Not Relevant'
+p14062
+sS'592590205841879040'
+p14063
+S'Not Relevant'
+p14064
+sS'593043843345416192'
+p14065
+S'Not Relevant'
+p14066
+sS'592113327578423298'
+p14067
+S'Not Relevant'
+p14068
+sS'592075662996992000'
+p14069
+S'"Missing'
+p14070
+sS'592802136884412418'
+p14071
+S'Not Relevant'
+p14072
+sS'591910556535115776'
+p14073
+S'Other relevant information'
+p14074
+sS'592752421249613824'
+p14075
+S'Not Relevant'
+p14076
+sS'592834948182188032'
+p14077
+S'Not Relevant'
+p14078
+sS'592692035439702016'
+p14079
+S'Not Relevant'
+p14080
+sS'592935842013839360'
+p14081
+S'Not Relevant'
+p14082
+sS'592668529318621187'
+p14083
+S'Not Relevant'
+p14084
+sS'592951379515281408'
+p14085
+S'Other Relevant Information'
+p14086
+sS'592841355082244096'
+p14087
+S'Other Relevant Information'
+p14088
+sS'592070284951195648'
+p14089
+S'Not Relevant'
+p14090
+sS'592705571691831297'
+p14091
+S'Not Relevant'
+p14092
+sS'592670496552005632'
+p14093
+S'Not Relevant'
+p14094
+sS'592276109951131650'
+p14095
+S'Not Relevant'
+p14096
+sS'592813141442109440'
+p14097
+S'Not Relevant'
+p14098
+sS'591916203884482560'
+p14099
+S'Infrastructure and utilities'
+p14100
+sS'592073605002895360'
+p14101
+S'Personal updates'
+p14102
+sS'592889142817726466'
+p14103
+S'Not Relevant'
+p14104
+sS'592085517925101568'
+p14105
+S'Volunteer or professional services'
+p14106
+sS'592593436450037760'
+p14107
+S'Not Relevant'
+p14108
+sS'591919497579241472'
+p14109
+S'Other relevant information'
+p14110
+sS'592648153469480960'
+p14111
+S'Infrastructure Damage'
+p14112
+sS'593164487978577922'
+p14113
+S'Not Relevant'
+p14114
+sS'592593004843642880'
+p14115
+S'Response Efforts'
+p14116
+sS'593048484082757632'
+p14117
+S'Not Relevant'
+p14118
+sS'591963344610856961'
+p14119
+S'Sympathy and emotional support'
+p14120
+sS'592086997180620800'
+p14121
+S'Injured or dead people'
+p14122
+sS'592072499652886528'
+p14123
+S'Not related or irrelevant'
+p14124
+sS'593197283321217025'
+p14125
+S'Not Relevant'
+p14126
+sS'592792037918912514'
+p14127
+S'Not Relevant'
+p14128
+sS'592628538378997760'
+p14129
+S'Urgent Needs'
+p14130
+sS'593153657358581760'
+p14131
+S'Response Efforts'
+p14132
+sS'592649025024831488'
+p14133
+S'Not Relevant'
+p14134
+sS'592886205366333440'
+p14135
+S'Not Relevant'
+p14136
+sS'593204854383771648'
+p14137
+S'Not Relevant'
+p14138
+sS'592798199372480512'
+p14139
+S'Not Relevant'
+p14140
+sS'592755824784707584'
+p14141
+S'Not Relevant'
+p14142
+sS'592916287598272512'
+p14143
+S'Not Relevant'
+p14144
+sS'592073164177289216'
+p14145
+S'Caution and advice'
+p14146
+sS'592700693082984448'
+p14147
+S'Not Relevant'
+p14148
+sS'593022581214613504'
+p14149
+S'Not Relevant'
+p14150
+sS'592069865625653248'
+p14151
+S'Shelter and supplies'
+p14152
+sS'592592886807433216'
+p14153
+S'Not Relevant'
+p14154
+sS'592736491115323392'
+p14155
+S'Not Relevant'
+p14156
+sS'592083939461857281'
+p14157
+S'Sympathy and emotional support'
+p14158
+sS'592872618233040896'
+p14159
+S'Not Relevant'
+p14160
+sS'592774311263531008'
+p14161
+S'Not Relevant'
+p14162
+sS'592168724951474176'
+p14163
+S'Not Relevant'
+p14164
+sS'591963309634494464'
+p14165
+S'Sympathy and emotional support'
+p14166
+sS'591916452728340480'
+p14167
+S'Infrastructure and utilities'
+p14168
+sS'592627952266805248'
+p14169
+S'Not Relevant'
+p14170
+sS'592822425852706818'
+p14171
+S'Not Relevant'
+p14172
+sS'592685972975964161'
+p14173
+S'Not Relevant'
+p14174
+sS'592805443111624704'
+p14175
+S'Not Relevant'
+p14176
+sS'592938957119164416'
+p14177
+S'Not Relevant'
+p14178
+sS'593263000821182465'
+p14179
+S'Not Relevant'
+p14180
+sS'592917877314846720'
+p14181
+S'Not Relevant'
+p14182
+sS'592072929300512769'
+p14183
+S'Caution and advice'
+p14184
+sS'592130868598149120'
+p14185
+S'Other Relevant Information'
+p14186
+sS'592902147966140416'
+p14187
+S'Not Relevant'
+p14188
+sS'592893326275301377'
+p14189
+S'Not Relevant'
+p14190
+sS'592818161097056256'
+p14191
+S'Response Efforts'
+p14192
+sS'592740884820697088'
+p14193
+S'Not Relevant'
+p14194
+sS'592891069064486913'
+p14195
+S'Other Relevant Information'
+p14196
+sS'592644373763993600'
+p14197
+S'Not Relevant'
+p14198
+sS'592155182189776896'
+p14199
+S'Not Relevant'
+p14200
+sS'592820160257499137'
+p14201
+S'Infrastructure Damage'
+p14202
+sS'592685285839872000'
+p14203
+S'Not Relevant'
+p14204
+sS'592070689005305859'
+p14205
+S'Sympathy and emotional support'
+p14206
+sS'593199139342589953'
+p14207
+S'Not Relevant'
+p14208
+sS'593008372141596673'
+p14209
+S'Not Relevant'
+p14210
+sS'592655704231649280'
+p14211
+S'Not Relevant'
+p14212
+sS'592590839542493184'
+p14213
+S'Response Efforts'
+p14214
+sS'593011236519809024'
+p14215
+S'Not Relevant'
+p14216
+sS'592168270511222784'
+p14217
+S'Not Relevant'
+p14218
+sS'592895334034071552'
+p14219
+S'Not Relevant'
+p14220
+sS'592822769919885313'
+p14221
+S'Not Relevant'
+p14222
+sS'592818015114264577'
+p14223
+S'Not Relevant'
+p14224
+sS'592925528782295040'
+p14225
+S'Response Efforts'
+p14226
+sS'592773092541341696'
+p14227
+S'Not Relevant'
+p14228
+sS'592085633629298688'
+p14229
+S'Money'
+p14230
+sS'592640223139516416'
+p14231
+S'Not Relevant'
+p14232
+sS'592812918019911681'
+p14233
+S'Response Efforts'
+p14234
+sS'592667609528696833'
+p14235
+S'Not Relevant'
+p14236
+sS'592199604654866432'
+p14237
+S'Not Relevant'
+p14238
+sS'592339290786398209'
+p14239
+S'Other Relevant Information'
+p14240
+sS'592748560304713728'
+p14241
+S'Not Relevant'
+p14242
+sS'592878998620897282'
+p14243
+S'Urgent Needs'
+p14244
+sS'593265553441099777'
+p14245
+S'Other Relevant Information'
+p14246
+sS'592835007959474176'
+p14247
+S'Response Efforts'
+p14248
+sS'592590932039438336'
+p14249
+S'Not Relevant'
+p14250
+sS'592862113837744130'
+p14251
+S'Not Relevant'
+p14252
+sS'592636176961417217'
+p14253
+S'Infrastructure Damage'
+p14254
+sS'592601630933131264'
+p14255
+S'Not Relevant'
+p14256
+sS'591915225881935872'
+p14257
+S'Injured or dead people'
+p14258
+sS'593214176765603840'
+p14259
+S'Not Relevant'
+p14260
+sS'592671821293604866'
+p14261
+S'Not Relevant'
+p14262
+sS'592589322303320064'
+p14263
+S'Not Relevant'
+p14264
+sS'592796091407593474'
+p14265
+S'Not Relevant'
+p14266
+sS'593192980518866944'
+p14267
+S'Not Relevant'
+p14268
+sS'592160706012688384'
+p14269
+S'Not Relevant'
+p14270
+sS'592931557175906304'
+p14271
+S'Other Relevant Information'
+p14272
+sS'592815252611424256'
+p14273
+S'Other Relevant Information'
+p14274
+sS'592615846595297280'
+p14275
+S'Not Relevant'
+p14276
+sS'592068276315815936'
+p14277
+S'Volunteer or professional services'
+p14278
+sS'591919702068236289'
+p14279
+S'Sympathy and emotional support'
+p14280
+sS'592670151771828224'
+p14281
+S'Not Relevant'
+p14282
+sS'592692295713091587'
+p14283
+S'Not Relevant'
+p14284
+sS'592977036190175232'
+p14285
+S'Response Efforts'
+p14286
+sS'592658220935737344'
+p14287
+S'Response Efforts'
+p14288
+sS'592178984747675648'
+p14289
+S'Response Efforts'
+p14290
+sS'592868123927248898'
+p14291
+S'Not Relevant'
+p14292
+sS'592084807602962433'
+p14293
+S'Money'
+p14294
+sS'593024541925978114'
+p14295
+S'Not Relevant'
+p14296
+sS'591909766785605632'
+p14297
+S'Other relevant information'
+p14298
+sS'592590530120257537'
+p14299
+S'Not Relevant'
+p14300
+sS'592840056219574272'
+p14301
+S'Not Relevant'
+p14302
+sS'592088612369465344'
+p14303
+S'Injured or dead people'
+p14304
+sS'592593896263127041'
+p14305
+S'Not Relevant'
+p14306
+sS'592154312949673984'
+p14307
+S'Not Relevant'
+p14308
+sS'593229850187419649'
+p14309
+S'Not Relevant'
+p14310
+sS'592735865052463104'
+p14311
+S'Not Relevant'
+p14312
+sS'592840961169948673'
+p14313
+S'Not Relevant'
+p14314
+sS'592134132911579136'
+p14315
+S'Infrastructure Damage'
+p14316
+sS'593042007133528065'
+p14317
+S'Other Relevant Information'
+p14318
+sS'591910918088314881'
+p14319
+S'Sympathy and emotional support'
+p14320
+sS'592749596096536577'
+p14321
+S'Not Relevant'
+p14322
+sS'592637266335375360'
+p14323
+S'Response Efforts'
+p14324
+sS'593180564628189184'
+p14325
+S'Not Relevant'
+p14326
+sS'591919651271114752'
+p14327
+S'Volunteer or professional services'
+p14328
+sS'592068443186266114'
+p14329
+S'Sympathy and emotional support'
+p14330
+sS'593219556992262144'
+p14331
+S'Not Relevant'
+p14332
+sS'592076627544297475'
+p14333
+S'Money'
+p14334
+sS'592708472522809344'
+p14335
+S'Not Relevant'
+p14336
+sS'592848021936832513'
+p14337
+S'Not Relevant'
+p14338
+sS'592883762993704962'
+p14339
+S'Not Relevant'
+p14340
+sS'592071116153294850'
+p14341
+S'Sympathy and emotional support'
+p14342
+sS'592200849486520320'
+p14343
+S'Other Relevant Information'
+p14344
+sS'592835008869605376'
+p14345
+S'Other Relevant Information'
+p14346
+sS'592743029561229313'
+p14347
+S'Not Relevant'
+p14348
+sS'592591571498872833'
+p14349
+S'Not Relevant'
+p14350
+sS'592743928216035329'
+p14351
+S'Not Relevant'
+p14352
+sS'593262465313480704'
+p14353
+S'Not Relevant'
+p14354
+sS'592982998028390400'
+p14355
+S'Not Relevant'
+p14356
+sS'592184341045772288'
+p14357
+S'Response Efforts'
+p14358
+sS'592185912899084288'
+p14359
+S'Not Relevant'
+p14360
+sS'592982344300175360'
+p14361
+S'Not Relevant'
+p14362
+sS'593043153097220096'
+p14363
+S'Not Relevant'
+p14364
+sS'592859977833930752'
+p14365
+S'Not Relevant'
+p14366
+sS'592626373933420544'
+p14367
+S'Response Efforts'
+p14368
+sS'593036467644960768'
+p14369
+S'Response Efforts'
+p14370
+sS'592156258532270080'
+p14371
+S'Response Efforts'
+p14372
+sS'592670562301976579'
+p14373
+S'Not Relevant'
+p14374
+sS'592076061606879232'
+p14375
+S'Sympathy and emotional support'
+p14376
+sS'592804507819606019'
+p14377
+S'Not Relevant'
+p14378
+sS'591961332049580032'
+p14379
+S'Other relevant information'
+p14380
+sS'592590216071778304'
+p14381
+S'Not Relevant'
+p14382
+sS'592907707306369025'
+p14383
+S'Not Relevant'
+p14384
+sS'592664312432451586'
+p14385
+S'Response Efforts'
+p14386
+sS'593044736585392128'
+p14387
+S'Not Relevant'
+p14388
+sS'592590460587274240'
+p14389
+S'Not Relevant'
+p14390
+sS'592690453675401216'
+p14391
+S'Not Relevant'
+p14392
+sS'592655129930760194'
+p14393
+S'Other Relevant Information'
+p14394
+sS'593152691926208512'
+p14395
+S'Not Relevant'
+p14396
+sS'592785559849967616'
+p14397
+S'Not Relevant'
+p14398
+sS'592919305362124800'
+p14399
+S'Not Relevant'
+p14400
+sS'591962797698854912'
+p14401
+S'Not related or irrelevant'
+p14402
+sS'592796058377441280'
+p14403
+S'Not Relevant'
+p14404
+sS'592667031830421504'
+p14405
+S'Response Efforts'
+p14406
+sS'592686856350900224'
+p14407
+S'Not Relevant'
+p14408
+sS'592744532007059457'
+p14409
+S'Not Relevant'
+p14410
+sS'592594771463577600'
+p14411
+S'Urgent Needs'
+p14412
+sS'592161264845074432'
+p14413
+S'Response Efforts'
+p14414
+sS'591961441302773762'
+p14415
+S'Other relevant information'
+p14416
+sS'592914229214072832'
+p14417
+S'Not Relevant'
+p14418
+sS'592777961289490433'
+p14419
+S'Not Relevant'
+p14420
+sS'591921209681391616'
+p14421
+S'Volunteer or professional services'
+p14422
+sS'592941279505477632'
+p14423
+S'Not Relevant'
+p14424
+sS'592766292190441475'
+p14425
+S'Not Relevant'
+p14426
+sS'592593331764363265'
+p14427
+S'Response Efforts'
+p14428
+sS'592825333084205058'
+p14429
+S'Not Relevant'
+p14430
+sS'592796028736241664'
+p14431
+S'Not Relevant'
+p14432
+sS'592842733531885572'
+p14433
+S'Not Relevant'
+p14434
+sS'592893377156382722'
+p14435
+S'Not Relevant'
+p14436
+sS'592688733973041154'
+p14437
+S'Response Efforts'
+p14438
+sS'592176884919578624'
+p14439
+S'Not Relevant'
+p14440
+sS'591913587871911939'
+p14441
+S'Shelter and supplies'
+p14442
+sS'592902737643339776'
+p14443
+S'Not Relevant'
+p14444
+sS'593012194255581184'
+p14445
+S'Response Efforts'
+p14446
+sS'592623552412581889'
+p14447
+S'Not Relevant'
+p14448
+sS'592195534649069568'
+p14449
+S'Urgent Needs'
+p14450
+sS'593256149736034304'
+p14451
+S'Not Relevant'
+p14452
+sS'592799492539297792'
+p14453
+S'Not Relevant'
+p14454
+sS'592700585570361344'
+p14455
+S'Infrastructure Damage'
+p14456
+sS'592601922856554496'
+p14457
+S'Not Relevant'
+p14458
+sS'593008171133734912'
+p14459
+S'Not Relevant'
+p14460
+sS'592632191768596480'
+p14461
+S'Response Efforts'
+p14462
+sS'592998584594792449'
+p14463
+S'Not Relevant'
+p14464
+sS'592623112350490624'
+p14465
+S'Not Relevant'
+p14466
+sS'592615752747778048'
+p14467
+S'Not Relevant'
+p14468
+sS'592162891651883008'
+p14469
+S'Not Relevant'
+p14470
+sS'592949642955857920'
+p14471
+S'Infrastructure Damage'
+p14472
+sS'592592632129277952'
+p14473
+S'Other Relevant Information'
+p14474
+sS'592184278978400257'
+p14475
+S'Other Relevant Information'
+p14476
+sS'592595034580623360'
+p14477
+S'Response Efforts'
+p14478
+sS'592773309185556483'
+p14479
+S'Not Relevant'
+p14480
+sS'592692853157015554'
+p14481
+S'Not Relevant'
+p14482
+sS'592621310171283457'
+p14483
+S'Not Relevant'
+p14484
+sS'592872051125395457'
+p14485
+S'Other Relevant Information'
+p14486
+sS'591915360128872449'
+p14487
+S'"Missing'
+p14488
+sS'593236705790001152'
+p14489
+S'Not Relevant'
+p14490
+sS'592075817288638464'
+p14491
+S'Sympathy and emotional support'
+p14492
+sS'591921549046755328'
+p14493
+S'Injured or dead people'
+p14494
+sS'592592823481806848'
+p14495
+S'Not Relevant'
+p14496
+sS'591914996860203009'
+p14497
+S'Injured or dead people'
+p14498
+sS'591914839200690178'
+p14499
+S'Not related or irrelevant'
+p14500
+sS'592072270304120832'
+p14501
+S'Sympathy and emotional support'
+p14502
+sS'592646825712029698'
+p14503
+S'Other Relevant Information'
+p14504
+sS'592084584264663040'
+p14505
+S'Sympathy and emotional support'
+p14506
+sS'592741521780244480'
+p14507
+S'Not Relevant'
+p14508
+sS'592887766335234048'
+p14509
+S'Other Relevant Information'
+p14510
+sS'591912603137507328'
+p14511
+S'"Missing'
+p14512
+sS'592873453117677568'
+p14513
+S'Not Relevant'
+p14514
+sS'591918767355109376'
+p14515
+S'Sympathy and emotional support'
+p14516
+sS'592686113598382083'
+p14517
+S'Not Relevant'
+p14518
+sS'593017087003533312'
+p14519
+S'Not Relevant'
+p14520
+sS'592168632152662016'
+p14521
+S'Not Relevant'
+p14522
+sS'592070008546680834'
+p14523
+S'Not related or irrelevant'
+p14524
+sS'592937269507526656'
+p14525
+S'Not Relevant'
+p14526
+sS'592828809075924992'
+p14527
+S'Not Relevant'
+p14528
+sS'592767956955877378'
+p14529
+S'Not Relevant'
+p14530
+sS'592074926355566592'
+p14531
+S'Sympathy and emotional support'
+p14532
+sS'592085561789259777'
+p14533
+S'Not Relevant'
+p14534
+sS'592998412145926144'
+p14535
+S'Response Efforts'
+p14536
+sS'592758417422479360'
+p14537
+S'Response Efforts'
+p14538
+sS'593033554742804480'
+p14539
+S'Not Relevant'
+p14540
+sS'592839448200613888'
+p14541
+S'Not Relevant'
+p14542
+sS'592817889696194561'
+p14543
+S'Not Relevant'
+p14544
+sS'592705071638573058'
+p14545
+S'Response Efforts'
+p14546
+sS'592752217238671362'
+p14547
+S'Not Relevant'
+p14548
+sS'593008268085174272'
+p14549
+S'Not Relevant'
+p14550
+sS'592788238974193664'
+p14551
+S'Not Relevant'
+p14552
+sS'592694310497292288'
+p14553
+S'Not Relevant'
+p14554
+sS'592074958320242688'
+p14555
+S'Not related or irrelevant'
+p14556
+sS'591982981708906496'
+p14557
+S'Not related or irrelevant'
+p14558
+sS'592183683622252545'
+p14559
+S'Not Relevant'
+p14560
+sS'592672297686794240'
+p14561
+S'Not Relevant'
+p14562
+sS'592156575353032704'
+p14563
+S'Not Relevant'
+p14564
+sS'592880043254231041'
+p14565
+S'Response Efforts'
+p14566
+sS'593048022315065345'
+p14567
+S'Not Relevant'
+p14568
+sS'592720883292209156'
+p14569
+S'Not Relevant'
+p14570
+sS'592923531765096448'
+p14571
+S'Not Relevant'
+p14572
+sS'592881550611582976'
+p14573
+S'Other Relevant Information'
+p14574
+sS'592068673197727744'
+p14575
+S'Not related or irrelevant'
+p14576
+sS'592808933552685057'
+p14577
+S'Not Relevant'
+p14578
+sS'592938707575013376'
+p14579
+S'Not Relevant'
+p14580
+sS'592589408546791424'
+p14581
+S'Infrastructure Damage'
+p14582
+sS'592160560717893632'
+p14583
+S'Not Relevant'
+p14584
+sS'592898265949065216'
+p14585
+S'Not Relevant'
+p14586
+sS'591911698354872320'
+p14587
+S'Sympathy and emotional support'
+p14588
+sS'591911855339085824'
+p14589
+S'Injured or dead people'
+p14590
+sS'593158245843275777'
+p14591
+S'Not Relevant'
+p14592
+sS'592670967199113219'
+p14593
+S'Not Relevant'
+p14594
+sS'592693903863717889'
+p14595
+S'Not Relevant'
+p14596
+sS'592886580513222656'
+p14597
+S'Not Relevant'
+p14598
+sS'592592679923421184'
+p14599
+S'Response Efforts'
+p14600
+sS'592593463071277056'
+p14601
+S'Other Relevant Information'
+p14602
+sS'592633341502881792'
+p14603
+S'Other Relevant Information'
+p14604
+sS'592120432804941824'
+p14605
+S'Response Efforts'
+p14606
+sS'593159120355729408'
+p14607
+S'Not Relevant'
+p14608
+sS'592592798974545921'
+p14609
+S'Other Relevant Information'
+p14610
+sS'592765681969602562'
+p14611
+S'Other Relevant Information'
+p14612
+sS'592788749420998656'
+p14613
+S'Not Relevant'
+p14614
+sS'592673879765753857'
+p14615
+S'Not Relevant'
+p14616
+sS'592933717158465536'
+p14617
+S'Not Relevant'
+p14618
+sS'592765469645504513'
+p14619
+S'Not Relevant'
+p14620
+sS'592943806682636288'
+p14621
+S'Not Relevant'
+p14622
+sS'592146397551468544'
+p14623
+S'Not Relevant'
+p14624
+sS'593188304217997312'
+p14625
+S'Not Relevant'
+p14626
+sS'593005383267946496'
+p14627
+S'Not Relevant'
+p14628
+sS'592590828343664640'
+p14629
+S'Response Efforts'
+p14630
+sS'592902566847053824'
+p14631
+S'Not Relevant'
+p14632
+sS'592968390848815105'
+p14633
+S'Not Relevant'
+p14634
+sS'593012086705430529'
+p14635
+S'Not Relevant'
+p14636
+sS'591963542842114048'
+p14637
+S'Sympathy and emotional support'
+p14638
+sS'592866250298122242'
+p14639
+S'Not Relevant'
+p14640
+sS'592795158988595201'
+p14641
+S'Other Relevant Information'
+p14642
+sS'592161112805797888'
+p14643
+S'Not Relevant'
+p14644
+sS'592129420548284416'
+p14645
+S'Not Relevant'
+p14646
+sS'593199889300918272'
+p14647
+S'Not Relevant'
+p14648
+sS'592856768708878336'
+p14649
+S'Response Efforts'
+p14650
+sS'592629055536533505'
+p14651
+S'Response Efforts'
+p14652
+sS'592068593958854657'
+p14653
+S'Sympathy and emotional support'
+p14654
+sS'592679663744462851'
+p14655
+S'Not Relevant'
+p14656
+sS'592158934883901441'
+p14657
+S'Not Relevant'
+p14658
+sS'592592356651585537'
+p14659
+S'Not Relevant'
+p14660
+sS'592736615568711680'
+p14661
+S'Response Efforts'
+p14662
+sS'592785511116320768'
+p14663
+S'Not Relevant'
+p14664
+sS'593163593702486016'
+p14665
+S'Not Relevant'
+p14666
+sS'593195308219269120'
+p14667
+S'Not Relevant'
+p14668
+sS'593222051349078016'
+p14669
+S'Not Relevant'
+p14670
+sS'592694637044838402'
+p14671
+S'Not Relevant'
+p14672
+sS'592916738968330240'
+p14673
+S'Not Relevant'
+p14674
+sS'592072054989402112'
+p14675
+S'Other relevant information'
+p14676
+sS'592088254804955136'
+p14677
+S'Not Relevant'
+p14678
+sS'592702748858130432'
+p14679
+S'Other Relevant Information'
+p14680
+sS'592603460698177536'
+p14681
+S'Not Relevant'
+p14682
+sS'592202500435902467'
+p14683
+S'Response Efforts'
+p14684
+sS'592805116102746113'
+p14685
+S'Not Relevant'
+p14686
+sS'592911024656879616'
+p14687
+S'Not Relevant'
+p14688
+sS'592068545103720448'
+p14689
+S'Sympathy and emotional support'
+p14690
+sS'592164733316247552'
+p14691
+S'Not Relevant'
+p14692
+sS'592164643482640384'
+p14693
+S'Not Relevant'
+p14694
+sS'592086437845200896'
+p14695
+S'Personal updates'
+p14696
+sS'592628529654665216'
+p14697
+S'Not Relevant'
+p14698
+sS'592591119357054976'
+p14699
+S'Not Relevant'
+p14700
+sS'592709138729304064'
+p14701
+S'Infrastructure Damage'
+p14702
+sS'592631465948553219'
+p14703
+S'Other Relevant Information'
+p14704
+sS'593258955847020544'
+p14705
+S'Not Relevant'
+p14706
+sS'592863647816392705'
+p14707
+S'Not Relevant'
+p14708
+sS'591918436197904384'
+p14709
+S'Not related or irrelevant'
+p14710
+sS'592962556173529088'
+p14711
+S'Not Relevant'
+p14712
+sS'593164729213784065'
+p14713
+S'Not Relevant'
+p14714
+sS'592618069677068288'
+p14715
+S'Not Relevant'
+p14716
+sS'592659290168655874'
+p14717
+S'Not Relevant'
+p14718
+sS'592896192239038467'
+p14719
+S'Response Efforts'
+p14720
+sS'592594908306743296'
+p14721
+S'Response Efforts'
+p14722
+sS'592783594629758977'
+p14723
+S'Not Relevant'
+p14724
+sS'592639169249153025'
+p14725
+S'Not Relevant'
+p14726
+sS'592075285232660480'
+p14727
+S'Not related or irrelevant'
+p14728
+sS'592649925512589313'
+p14729
+S'Not Relevant'
+p14730
+sS'592813884676911104'
+p14731
+S'Response Efforts'
+p14732
+sS'592993043453595648'
+p14733
+S'Not Relevant'
+p14734
+sS'593179178008190977'
+p14735
+S'Not Relevant'
+p14736
+sS'592148666049167360'
+p14737
+S'Not Relevant'
+p14738
+sS'592951820609171458'
+p14739
+S'Not Relevant'
+p14740
+sS'592072509752680448'
+p14741
+S'Shelter and supplies'
+p14742
+sS'591918535523180545'
+p14743
+S'Infrastructure and utilities'
+p14744
+sS'592589922403491840'
+p14745
+S'Not Relevant'
+p14746
+sS'593017162874294272'
+p14747
+S'Not Relevant'
+p14748
+sS'592936358550765568'
+p14749
+S'Other Relevant Information'
+p14750
+sS'592628393503514624'
+p14751
+S'Response Efforts'
+p14752
+sS'592836132297003008'
+p14753
+S'Other Relevant Information'
+p14754
+sS'592888787635720194'
+p14755
+S'Not Relevant'
+p14756
+sS'593000835556085760'
+p14757
+S'Not Relevant'
+p14758
+sS'592164829143564288'
+p14759
+S'Not Relevant'
+p14760
+sS'593010347923083264'
+p14761
+S'Response Efforts'
+p14762
+sS'592126519314513921'
+p14763
+S'Urgent Needs'
+p14764
+sS'592593037106098177'
+p14765
+S'Not Relevant'
+p14766
+sS'592775933473480704'
+p14767
+S'Response Efforts'
+p14768
+sS'592076489971113984'
+p14769
+S'Money'
+p14770
+sS'592778033154629633'
+p14771
+S'Not Relevant'
+p14772
+sS'593256019913887744'
+p14773
+S'Not Relevant'
+p14774
+sS'591917639850655744'
+p14775
+S'Sympathy and emotional support'
+p14776
+sS'592754628258897921'
+p14777
+S'Response Efforts'
+p14778
+sS'592981912228007936'
+p14779
+S'Not Relevant'
+p14780
+sS'592806132277706752'
+p14781
+S'Not Relevant'
+p14782
+sS'592592563103666177'
+p14783
+S'Not Relevant'
+p14784
+sS'592696013317677057'
+p14785
+S'Response Efforts'
+p14786
+sS'592814540884156416'
+p14787
+S'Urgent Needs'
+p14788
+sS'592637907803897858'
+p14789
+S'Response Efforts'
+p14790
+sS'592637187323252736'
+p14791
+S'Other Relevant Information'
+p14792
+sS'592812980561170432'
+p14793
+S'Not Relevant'
+p14794
+sS'592921261182984192'
+p14795
+S'Not Relevant'
+p14796
+sS'593147656588939264'
+p14797
+S'Not Relevant'
+p14798
+sS'591917422401073152'
+p14799
+S'Other relevant information'
+p14800
+sS'592741609147609088'
+p14801
+S'Not Relevant'
+p14802
+sS'592341599742484481'
+p14803
+S'Not Relevant'
+p14804
+sS'592592607479353344'
+p14805
+S'Other Relevant Information'
+p14806
+sS'592746749514612737'
+p14807
+S'Not Relevant'
+p14808
+sS'593227391893307392'
+p14809
+S'Not Relevant'
+p14810
+sS'592759674874789888'
+p14811
+S'Infrastructure Damage'
+p14812
+sS'593033978145300480'
+p14813
+S'Not Relevant'
+p14814
+sS'592593702083817472'
+p14815
+S'Not Relevant'
+p14816
+sS'591918704595636224'
+p14817
+S'Sympathy and emotional support'
+p14818
+sS'592671752947408896'
+p14819
+S'Not Relevant'
+p14820
+sS'593155077306654720'
+p14821
+S'Other Relevant Information'
+p14822
+sS'592917313072029696'
+p14823
+S'Not Relevant'
+p14824
+sS'592645692675461120'
+p14825
+S'Not Relevant'
+p14826
+sS'592683740951875585'
+p14827
+S'Response Efforts'
+p14828
+sS'592696353165303809'
+p14829
+S'Not Relevant'
+p14830
+sS'592945613655781376'
+p14831
+S'Not Relevant'
+p14832
+sS'592178387814252544'
+p14833
+S'Response Efforts'
+p14834
+sS'592682166573740032'
+p14835
+S'Response Efforts'
+p14836
+sS'592075125857595393'
+p14837
+S'Not related or irrelevant'
+p14838
+sS'592599340558000128'
+p14839
+S'Not Relevant'
+p14840
+sS'593230457577213952'
+p14841
+S'Other Relevant Information'
+p14842
+sS'591906327770836992'
+p14843
+S'Sympathy and emotional support'
+p14844
+sS'592999282657107968'
+p14845
+S'Not Relevant'
+p14846
+sS'592671527570690048'
+p14847
+S'Not Relevant'
+p14848
+sS'592796089427824640'
+p14849
+S'Not Relevant'
+p14850
+sS'592802796874915840'
+p14851
+S'Not Relevant'
+p14852
+sS'593205371596054528'
+p14853
+S'Not Relevant'
+p14854
+sS'592068124708569088'
+p14855
+S'Volunteer or professional services'
+p14856
+sS'592673347286245377'
+p14857
+S'Not Relevant'
+p14858
+sS'592609732881457152'
+p14859
+S'Not Relevant'
+p14860
+sS'592089267284746240'
+p14861
+S'Other relevant information'
+p14862
+sS'592842658739003393'
+p14863
+S'Not Relevant'
+p14864
+sS'592914923279253505'
+p14865
+S'Not Relevant'
+p14866
+sS'592696664206516224'
+p14867
+S'Other Relevant Information'
+p14868
+sS'592686848025198595'
+p14869
+S'Not Relevant'
+p14870
+sS'592918165258047488'
+p14871
+S'Response Efforts'
+p14872
+sS'592200323055427585'
+p14873
+S'Other Relevant Information'
+p14874
+sS'592070392572997632'
+p14875
+S'Sympathy and emotional support'
+p14876
+sS'592980096975253504'
+p14877
+S'Other Relevant Information'
+p14878
+sS'592157326313828353'
+p14879
+S'Not Relevant'
+p14880
+sS'592639739162927104'
+p14881
+S'Response Efforts'
+p14882
+sS'592742798899736576'
+p14883
+S'Not Relevant'
+p14884
+sS'592074217287327744'
+p14885
+S'Sympathy and emotional support'
+p14886
+sS'592072795577667584'
+p14887
+S'Other relevant information'
+p14888
+sS'592934266759213056'
+p14889
+S'Not Relevant'
+p14890
+sS'592084589964845056'
+p14891
+S'Sympathy and emotional support'
+p14892
+sS'592964016378621952'
+p14893
+S'Not Relevant'
+p14894
+sS'592620817134985216'
+p14895
+S'Response Efforts'
+p14896
+sS'593031395955445760'
+p14897
+S'Not Relevant'
+p14898
+sS'591906128654565376'
+p14899
+S'Other relevant information'
+p14900
+sS'592143027633655808'
+p14901
+S'Not Relevant'
+p14902
+sS'592070279746170880'
+p14903
+S'Sympathy and emotional support'
+p14904
+sS'592872360241438723'
+p14905
+S'Not Relevant'
+p14906
+sS'593032972330078209'
+p14907
+S'Not Relevant'
+p14908
+sS'593035879662297089'
+p14909
+S'Not Relevant'
+p14910
+sS'592180793914429440'
+p14911
+S'Not Relevant'
+p14912
+sS'592783251766419458'
+p14913
+S'Not Relevant'
+p14914
+sS'592593677157007360'
+p14915
+S'Not Relevant'
+p14916
+sS'592075749802258432'
+p14917
+S'Money'
+p14918
+sS'591993375299010560'
+p14919
+S'Not Relevant'
+p14920
+sS'591919256658440192'
+p14921
+S'Sympathy and emotional support'
+p14922
+sS'592984721899982848'
+p14923
+S'Not Relevant'
+p14924
+sS'592692430203400192'
+p14925
+S'Other Relevant Information'
+p14926
+sS'592594967127797760'
+p14927
+S'Other Relevant Information'
+p14928
+sS'592738153133436930'
+p14929
+S'Not Relevant'
+p14930
+sS'592637194168344576'
+p14931
+S'Response Efforts'
+p14932
+sS'592592880864104448'
+p14933
+S'Not Relevant'
+p14934
+sS'592622650385661952'
+p14935
+S'Other Relevant Information'
+p14936
+sS'591905456597106689'
+p14937
+S'Sympathy and emotional support'
+p14938
+sS'592693256766521346'
+p14939
+S'Not Relevant'
+p14940
+sS'593245626466459648'
+p14941
+S'Not Relevant'
+p14942
+sS'592848123053080576'
+p14943
+S'Not Relevant'
+p14944
+sS'592792737814081536'
+p14945
+S'Not Relevant'
+p14946
+sS'592633001583906817'
+p14947
+S'Response Efforts'
+p14948
+sS'592682705814482949'
+p14949
+S'Urgent Needs'
+p14950
+sS'592591594886410240'
+p14951
+S'Response Efforts'
+p14952
+sS'593230773022543872'
+p14953
+S'Not Relevant'
+p14954
+sS'593241358082641920'
+p14955
+S'Not Relevant'
+p14956
+sS'592634269488451586'
+p14957
+S'Not Relevant'
+p14958
+sS'592647484855459840'
+p14959
+S'Response Efforts'
+p14960
+sS'592590134182281216'
+p14961
+S'Not Relevant'
+p14962
+sS'592746227600596993'
+p14963
+S'Not Relevant'
+p14964
+sS'593039525129166848'
+p14965
+S'Not Relevant'
+p14966
+sS'593004763563761664'
+p14967
+S'Not Relevant'
+p14968
+sS'592084590963073026'
+p14969
+S'Other relevant information'
+p14970
+sS'592741648402128898'
+p14971
+S'Not Relevant'
+p14972
+sS'592591865343442944'
+p14973
+S'Not Relevant'
+p14974
+sS'592749534142423041'
+p14975
+S'Not Relevant'
+p14976
+sS'592780021137309697'
+p14977
+S'Not Relevant'
+p14978
+sS'592593758085984258'
+p14979
+S'Not Relevant'
+p14980
+sS'593250449274183680'
+p14981
+S'Not Relevant'
+p14982
+sS'592995568085000193'
+p14983
+S'Not Relevant'
+p14984
+sS'592638747172335616'
+p14985
+S'Not Relevant'
+p14986
+sS'592181342269407232'
+p14987
+S'Not Relevant'
+p14988
+sS'592773394195681281'
+p14989
+S'Not Relevant'
+p14990
+sS'591962873934417920'
+p14991
+S'Sympathy and emotional support'
+p14992
+sS'592616826586079232'
+p14993
+S'Not Relevant'
+p14994
+sS'592877371407097856'
+p14995
+S'Not Relevant'
+p14996
+sS'593252164920844288'
+p14997
+S'Not Relevant'
+p14998
+sS'592758988778897409'
+p14999
+S'Not Relevant'
+p15000
+sS'592692773972779010'
+p15001
+S'Not Relevant'
+p15002
+sS'592075728369225728'
+p15003
+S'Sympathy and emotional support'
+p15004
+sS'592897538170220547'
+p15005
+S'Not Relevant'
+p15006
+sS'592705875447537664'
+p15007
+S'Other Relevant Information'
+p15008
+sS'592755713665060864'
+p15009
+S'Not Relevant'
+p15010
+sS'591919444319961088'
+p15011
+S'Other relevant information'
+p15012
+sS'592794248208097280'
+p15013
+S'Not Relevant'
+p15014
+sS'592693876009369601'
+p15015
+S'Not Relevant'
+p15016
+sS'592795281772703745'
+p15017
+S'Other Relevant Information'
+p15018
+sS'592658270067777536'
+p15019
+S'Not Relevant'
+p15020
+sS'591920012648144896'
+p15021
+S'Other relevant information'
+p15022
+sS'592590774283276288'
+p15023
+S'Not Relevant'
+p15024
+sS'592985132274946049'
+p15025
+S'Not Relevant'
+p15026
+sS'591992484298756096'
+p15027
+S'Not Relevant'
+p15028
+sS'592636620202967040'
+p15029
+S'Infrastructure Damage'
+p15030
+sS'591910678551666688'
+p15031
+S'Injured or dead people'
+p15032
+sS'592289564581961729'
+p15033
+S'Not Relevant'
+p15034
+sS'592155966113611776'
+p15035
+S'Not Relevant'
+p15036
+sS'592683644000575493'
+p15037
+S'Not Relevant'
+p15038
+sS'592689803612786688'
+p15039
+S'Not Relevant'
+p15040
+sS'591995294767816706'
+p15041
+S'Not Relevant'
+p15042
+sS'592085622271148033'
+p15043
+S'Other relevant information'
+p15044
+sS'592780315741036544'
+p15045
+S'Other Relevant Information'
+p15046
+sS'592606465992429568'
+p15047
+S'Not Relevant'
+p15048
+sS'592070669724160000'
+p15049
+S'Sympathy and emotional support'
+p15050
+sS'593017149666369537'
+p15051
+S'Not Relevant'
+p15052
+sS'592998067093123072'
+p15053
+S'Response Efforts'
+p15054
+sS'592930920300064768'
+p15055
+S'Not Relevant'
+p15056
+sS'592594246936428544'
+p15057
+S'Other Relevant Information'
+p15058
+sS'592165931545034752'
+p15059
+S'Not Relevant'
+p15060
+sS'592591120653234176'
+p15061
+S'Not Relevant'
+p15062
+sS'592758010017161217'
+p15063
+S'Not Relevant'
+p15064
+sS'592165369005142017'
+p15065
+S'Not Relevant'
+p15066
+sS'592705609356677122'
+p15067
+S'Response Efforts'
+p15068
+sS'592590482036764672'
+p15069
+S'Not Relevant'
+p15070
+sS'592814432918568961'
+p15071
+S'Not Relevant'
+p15072
+sS'592938702688493568'
+p15073
+S'Response Efforts'
+p15074
+sS'592685898698993664'
+p15075
+S'Not Relevant'
+p15076
+sS'592198274766934016'
+p15077
+S'Not Relevant'
+p15078
+sS'592621889111072768'
+p15079
+S'Not Relevant'
+p15080
+sS'591911577550516224'
+p15081
+S'Sympathy and emotional support'
+p15082
+sS'592952667002908673'
+p15083
+S'Not Relevant'
+p15084
+sS'592747577474441217'
+p15085
+S'Not Relevant'
+p15086
+sS'592865198362468352'
+p15087
+S'Not Relevant'
+p15088
+sS'592591512711667713'
+p15089
+S'Not Relevant'
+p15090
+sS'591962476561969152'
+p15091
+S'Sympathy and emotional support'
+p15092
+sS'592732901554442241'
+p15093
+S'Not Relevant'
+p15094
+sS'592814967264509954'
+p15095
+S'Not Relevant'
+p15096
+sS'592614366660300802'
+p15097
+S'Response Efforts'
+p15098
+sS'592911753526308864'
+p15099
+S'Response Efforts'
+p15100
+sS'592736916631617536'
+p15101
+S'Not Relevant'
+p15102
+sS'592743048209108993'
+p15103
+S'Not Relevant'
+p15104
+sS'592596925058293760'
+p15105
+S'Response Efforts'
+p15106
+sS'592075984662339584'
+p15107
+S'Not related or irrelevant'
+p15108
+sS'591913655886831617'
+p15109
+S'Not related or irrelevant'
+p15110
+sS'592909739031396355'
+p15111
+S'Not Relevant'
+p15112
+sS'592871991532728322'
+p15113
+S'Not Relevant'
+p15114
+sS'591918661025341440'
+p15115
+S'Not related or irrelevant'
+p15116
+sS'591915519084625921'
+p15117
+S'Volunteer or professional services'
+p15118
+sS'592606388209094656'
+p15119
+S'Response Efforts'
+p15120
+sS'592593366526734337'
+p15121
+S'Not Relevant'
+p15122
+sS'592591200307130368'
+p15123
+S'Not Relevant'
+p15124
+sS'592073692819120129'
+p15125
+S'Volunteer or professional services'
+p15126
+sS'592593456603799552'
+p15127
+S'Not Relevant'
+p15128
+sS'592736330871926790'
+p15129
+S'Not Relevant'
+p15130
+sS'593177855959429121'
+p15131
+S'Not Relevant'
+p15132
+sS'592088795274616832'
+p15133
+S'Response Efforts'
+p15134
+sS'592654451837693953'
+p15135
+S'Not Relevant'
+p15136
+sS'592625763263840256'
+p15137
+S'Not Relevant'
+p15138
+sS'592869683977723904'
+p15139
+S'Not Relevant'
+p15140
+sS'592179432544083968'
+p15141
+S'Response Efforts'
+p15142
+sS'591912821870301186'
+p15143
+S'Other relevant information'
+p15144
+sS'592942835877474305'
+p15145
+S'Other Relevant Information'
+p15146
+sS'592786430721708033'
+p15147
+S'Not Relevant'
+p15148
+sS'592591842933243904'
+p15149
+S'Not Relevant'
+p15150
+sS'592687921880260608'
+p15151
+S'Response Efforts'
+p15152
+sS'592708515136933888'
+p15153
+S'Not Relevant'
+p15154
+sS'592589013803872257'
+p15155
+S'Not Relevant'
+p15156
+sS'593160039105335296'
+p15157
+S'Response Efforts'
+p15158
+sS'592758662797615104'
+p15159
+S'Not Relevant'
+p15160
+sS'592644472158101505'
+p15161
+S'Response Efforts'
+p15162
+sS'592961743816675328'
+p15163
+S'Not Relevant'
+p15164
+sS'592200458443345920'
+p15165
+S'Not Relevant'
+p15166
+sS'593045268821647361'
+p15167
+S'Not Relevant'
+p15168
+sS'592630851298398209'
+p15169
+S'Not Relevant'
+p15170
+sS'592936707026214912'
+p15171
+S'Not Relevant'
+p15172
+sS'592800134020333570'
+p15173
+S'Not Relevant'
+p15174
+sS'592708408467464194'
+p15175
+S'Not Relevant'
+p15176
+sS'592674002600071169'
+p15177
+S'Not Relevant'
+p15178
+sS'592155899923300353'
+p15179
+S'Not Relevant'
+p15180
+sS'592751128904884224'
+p15181
+S'Not Relevant'
+p15182
+sS'592074019567898625'
+p15183
+S'Money'
+p15184
+sS'592652229372485632'
+p15185
+S'Other Relevant Information'
+p15186
+sS'591962840489164802'
+p15187
+S'Sympathy and emotional support'
+p15188
+sS'592720561173876736'
+p15189
+S'Not Relevant'
+p15190
+sS'592998010046418944'
+p15191
+S'Not Relevant'
+p15192
+sS'592964606949085185'
+p15193
+S'Not Relevant'
+p15194
+sS'592834374531469312'
+p15195
+S'Not Relevant'
+p15196
+sS'592750598807760897'
+p15197
+S'Not Relevant'
+p15198
+sS'592668982232113152'
+p15199
+S'Not Relevant'
+p15200
+sS'592198119237947393'
+p15201
+S'Not Relevant'
+p15202
+sS'592791478256214016'
+p15203
+S'Not Relevant'
+p15204
+sS'592739324833181696'
+p15205
+S'Response Efforts'
+p15206
+sS'593031931492749312'
+p15207
+S'Not Relevant'
+p15208
+sS'593184319079849985'
+p15209
+S'Not Relevant'
+p15210
+sS'592070466245824512'
+p15211
+S'Money'
+p15212
+sS'592591127951216641'
+p15213
+S'Not Relevant'
+p15214
+sS'593000655293415424'
+p15215
+S'Not Relevant'
+p15216
+sS'592593680265019392'
+p15217
+S'Not Relevant'
+p15218
+sS'592591682618597377'
+p15219
+S'Not Relevant'
+p15220
+sS'592926615425961984'
+p15221
+S'Not Relevant'
+p15222
+sS'592594978657951744'
+p15223
+S'Not Relevant'
+p15224
+sS'592593746253971456'
+p15225
+S'Not Relevant'
+p15226
+sS'592590138514870272'
+p15227
+S'Not Relevant'
+p15228
+sS'593243206659252224'
+p15229
+S'Not Relevant'
+p15230
+sS'593260829677596672'
+p15231
+S'Not Relevant'
+p15232
+sS'592890284050120706'
+p15233
+S'Not Relevant'
+p15234
+sS'592609535270985729'
+p15235
+S'Not Relevant'
+p15236
+sS'592592999827144704'
+p15237
+S'Not Relevant'
+p15238
+sS'593015917820284928'
+p15239
+S'Not Relevant'
+p15240
+sS'592757936432226305'
+p15241
+S'Not Relevant'
+p15242
+sS'592921025916055552'
+p15243
+S'Not Relevant'
+p15244
+sS'592589013967458304'
+p15245
+S'Not Relevant'
+p15246
+sS'592599172324327424'
+p15247
+S'Not Relevant'
+p15248
+sS'592686215587110912'
+p15249
+S'Other Relevant Information'
+p15250
+sS'592847727534460933'
+p15251
+S'Other Relevant Information'
+p15252
+sS'591910323583483905'
+p15253
+S'Injured or dead people'
+p15254
+sS'592593312575524865'
+p15255
+S'Not Relevant'
+p15256
+sS'592744013104545792'
+p15257
+S'Not Relevant'
+p15258
+sS'592623748634677248'
+p15259
+S'Not Relevant'
+p15260
+sS'592932529210007552'
+p15261
+S'Urgent Needs'
+p15262
+sS'592904710706884608'
+p15263
+S'Not Relevant'
+p15264
+sS'592953584603398144'
+p15265
+S'Not Relevant'
+p15266
+sS'592652925756903424'
+p15267
+S'Response Efforts'
+p15268
+sS'591995701963390976'
+p15269
+S'Not Relevant'
+p15270
+sS'592755412530782208'
+p15271
+S'Not Relevant'
+p15272
+sS'592168019482161152'
+p15273
+S'Not Relevant'
+p15274
+sS'592762781146972161'
+p15275
+S'Not Relevant'
+p15276
+sS'592838557821177856'
+p15277
+S'Other Relevant Information'
+p15278
+sS'593020463120515072'
+p15279
+S'Not Relevant'
+p15280
+sS'591919683256721408'
+p15281
+S'Not related or irrelevant'
+p15282
+sS'592693030899097601'
+p15283
+S'Not Relevant'
+p15284
+sS'592075731217158145'
+p15285
+S'Volunteer or professional services'
+p15286
+sS'591907880552521728'
+p15287
+S'Sympathy and emotional support'
+p15288
+sS'592763777910702080'
+p15289
+S'Not Relevant'
+p15290
+sS'593010242062979073'
+p15291
+S'Not Relevant'
+p15292
+sS'592658360387907586'
+p15293
+S'Not Relevant'
+p15294
+sS'592732629281198086'
+p15295
+S'Response Efforts'
+p15296
+sS'592878381542309888'
+p15297
+S'Not Relevant'
+p15298
+sS'592803611010301952'
+p15299
+S'Response Efforts'
+p15300
+sS'592762478892814336'
+p15301
+S'Not Relevant'
+p15302
+sS'593028623000588288'
+p15303
+S'Not Relevant'
+p15304
+sS'592740933176860672'
+p15305
+S'Not Relevant'
+p15306
+sS'592592829924253696'
+p15307
+S'Response Efforts'
+p15308
+sS'592859070073307137'
+p15309
+S'Not Relevant'
+p15310
+sS'592974262354452480'
+p15311
+S'Other Relevant Information'
+p15312
+sS'592649965433974784'
+p15313
+S'Response Efforts'
+p15314
+sS'592704498101055489'
+p15315
+S'Not Relevant'
+p15316
+sS'592998514474483712'
+p15317
+S'Response Efforts'
+p15318
+sS'592598689127903232'
+p15319
+S'Not Relevant'
+p15320
+sS'593004959483953153'
+p15321
+S'Not Relevant'
+p15322
+sS'592684192078626816'
+p15323
+S'Response Efforts'
+p15324
+sS'592874611622158336'
+p15325
+S'Not Relevant'
+p15326
+sS'592276570636705792'
+p15327
+S'Infrastructure Damage'
+p15328
+sS'592200532271439872'
+p15329
+S'Not Relevant'
+p15330
+sS'593035607380635649'
+p15331
+S'Not Relevant'
+p15332
+sS'592075261425782784'
+p15333
+S'Sympathy and emotional support'
+p15334
+sS'591912766279012353'
+p15335
+S'Injured or dead people'
+p15336
+sS'591904385828950017'
+p15337
+S'Other relevant information'
+p15338
+sS'592741128794963968'
+p15339
+S'Not Relevant'
+p15340
+sS'592830278546096129'
+p15341
+S'Not Relevant'
+p15342
+sS'592894276071206912'
+p15343
+S'Urgent Needs'
+p15344
+sS'592893869483778052'
+p15345
+S'Not Relevant'
+p15346
+sS'592707967943843840'
+p15347
+S'Response Efforts'
+p15348
+sS'592085089061855232'
+p15349
+S'Sympathy and emotional support'
+p15350
+sS'592646370550362113'
+p15351
+S'Response Efforts'
+p15352
+sS'592071026126782464'
+p15353
+S'Sympathy and emotional support'
+p15354
+sS'593224968894357504'
+p15355
+S'Not Relevant'
+p15356
+sS'591962628261597184'
+p15357
+S'Sympathy and emotional support'
+p15358
+sS'593181882348490752'
+p15359
+S'Not Relevant'
+p15360
+sS'591918212494827520'
+p15361
+S'Sympathy and emotional support'
+p15362
+sS'591906113408274432'
+p15363
+S'Other relevant information'
+p15364
+sS'592180877951512576'
+p15365
+S'Other Relevant Information'
+p15366
+sS'592975628447584256'
+p15367
+S'Not Relevant'
+p15368
+sS'593011603953426432'
+p15369
+S'Not Relevant'
+p15370
+sS'593011916735287297'
+p15371
+S'Not Relevant'
+p15372
+sS'592879316691726338'
+p15373
+S'Not Relevant'
+p15374
+sS'593013819087167488'
+p15375
+S'Not Relevant'
+p15376
+sS'592977970442080256'
+p15377
+S'Not Relevant'
+p15378
+sS'592833273602125824'
+p15379
+S'Response Efforts'
+p15380
+sS'592840039513591809'
+p15381
+S'Response Efforts'
+p15382
+sS'592954328794533888'
+p15383
+S'Other Relevant Information'
+p15384
+sS'591906783595225090'
+p15385
+S'Sympathy and emotional support'
+p15386
+sS'592751981674004480'
+p15387
+S'Response Efforts'
+p15388
+sS'592201280363241472'
+p15389
+S'Not Relevant'
+p15390
+sS'592974704048144384'
+p15391
+S'Urgent Needs'
+p15392
+sS'592644872437379072'
+p15393
+S'Other Relevant Information'
+p15394
+sS'593258734505349121'
+p15395
+S'Not Relevant'
+p15396
+sS'592637658272174080'
+p15397
+S'Not Relevant'
+p15398
+sS'592818959801516032'
+p15399
+S'Not Relevant'
+p15400
+sS'592709900607823873'
+p15401
+S'Response Efforts'
+p15402
+sS'593002571737903104'
+p15403
+S'Not Relevant'
+p15404
+sS'592702358871789568'
+p15405
+S'Response Efforts'
+p15406
+sS'592796789620789249'
+p15407
+S'Not Relevant'
+p15408
+sS'592640752989114368'
+p15409
+S'Response Efforts'
+p15410
+sS'592734567536132097'
+p15411
+S'Not Relevant'
+p15412
+sS'591920486663098368'
+p15413
+S'Injured or dead people'
+p15414
+sS'593260199219068929'
+p15415
+S'Not Relevant'
+p15416
+sS'592987755816222720'
+p15417
+S'Not Relevant'
+p15418
+sS'592926323963596800'
+p15419
+S'Other Relevant Information'
+p15420
+sS'592743054735466498'
+p15421
+S'Not Relevant'
+p15422
+sS'592984783099072513'
+p15423
+S'Other Relevant Information'
+p15424
+sS'591988357439193091'
+p15425
+S'Other Relevant Information'
+p15426
+sS'592899424550002688'
+p15427
+S'Not Relevant'
+p15428
+sS'592752911958069249'
+p15429
+S'Not Relevant'
+p15430
+sS'592201064021032960'
+p15431
+S'Not Relevant'
+p15432
+sS'592988157588574208'
+p15433
+S'Not Relevant'
+p15434
+sS'592898214489104384'
+p15435
+S'Not Relevant'
+p15436
+sS'593038003397734401'
+p15437
+S'Not Relevant'
+p15438
+sS'592849195645726721'
+p15439
+S'Not Relevant'
+p15440
+sS'591997038876819456'
+p15441
+S'Response Efforts'
+p15442
+sS'591961195965448192'
+p15443
+S'Sympathy and emotional support'
+p15444
+sS'592748162206539777'
+p15445
+S'Not Relevant'
+p15446
+sS'593032543441526784'
+p15447
+S'Not Relevant'
+p15448
+sS'592643272302075904'
+p15449
+S'Not Relevant'
+p15450
+sS'591907099082248192'
+p15451
+S'Injured or dead people'
+p15452
+sS'591915340784861184'
+p15453
+S'Not related or irrelevant'
+p15454
+sS'592841075762589699'
+p15455
+S'Urgent Needs'
+p15456
+sS'592733235274260483'
+p15457
+S'Not Relevant'
+p15458
+sS'592162812190859264'
+p15459
+S'Not Relevant'
+p15460
+sS'592798081294405633'
+p15461
+S'Not Relevant'
+p15462
+sS'592823864272539649'
+p15463
+S'Not Relevant'
+p15464
+sS'592159209342439425'
+p15465
+S'Response Efforts'
+p15466
+sS'592592970886479874'
+p15467
+S'Not Relevant'
+p15468
+sS'592664396301783040'
+p15469
+S'Not Relevant'
+p15470
+sS'591915922371280896'
+p15471
+S'Other relevant information'
+p15472
+sS'592590970627162112'
+p15473
+S'Not Relevant'
+p15474
+sS'592648648401498113'
+p15475
+S'Not Relevant'
+p15476
+sS'592596526548914176'
+p15477
+S'Not Relevant'
+p15478
+sS'593261244204744704'
+p15479
+S'Not Relevant'
+p15480
+sS'592590272464203777'
+p15481
+S'Other Relevant Information'
+p15482
+sS'592605669619933184'
+p15483
+S'Not Relevant'
+p15484
+sS'592589682422259712'
+p15485
+S'Not Relevant'
+p15486
+sS'592179575133724674'
+p15487
+S'Not Relevant'
+p15488
+sS'592592050740146176'
+p15489
+S'Other Relevant Information'
+p15490
+sS'592594129118490625'
+p15491
+S'Response Efforts'
+p15492
+sS'593005470043996161'
+p15493
+S'Other Relevant Information'
+p15494
+sS'592276654937903105'
+p15495
+S'Not Relevant'
+p15496
+sS'592076919505625089'
+p15497
+S'Sympathy and emotional support'
+p15498
+sS'592813704191803394'
+p15499
+S'Response Efforts'
+p15500
+sS'592670728681562112'
+p15501
+S'Not Relevant'
+p15502
+sS'592942686736293888'
+p15503
+S'Not Relevant'
+p15504
+sS'592870675808944129'
+p15505
+S'Not Relevant'
+p15506
+sS'592201247660244993'
+p15507
+S'Not Relevant'
+p15508
+sS'593154504419352576'
+p15509
+S'Not Relevant'
+p15510
+sS'592691582769463296'
+p15511
+S'Not Relevant'
+p15512
+sS'592591312173412352'
+p15513
+S'Not Relevant'
+p15514
+sS'592128628856459264'
+p15515
+S'Other Relevant Information'
+p15516
+sS'592695532809773056'
+p15517
+S'Not Relevant'
+p15518
+sS'592683389540524032'
+p15519
+S'Response Efforts'
+p15520
+sS'592845256426713088'
+p15521
+S'Response Efforts'
+p15522
+sS'592706695236874242'
+p15523
+S'Not Relevant'
+p15524
+sS'592177948725121024'
+p15525
+S'Not Relevant'
+p15526
+sS'592075416912859136'
+p15527
+S'Not related or irrelevant'
+p15528
+sS'592902452548108288'
+p15529
+S'Not Relevant'
+p15530
+sS'591910662865100801'
+p15531
+S'Injured or dead people'
+p15532
+sS'592591516851380224'
+p15533
+S'Not Relevant'
+p15534
+sS'592197119928356864'
+p15535
+S'Response Efforts'
+p15536
+sS'592903772873084929'
+p15537
+S'Not Relevant'
+p15538
+sS'592618006661861376'
+p15539
+S'Response Efforts'
+p15540
+sS'592651929982898176'
+p15541
+S'Not Relevant'
+p15542
+sS'592592206059282432'
+p15543
+S'Not Relevant'
+p15544
+sS'592945187019694081'
+p15545
+S'Not Relevant'
+p15546
+sS'593200105815146497'
+p15547
+S'Response Efforts'
+p15548
+sS'592749926242738177'
+p15549
+S'Not Relevant'
+p15550
+sS'592169417355595776'
+p15551
+S'Not Relevant'
+p15552
+sS'592820295330897925'
+p15553
+S'Not Relevant'
+p15554
+sS'592752042902429697'
+p15555
+S'Not Relevant'
+p15556
+sS'592168047923847168'
+p15557
+S'Response Efforts'
+p15558
+sS'592651817416302592'
+p15559
+S'Not Relevant'
+p15560
+sS'592680980999184384'
+p15561
+S'Not Relevant'
+p15562
+sS'592827701368598529'
+p15563
+S'Not Relevant'
+p15564
+sS'592813259281006592'
+p15565
+S'Not Relevant'
+p15566
+sS'592738408231006208'
+p15567
+S'Not Relevant'
+p15568
+sS'592666580074508288'
+p15569
+S'Response Efforts'
+p15570
+sS'592803676382715905'
+p15571
+S'Not Relevant'
+p15572
+sS'592775526168723456'
+p15573
+S'Not Relevant'
+p15574
+sS'593031944855621633'
+p15575
+S'Not Relevant'
+p15576
+sS'592850058581774336'
+p15577
+S'Not Relevant'
+p15578
+sS'592198204126441472'
+p15579
+S'Not Relevant'
+p15580
+sS'592158279951876096'
+p15581
+S'Not Relevant'
+p15582
+sS'592592518048518144'
+p15583
+S'Not Relevant'
+p15584
+sS'592670557663010817'
+p15585
+S'Not Relevant'
+p15586
+sS'592070697570054144'
+p15587
+S'Sympathy and emotional support'
+p15588
+sS'592685988146712579'
+p15589
+S'Response Efforts'
+p15590
+sS'593156509124730880'
+p15591
+S'Not Relevant'
+p15592
+sS'592812597688344578'
+p15593
+S'Not Relevant'
+p15594
+sS'592590445995143168'
+p15595
+S'Not Relevant'
+p15596
+sS'592632593851490304'
+p15597
+S'Response Efforts'
+p15598
+sS'592621134207700992'
+p15599
+S'Not Relevant'
+p15600
+sS'592976328149708800'
+p15601
+S'Response Efforts'
+p15602
+sS'592781904568520704'
+p15603
+S'Not Relevant'
+p15604
+sS'592814099936993283'
+p15605
+S'Not Relevant'
+p15606
+sS'592592678644162560'
+p15607
+S'Infrastructure Damage'
+p15608
+sS'592155007115399168'
+p15609
+S'Infrastructure Damage'
+p15610
+sS'592910852153548802'
+p15611
+S'Not Relevant'
+p15612
+sS'592145269472493568'
+p15613
+S'Other Relevant Information'
+p15614
+sS'592789010549972993'
+p15615
+S'Not Relevant'
+p15616
+sS'592895131570806784'
+p15617
+S'Not Relevant'
+p15618
+sS'592161232884408320'
+p15619
+S'Response Efforts'
+p15620
+sS'592948145362993152'
+p15621
+S'Not Relevant'
+p15622
+sS'592089396888936448'
+p15623
+S'Shelter and supplies'
+p15624
+sS'592747075810566146'
+p15625
+S'Not Relevant'
+p15626
+sS'592933027912683520'
+p15627
+S'Not Relevant'
+p15628
+sS'592589794011717632'
+p15629
+S'Not Relevant'
+p15630
+sS'592848381082480640'
+p15631
+S'Response Efforts'
+p15632
+sS'592633967607717888'
+p15633
+S'Response Efforts'
+p15634
+sS'592159413005234176'
+p15635
+S'Not Relevant'
+p15636
+sS'592643763941416960'
+p15637
+S'Other Relevant Information'
+p15638
+sS'592926583029166080'
+p15639
+S'Not Relevant'
+p15640
+sS'592074135402061824'
+p15641
+S'Sympathy and emotional support'
+p15642
+sS'592592574881394689'
+p15643
+S'Not Relevant'
+p15644
+sS'592644462272208896'
+p15645
+S'Not Relevant'
+p15646
+sS'592071914992066560'
+p15647
+S'Sympathy and emotional support'
+p15648
+sS'592632997418897408'
+p15649
+S'Infrastructure Damage'
+p15650
+sS'593235976807272448'
+p15651
+S'Not Relevant'
+p15652
+sS'592691651363082240'
+p15653
+S'Not Relevant'
+p15654
+sS'592665998756552704'
+p15655
+S'Other Relevant Information'
+p15656
+sS'593009467110858752'
+p15657
+S'Not Relevant'
+p15658
+sS'592645016394203137'
+p15659
+S'Urgent Needs'
+p15660
+sS'591962593423728640'
+p15661
+S'Sympathy and emotional support'
+p15662
+sS'592157127390593024'
+p15663
+S'Not Relevant'
+p15664
+sS'592837114741530624'
+p15665
+S'Not Relevant'
+p15666
+sS'592876633054384129'
+p15667
+S'Other Relevant Information'
+p15668
+sS'592070490983923712'
+p15669
+S'Other relevant information'
+p15670
+sS'592107255379660800'
+p15671
+S'Other Relevant Information'
+p15672
+sS'591911143787995136'
+p15673
+S'Other relevant information'
+p15674
+sS'592769480868163584'
+p15675
+S'Not Relevant'
+p15676
+sS'592933859374804993'
+p15677
+S'Not Relevant'
+p15678
+sS'591906490090278912'
+p15679
+S'"Missing'
+p15680
+sS'591912511751892992'
+p15681
+S'Injured or dead people'
+p15682
+sS'592325815653761025'
+p15683
+S'Not Relevant'
+p15684
+sS'593000647714328576'
+p15685
+S'Not Relevant'
+p15686
+sS'592084232534556672'
+p15687
+S'Displaced people'
+p15688
+sS'591963571971555328'
+p15689
+S'Sympathy and emotional support'
+p15690
+sS'592753185162403843'
+p15691
+S'Not Relevant'
+p15692
+sS'592777896391024641'
+p15693
+S'Not Relevant'
+p15694
+sS'593040966157602816'
+p15695
+S'Not Relevant'
+p15696
+sS'592828720160858112'
+p15697
+S'Not Relevant'
+p15698
+sS'591963311928963072'
+p15699
+S'Sympathy and emotional support'
+p15700
+sS'593029513300180993'
+p15701
+S'Not Relevant'
+p15702
+sS'592833870925561857'
+p15703
+S'Not Relevant'
+p15704
+sS'592696682250379265'
+p15705
+S'Not Relevant'
+p15706
+sS'592692738551844868'
+p15707
+S'Not Relevant'
+p15708
+sS'591968010987962368'
+p15709
+S'Not related or irrelevant'
+p15710
+sS'592594303374856192'
+p15711
+S'Not Relevant'
+p15712
+sS'593037885080731648'
+p15713
+S'Not Relevant'
+p15714
+sS'592592687078866945'
+p15715
+S'Not Relevant'
+p15716
+sS'592619315536400384'
+p15717
+S'Not Relevant'
+p15718
+sS'592801205673394176'
+p15719
+S'Not Relevant'
+p15720
+sS'592607569195077632'
+p15721
+S'Not Relevant'
+p15722
+sS'592705874965168128'
+p15723
+S'Not Relevant'
+p15724
+sS'592895859995598851'
+p15725
+S'Not Relevant'
+p15726
+sS'592594471755370496'
+p15727
+S'Not Relevant'
+p15728
+sS'592905347720962048'
+p15729
+S'Not Relevant'
+p15730
+sS'592840946796081153'
+p15731
+S'Other Relevant Information'
+p15732
+sS'592734968805195777'
+p15733
+S'Not Relevant'
+p15734
+sS'592164621902958593'
+p15735
+S'Not Relevant'
+p15736
+sS'593025169192521728'
+p15737
+S'Not Relevant'
+p15738
+sS'592693177091563522'
+p15739
+S'Not Relevant'
+p15740
+sS'592946993883848704'
+p15741
+S'Not Relevant'
+p15742
+sS'591992116420706304'
+p15743
+S'Response Efforts'
+p15744
+sS'592709550115008512'
+p15745
+S'Not Relevant'
+p15746
+sS'592143656703762432'
+p15747
+S'Not Relevant'
+p15748
+sS'592808108050743297'
+p15749
+S'Not Relevant'
+p15750
+sS'593006872120164352'
+p15751
+S'Response Efforts'
+p15752
+sS'593150196168560640'
+p15753
+S'Not Relevant'
+p15754
+sS'592686521599275008'
+p15755
+S'Not Relevant'
+p15756
+sS'592069749493866496'
+p15757
+S'Personal updates'
+p15758
+sS'592592516290977792'
+p15759
+S'Not Relevant'
+p15760
+sS'592705045004742656'
+p15761
+S'Response Efforts'
+p15762
+sS'592688826570690560'
+p15763
+S'Other Relevant Information'
+p15764
+sS'592941327647711234'
+p15765
+S'Not Relevant'
+p15766
+sS'592198971302551552'
+p15767
+S'Response Efforts'
+p15768
+sS'591914275150700545'
+p15769
+S'Other relevant information'
+p15770
+sS'592980455160328192'
+p15771
+S'Not Relevant'
+p15772
+sS'593209112483205120'
+p15773
+S'Response Efforts'
+p15774
+sS'592588945231257600'
+p15775
+S'Not Relevant'
+p15776
+sS'592701435227287552'
+p15777
+S'Urgent Needs'
+p15778
+sS'592694489187262469'
+p15779
+S'Not Relevant'
+p15780
+sS'593045737115496449'
+p15781
+S'Not Relevant'
+p15782
+sS'593007266539909120'
+p15783
+S'Not Relevant'
+p15784
+sS'592980923013926912'
+p15785
+S'Not Relevant'
+p15786
+sS'592883475923005440'
+p15787
+S'Not Relevant'
+p15788
+sS'591919172721971200'
+p15789
+S'Other relevant information'
+p15790
+sS'592643847601029121'
+p15791
+S'Not Relevant'
+p15792
+sS'592589144427102208'
+p15793
+S'Not Relevant'
+p15794
+sS'592923464606023680'
+p15795
+S'Response Efforts'
+p15796
+sS'592992693309014017'
+p15797
+S'Not Relevant'
+p15798
+sS'592696930620301313'
+p15799
+S'Not Relevant'
+p15800
+sS'592669648828690433'
+p15801
+S'Not Relevant'
+p15802
+sS'592088140367712256'
+p15803
+S'Response Efforts'
+p15804
+sS'592899710358261761'
+p15805
+S'Not Relevant'
+p15806
+sS'593011322461298688'
+p15807
+S'Not Relevant'
+p15808
+sS'592708553158307841'
+p15809
+S'Not Relevant'
+p15810
+sS'592741345975996416'
+p15811
+S'Not Relevant'
+p15812
+sS'592807897874223104'
+p15813
+S'Not Relevant'
+p15814
+sS'592934285730050048'
+p15815
+S'Not Relevant'
+p15816
+sS'592883992753483781'
+p15817
+S'Not Relevant'
+p15818
+sS'592755931718508544'
+p15819
+S'Not Relevant'
+p15820
+sS'592326823394078720'
+p15821
+S'Not Relevant'
+p15822
+sS'592719701786107905'
+p15823
+S'Not Relevant'
+p15824
+sS'592837825944518656'
+p15825
+S'Not Relevant'
+p15826
+sS'593147444646551552'
+p15827
+S'Not Relevant'
+p15828
+sS'592985353771814912'
+p15829
+S'Not Relevant'
+p15830
+sS'593248138854572032'
+p15831
+S'Not Relevant'
+p15832
+sS'592683817049202690'
+p15833
+S'Not Relevant'
+p15834
+sS'591911006068019200'
+p15835
+S'Injured or dead people'
+p15836
+sS'592588928286388224'
+p15837
+S'Not Relevant'
+p15838
+sS'591911487679016960'
+p15839
+S'Other relevant information'
+p15840
+sS'592833374693261313'
+p15841
+S'Not Relevant'
+p15842
+sS'593035675294806016'
+p15843
+S'Not Relevant'
+p15844
+sS'592703809257918464'
+p15845
+S'Urgent Needs'
+p15846
+sS'592594054665351168'
+p15847
+S'Urgent Needs'
+p15848
+sS'592643223446622208'
+p15849
+S'Not Relevant'
+p15850
+sS'592887972279758848'
+p15851
+S'Not Relevant'
+p15852
+sS'592770440919130113'
+p15853
+S'Not Relevant'
+p15854
+sS'592647659460153344'
+p15855
+S'Not Relevant'
+p15856
+sS'592739985150844929'
+p15857
+S'Not Relevant'
+p15858
+sS'592863461224357889'
+p15859
+S'Not Relevant'
+p15860
+sS'592763176753696769'
+p15861
+S'Not Relevant'
+p15862
+sS'592634395757924352'
+p15863
+S'Not Relevant'
+p15864
+sS'592703946633908225'
+p15865
+S'Response Efforts'
+p15866
+sS'592720945703460864'
+p15867
+S'Not Relevant'
+p15868
+sS'592088294810361856'
+p15869
+S'Response Efforts'
+p15870
+sS'593024545122099200'
+p15871
+S'Not Relevant'
+p15872
+sS'592904177451454464'
+p15873
+S'Not Relevant'
+p15874
+sS'592991008574611456'
+p15875
+S'Not Relevant'
+p15876
+sS'592594040895451136'
+p15877
+S'Response Efforts'
+p15878
+sS'592067754124967937'
+p15879
+S'Sympathy and emotional support'
+p15880
+sS'592594856637140992'
+p15881
+S'Not Relevant'
+p15882
+sS'592967732930412544'
+p15883
+S'Response Efforts'
+p15884
+sS'591909053728628737'
+p15885
+S'Other relevant information'
+p15886
+sS'592809490707324930'
+p15887
+S'Response Efforts'
+p15888
+sS'592917649325051904'
+p15889
+S'Not Relevant'
+p15890
+sS'592757929322881024'
+p15891
+S'Not Relevant'
+p15892
+sS'593153493269090304'
+p15893
+S'Not Relevant'
+p15894
+sS'593033219664023552'
+p15895
+S'Not Relevant'
+p15896
+sS'592201239552659458'
+p15897
+S'Response Efforts'
+p15898
+sS'592987127790505984'
+p15899
+S'Response Efforts'
+p15900
+sS'592910319019765762'
+p15901
+S'Not Relevant'
+p15902
+sS'592709640233844736'
+p15903
+S'Not Relevant'
+p15904
+sS'592741432244490240'
+p15905
+S'Not Relevant'
+p15906
+sS'592737900481093633'
+p15907
+S'Not Relevant'
+p15908
+sS'592590352533487616'
+p15909
+S'Not Relevant'
+p15910
+sS'592773966898532354'
+p15911
+S'Not Relevant'
+p15912
+sS'592647549338660864'
+p15913
+S'Other Relevant Information'
+p15914
+sS'592748633373683712'
+p15915
+S'Not Relevant'
+p15916
+sS'592928963774808064'
+p15917
+S'Other Relevant Information'
+p15918
+sS'592781933127544832'
+p15919
+S'Not Relevant'
+p15920
+sS'592667174428405762'
+p15921
+S'Not Relevant'
+p15922
+sS'592745039085711360'
+p15923
+S'Not Relevant'
+p15924
+sS'592652686950010880'
+p15925
+S'Response Efforts'
+p15926
+sS'592903176619225088'
+p15927
+S'Not Relevant'
+p15928
+sS'593206784652759040'
+p15929
+S'Not Relevant'
+p15930
+sS'592594775989047296'
+p15931
+S'Not Relevant'
+p15932
+sS'593185651111112704'
+p15933
+S'Not Relevant'
+p15934
+sS'592084149097406465'
+p15935
+S'Not related or irrelevant'
+p15936
+sS'592797732500283392'
+p15937
+S'Not Relevant'
+p15938
+sS'591915093153030145'
+p15939
+S'Volunteer or professional services'
+p15940
+sS'592087363439894530'
+p15941
+S'Urgent Needs'
+p15942
+sS'592601041738170368'
+p15943
+S'"Missing'
+p15944
+sS'593005400582152192'
+p15945
+S'Other Relevant Information'
+p15946
+sS'592842349442682882'
+p15947
+S'Other Relevant Information'
+p15948
+sS'592646120293081088'
+p15949
+S'Not Relevant'
+p15950
+sS'592753874215292930'
+p15951
+S'Not Relevant'
+p15952
+sS'592652035100540928'
+p15953
+S'Not Relevant'
+p15954
+sS'592887380329242625'
+p15955
+S'Infrastructure Damage'
+p15956
+sS'592927263697534976'
+p15957
+S'Not Relevant'
+p15958
+sS'592589318297792512'
+p15959
+S'Not Relevant'
+p15960
+sS'592695304438317056'
+p15961
+S'Not Relevant'
+p15962
+sS'592155073230188546'
+p15963
+S'Not Relevant'
+p15964
+sS'592068141825396736'
+p15965
+S'Sympathy and emotional support'
+p15966
+sS'592786410597384192'
+p15967
+S'Not Relevant'
+p15968
+sS'592593560026812416'
+p15969
+S'Response Efforts'
+p15970
+sS'592689587560001536'
+p15971
+S'Infrastructure Damage'
+p15972
+sS'592694805261590531'
+p15973
+S'Not Relevant'
+p15974
+sS'592771502136754177'
+p15975
+S'Response Efforts'
+p15976
+sS'592069037607247872'
+p15977
+S'Other relevant information'
+p15978
+sS'592696709463027714'
+p15979
+S'Other Relevant Information'
+p15980
+sS'592592712722817024'
+p15981
+S'Not Relevant'
+p15982
+sS'593032733762461697'
+p15983
+S'Not Relevant'
+p15984
+sS'592989986766467072'
+p15985
+S'Not Relevant'
+p15986
+sS'592879050810613761'
+p15987
+S'Not Relevant'
+p15988
+sS'592843067796881408'
+p15989
+S'Response Efforts'
+p15990
+sS'592162034663362560'
+p15991
+S'Not Relevant'
+p15992
+sS'592708826274627585'
+p15993
+S'Other Relevant Information'
+p15994
+sS'591961237765894144'
+p15995
+S'Sympathy and emotional support'
+p15996
+sS'592952549277335552'
+p15997
+S'Not Relevant'
+p15998
+sS'592692893451743232'
+p15999
+S'Not Relevant'
+p16000
+sS'592594906910101505'
+p16001
+S'Response Efforts'
+p16002
+sS'592788369354141696'
+p16003
+S'Not Relevant'
+p16004
+sS'592851450914545664'
+p16005
+S'Not Relevant'
+p16006
+sS'592160707040419840'
+p16007
+S'Not Relevant'
+p16008
+sS'592674264756711427'
+p16009
+S'Other Relevant Information'
+p16010
+sS'592088296735567872'
+p16011
+S'Sympathy and emotional support'
+p16012
+sS'591962510221127681'
+p16013
+S'Not related or irrelevant'
+p16014
+sS'592754534453276673'
+p16015
+S'Not Relevant'
+p16016
+sS'592826936600227840'
+p16017
+S'Not Relevant'
+p16018
+sS'592897781234274305'
+p16019
+S'Not Relevant'
+p16020
+sS'592614629223866368'
+p16021
+S'Not Relevant'
+p16022
+sS'593244965976739840'
+p16023
+S'Not Relevant'
+p16024
+sS'592933196574138368'
+p16025
+S'Response Efforts'
+p16026
+sS'592071820506955776'
+p16027
+S'Not related or irrelevant'
+p16028
+sS'592702785797369856'
+p16029
+S'Response Efforts'
+p16030
+sS'593020213559341056'
+p16031
+S'Not Relevant'
+p16032
+sS'592630231304830976'
+p16033
+S'Response Efforts'
+p16034
+sS'592591199799652352'
+p16035
+S'Not Relevant'
+p16036
+sS'592086258467221505'
+p16037
+S'Other relevant information'
+p16038
+sS'592985100893097986'
+p16039
+S'Not Relevant'
+p16040
+sS'592796733773611008'
+p16041
+S'Not Relevant'
+p16042
+sS'592865622956052481'
+p16043
+S'Not Relevant'
+p16044
+sS'593006311731761152'
+p16045
+S'Not Relevant'
+p16046
+sS'593019406952828928'
+p16047
+S'Not Relevant'
+p16048
+sS'592981491929382913'
+p16049
+S'Not Relevant'
+p16050
+sS'593033812939931649'
+p16051
+S'Not Relevant'
+p16052
+sS'592851232710074371'
+p16053
+S'Not Relevant'
+p16054
+sS'592994032588062720'
+p16055
+S'Not Relevant'
+p16056
+sS'592609579315265536'
+p16057
+S'Not Relevant'
+p16058
+sS'592681437138157569'
+p16059
+S'Not Relevant'
+p16060
+sS'592589635135602688'
+p16061
+S'Not Relevant'
+p16062
+sS'592071772532441088'
+p16063
+S'Not related or irrelevant'
+p16064
+sS'592200532955004928'
+p16065
+S'Response Efforts'
+p16066
+sS'593210164448088064'
+p16067
+S'Not Relevant'
+p16068
+sS'592838251238535168'
+p16069
+S'Response Efforts'
+p16070
+sS'593221615909007361'
+p16071
+S'Response Efforts'
+p16072
+sS'592691628806164481'
+p16073
+S'Not Relevant'
+p16074
+sS'592950473872793601'
+p16075
+S'Response Efforts'
+p16076
+sS'592736614608183296'
+p16077
+S'Not Relevant'
+p16078
+sS'593253057581813760'
+p16079
+S'Not Relevant'
+p16080
+sS'592651442533576705'
+p16081
+S'Response Efforts'
+p16082
+sS'592607880617938944'
+p16083
+S'Not Relevant'
+p16084
+sS'593197459112894464'
+p16085
+S'Not Relevant'
+p16086
+sS'592838775618838529'
+p16087
+S'Infrastructure Damage'
+p16088
+sS'593181798374445056'
+p16089
+S'Not Relevant'
+p16090
+sS'592741608388501504'
+p16091
+S'Not Relevant'
+p16092
+sS'592088613174804481'
+p16093
+S'Other relevant information'
+p16094
+sS'592590314596114432'
+p16095
+S'Not Relevant'
+p16096
+sS'592201501830971392'
+p16097
+S'Response Efforts'
+p16098
+sS'592592507894157312'
+p16099
+S'Not Relevant'
+p16100
+sS'592645493643153408'
+p16101
+S'Other Relevant Information'
+p16102
+sS'592755988324814848'
+p16103
+S'Not Relevant'
+p16104
+sS'592754154667315200'
+p16105
+S'Not Relevant'
+p16106
+sS'592882219422711809'
+p16107
+S'Not Relevant'
+p16108
+sS'592142203381678080'
+p16109
+S'Not Relevant'
+p16110
+sS'592647681681395712'
+p16111
+S'Not Relevant'
+p16112
+sS'592668218390663170'
+p16113
+S'Not Relevant'
+p16114
+sS'592818950595026946'
+p16115
+S'Not Relevant'
+p16116
+sS'592814106371039233'
+p16117
+S'Not Relevant'
+p16118
+sS'592703197036355588'
+p16119
+S'Response Efforts'
+p16120
+sS'592652267548848129'
+p16121
+S'Not Relevant'
+p16122
+sS'592732122609225729'
+p16123
+S'Not Relevant'
+p16124
+sS'591962350720327680'
+p16125
+S'Sympathy and emotional support'
+p16126
+sS'592075687479107585'
+p16127
+S'Sympathy and emotional support'
+p16128
+sS'592744701155012609'
+p16129
+S'Not Relevant'
+p16130
+sS'592895599248351233'
+p16131
+S'Not Relevant'
+p16132
+sS'592822257807925248'
+p16133
+S'Not Relevant'
+p16134
+sS'592199618043125760'
+p16135
+S'Response Efforts'
+p16136
+sS'592161233224228864'
+p16137
+S'Not Relevant'
+p16138
+sS'592159987033579521'
+p16139
+S'Not Relevant'
+p16140
+sS'593011588484980736'
+p16141
+S'Not Relevant'
+p16142
+sS'592736444558536704'
+p16143
+S'Not Relevant'
+p16144
+sS'591917803273211904'
+p16145
+S'Infrastructure and utilities'
+p16146
+sS'592160461379899392'
+p16147
+S'Not Relevant'
+p16148
+sS'592742897923072001'
+p16149
+S'Not Relevant'
+p16150
+sS'592735085352321024'
+p16151
+S'Not Relevant'
+p16152
+sS'592701045542887427'
+p16153
+S'Not Relevant'
+p16154
+sS'592978836708397057'
+p16155
+S'Urgent Needs'
+p16156
+sS'592075635901640705'
+p16157
+S'Not related or irrelevant'
+p16158
+sS'592158943696330752'
+p16159
+S'Not Relevant'
+p16160
+sS'592768434628382720'
+p16161
+S'Not Relevant'
+p16162
+sS'592074677788418049'
+p16163
+S'Other relevant information'
+p16164
+sS'591912475643224064'
+p16165
+S'Infrastructure and utilities'
+p16166
+sS'591911124360110080'
+p16167
+S'Other relevant information'
+p16168
+sS'592591106824654850'
+p16169
+S'Not Relevant'
+p16170
+sS'592631486920134656'
+p16171
+S'Not Relevant'
+p16172
+sS'591919267961905152'
+p16173
+S'Other relevant information'
+p16174
+sS'592072783062007809'
+p16175
+S'Not related or irrelevant'
+p16176
+sS'592646305660477441'
+p16177
+S'Not Relevant'
+p16178
+sS'592626127765659648'
+p16179
+S'Not Relevant'
+p16180
+sS'592865488943894529'
+p16181
+S'Not Relevant'
+p16182
+sS'592760356352741376'
+p16183
+S'Not Relevant'
+p16184
+sS'592923775517208577'
+p16185
+S'Not Relevant'
+p16186
+sS'593262552072617987'
+p16187
+S'Response Efforts'
+p16188
+sS'592068299984412672'
+p16189
+S'Money'
+p16190
+sS'592830375187054593'
+p16191
+S'Not Relevant'
+p16192
+sS'592653442759335937'
+p16193
+S'Not Relevant'
+p16194
+sS'592890631485333504'
+p16195
+S'Not Relevant'
+p16196
+sS'593166056199483393'
+p16197
+S'Response Efforts'
+p16198
+sS'592648762641747968'
+p16199
+S'Not Relevant'
+p16200
+sS'592637939311513600'
+p16201
+S'Not Relevant'
+p16202
+sS'593034016414179329'
+p16203
+S'Not Relevant'
+p16204
+sS'592867747337523200'
+p16205
+S'Not Relevant'
+p16206
+sS'592848400204374017'
+p16207
+S'Other Relevant Information'
+p16208
+sS'592070267993653248'
+p16209
+S'Other relevant information'
+p16210
+sS'592709593559597056'
+p16211
+S'Not Relevant'
+p16212
+sS'592747387745087489'
+p16213
+S'Not Relevant'
+p16214
+sS'592592879526248448'
+p16215
+S'Not Relevant'
+p16216
+sS'592659274750386177'
+p16217
+S'Not Relevant'
+p16218
+sS'592882196664451073'
+p16219
+S'Not Relevant'
+p16220
+sS'593039116280963072'
+p16221
+S'Response Efforts'
+p16222
+sS'592589944012419072'
+p16223
+S'Not Relevant'
+p16224
+sS'592680983293501440'
+p16225
+S'Not Relevant'
+p16226
+sS'592200441816948736'
+p16227
+S'Not Relevant'
+p16228
+sS'592162418790367232'
+p16229
+S'Not Relevant'
+p16230
+sS'592162065340497920'
+p16231
+S'Not Relevant'
+p16232
+sS'593211302979325952'
+p16233
+S'Not Relevant'
+p16234
+sS'593037514509680641'
+p16235
+S'Response Efforts'
+p16236
+sS'592614521790857216'
+p16237
+S'Other Relevant Information'
+p16238
+sS'592075459749289984'
+p16239
+S'Not related or irrelevant'
+p16240
+sS'593037513851326464'
+p16241
+S'Not Relevant'
+p16242
+sS'592158068294615040'
+p16243
+S'Not Relevant'
+p16244
+sS'592745136716668928'
+p16245
+S'Not Relevant'
+p16246
+sS'592793467983634432'
+p16247
+S'Not Relevant'
+p16248
+sS'592680573627400193'
+p16249
+S'Not Relevant'
+p16250
+sS'592590057325760512'
+p16251
+S'Not Relevant'
+p16252
+sS'592786634405478400'
+p16253
+S'Not Relevant'
+p16254
+sS'591920443482705920'
+p16255
+S'Other relevant information'
+p16256
+sS'592590812338212865'
+p16257
+S'Not Relevant'
+p16258
+sS'592636269466890241'
+p16259
+S'Not Relevant'
+p16260
+sS'593256842177990656'
+p16261
+S'Not Relevant'
+p16262
+sS'592623251047784448'
+p16263
+S'Not Relevant'
+p16264
+sS'592695576015286272'
+p16265
+S'Not Relevant'
+p16266
+sS'592321221968068608'
+p16267
+S'Response Efforts'
+p16268
+sS'592690423086342144'
+p16269
+S'Not Relevant'
+p16270
+sS'592757254123823104'
+p16271
+S'Not Relevant'
+p16272
+sS'592692274703765505'
+p16273
+S'Not Relevant'
+p16274
+sS'593260291506311168'
+p16275
+S'Response Efforts'
+p16276
+sS'592705585398816769'
+p16277
+S'Not Relevant'
+p16278
+sS'592754198988611584'
+p16279
+S'Not Relevant'
+p16280
+sS'592842804650475520'
+p16281
+S'Not Relevant'
+p16282
+sS'592164740303978497'
+p16283
+S'Not Relevant'
+p16284
+sS'592747636458926080'
+p16285
+S'Not Relevant'
+p16286
+sS'591910070600015873'
+p16287
+S'Injured or dead people'
+p16288
+sS'592957227759046657'
+p16289
+S'Not Relevant'
+p16290
+sS'592593799240491008'
+p16291
+S'Infrastructure Damage'
+p16292
+sS'592794307192614913'
+p16293
+S'Not Relevant'
+p16294
+sS'593265516145410048'
+p16295
+S'Not Relevant'
+p16296
+sS'592694894101188608'
+p16297
+S'Not Relevant'
+p16298
+sS'593028453709975554'
+p16299
+S'Response Efforts'
+p16300
+sS'592939863004942336'
+p16301
+S'Not Relevant'
+p16302
+sS'592682649900179457'
+p16303
+S'Response Efforts'
+p16304
+sS'592592903127441408'
+p16305
+S'Not Relevant'
+p16306
+sS'592645000560660480'
+p16307
+S'Not Relevant'
+p16308
+sS'592593169490915329'
+p16309
+S'Not Relevant'
+p16310
+sS'592593056756465665'
+p16311
+S'Not Relevant'
+p16312
+sS'592304800663900160'
+p16313
+S'Not Relevant'
+p16314
+sS'592594468269752320'
+p16315
+S'Not Relevant'
+p16316
+sS'592591022200238080'
+p16317
+S'Response Efforts'
+p16318
+sS'592779423985860608'
+p16319
+S'Not Relevant'
+p16320
+sS'592785844127277056'
+p16321
+S'Not Relevant'
+p16322
+sS'593234509904019456'
+p16323
+S'Response Efforts'
+p16324
+sS'592782170621648896'
+p16325
+S'Not Relevant'
+p16326
+sS'592907107659309057'
+p16327
+S'Response Efforts'
+p16328
+sS'592949486944661504'
+p16329
+S'Not Relevant'
+p16330
+sS'592591429135798272'
+p16331
+S'Other Relevant Information'
+p16332
+sS'592635168289992704'
+p16333
+S'Not Relevant'
+p16334
+sS'592803709471629312'
+p16335
+S'Response Efforts'
+p16336
+sS'592593509548331008'
+p16337
+S'Not Relevant'
+p16338
+sS'592692693245030402'
+p16339
+S'Other Relevant Information'
+p16340
+sS'592746890413928449'
+p16341
+S'Not Relevant'
+p16342
+sS'592629706756726784'
+p16343
+S'Infrastructure Damage'
+p16344
+sS'592591677447131136'
+p16345
+S'Other Relevant Information'
+p16346
+sS'592874216640356354'
+p16347
+S'Not Relevant'
+p16348
+sS'592638557983899648'
+p16349
+S'Not Relevant'
+p16350
+sS'592921048598872065'
+p16351
+S'Not Relevant'
+p16352
+sS'591911400693485568'
+p16353
+S'Other relevant information'
+p16354
+sS'592594457481981954'
+p16355
+S'Not Relevant'
+p16356
+sS'592184071775596544'
+p16357
+S'Other Relevant Information'
+p16358
+sS'592657713840132101'
+p16359
+S'Not Relevant'
+p16360
+sS'592666743325257728'
+p16361
+S'Not Relevant'
+p16362
+sS'592590199214841856'
+p16363
+S'Not Relevant'
+p16364
+sS'591918243549454336'
+p16365
+S'Other relevant information'
+p16366
+sS'592894753789841409'
+p16367
+S'Not Relevant'
+p16368
+sS'592820161171828736'
+p16369
+S'Other Relevant Information'
+p16370
+sS'592653219131719681'
+p16371
+S'Response Efforts'
+p16372
+sS'592322087190167553'
+p16373
+S'Not Relevant'
+p16374
+sS'592827333356191745'
+p16375
+S'Not Relevant'
+p16376
+sS'592674160603693057'
+p16377
+S'Urgent Needs'
+p16378
+sS'592848351571369985'
+p16379
+S'Not Relevant'
+p16380
+sS'592668599808045056'
+p16381
+S'Response Efforts'
+p16382
+sS'591913930521350145'
+p16383
+S'Not related or irrelevant'
+p16384
+sS'592738085768720384'
+p16385
+S'Infrastructure Damage'
+p16386
+sS'592691524279865346'
+p16387
+S'Not Relevant'
+p16388
+sS'592589521558077440'
+p16389
+S'Response Efforts'
+p16390
+sS'592595323576541186'
+p16391
+S'Other Relevant Information'
+p16392
+sS'591960807673593856'
+p16393
+S'"Missing'
+p16394
+sS'592324171075424256'
+p16395
+S'Not Relevant'
+p16396
+sS'592645741941694465'
+p16397
+S'Not Relevant'
+p16398
+sS'592594354855931904'
+p16399
+S'Other Relevant Information'
+p16400
+sS'592705024498753537'
+p16401
+S'Not Relevant'
+p16402
+sS'591915800333717505'
+p16403
+S'Injured or dead people'
+p16404
+sS'592608797258055681'
+p16405
+S'Not Relevant'
+p16406
+sS'592929332739371008'
+p16407
+S'Not Relevant'
+p16408
+sS'593252970831224834'
+p16409
+S'Not Relevant'
+p16410
+sS'593008373362135040'
+p16411
+S'Response Efforts'
+p16412
+sS'593227003068751873'
+p16413
+S'Other Relevant Information'
+p16414
+sS'592070595224952832'
+p16415
+S'Money'
+p16416
+sS'592738347346452482'
+p16417
+S'Not Relevant'
+p16418
+sS'592776196301189122'
+p16419
+S'Not Relevant'
+p16420
+sS'593163514010710018'
+p16421
+S'Other Relevant Information'
+p16422
+sS'592594921317670912'
+p16423
+S'Other Relevant Information'
+p16424
+sS'593208468372267008'
+p16425
+S'Not Relevant'
+p16426
+sS'592083424262754305'
+p16427
+S'Other relevant information'
+p16428
+sS'591962607738839040'
+p16429
+S'Sympathy and emotional support'
+p16430
+sS'592781139049390080'
+p16431
+S'Not Relevant'
+p16432
+sS'592075563931717632'
+p16433
+S'Not related or irrelevant'
+p16434
+sS'592201310113431553'
+p16435
+S'Not Relevant'
+p16436
+sS'592931229764349952'
+p16437
+S'Other Relevant Information'
+p16438
+sS'592072500109905922'
+p16439
+S'Other relevant information'
+p16440
+sS'592591919122780160'
+p16441
+S'Response Efforts'
+p16442
+sS'592589532484096000'
+p16443
+S'Not Relevant'
+p16444
+sS'592696462607257603'
+p16445
+S'Not Relevant'
+p16446
+sS'592198028905172992'
+p16447
+S'Not Relevant'
+p16448
+sS'592813010051272706'
+p16449
+S'Not Relevant'
+p16450
+sS'592860177726050305'
+p16451
+S'Not Relevant'
+p16452
+sS'592867715423064067'
+p16453
+S'Not Relevant'
+p16454
+sS'591906473283817472'
+p16455
+S'Injured or dead people'
+p16456
+sS'591987486672461824'
+p16457
+S'Other Relevant Information'
+p16458
+sS'592075955834900480'
+p16459
+S'Sympathy and emotional support'
+p16460
+sS'592880394338435072'
+p16461
+S'Response Efforts'
+p16462
+sS'592655958226116609'
+p16463
+S'Response Efforts'
+p16464
+sS'592658990921850880'
+p16465
+S'Not Relevant'
+p16466
+sS'591995006585470976'
+p16467
+S'Response Efforts'
+p16468
+sS'592646765574098945'
+p16469
+S'Not Relevant'
+p16470
+sS'591910810332463105'
+p16471
+S'Other relevant information'
+p16472
+sS'592912928606650368'
+p16473
+S'Not Relevant'
+p16474
+sS'592756365938040832'
+p16475
+S'Not Relevant'
+p16476
+sS'592848044145664000'
+p16477
+S'Other Relevant Information'
+p16478
+sS'592862046322040833'
+p16479
+S'Not Relevant'
+p16480
+sS'591915667361783809'
+p16481
+S'Not related or irrelevant'
+p16482
+sS'593232091514548225'
+p16483
+S'Not Relevant'
+p16484
+sS'592745333073027072'
+p16485
+S'Not Relevant'
+p16486
+sS'592930270384369664'
+p16487
+S'Not Relevant'
+p16488
+sS'591915011594911744'
+p16489
+S'Other relevant information'
+p16490
+sS'592295996937338880'
+p16491
+S'Not Relevant'
+p16492
+sS'592076058561630208'
+p16493
+S'Sympathy and emotional support'
+p16494
+sS'592303469521805312'
+p16495
+S'Not Relevant'
+p16496
+sS'591914280468877313'
+p16497
+S'Volunteer or professional services'
+p16498
+sS'592606644451717120'
+p16499
+S'Not Relevant'
+p16500
+sS'592928688443887616'
+p16501
+S'Not Relevant'
+p16502
+sS'592653368188903424'
+p16503
+S'Infrastructure Damage'
+p16504
+sS'592598915725144064'
+p16505
+S'Other Relevant Information'
+p16506
+sS'592836204413984768'
+p16507
+S'Not Relevant'
+p16508
+sS'591918318874861568'
+p16509
+S'Not related or irrelevant'
+p16510
+sS'592592741537869824'
+p16511
+S'Not Relevant'
+p16512
+sS'592155276171550720'
+p16513
+S'Response Efforts'
+p16514
+sS'592164334010109952'
+p16515
+S'Other Relevant Information'
+p16516
+sS'592742261122826240'
+p16517
+S'Not Relevant'
+p16518
+sS'593249505782288385'
+p16519
+S'Not Relevant'
+p16520
+sS'592846585450655744'
+p16521
+S'Response Efforts'
+p16522
+sS'592591934692143104'
+p16523
+S'Not Relevant'
+p16524
+sS'592593539189460993'
+p16525
+S'Response Efforts'
+p16526
+sS'592811654418694146'
+p16527
+S'Response Efforts'
+p16528
+sS'592074189814665216'
+p16529
+S'Personal updates'
+p16530
+sS'593226610171576320'
+p16531
+S'Not Relevant'
+p16532
+sS'592670388523507713'
+p16533
+S'Not Relevant'
+p16534
+sS'592873035809615873'
+p16535
+S'Not Relevant'
+p16536
+sS'592656511765225472'
+p16537
+S'Not Relevant'
+p16538
+sS'593185527240732672'
+p16539
+S'Not Relevant'
+p16540
+sS'593260793422073856'
+p16541
+S'Not Relevant'
+p16542
+sS'592709518687109121'
+p16543
+S'Response Efforts'
+p16544
+sS'593247908964737026'
+p16545
+S'Other Relevant Information'
+p16546
+sS'592766237412823040'
+p16547
+S'Not Relevant'
+p16548
+sS'592768219938709505'
+p16549
+S'Not Relevant'
+p16550
+sS'592590068105277440'
+p16551
+S'Not Relevant'
+p16552
+sS'591913151207120897'
+p16553
+S'Other relevant information'
+p16554
+sS'591913870479990784'
+p16555
+S'Personal updates'
+p16556
+sS'592594949054582784'
+p16557
+S'Not Relevant'
+p16558
+sS'592071513924304896'
+p16559
+S'Not related or irrelevant'
+p16560
+sS'592885683582324737'
+p16561
+S'Not Relevant'
+p16562
+sS'592656294890332160'
+p16563
+S'Not Relevant'
+p16564
+sS'592733181998141440'
+p16565
+S'Not Relevant'
+p16566
+sS'591915844092952576'
+p16567
+S'Not related or irrelevant'
+p16568
+sS'592593458247798784'
+p16569
+S'Not Relevant'
+p16570
+sS'592819379206754304'
+p16571
+S'Not Relevant'
+p16572
+sS'592680548730023937'
+p16573
+S'Not Relevant'
+p16574
+sS'592203737352966146'
+p16575
+S'Response Efforts'
+p16576
+sS'591921822968385536'
+p16577
+S'Sympathy and emotional support'
+p16578
+sS'592796719697567745'
+p16579
+S'Not Relevant'
+p16580
+sS'592914368225873922'
+p16581
+S'Response Efforts'
+p16582
+sS'592766557278892032'
+p16583
+S'Not Relevant'
+p16584
+sS'592910450406387713'
+p16585
+S'Not Relevant'
+p16586
+sS'592595281054601216'
+p16587
+S'Not Relevant'
+p16588
+sS'592989893149634560'
+p16589
+S'Not Relevant'
+p16590
+sS'592670910395584513'
+p16591
+S'Other Relevant Information'
+p16592
+sS'592594678525997056'
+p16593
+S'Not Relevant'
+p16594
+sS'593025238469771266'
+p16595
+S'Not Relevant'
+p16596
+sS'592952100591534080'
+p16597
+S'Not Relevant'
+p16598
+sS'592738104311676928'
+p16599
+S'Not Relevant'
+p16600
+sS'591912635433504771'
+p16601
+S'Sympathy and emotional support'
+p16602
+sS'592895075455279104'
+p16603
+S'Not Relevant'
+p16604
+sS'593198385361866752'
+p16605
+S'Not Relevant'
+p16606
+sS'592838839250636801'
+p16607
+S'Not Relevant'
+p16608
+sS'591987840797384704'
+p16609
+S'Other Relevant Information'
+p16610
+sS'592632175171866624'
+p16611
+S'Not Relevant'
+p16612
+sS'593160013285294082'
+p16613
+S'Not Relevant'
+p16614
+sS'592904641710555136'
+p16615
+S'Not Relevant'
+p16616
+sS'592690138750328833'
+p16617
+S'Not Relevant'
+p16618
+sS'592590804243341314'
+p16619
+S'Not Relevant'
+p16620
+sS'592748169089417217'
+p16621
+S'Not Relevant'
+p16622
+sS'592750224457728002'
+p16623
+S'Not Relevant'
+p16624
+sS'592591496441901056'
+p16625
+S'Not Relevant'
+p16626
+sS'592812580298747909'
+p16627
+S'Not Relevant'
+p16628
+sS'591961791883784192'
+p16629
+S'Other relevant information'
+p16630
+sS'592162132243910657'
+p16631
+S'Not Relevant'
+p16632
+sS'592837667819286530'
+p16633
+S'Not Relevant'
+p16634
+sS'591910114451333120'
+p16635
+S'Other relevant information'
+p16636
+sS'591908124803485699'
+p16637
+S'Not related or irrelevant'
+p16638
+sS'592619976713961472'
+p16639
+S'Response Efforts'
+p16640
+sS'592879845325021184'
+p16641
+S'Not Relevant'
+p16642
+sS'591963569849171969'
+p16643
+S'"Missing'
+p16644
+sS'592942815929356288'
+p16645
+S'Not Relevant'
+p16646
+sS'592923947575848960'
+p16647
+S'Other Relevant Information'
+p16648
+sS'592615633025511425'
+p16649
+S'Not Relevant'
+p16650
+sS'592768628593979392'
+p16651
+S'Response Efforts'
+p16652
+sS'592684128656494592'
+p16653
+S'Response Efforts'
+p16654
+sS'592950025409470464'
+p16655
+S'Not Relevant'
+p16656
+sS'592760154032070656'
+p16657
+S'Not Relevant'
+p16658
+sS'591911051307810817'
+p16659
+S'Injured or dead people'
+p16660
+sS'592192996763774977'
+p16661
+S'Urgent Needs'
+p16662
+sS'593212569336164352'
+p16663
+S'Not Relevant'
+p16664
+sS'592627037229187072'
+p16665
+S'Not Relevant'
+p16666
+sS'592992042378080256'
+p16667
+S'Not Relevant'
+p16668
+sS'592591854098591744'
+p16669
+S'Not Relevant'
+p16670
+sS'592769298604654592'
+p16671
+S'Not Relevant'
+p16672
+sS'592975382745317377'
+p16673
+S'Not Relevant'
+p16674
+sS'592875663486545921'
+p16675
+S'Not Relevant'
+p16676
+sS'592774323770916865'
+p16677
+S'Not Relevant'
+p16678
+sS'591911988978155520'
+p16679
+S'Other relevant information'
+p16680
+sS'592975064678666241'
+p16681
+S'Response Efforts'
+p16682
+sS'592992471136735232'
+p16683
+S'Not Relevant'
+p16684
+sS'592691537772941312'
+p16685
+S'Not Relevant'
+p16686
+sS'592592713054289920'
+p16687
+S'Not Relevant'
+p16688
+sS'592786565765722115'
+p16689
+S'Not Relevant'
+p16690
+sS'592610132346834944'
+p16691
+S'Not Relevant'
+p16692
+sS'591919493405749250'
+p16693
+S'Injured or dead people'
+p16694
+sS'592162337810812928'
+p16695
+S'Not Relevant'
+p16696
+sS'592594344512589825'
+p16697
+S'Response Efforts'
+p16698
+sS'592706493960552450'
+p16699
+S'Not Relevant'
+p16700
+sS'592968317666598912'
+p16701
+S'Not Relevant'
+p16702
+sS'592963171968806912'
+p16703
+S'Response Efforts'
+p16704
+sS'591916916282884096'
+p16705
+S'Sympathy and emotional support'
+p16706
+sS'592592261717831680'
+p16707
+S'Not Relevant'
+p16708
+sS'593043938971414530'
+p16709
+S'Not Relevant'
+p16710
+sS'592591072817119232'
+p16711
+S'Not Relevant'
+p16712
+sS'592113406775164928'
+p16713
+S'Urgent Needs'
+p16714
+sS'591914665514508288'
+p16715
+S'Other relevant information'
+p16716
+sS'592881024884932611'
+p16717
+S'Not Relevant'
+p16718
+sS'592740960536244225'
+p16719
+S'Not Relevant'
+p16720
+sS'593151821255987202'
+p16721
+S'Not Relevant'
+p16722
+sS'592201831863820288'
+p16723
+S'Not Relevant'
+p16724
+sS'591910494404874240'
+p16725
+S'Sympathy and emotional support'
+p16726
+sS'592785074959028226'
+p16727
+S'Not Relevant'
+p16728
+sS'592074690400780288'
+p16729
+S'Not related or irrelevant'
+p16730
+sS'592594832859734016'
+p16731
+S'Not Relevant'
+p16732
+sS'592198011427622919'
+p16733
+S'Not Relevant'
+p16734
+sS'592872583634264064'
+p16735
+S'Not Relevant'
+p16736
+sS'593036222605434880'
+p16737
+S'Not Relevant'
+p16738
+sS'591986833191407617'
+p16739
+S'Not Relevant'
+p16740
+sS'592700086481756164'
+p16741
+S'Not Relevant'
+p16742
+sS'593021016516861952'
+p16743
+S'Not Relevant'
+p16744
+sS'592893045730848770'
+p16745
+S'Not Relevant'
+p16746
+sS'593160180809895936'
+p16747
+S'Not Relevant'
+p16748
+sS'591963979955740673'
+p16749
+S'Sympathy and emotional support'
+p16750
+sS'592945405450674176'
+p16751
+S'Not Relevant'
+p16752
+sS'592594306143285248'
+p16753
+S'Not Relevant'
+p16754
+sS'592343660525584384'
+p16755
+S'Response Efforts'
+p16756
+sS'592862899745509376'
+p16757
+S'Not Relevant'
+p16758
+sS'592804455537614849'
+p16759
+S'Not Relevant'
+p16760
+sS'592734035509673985'
+p16761
+S'Not Relevant'
+p16762
+sS'592663600084443137'
+p16763
+S'Not Relevant'
+p16764
+sS'592873515180826624'
+p16765
+S'Not Relevant'
+p16766
+sS'593021176928141312'
+p16767
+S'Not Relevant'
+p16768
+sS'592836422052216832'
+p16769
+S'Response Efforts'
+p16770
+sS'592773583266545664'
+p16771
+S'Not Relevant'
+p16772
+sS'592644145283371008'
+p16773
+S'Not Relevant'
+p16774
+sS'592626379578937345'
+p16775
+S'Not Relevant'
+p16776
+sS'592628048685436928'
+p16777
+S'Response Efforts'
+p16778
+sS'592848929936560128'
+p16779
+S'Other Relevant Information'
+p16780
+sS'593222623665922048'
+p16781
+S'Not Relevant'
+p16782
+sS'592768568804122624'
+p16783
+S'Response Efforts'
+p16784
+sS'592849155954978816'
+p16785
+S'Not Relevant'
+p16786
+sS'593032628292431872'
+p16787
+S'Not Relevant'
+p16788
+sS'592639207513919488'
+p16789
+S'Other Relevant Information'
+p16790
+sS'592671100733128704'
+p16791
+S'Not Relevant'
+p16792
+sS'592825085993590785'
+p16793
+S'Not Relevant'
+p16794
+sS'592907441395867648'
+p16795
+S'Not Relevant'
+p16796
+sS'592981189771792384'
+p16797
+S'Not Relevant'
+p16798
+sS'592850664826474496'
+p16799
+S'Not Relevant'
+p16800
+sS'591916022132670465'
+p16801
+S'Volunteer or professional services'
+p16802
+sS'592673248086745089'
+p16803
+S'Not Relevant'
+p16804
+sS'592690437699276800'
+p16805
+S'Not Relevant'
+p16806
+sS'593013554434945024'
+p16807
+S'Not Relevant'
+p16808
+sS'593153026438762496'
+p16809
+S'Response Efforts'
+p16810
+sS'592687661023940611'
+p16811
+S'Not Relevant'
+p16812
+sS'593264492353466368'
+p16813
+S'Not Relevant'
+p16814
+sS'592913370891886592'
+p16815
+S'Not Relevant'
+p16816
+sS'592591201028608000'
+p16817
+S'Not Relevant'
+p16818
+sS'592592539103809536'
+p16819
+S'Not Relevant'
+p16820
+sS'592594752274444288'
+p16821
+S'Not Relevant'
+p16822
+sS'592641810024910848'
+p16823
+S'Other Relevant Information'
+p16824
+sS'592947275116056576'
+p16825
+S'Not Relevant'
+p16826
+sS'591914712369094656'
+p16827
+S'Shelter and supplies'
+p16828
+sS'592738673059352576'
+p16829
+S'Not Relevant'
+p16830
+sS'592937686941437952'
+p16831
+S'Not Relevant'
+p16832
+sS'591920992869580801'
+p16833
+S'Volunteer or professional services'
+p16834
+sS'592654958320873473'
+p16835
+S'Not Relevant'
+p16836
+sS'592668756347887616'
+p16837
+S'Response Efforts'
+p16838
+sS'592072172195094529'
+p16839
+S'Other relevant information'
+p16840
+sS'592201211102789633'
+p16841
+S'Not Relevant'
+p16842
+sS'592771390656356352'
+p16843
+S'Not Relevant'
+p16844
+sS'592833600288067584'
+p16845
+S'Other Relevant Information'
+p16846
+sS'592258064159412224'
+p16847
+S'Response Efforts'
+p16848
+sS'592627581213638656'
+p16849
+S'Other Relevant Information'
+p16850
+sS'592758734302158851'
+p16851
+S'Response Efforts'
+p16852
+sS'592706596960116736'
+p16853
+S'Response Efforts'
+p16854
+sS'592656632443699200'
+p16855
+S'Not Relevant'
+p16856
+sS'592773876695834624'
+p16857
+S'Not Relevant'
+p16858
+sS'592951889446178816'
+p16859
+S'Not Relevant'
+p16860
+sS'592621795997548544'
+p16861
+S'Not Relevant'
+p16862
+sS'592880688464011266'
+p16863
+S'Not Relevant'
+p16864
+sS'592591003300798465'
+p16865
+S'Not Relevant'
+p16866
+sS'592818084265795585'
+p16867
+S'Not Relevant'
+p16868
+sS'592069567880396801'
+p16869
+S'Sympathy and emotional support'
+p16870
+sS'593015067307876352'
+p16871
+S'Not Relevant'
+p16872
+sS'592920374712651776'
+p16873
+S'Not Relevant'
+p16874
+sS'592788069645950976'
+p16875
+S'Not Relevant'
+p16876
+sS'592589122528641024'
+p16877
+S'Not Relevant'
+p16878
+sS'592868755501355008'
+p16879
+S'Not Relevant'
+p16880
+sS'592870470413856771'
+p16881
+S'Not Relevant'
+p16882
+sS'591992376144592896'
+p16883
+S'Not Relevant'
+p16884
+sS'592996101436755968'
+p16885
+S'Not Relevant'
+p16886
+sS'592681669909426177'
+p16887
+S'Response Efforts'
+p16888
+sS'592595141447315456'
+p16889
+S'Not Relevant'
+p16890
+sS'592773003311771649'
+p16891
+S'Not Relevant'
+p16892
+sS'592653166488891393'
+p16893
+S'Not Relevant'
+p16894
+sS'592774651815849986'
+p16895
+S'Not Relevant'
+p16896
+sS'592656368580034560'
+p16897
+S'Not Relevant'
+p16898
+sS'593031707986628608'
+p16899
+S'Not Relevant'
+p16900
+sS'591916033734225920'
+p16901
+S'Sympathy and emotional support'
+p16902
+sS'592915476788826114'
+p16903
+S'Not Relevant'
+p16904
+sS'592763226946940929'
+p16905
+S'Not Relevant'
+p16906
+sS'592808261763657728'
+p16907
+S'Not Relevant'
+p16908
+sS'592087572093906944'
+p16909
+S'Sympathy and emotional support'
+p16910
+sS'592970514013949953'
+p16911
+S'Not Relevant'
+p16912
+sS'592155255846084609'
+p16913
+S'Response Efforts'
+p16914
+sS'592707122539945984'
+p16915
+S'Response Efforts'
+p16916
+sS'592070177560330240'
+p16917
+S'Money'
+p16918
+sS'592870595810992129'
+p16919
+S'Not Relevant'
+p16920
+sS'592590865031237633'
+p16921
+S'Not Relevant'
+p16922
+sS'592753753213775874'
+p16923
+S'Not Relevant'
+p16924
+sS'591914646631620608'
+p16925
+S'Infrastructure and utilities'
+p16926
+sS'593206868320735232'
+p16927
+S'Not Relevant'
+p16928
+sS'592823438198341632'
+p16929
+S'Not Relevant'
+p16930
+sS'592978712087388160'
+p16931
+S'Response Efforts'
+p16932
+sS'591964029809221632'
+p16933
+S'Not related or irrelevant'
+p16934
+sS'592593342354952192'
+p16935
+S'Not Relevant'
+p16936
+sS'591919632295931905'
+p16937
+S'Injured or dead people'
+p16938
+sS'592663557688434690'
+p16939
+S'Not Relevant'
+p16940
+sS'593006358317899776'
+p16941
+S'Not Relevant'
+p16942
+sS'592164598876246016'
+p16943
+S'Not Relevant'
+p16944
+sS'592070987539034112'
+p16945
+S'Infrastructure and utilities'
+p16946
+sS'592916883608711169'
+p16947
+S'Not Relevant'
+p16948
+sS'592086316394881024'
+p16949
+S'Not related or irrelevant'
+p16950
+sS'592749938712432640'
+p16951
+S'Not Relevant'
+p16952
+sS'592771217419063298'
+p16953
+S'Not Relevant'
+p16954
+sS'593232277909413889'
+p16955
+S'Other Relevant Information'
+p16956
+sS'593197932125421568'
+p16957
+S'Not Relevant'
+p16958
+sS'592593197903151104'
+p16959
+S'Not Relevant'
+p16960
+sS'591907839355957248'
+p16961
+S'"Missing'
+p16962
+sS'592681219994865664'
+p16963
+S'Not Relevant'
+p16964
+sS'592641954581749760'
+p16965
+S'Not Relevant'
+p16966
+sS'592085735127126017'
+p16967
+S'Response Efforts'
+p16968
+sS'592702351993151488'
+p16969
+S'Response Efforts'
+p16970
+sS'592755907970367489'
+p16971
+S'Other Relevant Information'
+p16972
+sS'592892767765975041'
+p16973
+S'Not Relevant'
+p16974
+sS'592590745183264768'
+p16975
+S'Not Relevant'
+p16976
+sS'592629804051996674'
+p16977
+S'Not Relevant'
+p16978
+sS'592787031354384385'
+p16979
+S'Not Relevant'
+p16980
+sS'592195169300131841'
+p16981
+S'Response Efforts'
+p16982
+sS'592629320587354112'
+p16983
+S'Not Relevant'
+p16984
+sS'592879283594461186'
+p16985
+S'Response Efforts'
+p16986
+sS'592888499256303616'
+p16987
+S'Not Relevant'
+p16988
+sS'593018922217025536'
+p16989
+S'Not Relevant'
+p16990
+sS'592790172409995265'
+p16991
+S'Not Relevant'
+p16992
+sS'593165182769229824'
+p16993
+S'Other Relevant Information'
+p16994
+sS'592973558416023552'
+p16995
+S'Not Relevant'
+p16996
+sS'592590758294728704'
+p16997
+S'Not Relevant'
+p16998
+sS'591986481926901760'
+p16999
+S'Other relevant information'
+p17000
+sS'592077038539902976'
+p17001
+S'Sympathy and emotional support'
+p17002
+sS'591987807058599936'
+p17003
+S'Sympathy and emotional support'
+p17004
+sS'593003488612716546'
+p17005
+S'Not Relevant'
+p17006
+sS'593159241915101184'
+p17007
+S'Not Relevant'
+p17008
+sS'592795605057019904'
+p17009
+S'Not Relevant'
+p17010
+sS'593258968266346497'
+p17011
+S'Not Relevant'
+p17012
+sS'592160133582553088'
+p17013
+S'Not Relevant'
+p17014
+sS'592925365439504384'
+p17015
+S'Not Relevant'
+p17016
+sS'592693360353275904'
+p17017
+S'Not Relevant'
+p17018
+sS'592682720494510080'
+p17019
+S'Infrastructure Damage'
+p17020
+sS'592076314468872193'
+p17021
+S'Sympathy and emotional support'
+p17022
+sS'591992889313460224'
+p17023
+S'Not Relevant'
+p17024
+sS'592999720085098498'
+p17025
+S'Not Relevant'
+p17026
+sS'592640026284023809'
+p17027
+S'Not Relevant'
+p17028
+sS'593151322242691072'
+p17029
+S'Not Relevant'
+p17030
+sS'592658677078859776'
+p17031
+S'Not Relevant'
+p17032
+sS'593001150808371202'
+p17033
+S'Not Relevant'
+p17034
+sS'593033297665642496'
+p17035
+S'Infrastructure Damage'
+p17036
+sS'592590523438747648'
+p17037
+S'Not Relevant'
+p17038
+sS'592069177982193667'
+p17039
+S'Not related or irrelevant'
+p17040
+sS'592589487630344192'
+p17041
+S'Not Relevant'
+p17042
+sS'592736790030786562'
+p17043
+S'Not Relevant'
+p17044
+sS'592164174341496833'
+p17045
+S'Response Efforts'
+p17046
+sS'592689073787133955'
+p17047
+S'Not Relevant'
+p17048
+sS'592720773091045377'
+p17049
+S'Response Efforts'
+p17050
+sS'592068739325034497'
+p17051
+S'Not related or irrelevant'
+p17052
+sS'592071371032780800'
+p17053
+S'Other relevant information'
+p17054
+sS'592834464314740736'
+p17055
+S'Response Efforts'
+p17056
+sS'592593650812596225'
+p17057
+S'Other Relevant Information'
+p17058
+sS'592201669959675904'
+p17059
+S'Not Relevant'
+p17060
+sS'591919456642699264'
+p17061
+S'Money'
+p17062
+sS'592593695884476416'
+p17063
+S'Not Relevant'
+p17064
+sS'593265107787972608'
+p17065
+S'Not Relevant'
+p17066
+sS'592643267797372929'
+p17067
+S'Not Relevant'
+p17068
+sS'592933868379971585'
+p17069
+S'Not Relevant'
+p17070
+sS'592200876791500800'
+p17071
+S'Not Relevant'
+p17072
+sS'592155079890735105'
+p17073
+S'Not Relevant'
+p17074
+sS'592589552038105088'
+p17075
+S'Not Relevant'
+p17076
+sS'591906241238077440'
+p17077
+S'Not related or irrelevant'
+p17078
+sS'592833230790914048'
+p17079
+S'Not Relevant'
+p17080
+sS'592842931825938432'
+p17081
+S'Response Efforts'
+p17082
+sS'592830374671163395'
+p17083
+S'Not Relevant'
+p17084
+sS'592133962639761408'
+p17085
+S'Not Relevant'
+p17086
+sS'592085453291020289'
+p17087
+S'Not related or irrelevant'
+p17088
+sS'592765036545839105'
+p17089
+S'Not Relevant'
+p17090
+sS'592978605107318784'
+p17091
+S'Not Relevant'
+p17092
+sS'592084514521874433'
+p17093
+S'Not Relevant'
+p17094
+sS'593158258652782592'
+p17095
+S'Not Relevant'
+p17096
+sS'592666477926416385'
+p17097
+S'Not Relevant'
+p17098
+sS'592669302425280516'
+p17099
+S'Not Relevant'
+p17100
+sS'592917243903619073'
+p17101
+S'Not Relevant'
+p17102
+sS'592168522471505920'
+p17103
+S'Response Efforts'
+p17104
+sS'592888475147497473'
+p17105
+S'Not Relevant'
+p17106
+sS'591915861688119296'
+p17107
+S'Not related or irrelevant'
+p17108
+sS'592648910650396672'
+p17109
+S'Not Relevant'
+p17110
+sS'592821001886511105'
+p17111
+S'Other Relevant Information'
+p17112
+sS'592593068320104448'
+p17113
+S'Not Relevant'
+p17114
+sS'592625029277425664'
+p17115
+S'Not Relevant'
+p17116
+sS'591918923194474496'
+p17117
+S'Personal updates'
+p17118
+sS'592085628843597825'
+p17119
+S'Not related or irrelevant'
+p17120
+sS'592752536370737154'
+p17121
+S'Not Relevant'
+p17122
+sS'592609535459622912'
+p17123
+S'Not Relevant'
+p17124
+sS'593030674791043072'
+p17125
+S'Not Relevant'
+p17126
+sS'593032310209028096'
+p17127
+S'Not Relevant'
+p17128
+sS'591920413082390529'
+p17129
+S'Sympathy and emotional support'
+p17130
+sS'592788694064574464'
+p17131
+S'Not Relevant'
+p17132
+sS'591918240835760128'
+p17133
+S'Not related or irrelevant'
+p17134
+sS'592899333206503425'
+p17135
+S'Not Relevant'
+p17136
+sS'593209630873890816'
+p17137
+S'Not Relevant'
+p17138
+sS'593183319073890305'
+p17139
+S'Not Relevant'
+p17140
+sS'592686533423013888'
+p17141
+S'Not Relevant'
+p17142
+sS'592847846824632322'
+p17143
+S'Not Relevant'
+p17144
+sS'593034752057303041'
+p17145
+S'Not Relevant'
+p17146
+sS'593259477752684544'
+p17147
+S'Other Relevant Information'
+p17148
+sS'592590407189434368'
+p17149
+S'Not Relevant'
+p17150
+sS'593252778224590848'
+p17151
+S'Response Efforts'
+p17152
+sS'592084512307355648'
+p17153
+S'Not related or irrelevant'
+p17154
+sS'592627440129703936'
+p17155
+S'Response Efforts'
+p17156
+sS'592880495974883329'
+p17157
+S'Not Relevant'
+p17158
+sS'592814219344670720'
+p17159
+S'Not Relevant'
+p17160
+sS'593222684542119938'
+p17161
+S'Not Relevant'
+p17162
+sS'592820698315399168'
+p17163
+S'Response Efforts'
+p17164
+sS'592708546980126720'
+p17165
+S'Not Relevant'
+p17166
+sS'591917281912971264'
+p17167
+S'Sympathy and emotional support'
+p17168
+sS'593033039426539520'
+p17169
+S'Not Relevant'
+p17170
+sS'591997300454490112'
+p17171
+S'Response Efforts'
+p17172
+sS'592070707531513856'
+p17173
+S'Other relevant information'
+p17174
+sS'593019903554236417'
+p17175
+S'Not Relevant'
+p17176
+sS'591915985189392384'
+p17177
+S'Not related or irrelevant'
+p17178
+sS'592907547310448642'
+p17179
+S'Other Relevant Information'
+p17180
+sS'592593238772461568'
+p17181
+S'Other Relevant Information'
+p17182
+sS'593039975295406080'
+p17183
+S'Not Relevant'
+p17184
+sS'592893173308993537'
+p17185
+S'Not Relevant'
+p17186
+sS'593265398566559745'
+p17187
+S'Not Relevant'
+p17188
+sS'592875207238508544'
+p17189
+S'Not Relevant'
+p17190
+sS'592594605352292352'
+p17191
+S'Not Relevant'
+p17192
+sS'593153062723682305'
+p17193
+S'Not Relevant'
+p17194
+sS'592826117855256576'
+p17195
+S'Not Relevant'
+p17196
+sS'593262139457961984'
+p17197
+S'Not Relevant'
+p17198
+sS'592826537734443008'
+p17199
+S'Not Relevant'
+p17200
+sS'592158434251812864'
+p17201
+S'Not Relevant'
+p17202
+sS'592592048600944640'
+p17203
+S'Response Efforts'
+p17204
+sS'591962862005944322'
+p17205
+S'Sympathy and emotional support'
+p17206
+sS'592813207015817218'
+p17207
+S'Not Relevant'
+p17208
+sS'592589697265836032'
+p17209
+S'Not Relevant'
+p17210
+sS'592682234521452545'
+p17211
+S'Not Relevant'
+p17212
+sS'592076495411126272'
+p17213
+S'Not related or irrelevant'
+p17214
+sS'592846717814472704'
+p17215
+S'Not Relevant'
+p17216
+sS'591961789409165313'
+p17217
+S'Sympathy and emotional support'
+p17218
+sS'592159924894830592'
+p17219
+S'Not Relevant'
+p17220
+sS'592978586337837056'
+p17221
+S'Not Relevant'
+p17222
+sS'593224030490009601'
+p17223
+S'Not Relevant'
+p17224
+sS'592654958828355584'
+p17225
+S'Not Relevant'
+p17226
+sS'592683025483374592'
+p17227
+S'Other Relevant Information'
+p17228
+sS'593244527227371520'
+p17229
+S'Other Relevant Information'
+p17230
+sS'592652931733786625'
+p17231
+S'Not Relevant'
+p17232
+sS'592877464688406529'
+p17233
+S'Response Efforts'
+p17234
+sS'593193504056180737'
+p17235
+S'Not Relevant'
+p17236
+sS'592720810151903235'
+p17237
+S'Not Relevant'
+p17238
+sS'592072337345933312'
+p17239
+S'Sympathy and emotional support'
+p17240
+sS'592683935718584320'
+p17241
+S'Not Relevant'
+p17242
+sS'592794770235379712'
+p17243
+S'Response Efforts'
+p17244
+sS'592600536765038593'
+p17245
+S'Other Relevant Information'
+p17246
+sS'592849216336171008'
+p17247
+S'Not Relevant'
+p17248
+sS'592590557093957633'
+p17249
+S'Response Efforts'
+p17250
+sS'592686280674287617'
+p17251
+S'Not Relevant'
+p17252
+sS'592682762131365889'
+p17253
+S'Response Efforts'
+p17254
+sS'592623103013957632'
+p17255
+S'Response Efforts'
+p17256
+sS'592937878994354176'
+p17257
+S'Not Relevant'
+p17258
+sS'592946256231702528'
+p17259
+S'Not Relevant'
+p17260
+sS'593234823713398784'
+p17261
+S'Not Relevant'
+p17262
+sS'592784734473875456'
+p17263
+S'Not Relevant'
+p17264
+sS'592817399663075328'
+p17265
+S'Not Relevant'
+p17266
+sS'592590171360530432'
+p17267
+S'Not Relevant'
+p17268
+sS'592621762514427904'
+p17269
+S'Not Relevant'
+p17270
+sS'592890884863225857'
+p17271
+S'Infrastructure Damage'
+p17272
+sS'591963275409121282'
+p17273
+S'Sympathy and emotional support'
+p17274
+sS'592201012238135296'
+p17275
+S'Not Relevant'
+p17276
+sS'592146517647065088'
+p17277
+S'Not Relevant'
+p17278
+sS'592924129688453121'
+p17279
+S'Not Relevant'
+p17280
+sS'592176194289795072'
+p17281
+S'Not Relevant'
+p17282
+sS'592200482879221761'
+p17283
+S'Not Relevant'
+p17284
+sS'592776680927850497'
+p17285
+S'Not Relevant'
+p17286
+sS'592668163906654208'
+p17287
+S'Not Relevant'
+p17288
+sS'592747644251934721'
+p17289
+S'Not Relevant'
+p17290
+sS'592898405472538624'
+p17291
+S'Not Relevant'
+p17292
+sS'592594611962425344'
+p17293
+S'Response Efforts'
+p17294
+sS'591912097186975745'
+p17295
+S'Other relevant information'
+p17296
+sS'592797065333317632'
+p17297
+S'Not Relevant'
+p17298
+sS'593222387623034881'
+p17299
+S'Not Relevant'
+p17300
+sS'592615662142500864'
+p17301
+S'Infrastructure Damage'
+p17302
+sS'592155171771305985'
+p17303
+S'Not Relevant'
+p17304
+sS'592069320886394880'
+p17305
+S'Sympathy and emotional support'
+p17306
+sS'591961063945596930'
+p17307
+S'Sympathy and emotional support'
+p17308
+sS'592644318072012800'
+p17309
+S'Not Relevant'
+p17310
+sS'592651857308291072'
+p17311
+S'Response Efforts'
+p17312
+sS'591920022479568896'
+p17313
+S'Other relevant information'
+p17314
+sS'593159299716784128'
+p17315
+S'Not Relevant'
+p17316
+sS'592752095712944130'
+p17317
+S'Not Relevant'
+p17318
+sS'592883352811786241'
+p17319
+S'Not Relevant'
+p17320
+sS'593231731647447040'
+p17321
+S'Urgent Needs'
+p17322
+sS'592899089068650496'
+p17323
+S'Response Efforts'
+p17324
+sS'592937975702429696'
+p17325
+S'Not Relevant'
+p17326
+sS'593024223523827712'
+p17327
+S'Not Relevant'
+p17328
+sS'592821931134623744'
+p17329
+S'Not Relevant'
+p17330
+sS'592163832807628800'
+p17331
+S'Not Relevant'
+p17332
+sS'591994272196464640'
+p17333
+S'Not Relevant'
+p17334
+sS'592695094047875073'
+p17335
+S'Response Efforts'
+p17336
+sS'592200930906345472'
+p17337
+S'Not Relevant'
+p17338
+sS'592953318542020608'
+p17339
+S'Not Relevant'
+p17340
+sS'592167415062011905'
+p17341
+S'Other Relevant Information'
+p17342
+sS'592613578579947521'
+p17343
+S'Not Relevant'
+p17344
+sS'592809338273685506'
+p17345
+S'Not Relevant'
+p17346
+sS'592744137092440066'
+p17347
+S'Not Relevant'
+p17348
+sS'592752448550350848'
+p17349
+S'Not Relevant'
+p17350
+sS'592889349752127488'
+p17351
+S'Other Relevant Information'
+p17352
+sS'592771352442044416'
+p17353
+S'Response Efforts'
+p17354
+sS'592924087606845440'
+p17355
+S'Not Relevant'
+p17356
+sS'592934011145691137'
+p17357
+S'Not Relevant'
+p17358
+sS'592101713252904960'
+p17359
+S'Urgent Needs'
+p17360
+sS'592594006254743552'
+p17361
+S'Other Relevant Information'
+p17362
+sS'592085094162165760'
+p17363
+S'Other relevant information'
+p17364
+sS'592589828941684737'
+p17365
+S'Not Relevant'
+p17366
+sS'592088684360507392'
+p17367
+S'Money'
+p17368
+sS'592709348746485762'
+p17369
+S'Other Relevant Information'
+p17370
+sS'593165303510601729'
+p17371
+S'Other Relevant Information'
+p17372
+sS'591984532225556480'
+p17373
+S'Personal updates'
+p17374
+sS'592736809894961156'
+p17375
+S'Not Relevant'
+p17376
+sS'593247695151595521'
+p17377
+S'Not Relevant'
+p17378
+sS'593014626884845568'
+p17379
+S'Not Relevant'
+p17380
+sS'592840970561056768'
+p17381
+S'Not Relevant'
+p17382
+sS'592649950133153792'
+p17383
+S'Response Efforts'
+p17384
+sS'592071993140248576'
+p17385
+S'Money'
+p17386
+sS'592591087115448320'
+p17387
+S'Not Relevant'
+p17388
+sS'592132836506800128'
+p17389
+S'Other Relevant Information'
+p17390
+sS'592680578832605185'
+p17391
+S'Response Efforts'
+p17392
+sS'591960801063346176'
+p17393
+S'Not related or irrelevant'
+p17394
+sS'592177054197686272'
+p17395
+S'Not Relevant'
+p17396
+sS'592633463523553280'
+p17397
+S'Not Relevant'
+p17398
+sS'592708037204451330'
+p17399
+S'Not Relevant'
+p17400
+sS'591918315175477249'
+p17401
+S'Sympathy and emotional support'
+p17402
+sS'592594419838103552'
+p17403
+S'Response Efforts'
+p17404
+sS'592591751946207232'
+p17405
+S'Response Efforts'
+p17406
+sS'592077348012359680'
+p17407
+S'Other relevant information'
+p17408
+sS'592774177842671616'
+p17409
+S'Not Relevant'
+p17410
+sS'592750943868956672'
+p17411
+S'Not Relevant'
+p17412
+sS'592666191870750720'
+p17413
+S'Response Efforts'
+p17414
+sS'592591671507832833'
+p17415
+S'Other Relevant Information'
+p17416
+sS'593020530808066048'
+p17417
+S'Not Relevant'
+p17418
+sS'592639862383222785'
+p17419
+S'Other Relevant Information'
+p17420
+sS'592947382716862464'
+p17421
+S'Response Efforts'
+p17422
+sS'592765385201602560'
+p17423
+S'Not Relevant'
+p17424
+sS'592157619646631936'
+p17425
+S'Not Relevant'
+p17426
+sS'592183449055723520'
+p17427
+S'Not Relevant'
+p17428
+sS'592694534787727360'
+p17429
+S'Not Relevant'
+p17430
+sS'592889080817549312'
+p17431
+S'Not Relevant'
+p17432
+sS'592753864220286978'
+p17433
+S'Not Relevant'
+p17434
+sS'591919842552389633'
+p17435
+S'Not related or irrelevant'
+p17436
+sS'592594745936973824'
+p17437
+S'Not Relevant'
+p17438
+sS'592667514355765248'
+p17439
+S'Not Relevant'
+p17440
+sS'592681484105945090'
+p17441
+S'Not Relevant'
+p17442
+sS'593037994371645440'
+p17443
+S'Not Relevant'
+p17444
+sS'592820434845990912'
+p17445
+S'Not Relevant'
+p17446
+sS'592878801606025216'
+p17447
+S'Not Relevant'
+p17448
+sS'593263685109305345'
+p17449
+S'Not Relevant'
+p17450
+sS'592087505530277888'
+p17451
+S'Other relevant information'
+p17452
+sS'593031711648133120'
+p17453
+S'Not Relevant'
+p17454
+sS'592592691990401024'
+p17455
+S'Not Relevant'
+p17456
+sS'592598301100285952'
+p17457
+S'Not Relevant'
+p17458
+sS'592083797207842816'
+p17459
+S'Not related or irrelevant'
+p17460
+sS'592895096338698240'
+p17461
+S'Not Relevant'
+p17462
+sS'592105835309989890'
+p17463
+S'Not Relevant'
+p17464
+sS'592762330263465984'
+p17465
+S'Not Relevant'
+p17466
+sS'592169414297980928'
+p17467
+S'Not Relevant'
+p17468
+sS'592164818183827456'
+p17469
+S'Not Relevant'
+p17470
+sS'592636297463910400'
+p17471
+S'Response Efforts'
+p17472
+sS'592375941441064960'
+p17473
+S'Not Relevant'
+p17474
+sS'592785950910062592'
+p17475
+S'Not Relevant'
+p17476
+sS'591963585561153537'
+p17477
+S'Not related or irrelevant'
+p17478
+sS'592871919663316993'
+p17479
+S'Not Relevant'
+p17480
+sS'592101496835149827'
+p17481
+S'Not Relevant'
+p17482
+sS'592589599572013057'
+p17483
+S'Not Relevant'
+p17484
+sS'592069129340780544'
+p17485
+S'Not related or irrelevant'
+p17486
+sS'593222564685619201'
+p17487
+S'Not Relevant'
+p17488
+sS'592827687871348737'
+p17489
+S'Not Relevant'
+p17490
+sS'592922220197871616'
+p17491
+S'Not Relevant'
+p17492
+sS'592628979305193472'
+p17493
+S'Other Relevant Information'
+p17494
+sS'592736129096523777'
+p17495
+S'Not Relevant'
+p17496
+sS'592589390850863104'
+p17497
+S'Urgent Needs'
+p17498
+sS'592991436636819456'
+p17499
+S'Not Relevant'
+p17500
+sS'592687379711959041'
+p17501
+S'Response Efforts'
+p17502
+sS'592994242378788864'
+p17503
+S'Not Relevant'
+p17504
+sS'592690413120655360'
+p17505
+S'Not Relevant'
+p17506
+sS'591918973286912000'
+p17507
+S'Other relevant information'
+p17508
+sS'591961993508040704'
+p17509
+S'Sympathy and emotional support'
+p17510
+sS'592764153481297920'
+p17511
+S'Not Relevant'
+p17512
+sS'592164347226529792'
+p17513
+S'Not Relevant'
+p17514
+sS'592887542686601218'
+p17515
+S'Not Relevant'
+p17516
+sS'592331404970721280'
+p17517
+S'Not Relevant'
+p17518
+sS'592793378233982977'
+p17519
+S'Not Relevant'
+p17520
+sS'592879208063459329'
+p17521
+S'Not Relevant'
+p17522
+sS'593236597883031552'
+p17523
+S'Not Relevant'
+p17524
+sS'592925438160211969'
+p17525
+S'Not Relevant'
+p17526
+sS'591963050871300096'
+p17527
+S'Sympathy and emotional support'
+p17528
+sS'592897115073937410'
+p17529
+S'Not Relevant'
+p17530
+sS'592686156573184000'
+p17531
+S'Not Relevant'
+p17532
+sS'592685916239572994'
+p17533
+S'Not Relevant'
+p17534
+sS'592847334008102912'
+p17535
+S'Not Relevant'
+p17536
+sS'591963223974387715'
+p17537
+S'Sympathy and emotional support'
+p17538
+sS'592135287200854016'
+p17539
+S'Not Relevant'
+p17540
+sS'592669126285459456'
+p17541
+S'Not Relevant'
+p17542
+sS'593253187664125953'
+p17543
+S'Not Relevant'
+p17544
+sS'592593093829865472'
+p17545
+S'Not Relevant'
+p17546
+sS'592673282266103809'
+p17547
+S'Other Relevant Information'
+p17548
+sS'592747757636562945'
+p17549
+S'Not Relevant'
+p17550
+sS'592075395584888836'
+p17551
+S'Sympathy and emotional support'
+p17552
+sS'591915481461760002'
+p17553
+S'Other relevant information'
+p17554
+sS'592152617536466944'
+p17555
+S'Other Relevant Information'
+p17556
+sS'593158164398256128'
+p17557
+S'Not Relevant'
+p17558
+sS'593228999565783040'
+p17559
+S'Not Relevant'
+p17560
+sS'592592875629715456'
+p17561
+S'Response Efforts'
+p17562
+sS'592814829267722240'
+p17563
+S'Not Relevant'
+p17564
+sS'592821198456791040'
+p17565
+S'Not Relevant'
+p17566
+sS'592589021148151808'
+p17567
+S'Not Relevant'
+p17568
+sS'592832883552854016'
+p17569
+S'Other Relevant Information'
+p17570
+sS'592926091372789760'
+p17571
+S'Other Relevant Information'
+p17572
+sS'593226460648894464'
+p17573
+S'Not Relevant'
+p17574
+sS'592589649844916226'
+p17575
+S'Not Relevant'
+p17576
+sS'592939296564338688'
+p17577
+S'Not Relevant'
+p17578
+sS'592157785648955392'
+p17579
+S'Not Relevant'
+p17580
+sS'592658096931151873'
+p17581
+S'Not Relevant'
+p17582
+sS'592658899515375619'
+p17583
+S'Not Relevant'
+p17584
+sS'592869012444475392'
+p17585
+S'Not Relevant'
+p17586
+sS'592168097852760064'
+p17587
+S'Not Relevant'
+p17588
+sS'592631176302473216'
+p17589
+S'Not Relevant'
+p17590
+sS'591916018563354624'
+p17591
+S'Sympathy and emotional support'
+p17592
+sS'592850540092096512'
+p17593
+S'Not Relevant'
+p17594
+sS'592870592983998464'
+p17595
+S'Not Relevant'
+p17596
+sS'592668256764329987'
+p17597
+S'Not Relevant'
+p17598
+sS'592697150708015104'
+p17599
+S'Not Relevant'
+p17600
+sS'592707450928832515'
+p17601
+S'Not Relevant'
+p17602
+sS'592109013728276481'
+p17603
+S'Response Efforts'
+p17604
+sS'592599073183510528'
+p17605
+S'Not Relevant'
+p17606
+sS'592755415504523265'
+p17607
+S'Response Efforts'
+p17608
+sS'592594590147850240'
+p17609
+S'Response Efforts'
+p17610
+sS'591966530973216768'
+p17611
+S'Sympathy and emotional support'
+p17612
+sS'592756342894493699'
+p17613
+S'Other Relevant Information'
+p17614
+sS'592181527196340224'
+p17615
+S'Response Efforts'
+p17616
+sS'592072212053663744'
+p17617
+S'Sympathy and emotional support'
+p17618
+sS'592693028424425473'
+p17619
+S'Not Relevant'
+p17620
+sS'592855540600037376'
+p17621
+S'Not Relevant'
+p17622
+sS'592183335541178368'
+p17623
+S'Not Relevant'
+p17624
+sS'593257624986112000'
+p17625
+S'Not Relevant'
+p17626
+sS'592907503895236608'
+p17627
+S'Not Relevant'
+p17628
+sS'592827079210749953'
+p17629
+S'Not Relevant'
+p17630
+sS'592591521834139648'
+p17631
+S'Not Relevant'
+p17632
+sS'591907253239820288'
+p17633
+S'Sympathy and emotional support'
+p17634
+sS'592684525022502912'
+p17635
+S'Not Relevant'
+p17636
+sS'592603808523362304'
+p17637
+S'Not Relevant'
+p17638
+sS'592786642299179010'
+p17639
+S'Response Efforts'
+p17640
+sS'592073206120390656'
+p17641
+S'Volunteer or professional services'
+p17642
+sS'592841896994742272'
+p17643
+S'Not Relevant'
+p17644
+sS'591997640159547392'
+p17645
+S'Response Efforts'
+p17646
+sS'592591661328371712'
+p17647
+S'Other Relevant Information'
+p17648
+sS'592821438836518912'
+p17649
+S'Not Relevant'
+p17650
+sS'593157825876070400'
+p17651
+S'Not Relevant'
+p17652
+sS'592665549957668865'
+p17653
+S'Not Relevant'
+p17654
+sS'592803280272629760'
+p17655
+S'Not Relevant'
+p17656
+sS'592947348730486784'
+p17657
+S'Not Relevant'
+p17658
+sS'592857982217678849'
+p17659
+S'Not Relevant'
+p17660
+sS'592894616027975681'
+p17661
+S'Not Relevant'
+p17662
+sS'593008518434787329'
+p17663
+S'Not Relevant'
+p17664
+sS'592636661466443776'
+p17665
+S'Not Relevant'
+p17666
+sS'592337859815714816'
+p17667
+S'Not Relevant'
+p17668
+sS'592630142515548160'
+p17669
+S'Response Efforts'
+p17670
+sS'591909733600071680'
+p17671
+S'Sympathy and emotional support'
+p17672
+sS'592593100599664640'
+p17673
+S'Not Relevant'
+p17674
+sS'593043861351464960'
+p17675
+S'Not Relevant'
+p17676
+sS'591915242596118528'
+p17677
+S'Not related or irrelevant'
+p17678
+sS'593245276288126977'
+p17679
+S'Not Relevant'
+p17680
+sS'592706693764616193'
+p17681
+S'Not Relevant'
+p17682
+sS'591911255729786880'
+p17683
+S'Injured or dead people'
+p17684
+sS'592689537492615170'
+p17685
+S'Response Efforts'
+p17686
+sS'592202214925541377'
+p17687
+S'Response Efforts'
+p17688
+sS'592071476557258752'
+p17689
+S'Sympathy and emotional support'
+p17690
+sS'592595101047742464'
+p17691
+S'Not Relevant'
+p17692
+sS'592839575132856322'
+p17693
+S'Other Relevant Information'
+p17694
+sS'591914996080087040'
+p17695
+S'Sympathy and emotional support'
+p17696
+sS'593002595666382848'
+p17697
+S'Other Relevant Information'
+p17698
+sS'592956880277803008'
+p17699
+S'Not Relevant'
+p17700
+sS'592978830031069184'
+p17701
+S'Not Relevant'
+p17702
+sS'592593458453413888'
+p17703
+S'Not Relevant'
+p17704
+sS'592071027846447104'
+p17705
+S'Not related or irrelevant'
+p17706
+sS'592750302668988416'
+p17707
+S'Not Relevant'
+p17708
+sS'591919196763656193'
+p17709
+S'Not related or irrelevant'
+p17710
+sS'592594005440888833'
+p17711
+S'Response Efforts'
+p17712
+sS'592589750814408704'
+p17713
+S'Not Relevant'
+p17714
+sS'592609655643222016'
+p17715
+S'Not Relevant'
+p17716
+sS'592201085940408321'
+p17717
+S'Not Relevant'
+p17718
+sS'592749998816780288'
+p17719
+S'Not Relevant'
+p17720
+sS'592846721111216128'
+p17721
+S'Not Relevant'
+p17722
+sS'592154818069725185'
+p17723
+S'Not Relevant'
+p17724
+sS'591963728930689024'
+p17725
+S'Sympathy and emotional support'
+p17726
+sS'592083807336996865'
+p17727
+S'Other relevant information'
+p17728
+sS'592158032475377664'
+p17729
+S'Not Relevant'
+p17730
+sS'593180221085474817'
+p17731
+S'Not Relevant'
+p17732
+sS'591912641511174144'
+p17733
+S'Infrastructure and utilities'
+p17734
+sS'592592617617031168'
+p17735
+S'Other Relevant Information'
+p17736
+sS'591909033579188224'
+p17737
+S'Personal updates'
+p17738
+sS'592852339339440130'
+p17739
+S'Not Relevant'
+p17740
+sS'592972896831545344'
+p17741
+S'Other Relevant Information'
+p17742
+sS'592768067756806147'
+p17743
+S'Not Relevant'
+p17744
+sS'592749360850608128'
+p17745
+S'Not Relevant'
+p17746
+sS'592588944492990464'
+p17747
+S'Not Relevant'
+p17748
+sS'592076459520458753'
+p17749
+S'Sympathy and emotional support'
+p17750
+sS'592974680610463745'
+p17751
+S'Not Relevant'
+p17752
+sS'592152103977558017'
+p17753
+S'Not Relevant'
+p17754
+sS'592589882968670208'
+p17755
+S'Infrastructure Damage'
+p17756
+sS'592989403750014977'
+p17757
+S'Not Relevant'
+p17758
+sS'592164259406053376'
+p17759
+S'Response Efforts'
+p17760
+sS'592704409265696770'
+p17761
+S'Response Efforts'
+p17762
+sS'592967271766601729'
+p17763
+S'Not Relevant'
+p17764
+sS'593018493114671105'
+p17765
+S'Not Relevant'
+p17766
+sS'592707614477295618'
+p17767
+S'Not Relevant'
+p17768
+sS'592180890224197632'
+p17769
+S'Infrastructure Damage'
+p17770
+sS'592627979844460544'
+p17771
+S'Not Relevant'
+p17772
+sS'591961427826507777'
+p17773
+S'Sympathy and emotional support'
+p17774
+sS'592793681100447744'
+p17775
+S'Response Efforts'
+p17776
+sS'592707379478802433'
+p17777
+S'Other Relevant Information'
+p17778
+sS'592747807561351169'
+p17779
+S'Not Relevant'
+p17780
+sS'592667923870830596'
+p17781
+S'Not Relevant'
+p17782
+sS'592905147505844225'
+p17783
+S'Not Relevant'
+p17784
+sS'593259742098755584'
+p17785
+S'Not Relevant'
+p17786
+sS'591910567679369216'
+p17787
+S'Not related or irrelevant'
+p17788
+sS'592593618654797824'
+p17789
+S'Not Relevant'
+p17790
+sS'592164633525387264'
+p17791
+S'Not Relevant'
+p17792
+sS'592691646816464898'
+p17793
+S'Response Efforts'
+p17794
+sS'591961271173537792'
+p17795
+S'Sympathy and emotional support'
+p17796
+sS'592635189672726530'
+p17797
+S'Response Efforts'
+p17798
+sS'592331585979985923'
+p17799
+S'Response Efforts'
+p17800
+sS'592136992852291584'
+p17801
+S'Infrastructure Damage'
+p17802
+sS'592636679527243776'
+p17803
+S'Not Relevant'
+p17804
+sS'592693143100911618'
+p17805
+S'Not Relevant'
+p17806
+sS'591910948878725121'
+p17807
+S'Sympathy and emotional support'
+p17808
+sS'592597285965430785'
+p17809
+S'Response Efforts'
+p17810
+sS'591911183545868289'
+p17811
+S'Not related or irrelevant'
+p17812
+sS'592870615276728321'
+p17813
+S'Not Relevant'
+p17814
+sS'592071380633559040'
+p17815
+S'Sympathy and emotional support'
+p17816
+sS'592993935947075585'
+p17817
+S'Not Relevant'
+p17818
+sS'592780181267488769'
+p17819
+S'Other Relevant Information'
+p17820
+sS'592644609681031168'
+p17821
+S'Not Relevant'
+p17822
+sS'592828032680914944'
+p17823
+S'Urgent Needs'
+p17824
+sS'592595530892509184'
+p17825
+S'Other Relevant Information'
+p17826
+sS'593253557651935232'
+p17827
+S'Response Efforts'
+p17828
+sS'593011249157427201'
+p17829
+S'Not Relevant'
+p17830
+sS'592670220407447552'
+p17831
+S'Not Relevant'
+p17832
+sS'592075119092051969'
+p17833
+S'Not related or irrelevant'
+p17834
+sS'592158295487549440'
+p17835
+S'Other Relevant Information'
+p17836
+sS'592802702679224320'
+p17837
+S'Not Relevant'
+p17838
+sS'592589216934174720'
+p17839
+S'Not Relevant'
+p17840
+sS'592598779422867456'
+p17841
+S'Not Relevant'
+p17842
+sS'592834633194143745'
+p17843
+S'Not Relevant'
+p17844
+sS'592594368998998016'
+p17845
+S'Not Relevant'
+p17846
+sS'592823689940459521'
+p17847
+S'Other Relevant Information'
+p17848
+sS'592088937293881345'
+p17849
+S'Volunteer or professional services'
+p17850
+sS'592154956012060672'
+p17851
+S'Not Relevant'
+p17852
+sS'592626842147762176'
+p17853
+S'Not Relevant'
+p17854
+sS'592899522667380737'
+p17855
+S'Other Relevant Information'
+p17856
+sS'592156514850197507'
+p17857
+S'Not Relevant'
+p17858
+sS'593265049474445312'
+p17859
+S'Not Relevant'
+p17860
+sS'592628190402732032'
+p17861
+S'Not Relevant'
+p17862
+sS'592790808123854848'
+p17863
+S'Not Relevant'
+p17864
+sS'592593908384665600'
+p17865
+S'Not Relevant'
+p17866
+sS'592629055725383680'
+p17867
+S'Not Relevant'
+p17868
+sS'592891119710642177'
+p17869
+S'Not Relevant'
+p17870
+sS'592666339547938818'
+p17871
+S'Not Relevant'
+p17872
+sS'592970067966472194'
+p17873
+S'Response Efforts'
+p17874
+sS'592738728566751233'
+p17875
+S'Not Relevant'
+p17876
+sS'592702262763507712'
+p17877
+S'Not Relevant'
+p17878
+sS'592593823496163328'
+p17879
+S'Not Relevant'
+p17880
+sS'593190322097823744'
+p17881
+S'Response Efforts'
+p17882
+sS'592664872225214464'
+p17883
+S'Not Relevant'
+p17884
+sS'592684973829795843'
+p17885
+S'Not Relevant'
+p17886
+sS'592925848015118336'
+p17887
+S'Not Relevant'
+p17888
+sS'592602182542880768'
+p17889
+S'Not Relevant'
+p17890
+sS'591910393477365760'
+p17891
+S'Sympathy and emotional support'
+p17892
+sS'592776880710881281'
+p17893
+S'Not Relevant'
+p17894
+sS'592838654378307586'
+p17895
+S'Not Relevant'
+p17896
+sS'592169308970680321'
+p17897
+S'Other Relevant Information'
+p17898
+sS'593046484590927872'
+p17899
+S'Not Relevant'
+p17900
+sS'592668371331715073'
+p17901
+S'Response Efforts'
+p17902
+sS'592837104381624320'
+p17903
+S'Other Relevant Information'
+p17904
+sS'592868631190630401'
+p17905
+S'Not Relevant'
+p17906
+sS'592709640321966080'
+p17907
+S'Response Efforts'
+p17908
+sS'592607522776834048'
+p17909
+S'Not Relevant'
+p17910
+sS'592068594520887296'
+p17911
+S'Injured or dead people'
+p17912
+sS'592954090168135680'
+p17913
+S'Not Relevant'
+p17914
+sS'592919432562921472'
+p17915
+S'Not Relevant'
+p17916
+sS'592696226887393282'
+p17917
+S'Not Relevant'
+p17918
+sS'592701145769975810'
+p17919
+S'Not Relevant'
+p17920
+sS'592085591765954560'
+p17921
+S'Not related or irrelevant'
+p17922
+sS'592590577243328514'
+p17923
+S'Not Relevant'
+p17924
+sS'593024048273186818'
+p17925
+S'Not Relevant'
+p17926
+sS'592947764721545216'
+p17927
+S'Not Relevant'
+p17928
+sS'592630166716841984'
+p17929
+S'Response Efforts'
+p17930
+sS'592590675134275584'
+p17931
+S'Response Efforts'
+p17932
+sS'592647156965584897'
+p17933
+S'Not Relevant'
+p17934
+sS'591946601272213504'
+p17935
+S'Injured or dead people'
+p17936
+sS'592594140933664769'
+p17937
+S'Response Efforts'
+p17938
+sS'592591834372706304'
+p17939
+S'Other Relevant Information'
+p17940
+sS'592984216364654592'
+p17941
+S'Not Relevant'
+p17942
+sS'593005938140778496'
+p17943
+S'Not Relevant'
+p17944
+sS'592589272827305987'
+p17945
+S'Other Relevant Information'
+p17946
+sS'593249552007704576'
+p17947
+S'Not Relevant'
+p17948
+sS'592157368273674240'
+p17949
+S'Not Relevant'
+p17950
+sS'592826839065821184'
+p17951
+S'Not Relevant'
+p17952
+sS'592778065123667968'
+p17953
+S'Not Relevant'
+p17954
+sS'592594750026330112'
+p17955
+S'Not Relevant'
+p17956
+sS'592085637878120448'
+p17957
+S'Sympathy and emotional support'
+p17958
+sS'592886934030123009'
+p17959
+S'Not Relevant'
+p17960
+sS'592593716906459136'
+p17961
+S'Not Relevant'
+p17962
+sS'592834020821577729'
+p17963
+S'Response Efforts'
+p17964
+sS'592652947772825600'
+p17965
+S'Not Relevant'
+p17966
+sS'592769741565067265'
+p17967
+S'Infrastructure Damage'
+p17968
+sS'591913829363294209'
+p17969
+S'Sympathy and emotional support'
+p17970
+sS'592916506591285248'
+p17971
+S'Other Relevant Information'
+p17972
+sS'592591123094315008'
+p17973
+S'Not Relevant'
+p17974
+sS'592783331181391872'
+p17975
+S'Not Relevant'
+p17976
+sS'592633447140593665'
+p17977
+S'Response Efforts'
+p17978
+sS'592811311488233474'
+p17979
+S'Not Relevant'
+p17980
+sS'592591437327269888'
+p17981
+S'Response Efforts'
+p17982
+sS'592735954441523201'
+p17983
+S'Not Relevant'
+p17984
+sS'592913433785335809'
+p17985
+S'Not Relevant'
+p17986
+sS'592591445531303936'
+p17987
+S'Not Relevant'
+p17988
+sS'592900108099911680'
+p17989
+S'Not Relevant'
+p17990
+sS'592086403862827008'
+p17991
+S'Not Relevant'
+p17992
+sS'591920799633768448'
+p17993
+S'Personal updates'
+p17994
+sS'592701480718708736'
+p17995
+S'Other Relevant Information'
+p17996
+sS'592914665350549504'
+p17997
+S'Not Relevant'
+p17998
+sS'592626725202169856'
+p17999
+S'Other Relevant Information'
+p18000
+sS'593240093244071937'
+p18001
+S'Not Relevant'
+p18002
+sS'592959296347971584'
+p18003
+S'Not Relevant'
+p18004
+sS'592158939829149696'
+p18005
+S'Response Efforts'
+p18006
+sS'593242619087458305'
+p18007
+S'Not Relevant'
+p18008
+sS'592780230902882304'
+p18009
+S'Not Relevant'
+p18010
+sS'593177882043686912'
+p18011
+S'Not Relevant'
+p18012
+sS'592701867920089089'
+p18013
+S'Not Relevant'
+p18014
+sS'591914387906101248'
+p18015
+S'Personal updates'
+p18016
+sS'591910046998482944'
+p18017
+S'Sympathy and emotional support'
+p18018
+sS'592832192444764160'
+p18019
+S'Not Relevant'
+p18020
+sS'593044734223851520'
+p18021
+S'Not Relevant'
+p18022
+sS'592704855858421762'
+p18023
+S'Not Relevant'
+p18024
+sS'592160609719885825'
+p18025
+S'Other Relevant Information'
+p18026
+sS'592834814505521153'
+p18027
+S'Not Relevant'
+p18028
+sS'592886243165339649'
+p18029
+S'Not Relevant'
+p18030
+sS'592872483436568576'
+p18031
+S'Not Relevant'
+p18032
+sS'592964378808459264'
+p18033
+S'Not Relevant'
+p18034
+sS'593250473865383937'
+p18035
+S'Not Relevant'
+p18036
+sS'592808429699358720'
+p18037
+S'Not Relevant'
+p18038
+sS'592821762057986049'
+p18039
+S'Not Relevant'
+p18040
+sS'591910752610492418'
+p18041
+S'Sympathy and emotional support'
+p18042
+sS'592776399078952960'
+p18043
+S'Not Relevant'
+p18044
+sS'592701935708405760'
+p18045
+S'Not Relevant'
+p18046
+sS'592788461482090497'
+p18047
+S'Not Relevant'
+p18048
+sS'593039934224629760'
+p18049
+S'Not Relevant'
+p18050
+sS'592737808936280064'
+p18051
+S'Not Relevant'
+p18052
+sS'592788881520615425'
+p18053
+S'Not Relevant'
+p18054
+sS'592200532128759809'
+p18055
+S'Response Efforts'
+p18056
+sS'593244309593403393'
+p18057
+S'Other Relevant Information'
+p18058
+sS'592086886728003585'
+p18059
+S'Other relevant information'
+p18060
+sS'592147127926542337'
+p18061
+S'Other Relevant Information'
+p18062
+sS'592974575547195392'
+p18063
+S'Not Relevant'
+p18064
+sS'592685877672943616'
+p18065
+S'Other Relevant Information'
+p18066
+sS'592809687336235009'
+p18067
+S'Not Relevant'
+p18068
+sS'592719832279339010'
+p18069
+S'Not Relevant'
+p18070
+sS'592087477592129536'
+p18071
+S'Volunteer or professional services'
+p18072
+sS'593039280999669760'
+p18073
+S'Not Relevant'
+p18074
+sS'592158035629342720'
+p18075
+S'Not Relevant'
+p18076
+sS'593025665361915904'
+p18077
+S'Not Relevant'
+p18078
+sS'592848734771388417'
+p18079
+S'Not Relevant'
+p18080
+sS'592625060185296896'
+p18081
+S'Not Relevant'
+p18082
+sS'592591610195681280'
+p18083
+S'Not Relevant'
+p18084
+sS'592084577977380864'
+p18085
+S'Sympathy and emotional support'
+p18086
+sS'592772706258522112'
+p18087
+S'Not Relevant'
+p18088
+sS'593235247052890112'
+p18089
+S'Not Relevant'
+p18090
+sS'593190387516223489'
+p18091
+S'Not Relevant'
+p18092
+sS'593245410342391808'
+p18093
+S'Not Relevant'
+p18094
+sS'592823512806641664'
+p18095
+S'Not Relevant'
+p18096
+sS'592784387479117825'
+p18097
+S'Not Relevant'
+p18098
+sS'592684226912329730'
+p18099
+S'Not Relevant'
+p18100
+sS'593237615853240320'
+p18101
+S'Not Relevant'
+p18102
+sS'592590126045372416'
+p18103
+S'Infrastructure Damage'
+p18104
+sS'592201587293966336'
+p18105
+S'Not Relevant'
+p18106
+sS'593019351848058880'
+p18107
+S'Not Relevant'
+p18108
+sS'592628194467049472'
+p18109
+S'Not Relevant'
+p18110
+sS'592757908930228224'
+p18111
+S'Not Relevant'
+p18112
+sS'592612285845114880'
+p18113
+S'Not Relevant'
+p18114
+sS'592863285688537088'
+p18115
+S'Response Efforts'
+p18116
+sS'592739775678947330'
+p18117
+S'Not Relevant'
+p18118
+sS'592769951787851776'
+p18119
+S'Response Efforts'
+p18120
+sS'592749506321612800'
+p18121
+S'Not Relevant'
+p18122
+sS'592809288852189184'
+p18123
+S'Not Relevant'
+p18124
+sS'592759504518930432'
+p18125
+S'Not Relevant'
+p18126
+sS'592590595975053312'
+p18127
+S'Not Relevant'
+p18128
+sS'592621210078486528'
+p18129
+S'Infrastructure Damage'
+p18130
+sS'592598640889233408'
+p18131
+S'"Missing'
+p18132
+sS'593222525238124544'
+p18133
+S'Not Relevant'
+p18134
+sS'593183366838550528'
+p18135
+S'Other Relevant Information'
+p18136
+sS'592800419002343425'
+p18137
+S'Not Relevant'
+p18138
+sS'592590591768276992'
+p18139
+S'Not Relevant'
+p18140
+sS'592796546946695168'
+p18141
+S'Not Relevant'
+p18142
+sS'592756335684546560'
+p18143
+S'Not Relevant'
+p18144
+sS'593019853365186560'
+p18145
+S'Not Relevant'
+p18146
+sS'592657015001997312'
+p18147
+S'Not Relevant'
+p18148
+sS'592736172180447233'
+p18149
+S'Not Relevant'
+p18150
+sS'592773849760047104'
+p18151
+S'Not Relevant'
+p18152
+sS'591908832336433153'
+p18153
+S'Sympathy and emotional support'
+p18154
+sS'592086079739691009'
+p18155
+S'Volunteer or professional services'
+p18156
+sS'593012321665978369'
+p18157
+S'Not Relevant'
+p18158
+sS'592976509972918272'
+p18159
+S'Not Relevant'
+p18160
+sS'592086543277297664'
+p18161
+S'Money'
+p18162
+sS'592801010751537153'
+p18163
+S'Not Relevant'
+p18164
+sS'592941266704433152'
+p18165
+S'Other Relevant Information'
+p18166
+sS'592917740207280129'
+p18167
+S'Not Relevant'
+p18168
+sS'592815064752742402'
+p18169
+S'Other Relevant Information'
+p18170
+sS'592822071060750337'
+p18171
+S'Not Relevant'
+p18172
+sS'593191424692125696'
+p18173
+S'Not Relevant'
+p18174
+sS'592592922132017152'
+p18175
+S'Not Relevant'
+p18176
+sS'593158872002527232'
+p18177
+S'Not Relevant'
+p18178
+sS'591963006466035712'
+p18179
+S'Money'
+p18180
+sS'591994152558133248'
+p18181
+S'Response Efforts'
+p18182
+sS'592992315880308737'
+p18183
+S'Not Relevant'
+p18184
+sS'592590300394094592'
+p18185
+S'Not Relevant'
+p18186
+sS'592805147329372160'
+p18187
+S'Not Relevant'
+p18188
+sS'592197981538889729'
+p18189
+S'Not Relevant'
+p18190
+sS'592958843556069376'
+p18191
+S'Other Relevant Information'
+p18192
+sS'592936408211394560'
+p18193
+S'Not Relevant'
+p18194
+sS'592108782622126080'
+p18195
+S'Other Relevant Information'
+p18196
+sS'592156383740620801'
+p18197
+S'Other Relevant Information'
+p18198
+sS'592126589741060096'
+p18199
+S'Other Relevant Information'
+p18200
+sS'592856649834090496'
+p18201
+S'Response Efforts'
+p18202
+sS'592827189046943744'
+p18203
+S'Not Relevant'
+p18204
+sS'591912747132166144'
+p18205
+S'Not related or irrelevant'
+p18206
+sS'592916397057044480'
+p18207
+S'Not Relevant'
+p18208
+sS'592695616830058497'
+p18209
+S'Not Relevant'
+p18210
+sS'592763821036560384'
+p18211
+S'Not Relevant'
+p18212
+sS'592828894992080898'
+p18213
+S'Not Relevant'
+p18214
+sS'593243945095725056'
+p18215
+S'Not Relevant'
+p18216
+sS'592689971338838016'
+p18217
+S'Not Relevant'
+p18218
+sS'592632018753589248'
+p18219
+S'Not Relevant'
+p18220
+sS'593007360257449984'
+p18221
+S'Not Relevant'
+p18222
+sS'592681774746046464'
+p18223
+S'Not Relevant'
+p18224
+sS'593156168626765825'
+p18225
+S'Not Relevant'
+p18226
+sS'592821351993495552'
+p18227
+S'Not Relevant'
+p18228
+sS'592771302248849408'
+p18229
+S'Not Relevant'
+p18230
+sS'592683098992685059'
+p18231
+S'Not Relevant'
+p18232
+sS'592912556727074817'
+p18233
+S'Not Relevant'
+p18234
+sS'592672004500762624'
+p18235
+S'Not Relevant'
+p18236
+sS'592177132652007424'
+p18237
+S'Other Relevant Information'
+p18238
+sS'592705962454167554'
+p18239
+S'Not Relevant'
+p18240
+sS'592734349851795457'
+p18241
+S'Not Relevant'
+p18242
+sS'592593969164328960'
+p18243
+S'Response Efforts'
+p18244
+sS'593000818023895040'
+p18245
+S'Not Relevant'
+p18246
+sS'593252649497067520'
+p18247
+S'Not Relevant'
+p18248
+sS'592691542218899456'
+p18249
+S'Not Relevant'
+p18250
+sS'592898300141039616'
+p18251
+S'Not Relevant'
+p18252
+sS'592614191179018241'
+p18253
+S'Other Relevant Information'
+p18254
+sS'592691972495777793'
+p18255
+S'Response Efforts'
+p18256
+sS'592674118153150465'
+p18257
+S'Not Relevant'
+p18258
+sS'591913818705534977'
+p18259
+S'Shelter and supplies'
+p18260
+sS'593184634508312576'
+p18261
+S'Not Relevant'
+p18262
+sS'591915739889606657'
+p18263
+S'Injured or dead people'
+p18264
+sS'593006198011633664'
+p18265
+S'Not Relevant'
+p18266
+sS'591913071217549312'
+p18267
+S'Injured or dead people'
+p18268
+sS'592361093034442752'
+p18269
+S'Not Relevant'
+p18270
+sS'592592610105040897'
+p18271
+S'Not Relevant'
+p18272
+sS'592164879953489920'
+p18273
+S'Not Relevant'
+p18274
+sS'592966367118168064'
+p18275
+S'Urgent Needs'
+p18276
+sS'591961499821826049'
+p18277
+S'Sympathy and emotional support'
+p18278
+sS'592979593344262144'
+p18279
+S'Not Relevant'
+p18280
+sS'592103586798014464'
+p18281
+S'Response Efforts'
+p18282
+sS'592812995132203008'
+p18283
+S'Urgent Needs'
+p18284
+sS'592927984035717120'
+p18285
+S'Response Efforts'
+p18286
+sS'592589030908264449'
+p18287
+S'Not Relevant'
+p18288
+sS'592948833891528704'
+p18289
+S'Not Relevant'
+p18290
+sS'592813785246789632'
+p18291
+S'Not Relevant'
+p18292
+sS'592070324180639744'
+p18293
+S'Infrastructure and utilities'
+p18294
+sS'591911076637319169'
+p18295
+S'"Missing'
+p18296
+sS'592758363571748865'
+p18297
+S'Not Relevant'
+p18298
+sS'592591205944401920'
+p18299
+S'Not Relevant'
+p18300
+sS'592890577722724353'
+p18301
+S'Not Relevant'
+p18302
+sS'591907503606226945'
+p18303
+S'Infrastructure and utilities'
+p18304
+sS'592848930532171777'
+p18305
+S'Not Relevant'
+p18306
+sS'592899747784044546'
+p18307
+S'Not Relevant'
+p18308
+sS'593190443539501056'
+p18309
+S'Not Relevant'
+p18310
+sS'592636344083619840'
+p18311
+S'Not Relevant'
+p18312
+sS'592957302166167553'
+p18313
+S'Not Relevant'
+p18314
+sS'593039037302231040'
+p18315
+S'Not Relevant'
+p18316
+sS'592766457248878595'
+p18317
+S'Response Efforts'
+p18318
+sS'593045294142599168'
+p18319
+S'Not Relevant'
+p18320
+sS'592201662657232896'
+p18321
+S'Not Relevant'
+p18322
+sS'592593522525503488'
+p18323
+S'Not Relevant'
+p18324
+sS'592673285269229568'
+p18325
+S'Not Relevant'
+p18326
+sS'592647284505989121'
+p18327
+S'Not Relevant'
+p18328
+sS'592929181505163264'
+p18329
+S'Not Relevant'
+p18330
+sS'593005533348507648'
+p18331
+S'Not Relevant'
+p18332
+sS'592075182635810816'
+p18333
+S'Sympathy and emotional support'
+p18334
+sS'592820344739758081'
+p18335
+S'Not Relevant'
+p18336
+sS'593188021706629120'
+p18337
+S'Not Relevant'
+p18338
+sS'593227822761541633'
+p18339
+S'Not Relevant'
+p18340
+sS'592110738006740992'
+p18341
+S'Infrastructure Damage'
+p18342
+sS'592609083909242880'
+p18343
+S'Not Relevant'
+p18344
+sS'592179625406509056'
+p18345
+S'Not Relevant'
+p18346
+sS'592071668933136384'
+p18347
+S'Sympathy and emotional support'
+p18348
+sS'592862785014464513'
+p18349
+S'Not Relevant'
+p18350
+sS'592785837760315394'
+p18351
+S'Response Efforts'
+p18352
+sS'593162174677278720'
+p18353
+S'Not Relevant'
+p18354
+sS'592642365216555009'
+p18355
+S'Not Relevant'
+p18356
+sS'592668690526658562'
+p18357
+S'Not Relevant'
+p18358
+sS'592592393892802560'
+p18359
+S'Other Relevant Information'
+p18360
+sS'592734433502965760'
+p18361
+S'Not Relevant'
+p18362
+sS'592843442637635584'
+p18363
+S'Other Relevant Information'
+p18364
+sS'593262788547457024'
+p18365
+S'Not Relevant'
+p18366
+sS'592163174654156802'
+p18367
+S'Response Efforts'
+p18368
+sS'593030882023251968'
+p18369
+S'Not Relevant'
+p18370
+sS'592670727314284545'
+p18371
+S'Response Efforts'
+p18372
+sS'592743087971119104'
+p18373
+S'Not Relevant'
+p18374
+sS'592680650110566400'
+p18375
+S'Other Relevant Information'
+p18376
+sS'592683672194670594'
+p18377
+S'Not Relevant'
+p18378
+sS'591915877253193728'
+p18379
+S'Other relevant information'
+p18380
+sS'592696354452934659'
+p18381
+S'Not Relevant'
+p18382
+sS'592710137204322305'
+p18383
+S'Not Relevant'
+p18384
+sS'592703239272964100'
+p18385
+S'Not Relevant'
+p18386
+sS'592954455970152448'
+p18387
+S'Not Relevant'
+p18388
+sS'592670176660819968'
+p18389
+S'Not Relevant'
+p18390
+sS'593015600718352386'
+p18391
+S'Not Relevant'
+p18392
+sS'592683115203731456'
+p18393
+S'Not Relevant'
+p18394
+sS'592976882624167938'
+p18395
+S'Not Relevant'
+p18396
+sS'592951091970514944'
+p18397
+S'Not Relevant'
+p18398
+sS'592679701962948608'
+p18399
+S'Response Efforts'
+p18400
+sS'592635968508727296'
+p18401
+S'Not Relevant'
+p18402
+sS'593040205327650816'
+p18403
+S'Infrastructure Damage'
+p18404
+sS'592693523708772352'
+p18405
+S'Not Relevant'
+p18406
+sS'592605271228223489'
+p18407
+S'Not Relevant'
+p18408
+sS'592897673449099265'
+p18409
+S'Not Relevant'
+p18410
+sS'592969109844799488'
+p18411
+S'Not Relevant'
+p18412
+sS'592702070177832960'
+p18413
+S'Response Efforts'
+p18414
+sS'592929001565528064'
+p18415
+S'Response Efforts'
+p18416
+sS'592704334699302912'
+p18417
+S'Other Relevant Information'
+p18418
+sS'593232206622928896'
+p18419
+S'Other Relevant Information'
+p18420
+sS'592591839225511936'
+p18421
+S'Other Relevant Information'
+p18422
+sS'592070685159108608'
+p18423
+S'"Missing'
+p18424
+sS'592746275767980034'
+p18425
+S'Not Relevant'
+p18426
+sS'592670950505717760'
+p18427
+S'Not Relevant'
+p18428
+sS'592787745279442944'
+p18429
+S'Not Relevant'
+p18430
+sS'592804205884211204'
+p18431
+S'Not Relevant'
+p18432
+sS'593002706563792896'
+p18433
+S'Not Relevant'
+p18434
+sS'592776450903646208'
+p18435
+S'Not Relevant'
+p18436
+sS'592070618306187265'
+p18437
+S'Sympathy and emotional support'
+p18438
+sS'592750748473106434'
+p18439
+S'Not Relevant'
+p18440
+sS'592588906954100736'
+p18441
+S'Not Relevant'
+p18442
+sS'592975995595988992'
+p18443
+S'Response Efforts'
+p18444
+sS'592073197568262145'
+p18445
+S'Sympathy and emotional support'
+p18446
+sS'592076672075223040'
+p18447
+S'Money'
+p18448
+sS'591961259513421824'
+p18449
+S'Infrastructure and utilities'
+p18450
+sS'592640661448314881'
+p18451
+S'Other Relevant Information'
+p18452
+sS'592987955700064256'
+p18453
+S'Not Relevant'
+p18454
+sS'593015865613778945'
+p18455
+S'Not Relevant'
+p18456
+sS'592627913767411712'
+p18457
+S'Not Relevant'
+p18458
+sS'592702428329410560'
+p18459
+S'Response Efforts'
+p18460
+sS'592832775679516672'
+p18461
+S'Not Relevant'
+p18462
+sS'592589386866237441'
+p18463
+S'Urgent Needs'
+p18464
+sS'592768877563609088'
+p18465
+S'Response Efforts'
+p18466
+sS'592938725287432192'
+p18467
+S'Response Efforts'
+p18468
+sS'593216305001533440'
+p18469
+S'Not Relevant'
+p18470
+sS'591919394273406977'
+p18471
+S'Other relevant information'
+p18472
+sS'591918281633628160'
+p18473
+S'Other relevant information'
+p18474
+sS'592658573588566016'
+p18475
+S'Not Relevant'
+p18476
+sS'592803791428329473'
+p18477
+S'Not Relevant'
+p18478
+sS'592164490000498688'
+p18479
+S'Other Relevant Information'
+p18480
+sS'592653755251879937'
+p18481
+S'Response Efforts'
+p18482
+sS'592588923060256768'
+p18483
+S'Not Relevant'
+p18484
+sS'592989917514334210'
+p18485
+S'Not Relevant'
+p18486
+sS'593024963667460096'
+p18487
+S'Not Relevant'
+p18488
+sS'592766275132235779'
+p18489
+S'Not Relevant'
+p18490
+sS'593229395126431744'
+p18491
+S'Not Relevant'
+p18492
+sS'592756695992008704'
+p18493
+S'Not Relevant'
+p18494
+sS'592749622323453952'
+p18495
+S'Not Relevant'
+p18496
+sS'592592146525487104'
+p18497
+S'Other Relevant Information'
+p18498
+sS'592665342557687808'
+p18499
+S'Not Relevant'
+p18500
+sS'592673644830203904'
+p18501
+S'Not Relevant'
+p18502
+sS'592873491822727170'
+p18503
+S'Not Relevant'
+p18504
+sS'592818084127313920'
+p18505
+S'Other Relevant Information'
+p18506
+sS'591921814147878913'
+p18507
+S'Other relevant information'
+p18508
+sS'592896266792742914'
+p18509
+S'Not Relevant'
+p18510
+sS'591913708613279744'
+p18511
+S'Sympathy and emotional support'
+p18512
+sS'593004598971002880'
+p18513
+S'Other Relevant Information'
+p18514
+sS'593020787595948033'
+p18515
+S'Not Relevant'
+p18516
+sS'592847061323755520'
+p18517
+S'Other Relevant Information'
+p18518
+sS'592069609487925248'
+p18519
+S'Not related or irrelevant'
+p18520
+sS'592162818247364609'
+p18521
+S'Response Efforts'
+p18522
+sS'592591014352683009'
+p18523
+S'Not Relevant'
+p18524
+sS'592153820412514304'
+p18525
+S'Not Relevant'
+p18526
+sS'592656431347818497'
+p18527
+S'Not Relevant'
+p18528
+sS'592197945249792000'
+p18529
+S'Response Efforts'
+p18530
+sS'592735688174493696'
+p18531
+S'Not Relevant'
+p18532
+sS'593035731209097216'
+p18533
+S'Not Relevant'
+p18534
+sS'592158906291388416'
+p18535
+S'Not Relevant'
+p18536
+sS'592612668692922368'
+p18537
+S'Response Efforts'
+p18538
+sS'593239263224864769'
+p18539
+S'Not Relevant'
+p18540
+sS'592745521695035393'
+p18541
+S'Not Relevant'
+p18542
+sS'592703653770883074'
+p18543
+S'Other Relevant Information'
+p18544
+sS'592967450045493249'
+p18545
+S'Not Relevant'
+p18546
+sS'593021586686509057'
+p18547
+S'Not Relevant'
+p18548
+sS'592864729674153985'
+p18549
+S'Not Relevant'
+p18550
+sS'591912626088595456'
+p18551
+S'Other relevant information'
+p18552
+sS'592591445715877889'
+p18553
+S'Not Relevant'
+p18554
+sS'592679978619293696'
+p18555
+S'Not Relevant'
+p18556
+sS'592692773553307649'
+p18557
+S'Not Relevant'
+p18558
+sS'592989338226466817'
+p18559
+S'Not Relevant'
+p18560
+sS'591915280059760640'
+p18561
+S'Sympathy and emotional support'
+p18562
+sS'592884379388612609'
+p18563
+S'Other Relevant Information'
+p18564
+sS'592823059498807297'
+p18565
+S'Not Relevant'
+p18566
+sS'592903836869722112'
+p18567
+S'Not Relevant'
+p18568
+sS'592898834902159362'
+p18569
+S'Not Relevant'
+p18570
+sS'591991320903852032'
+p18571
+S'Response Efforts'
+p18572
+sS'592597602551635968'
+p18573
+S'Not Relevant'
+p18574
+sS'592755993706164224'
+p18575
+S'Not Relevant'
+p18576
+sS'592591786708586496'
+p18577
+S'Other Relevant Information'
+p18578
+sS'592692068193042432'
+p18579
+S'Not Relevant'
+p18580
+sS'592709228332220416'
+p18581
+S'Not Relevant'
+p18582
+sS'593152235632222208'
+p18583
+S'Response Efforts'
+p18584
+sS'593035508101484544'
+p18585
+S'Not Relevant'
+p18586
+sS'592591054106284032'
+p18587
+S'Response Efforts'
+p18588
+sS'592966621515255808'
+p18589
+S'Not Relevant'
+p18590
+sS'592682872458346497'
+p18591
+S'Not Relevant'
+p18592
+sS'592592190427172864'
+p18593
+S'Other Relevant Information'
+p18594
+sS'591909782220484608'
+p18595
+S'Infrastructure and utilities'
+p18596
+sS'592866702699921408'
+p18597
+S'Other Relevant Information'
+p18598
+sS'592594949771829248'
+p18599
+S'Other Relevant Information'
+p18600
+sS'592864209668562944'
+p18601
+S'Not Relevant'
+p18602
+sS'592738350232170496'
+p18603
+S'Not Relevant'
+p18604
+sS'592634915386167296'
+p18605
+S'Not Relevant'
+p18606
+sS'592874555871473664'
+p18607
+S'Not Relevant'
+p18608
+sS'592919242103623681'
+p18609
+S'Not Relevant'
+p18610
+sS'592759160938323968'
+p18611
+S'Not Relevant'
+p18612
+sS'592638198053900288'
+p18613
+S'Not Relevant'
+p18614
+sS'592068917582893056'
+p18615
+S'Sympathy and emotional support'
+p18616
+sS'592952984205729792'
+p18617
+S'Not Relevant'
+p18618
+sS'592841379413364736'
+p18619
+S'Not Relevant'
+p18620
+sS'592707049244467200'
+p18621
+S'Not Relevant'
+p18622
+sS'592820286828978177'
+p18623
+S'Not Relevant'
+p18624
+sS'592649477300719616'
+p18625
+S'Response Efforts'
+p18626
+sS'592740795771449346'
+p18627
+S'Not Relevant'
+p18628
+sS'592751592090300416'
+p18629
+S'Not Relevant'
+p18630
+sS'592169804133437440'
+p18631
+S'Not Relevant'
+p18632
+sS'591963995071873026'
+p18633
+S'Other relevant information'
+p18634
+sS'592155955770597376'
+p18635
+S'Not Relevant'
+p18636
+sS'593202953466544128'
+p18637
+S'Not Relevant'
+p18638
+sS'592633289208299521'
+p18639
+S'Response Efforts'
+p18640
+sS'593212204356272128'
+p18641
+S'Response Efforts'
+p18642
+sS'592810034452680704'
+p18643
+S'Not Relevant'
+p18644
+sS'591919963847307264'
+p18645
+S'Not related or irrelevant'
+p18646
+sS'591998562600366080'
+p18647
+S'Not Relevant'
+p18648
+sS'592072698626383872'
+p18649
+S'Other relevant information'
+p18650
+sS'592823866491326464'
+p18651
+S'Not Relevant'
+p18652
+sS'592668209729372160'
+p18653
+S'Not Relevant'
+p18654
+sS'592071343614590977'
+p18655
+S'Sympathy and emotional support'
+p18656
+sS'592991669911363584'
+p18657
+S'Not Relevant'
+p18658
+sS'593177821859708928'
+p18659
+S'Not Relevant'
+p18660
+sS'592082984066555907'
+p18661
+S'Sympathy and emotional support'
+p18662
+sS'592671150251057153'
+p18663
+S'Not Relevant'
+p18664
+sS'592819750041976832'
+p18665
+S'Not Relevant'
+p18666
+sS'592070148607062017'
+p18667
+S'Money'
+p18668
+sS'592593034941870080'
+p18669
+S'Other Relevant Information'
+p18670
+sS'593262695324856320'
+p18671
+S'Not Relevant'
+p18672
+sS'592841429665325056'
+p18673
+S'Not Relevant'
+p18674
+sS'592645550144495616'
+p18675
+S'Response Efforts'
+p18676
+sS'592276087377264640'
+p18677
+S'Not Relevant'
+p18678
+sS'592170273492705280'
+p18679
+S'Not Relevant'
+p18680
+sS'592907976027086849'
+p18681
+S'Not Relevant'
+p18682
+sS'592819044568461312'
+p18683
+S'Not Relevant'
+p18684
+sS'592686072922005507'
+p18685
+S'Not Relevant'
+p18686
+sS'592621138305388544'
+p18687
+S'Not Relevant'
+p18688
+sS'592976236529328128'
+p18689
+S'Not Relevant'
+p18690
+sS'592088982613135360'
+p18691
+S'Not Relevant'
+p18692
+sS'593019679616053248'
+p18693
+S'Not Relevant'
+p18694
+sS'591978174046740480'
+p18695
+S'Other relevant information'
+p18696
+sS'592589291672309763'
+p18697
+S'Not Relevant'
+p18698
+sS'591915839806373888'
+p18699
+S'Not related or irrelevant'
+p18700
+sS'592125130316341248'
+p18701
+S'Not Relevant'
+p18702
+sS'591918280757145601'
+p18703
+S'Not related or irrelevant'
+p18704
+sS'592615247120302080'
+p18705
+S'Response Efforts'
+p18706
+sS'592907725358702592'
+p18707
+S'Not Relevant'
+p18708
+sS'591914431639982082'
+p18709
+S'Injured or dead people'
+p18710
+sS'592778193490305026'
+p18711
+S'Not Relevant'
+p18712
+sS'592896972417294336'
+p18713
+S'Not Relevant'
+p18714
+sS'592590183356309504'
+p18715
+S'Not Relevant'
+p18716
+sS'592151429223059456'
+p18717
+S'Not Relevant'
+p18718
+sS'593013102678921216'
+p18719
+S'Urgent Needs'
+p18720
+sS'592635239790465026'
+p18721
+S'Not Relevant'
+p18722
+sS'592701522175205377'
+p18723
+S'Not Relevant'
+p18724
+sS'592159514167652352'
+p18725
+S'Infrastructure Damage'
+p18726
+sS'592878345899094016'
+p18727
+S'Not Relevant'
+p18728
+sS'592591673080832000'
+p18729
+S'Other Relevant Information'
+p18730
+sS'591915111998173184'
+p18731
+S'Sympathy and emotional support'
+p18732
+sS'592158488094117888'
+p18733
+S'Not Relevant'
+p18734
+sS'592658145291427841'
+p18735
+S'Not Relevant'
+p18736
+sS'592070647284531200'
+p18737
+S'Not related or irrelevant'
+p18738
+sS'592178299268304896'
+p18739
+S'Not Relevant'
+p18740
+sS'592593969080573952'
+p18741
+S'Other Relevant Information'
+p18742
+sS'593190230389166080'
+p18743
+S'Not Relevant'
+p18744
+sS'592916830374666240'
+p18745
+S'Not Relevant'
+p18746
+sS'592073928471805952'
+p18747
+S'Sympathy and emotional support'
+p18748
+sS'592673435857334272'
+p18749
+S'Not Relevant'
+p18750
+sS'592633281818001409'
+p18751
+S'Not Relevant'
+p18752
+sS'592989092725399554'
+p18753
+S'Not Relevant'
+p18754
+sS'592840519379775489'
+p18755
+S'Other Relevant Information'
+p18756
+sS'592687097707896833'
+p18757
+S'Other Relevant Information'
+p18758
+sS'592992792860844032'
+p18759
+S'Not Relevant'
+p18760
+sS'593258217343352832'
+p18761
+S'Not Relevant'
+p18762
+sS'592632844331175936'
+p18763
+S'Response Efforts'
+p18764
+sS'592068929926799360'
+p18765
+S'Sympathy and emotional support'
+p18766
+sS'592763732985516032'
+p18767
+S'Not Relevant'
+p18768
+sS'592684323557482496'
+p18769
+S'Not Relevant'
+p18770
+sS'592679727766368257'
+p18771
+S'Not Relevant'
+p18772
+sS'592757126034006017'
+p18773
+S'Not Relevant'
+p18774
+sS'592589771840466944'
+p18775
+S'Not Relevant'
+p18776
+sS'591913091278897152'
+p18777
+S'Not related or irrelevant'
+p18778
+sS'592884982466682880'
+p18779
+S'Not Relevant'
+p18780
+sS'592160168051277826'
+p18781
+S'Response Efforts'
+p18782
+sS'592072463615393794'
+p18783
+S'Injured or dead people'
+p18784
+sS'593001478404485121'
+p18785
+S'Not Relevant'
+p18786
+sS'592955673048125440'
+p18787
+S'Not Relevant'
+p18788
+sS'592690063911292929'
+p18789
+S'Not Relevant'
+p18790
+sS'592199964740210688'
+p18791
+S'Not Relevant'
+p18792
+sS'592739563300347904'
+p18793
+S'Not Relevant'
+p18794
+sS'592960280440610817'
+p18795
+S'Not Relevant'
+p18796
+sS'592760473491251200'
+p18797
+S'Not Relevant'
+p18798
+sS'592594069307592704'
+p18799
+S'Not Relevant'
+p18800
+sS'592068857252192256'
+p18801
+S'Sympathy and emotional support'
+p18802
+sS'592638287770034176'
+p18803
+S'Not Relevant'
+p18804
+sS'592588900729761792'
+p18805
+S'Urgent Needs'
+p18806
+sS'592806932118900736'
+p18807
+S'Not Relevant'
+p18808
+sS'592085999230005248'
+p18809
+S'Sympathy and emotional support'
+p18810
+sS'592700077375905795'
+p18811
+S'Response Efforts'
+p18812
+sS'592758122005004288'
+p18813
+S'Other Relevant Information'
+p18814
+sS'592685244303679488'
+p18815
+S'Not Relevant'
+p18816
+sS'592628984006873088'
+p18817
+S'Not Relevant'
+p18818
+sS'591963567387254786'
+p18819
+S'Sympathy and emotional support'
+p18820
+sS'591910468165337089'
+p18821
+S'Sympathy and emotional support'
+p18822
+sS'592612797781008384'
+p18823
+S'Response Efforts'
+p18824
+sS'592631142735486976'
+p18825
+S'Not Relevant'
+p18826
+sS'592937076124815360'
+p18827
+S'Other Relevant Information'
+p18828
+sS'592930954768953344'
+p18829
+S'Not Relevant'
+p18830
+sS'592837657597739008'
+p18831
+S'Not Relevant'
+p18832
+sS'592589073392340992'
+p18833
+S'Infrastructure Damage'
+p18834
+sS'592633519752417280'
+p18835
+S'Not Relevant'
+p18836
+sS'592826312517165057'
+p18837
+S'Not Relevant'
+p18838
+sS'592649154511306752'
+p18839
+S'Response Efforts'
+p18840
+sS'592784131165167617'
+p18841
+S'Not Relevant'
+p18842
+sS'592700484273709057'
+p18843
+S'Not Relevant'
+p18844
+sS'592589970910662656'
+p18845
+S'Not Relevant'
+p18846
+sS'591915642766393344'
+p18847
+S'Sympathy and emotional support'
+p18848
+sS'592686666315337728'
+p18849
+S'Not Relevant'
+p18850
+sS'592841687178838016'
+p18851
+S'Not Relevant'
+p18852
+sS'592704606121172992'
+p18853
+S'Not Relevant'
+p18854
+sS'592937268022738944'
+p18855
+S'Not Relevant'
+p18856
+sS'592169698529148931'
+p18857
+S'Not Relevant'
+p18858
+sS'592919520727146496'
+p18859
+S'Not Relevant'
+p18860
+sS'592832446044971008'
+p18861
+S'Not Relevant'
+p18862
+sS'592749902301634560'
+p18863
+S'Not Relevant'
+p18864
+sS'592838697596379136'
+p18865
+S'Not Relevant'
+p18866
+sS'592694601196109824'
+p18867
+S'Not Relevant'
+p18868
+sS'592756837566545922'
+p18869
+S'Not Relevant'
+p18870
+sS'592594947292983297'
+p18871
+S'Other Relevant Information'
+p18872
+sS'592589183975354368'
+p18873
+S'Not Relevant'
+p18874
+sS'592343208765628416'
+p18875
+S'Not Relevant'
+p18876
+sS'593005086474936320'
+p18877
+S'Not Relevant'
+p18878
+sS'592665845253447680'
+p18879
+S'Response Efforts'
+p18880
+sS'592846753092784128'
+p18881
+S'Other Relevant Information'
+p18882
+sS'592900645331542016'
+p18883
+S'Not Relevant'
+p18884
+sS'592953128393248768'
+p18885
+S'Other Relevant Information'
+p18886
+sS'592621105732431872'
+p18887
+S'Not Relevant'
+p18888
+sS'592770195703341058'
+p18889
+S'Not Relevant'
+p18890
+sS'592802597855174656'
+p18891
+S'Not Relevant'
+p18892
+sS'592748300484386816'
+p18893
+S'Not Relevant'
+p18894
+sS'593025037361381377'
+p18895
+S'Not Relevant'
+p18896
+sS'592593398835576832'
+p18897
+S'Response Efforts'
+p18898
+sS'592592792964075521'
+p18899
+S'Not Relevant'
+p18900
+sS'592916073084624897'
+p18901
+S'Not Relevant'
+p18902
+sS'592704371198185472'
+p18903
+S'Not Relevant'
+p18904
+sS'592914271870267392'
+p18905
+S'Not Relevant'
+p18906
+sS'592801910928908289'
+p18907
+S'Not Relevant'
+p18908
+sS'592821178986799106'
+p18909
+S'Not Relevant'
+p18910
+sS'592825604157890560'
+p18911
+S'Other Relevant Information'
+p18912
+sS'592166416297648128'
+p18913
+S'Other Relevant Information'
+p18914
+sS'592591563198431232'
+p18915
+S'Not Relevant'
+p18916
+sS'592695672324890626'
+p18917
+S'Not Relevant'
+p18918
+sS'591995228044722177'
+p18919
+S'Response Efforts'
+p18920
+sS'592593075396050944'
+p18921
+S'Not Relevant'
+p18922
+sS'592777870650519553'
+p18923
+S'Not Relevant'
+p18924
+sS'592280132506808320'
+p18925
+S'Not Relevant'
+p18926
+sS'592648428162818048'
+p18927
+S'Not Relevant'
+p18928
+sS'591963016414924801'
+p18929
+S'Other relevant information'
+p18930
+sS'592858199600029696'
+p18931
+S'Response Efforts'
+p18932
+sS'592968637239074816'
+p18933
+S'Not Relevant'
+p18934
+sS'593181839352799233'
+p18935
+S'Not Relevant'
+p18936
+sS'592198061163708416'
+p18937
+S'Not Relevant'
+p18938
+sS'591910878263508992'
+p18939
+S'Sympathy and emotional support'
+p18940
+s.

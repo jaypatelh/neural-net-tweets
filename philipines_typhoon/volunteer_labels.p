@@ -1,0 +1,38662 @@
+(dp0
+S'541827286744330240'
+p1
+S'Not Informative'
+p2
+sS'541921219625246720'
+p3
+S'Other Relevant Information'
+p4
+sS'541901347159687168'
+p5
+S'Not Informative'
+p6
+sS'541448871537573888'
+p7
+S'Not Informative'
+p8
+sS'541977065432428546'
+p9
+S'Not Informative'
+p10
+sS'541806629268619264'
+p11
+S'Not Informative'
+p12
+sS'541796731340345344'
+p13
+S'Other Relevant Information'
+p14
+sS'541805920565477377'
+p15
+S'Other Relevant Information'
+p16
+sS'541982579214520320'
+p17
+S'Other Relevant Information'
+p18
+sS'541557417335455744'
+p19
+S'Not Informative'
+p20
+sS'541544140534603776'
+p21
+S'Not Informative'
+p22
+sS'541576068059365376'
+p23
+S'Not Informative'
+p24
+sS'541533381461176322'
+p25
+S'Not Informative'
+p26
+sS'541616919363604482'
+p27
+S'Not Informative'
+p28
+sS'541604236706848768'
+p29
+S'Not Informative'
+p30
+sS'541896902443565057'
+p31
+S'Not Informative'
+p32
+sS'542325839174463488'
+p33
+S'Humanitarian Aid Provided'
+p34
+sS'541959357496188928'
+p35
+S'Humanitarian Aid Provided'
+p36
+sS'541624289481744384'
+p37
+S'Not Informative'
+p38
+sS'541795930920345600'
+p39
+S'Other Relevant Information'
+p40
+sS'541139887882526720'
+p41
+S'Infrastructure Damage'
+p42
+sS'541843179842973696'
+p43
+S'Not Informative'
+p44
+sS'541580223322415104'
+p45
+S'Not Informative'
+p46
+sS'541741480579067904'
+p47
+S'Not Informative'
+p48
+sS'541673815411937280'
+p49
+S'Not Informative'
+p50
+sS'541734554092859393'
+p51
+S'Not Informative'
+p52
+sS'541474318916812800'
+p53
+S'Not Informative'
+p54
+sS'542318909546713088'
+p55
+S'Not Informative'
+p56
+sS'542252789577957377'
+p57
+S'Other Relevant Information'
+p58
+sS'541789316859822080'
+p59
+S'Not Informative'
+p60
+sS'541377309924544512'
+p61
+S'Not Informative'
+p62
+sS'541949980416552960'
+p63
+S'Not Informative'
+p64
+sS'541765308554285058'
+p65
+S'Not Informative'
+p66
+sS'541767019230556160'
+p67
+S'Not Informative'
+p68
+sS'541740185357021185'
+p69
+S'Not Informative'
+p70
+sS'541659352273530880'
+p71
+S'Not Informative'
+p72
+sS'541669003635085312'
+p73
+S'Not Informative'
+p74
+sS'541770708465221632'
+p75
+S'Not Informative'
+p76
+sS'541505812439379968'
+p77
+S'Other Relevant Information'
+p78
+sS'541872644191035393'
+p79
+S'Not Informative'
+p80
+sS'541465564691312640'
+p81
+S'Not Informative'
+p82
+sS'541729096091185152'
+p83
+S'Not Informative'
+p84
+sS'541456167780618240'
+p85
+S'Humanitarian Aid Provided'
+p86
+sS'541305935864406016'
+p87
+S'Not Informative'
+p88
+sS'541822356318986240'
+p89
+S'Not Informative'
+p90
+sS'541607738824851456'
+p91
+S'Not Informative'
+p92
+sS'541348304592707584'
+p93
+S'Other Relevant Information'
+p94
+sS'541549728543289344'
+p95
+S'Not Informative'
+p96
+sS'541486285827751936'
+p97
+S'Not Informative'
+p98
+sS'541538189815451648'
+p99
+S'Infrastructure Damage'
+p100
+sS'541973798396784641'
+p101
+S'Not Informative'
+p102
+sS'541529434109394945'
+p103
+S'Not Informative'
+p104
+sS'542205335100870656'
+p105
+S'Other Relevant Information'
+p106
+sS'541235089493864448'
+p107
+S'Humanitarian Aid Provided'
+p108
+sS'541593482943803392'
+p109
+S'Not Informative'
+p110
+sS'541935376764792832'
+p111
+S'Not Informative'
+p112
+sS'541550015135879168'
+p113
+S'Not Informative'
+p114
+sS'542176790932774912'
+p115
+S'Not Informative'
+p116
+sS'541510531345948672'
+p117
+S'Not Informative'
+p118
+sS'542412244974182400'
+p119
+S'Not Informative'
+p120
+sS'541536666188382208'
+p121
+S'Other Relevant Information'
+p122
+sS'541873347848441856'
+p123
+S'Not Informative'
+p124
+sS'541563819579826176'
+p125
+S'Not Informative'
+p126
+sS'541959125274337280'
+p127
+S'Not Informative'
+p128
+sS'541432366200553472'
+p129
+S'Not Informative'
+p130
+sS'541459329577021440'
+p131
+S'Not Informative'
+p132
+sS'541542219241771008'
+p133
+S'Not Informative'
+p134
+sS'542259323045695489'
+p135
+S'Infrastructure Damage'
+p136
+sS'542385884444643330'
+p137
+S'Infrastructure Damage'
+p138
+sS'541464681626750977'
+p139
+S'Humanitarian Aid Provided'
+p140
+sS'541417337060986880'
+p141
+S'Not Informative'
+p142
+sS'541272533459140608'
+p143
+S'Infrastructure Damage'
+p144
+sS'542325054940659712'
+p145
+S'Not Informative'
+p146
+sS'541637911326625793'
+p147
+S'Not Informative'
+p148
+sS'541275948369203200'
+p149
+S'Not Informative'
+p150
+sS'541622729451917312'
+p151
+S'Not Informative'
+p152
+sS'541922477828358146'
+p153
+S'Not Informative'
+p154
+sS'541863648214257664'
+p155
+S'Not Informative'
+p156
+sS'542212086529409024'
+p157
+S'Other Relevant Information'
+p158
+sS'541751716598018048'
+p159
+S'Not Informative'
+p160
+sS'541577205927534593'
+p161
+S'Not Informative'
+p162
+sS'541340040409120768'
+p163
+S'Other Relevant Information'
+p164
+sS'541388610327429120'
+p165
+S'Other Relevant Information'
+p166
+sS'541140509712846848'
+p167
+S'Other Relevant Information'
+p168
+sS'541604746692288513'
+p169
+S'Not Informative'
+p170
+sS'541941832582979585'
+p171
+S'Not Informative'
+p172
+sS'541770851293483008'
+p173
+S'Not Informative'
+p174
+sS'542119157529985026'
+p175
+S'Other Relevant Information'
+p176
+sS'541586214982135810'
+p177
+S'Not Informative'
+p178
+sS'541374680876077056'
+p179
+S'Not Informative'
+p180
+sS'541868830398889984'
+p181
+S'Humanitarian Aid Provided'
+p182
+sS'541516311839268864'
+p183
+S'Other Relevant Information'
+p184
+sS'542280557883695105'
+p185
+S'Other Relevant Information'
+p186
+sS'541943145018040320'
+p187
+S'Not Informative'
+p188
+sS'542296965913276416'
+p189
+S'Other Relevant Information'
+p190
+sS'541494804652109824'
+p191
+S'Other Relevant Information'
+p192
+sS'541935406548525056'
+p193
+S'Humanitarian Aid Provided'
+p194
+sS'541949783795957760'
+p195
+S'Not Informative'
+p196
+sS'541974292661932032'
+p197
+S'Not Informative'
+p198
+sS'541562344552165377'
+p199
+S'Not Informative'
+p200
+sS'542313818093654016'
+p201
+S'Not Informative'
+p202
+sS'541955102882689024'
+p203
+S'Not Informative'
+p204
+sS'541429166819016706'
+p205
+S'Not Informative'
+p206
+sS'541938695381590016'
+p207
+S'Not Informative'
+p208
+sS'541849594896728064'
+p209
+S'Not Informative'
+p210
+sS'541574970162151424'
+p211
+S'Not Informative'
+p212
+sS'541457835670790144'
+p213
+S'Not Informative'
+p214
+sS'541777249091858433'
+p215
+S'Not Informative'
+p216
+sS'541817569124966400'
+p217
+S'Not Informative'
+p218
+sS'542236927185797120'
+p219
+S'Humanitarian Aid Provided'
+p220
+sS'542005276908331008'
+p221
+S'Not Informative'
+p222
+sS'541439610392690688'
+p223
+S'Not Informative'
+p224
+sS'541506469267386368'
+p225
+S'Not Informative'
+p226
+sS'541780415775002627'
+p227
+S'Not Informative'
+p228
+sS'541901393796149248'
+p229
+S'Not Informative'
+p230
+sS'541461623022436353'
+p231
+S'Humanitarian Aid Provided'
+p232
+sS'541763722398543872'
+p233
+S'Not Informative'
+p234
+sS'541662212843405312'
+p235
+S'Not Informative'
+p236
+sS'541574855330516992'
+p237
+S'Other Relevant Information'
+p238
+sS'541799668200382464'
+p239
+S'Not Informative'
+p240
+sS'541220505253347328'
+p241
+S'Other Relevant Information'
+p242
+sS'541742141232664577'
+p243
+S'Not Informative'
+p244
+sS'541577465328463873'
+p245
+S'Not Informative'
+p246
+sS'541309857820069888'
+p247
+S'Not Informative'
+p248
+sS'541440974543519744'
+p249
+S'Humanitarian Aid Provided'
+p250
+sS'541834113636761600'
+p251
+S'Not Informative'
+p252
+sS'542295211326840832'
+p253
+S'Other Relevant Information'
+p254
+sS'541848461868412928'
+p255
+S'Not Informative'
+p256
+sS'541304767125811200'
+p257
+S'Other Relevant Information'
+p258
+sS'541417275572514819'
+p259
+S'Not Informative'
+p260
+sS'542333717658599424'
+p261
+S'Other Relevant Information'
+p262
+sS'541551653782949889'
+p263
+S'Not Informative'
+p264
+sS'541987820743569408'
+p265
+S'Not Informative'
+p266
+sS'541564355746091008'
+p267
+S'Not Informative'
+p268
+sS'541466602794131457'
+p269
+S'Not Informative'
+p270
+sS'541693807595888642'
+p271
+S'Not Informative'
+p272
+sS'541883866370174976'
+p273
+S'Not Informative'
+p274
+sS'541616784374108160'
+p275
+S'Not Informative'
+p276
+sS'541501147949703168'
+p277
+S'Not Informative'
+p278
+sS'541502394148724736'
+p279
+S'Other Relevant Information'
+p280
+sS'541457605944553474'
+p281
+S'Not Informative'
+p282
+sS'541968588652167168'
+p283
+S'Not Informative'
+p284
+sS'541549314628390912'
+p285
+S'Not Informative'
+p286
+sS'541541280942022656'
+p287
+S'Not Informative'
+p288
+sS'541374469139623937'
+p289
+S'Not Informative'
+p290
+sS'541750908825391104'
+p291
+S'Not Informative'
+p292
+sS'541594232872382465'
+p293
+S'Not Informative'
+p294
+sS'541704107153956864'
+p295
+S'Not Informative'
+p296
+sS'541949345558319104'
+p297
+S'Not Informative'
+p298
+sS'541491159776784384'
+p299
+S'Not Informative'
+p300
+sS'541452161691832321'
+p301
+S'Not Informative'
+p302
+sS'541517698736205826'
+p303
+S'Not Informative'
+p304
+sS'542235957538205696'
+p305
+S'Not Informative'
+p306
+sS'542354434794061825'
+p307
+S'Not Informative'
+p308
+sS'542009700967931904'
+p309
+S'Not Informative'
+p310
+sS'541533090670460929'
+p311
+S'Other Relevant Information'
+p312
+sS'542014504213565440'
+p313
+S'Not Informative'
+p314
+sS'541901354357116928'
+p315
+S'Not Informative'
+p316
+sS'541945860918349826'
+p317
+S'Not Informative'
+p318
+sS'541850340773998593'
+p319
+S'Not Informative'
+p320
+sS'541676078306033664'
+p321
+S'Other Relevant Information'
+p322
+sS'541630654832984065'
+p323
+S'Not Informative'
+p324
+sS'541524091275333632'
+p325
+S'Not Informative'
+p326
+sS'541387452540129280'
+p327
+S'Not Informative'
+p328
+sS'541951797338722305'
+p329
+S'Not Informative'
+p330
+sS'541675866036920321'
+p331
+S'Not Informative'
+p332
+sS'541810477551329281'
+p333
+S'Not Informative'
+p334
+sS'541984962808123392'
+p335
+S'Not Informative'
+p336
+sS'541461261234364417'
+p337
+S'Other Relevant Information'
+p338
+sS'541970086504845313'
+p339
+S'Not Informative'
+p340
+sS'541978864017100801'
+p341
+S'Not Informative'
+p342
+sS'541958446430420992'
+p343
+S'Not Informative'
+p344
+sS'541507369738330112'
+p345
+S'Other Relevant Information'
+p346
+sS'541557622466297856'
+p347
+S'Not Informative'
+p348
+sS'541305555998896128'
+p349
+S'Other Relevant Information'
+p350
+sS'541803870905565184'
+p351
+S'Other Relevant Information'
+p352
+sS'542352258218749953'
+p353
+S'Not Informative'
+p354
+sS'541937099440521216'
+p355
+S'Infrastructure Damage'
+p356
+sS'541732375772680192'
+p357
+S'Not Informative'
+p358
+sS'541627533348061184'
+p359
+S'Not Informative'
+p360
+sS'541817409103863808'
+p361
+S'Not Informative'
+p362
+sS'541987247504244737'
+p363
+S'Other Relevant Information'
+p364
+sS'542324650483544064'
+p365
+S'Other Relevant Information'
+p366
+sS'541969997505916929'
+p367
+S'Not Informative'
+p368
+sS'541169405367816193'
+p369
+S'Not Informative'
+p370
+sS'541101509673369600'
+p371
+S'Not Informative'
+p372
+sS'541991216749883392'
+p373
+S'Humanitarian Aid Provided'
+p374
+sS'541979202694955008'
+p375
+S'Not Informative'
+p376
+sS'541626816277266432'
+p377
+S'Not Informative'
+p378
+sS'542173217675165696'
+p379
+S'Not Informative'
+p380
+sS'542374581420298240'
+p381
+S'Not Informative'
+p382
+sS'541377406926200834'
+p383
+S'Not Informative'
+p384
+sS'541510647054217216'
+p385
+S'Not Informative'
+p386
+sS'541524822623535104'
+p387
+S'Other Relevant Information'
+p388
+sS'541728538567909376'
+p389
+S'Not Informative'
+p390
+sS'542381213030559744'
+p391
+S'Other Relevant Information'
+p392
+sS'541483361899143168'
+p393
+S'Not Informative'
+p394
+sS'541530975092498434'
+p395
+S'Infrastructure Damage'
+p396
+sS'541380689774391296'
+p397
+S'Other Relevant Information'
+p398
+sS'541157559885787136'
+p399
+S'Other Relevant Information'
+p400
+sS'541915660222078976'
+p401
+S'Not Informative'
+p402
+sS'541737646997766145'
+p403
+S'Not Informative'
+p404
+sS'542121785609580544'
+p405
+S'Not Informative'
+p406
+sS'541955607914233857'
+p407
+S'Not Informative'
+p408
+sS'542324742682726401'
+p409
+S'Humanitarian Aid Provided'
+p410
+sS'541734688134414336'
+p411
+S'Other Relevant Information'
+p412
+sS'541456913888591872'
+p413
+S'Not Informative'
+p414
+sS'541588275794677760'
+p415
+S'Not Informative'
+p416
+sS'541996586641793026'
+p417
+S'Not Informative'
+p418
+sS'541941101397954562'
+p419
+S'Other Relevant Information'
+p420
+sS'541632090077274112'
+p421
+S'Not Informative'
+p422
+sS'541263010967199744'
+p423
+S'Other Relevant Information'
+p424
+sS'542187085696737280'
+p425
+S'Other Relevant Information'
+p426
+sS'541614440123092992'
+p427
+S'Not Informative'
+p428
+sS'541648329482838016'
+p429
+S'Not Informative'
+p430
+sS'541582790995611648'
+p431
+S'Not Informative'
+p432
+sS'541960587505172480'
+p433
+S'Not Informative'
+p434
+sS'541965611744890880'
+p435
+S'Other Relevant Information'
+p436
+sS'541469581630382080'
+p437
+S'Not Informative'
+p438
+sS'541572344611733504'
+p439
+S'Not Informative'
+p440
+sS'541614682201550848'
+p441
+S'Other Relevant Information'
+p442
+sS'541710405333417985'
+p443
+S'Other Relevant Information'
+p444
+sS'541958507126202368'
+p445
+S'Not Informative'
+p446
+sS'541560297413038081'
+p447
+S'Not Informative'
+p448
+sS'541693113345925120'
+p449
+S'Not Informative'
+p450
+sS'541350399400083456'
+p451
+S'Humanitarian Aid Provided'
+p452
+sS'541445806532747265'
+p453
+S'Not Informative'
+p454
+sS'541727669717839872'
+p455
+S'Not Informative'
+p456
+sS'542015198798696448'
+p457
+S'Not Informative'
+p458
+sS'541445576391274496'
+p459
+S'Not Informative'
+p460
+sS'541868539347730434'
+p461
+S'Not Informative'
+p462
+sS'541848239465451520'
+p463
+S'Not Informative'
+p464
+sS'541489697868890112'
+p465
+S'Not Informative'
+p466
+sS'541851785195814912'
+p467
+S'Not Informative'
+p468
+sS'542283616932601857'
+p469
+S'Other Relevant Information'
+p470
+sS'541145316586958848'
+p471
+S'Other Relevant Information'
+p472
+sS'541626780046471169'
+p473
+S'Not Informative'
+p474
+sS'541654874635907072'
+p475
+S'Other Relevant Information'
+p476
+sS'541542225843220481'
+p477
+S'Not Informative'
+p478
+sS'541401306670186498'
+p479
+S'Not Informative'
+p480
+sS'542021913891987456'
+p481
+S'Not Informative'
+p482
+sS'541531641840033793'
+p483
+S'Not Informative'
+p484
+sS'541527106375528448'
+p485
+S'Other Relevant Information'
+p486
+sS'541790399245733888'
+p487
+S'Not Informative'
+p488
+sS'541378828719755264'
+p489
+S'Not Informative'
+p490
+sS'541969087962685441'
+p491
+S'Not Informative'
+p492
+sS'541896099187789824'
+p493
+S'Other Relevant Information'
+p494
+sS'541922999176544256'
+p495
+S'Not Informative'
+p496
+sS'541474453905895424'
+p497
+S'Not Informative'
+p498
+sS'541856044175994880'
+p499
+S'Not Informative'
+p500
+sS'541144872694992896'
+p501
+S'Not Informative'
+p502
+sS'541944429271986176'
+p503
+S'Not Informative'
+p504
+sS'541713074559127553'
+p505
+S'Not Informative'
+p506
+sS'542231885146226688'
+p507
+S'Not Informative'
+p508
+sS'541295036143370240'
+p509
+S'Other Relevant Information'
+p510
+sS'541979126890889216'
+p511
+S'Not Informative'
+p512
+sS'541605306967400450'
+p513
+S'Not Informative'
+p514
+sS'541560492444372992'
+p515
+S'Other Relevant Information'
+p516
+sS'541590987244437504'
+p517
+S'Humanitarian Aid Provided'
+p518
+sS'541692420325650432'
+p519
+S'Not Informative'
+p520
+sS'541575040681406464'
+p521
+S'Other Relevant Information'
+p522
+sS'541519311823585280'
+p523
+S'Not Informative'
+p524
+sS'541142892547297280'
+p525
+S'Not Informative'
+p526
+sS'542262726970458113'
+p527
+S'Infrastructure Damage'
+p528
+sS'541902165594214402'
+p529
+S'Not Informative'
+p530
+sS'541800021532749824'
+p531
+S'Other Relevant Information'
+p532
+sS'541592358744494080'
+p533
+S'Humanitarian Aid Provided'
+p534
+sS'541713011719667712'
+p535
+S'Not Informative'
+p536
+sS'542117121509957632'
+p537
+S'Not Informative'
+p538
+sS'541333755395186689'
+p539
+S'Other Relevant Information'
+p540
+sS'542241029894963201'
+p541
+S'Other Relevant Information'
+p542
+sS'541324243409965056'
+p543
+S'Other Relevant Information'
+p544
+sS'541474843753848834'
+p545
+S'Other Relevant Information'
+p546
+sS'541699753835106304'
+p547
+S'Not Informative'
+p548
+sS'541168575223173120'
+p549
+S'Not Informative'
+p550
+sS'542034640244994048'
+p551
+S'Other Relevant Information'
+p552
+sS'541676070307905537'
+p553
+S'Other Relevant Information'
+p554
+sS'542023924972675072'
+p555
+S'Not Informative'
+p556
+sS'542333646666231808'
+p557
+S'Infrastructure Damage'
+p558
+sS'541538126229803009'
+p559
+S'Not Informative'
+p560
+sS'541783323240984577'
+p561
+S'Not Informative'
+p562
+sS'541968693303840768'
+p563
+S'Not Informative'
+p564
+sS'542327564094947330'
+p565
+S'Not Informative'
+p566
+sS'541532015447646208'
+p567
+S'Not Informative'
+p568
+sS'541953793496068096'
+p569
+S'Other Relevant Information'
+p570
+sS'541521200993038336'
+p571
+S'Other Relevant Information'
+p572
+sS'541458447431376896'
+p573
+S'Humanitarian Aid Provided'
+p574
+sS'541275132996501504'
+p575
+S'Not Informative'
+p576
+sS'541903788941279234'
+p577
+S'Not Informative'
+p578
+sS'541503460735074304'
+p579
+S'Not Informative'
+p580
+sS'541435326556676097'
+p581
+S'Not Informative'
+p582
+sS'541457422481514496'
+p583
+S'Not Informative'
+p584
+sS'541836102177267713'
+p585
+S'Not Informative'
+p586
+sS'541908246915579904'
+p587
+S'Not Informative'
+p588
+sS'541955341907288065'
+p589
+S'Other Relevant Information'
+p590
+sS'541565314690220032'
+p591
+S'Infrastructure Damage'
+p592
+sS'541960290871410689'
+p593
+S'Other Relevant Information'
+p594
+sS'541583404169326592'
+p595
+S'Not Informative'
+p596
+sS'541482256066678785'
+p597
+S'Not Informative'
+p598
+sS'542192809260769280'
+p599
+S'Not Informative'
+p600
+sS'541220190134874112'
+p601
+S'Other Relevant Information'
+p602
+sS'541587538347950082'
+p603
+S'Not Informative'
+p604
+sS'541748738637586432'
+p605
+S'Not Informative'
+p606
+sS'541496367319773184'
+p607
+S'Other Relevant Information'
+p608
+sS'541920491939045376'
+p609
+S'Not Informative'
+p610
+sS'541765112550281216'
+p611
+S'Not Informative'
+p612
+sS'541835885096890368'
+p613
+S'Not Informative'
+p614
+sS'541146987660189696'
+p615
+S'Other Relevant Information'
+p616
+sS'541596160067002369'
+p617
+S'Other Relevant Information'
+p618
+sS'541764338336280576'
+p619
+S'Not Informative'
+p620
+sS'542034201009078272'
+p621
+S'Not Informative'
+p622
+sS'541502633593171969'
+p623
+S'Not Informative'
+p624
+sS'541815000608669696'
+p625
+S'Not Informative'
+p626
+sS'541382649378381824'
+p627
+S'Not Informative'
+p628
+sS'541142262160187392'
+p629
+S'Not Informative'
+p630
+sS'541180220674297857'
+p631
+S'Other Relevant Information'
+p632
+sS'541896610389565440'
+p633
+S'Not Informative'
+p634
+sS'541486378341502976'
+p635
+S'Not Informative'
+p636
+sS'541963469935759360'
+p637
+S'Other Relevant Information'
+p638
+sS'542384663424020480'
+p639
+S'Other Relevant Information'
+p640
+sS'541985784903909376'
+p641
+S'Not Informative'
+p642
+sS'541749807035842560'
+p643
+S'Requests for Help/Needs'
+p644
+sS'541710282536398848'
+p645
+S'Not Informative'
+p646
+sS'541471959096102912'
+p647
+S'Not Informative'
+p648
+sS'541295229261725698'
+p649
+S'Not Informative'
+p650
+sS'541622506919313409'
+p651
+S'Other Relevant Information'
+p652
+sS'541748659616886784'
+p653
+S'Not Informative'
+p654
+sS'541532989566365696'
+p655
+S'Not Informative'
+p656
+sS'541937945737842688'
+p657
+S'Not Informative'
+p658
+sS'541467451284660224'
+p659
+S'Other Relevant Information'
+p660
+sS'541622531573436417'
+p661
+S'Not Informative'
+p662
+sS'542153449245126657'
+p663
+S'Requests for Help/Needs'
+p664
+sS'541897192156327936'
+p665
+S'Not Informative'
+p666
+sS'541643915993284608'
+p667
+S'Infrastructure Damage'
+p668
+sS'541618195035987969'
+p669
+S'Not Informative'
+p670
+sS'541430161128714240'
+p671
+S'Other Relevant Information'
+p672
+sS'541946837742010369'
+p673
+S'Not Informative'
+p674
+sS'542346393709723649'
+p675
+S'Not Informative'
+p676
+sS'541369450076053504'
+p677
+S'Other Relevant Information'
+p678
+sS'541325036523499521'
+p679
+S'Not Informative'
+p680
+sS'541518424241754112'
+p681
+S'Not Informative'
+p682
+sS'541299301041717248'
+p683
+S'Not Informative'
+p684
+sS'542314704652087296'
+p685
+S'Other Relevant Information'
+p686
+sS'541799797993537536'
+p687
+S'Not Informative'
+p688
+sS'541928465625149440'
+p689
+S'Not Informative'
+p690
+sS'541478074160668673'
+p691
+S'Not Informative'
+p692
+sS'541808148349460480'
+p693
+S'Other Relevant Information'
+p694
+sS'541280769269047297'
+p695
+S'Other Relevant Information'
+p696
+sS'541999045992906752'
+p697
+S'Not Informative'
+p698
+sS'541819622966558721'
+p699
+S'Not Informative'
+p700
+sS'541583222082371584'
+p701
+S'Not Informative'
+p702
+sS'541717850810253312'
+p703
+S'Not Informative'
+p704
+sS'541490684989939712'
+p705
+S'Not Informative'
+p706
+sS'541813516764590081'
+p707
+S'Not Informative'
+p708
+sS'541997267943559168'
+p709
+S'Other Relevant Information'
+p710
+sS'541831902462623744'
+p711
+S'Not Informative'
+p712
+sS'542126280087322624'
+p713
+S'Not Informative'
+p714
+sS'541396327767109632'
+p715
+S'Not Informative'
+p716
+sS'541405598479548416'
+p717
+S'Not Informative'
+p718
+sS'542132451649146880'
+p719
+S'Not Informative'
+p720
+sS'541940530775465984'
+p721
+S'Other Relevant Information'
+p722
+sS'541719874603876353'
+p723
+S'Not Informative'
+p724
+sS'541947763160670208'
+p725
+S'Not Informative'
+p726
+sS'541404491283959810'
+p727
+S'Other Relevant Information'
+p728
+sS'541636713161191425'
+p729
+S'Other Relevant Information'
+p730
+sS'541140606303875072'
+p731
+S'Other Relevant Information'
+p732
+sS'541496340870463488'
+p733
+S'Other Relevant Information'
+p734
+sS'541397262681661441'
+p735
+S'Not Informative'
+p736
+sS'541641505048240128'
+p737
+S'Not Informative'
+p738
+sS'541369149004320768'
+p739
+S'Not Informative'
+p740
+sS'542395550809587712'
+p741
+S'Other Relevant Information'
+p742
+sS'541379039617765377'
+p743
+S'Not Informative'
+p744
+sS'541595849847885824'
+p745
+S'Not Informative'
+p746
+sS'541545879761465345'
+p747
+S'Not Informative'
+p748
+sS'541411909522575360'
+p749
+S'Humanitarian Aid Provided'
+p750
+sS'541939707324944384'
+p751
+S'Not Informative'
+p752
+sS'541789546145255425'
+p753
+S'Other Relevant Information'
+p754
+sS'541541147730931712'
+p755
+S'Not Informative'
+p756
+sS'541975479176011776'
+p757
+S'Not Informative'
+p758
+sS'541947087651602434'
+p759
+S'Other Relevant Information'
+p760
+sS'541768517519831040'
+p761
+S'Not Informative'
+p762
+sS'541984310442852352'
+p763
+S'Not Informative'
+p764
+sS'541408820543512577'
+p765
+S'Not Informative'
+p766
+sS'541649700789972993'
+p767
+S'Not Informative'
+p768
+sS'541331130952474624'
+p769
+S'Other Relevant Information'
+p770
+sS'541922266276044800'
+p771
+S'Not Informative'
+p772
+sS'541555358934638593'
+p773
+S'Not Informative'
+p774
+sS'541567450362703873'
+p775
+S'Humanitarian Aid Provided'
+p776
+sS'541457266268844032'
+p777
+S'Humanitarian Aid Provided'
+p778
+sS'541923784307924994'
+p779
+S'Not Informative'
+p780
+sS'541812944951345152'
+p781
+S'Other Relevant Information'
+p782
+sS'541559603331604481'
+p783
+S'Not Informative'
+p784
+sS'541472533724151809'
+p785
+S'Other Relevant Information'
+p786
+sS'541459075016306688'
+p787
+S'Not Informative'
+p788
+sS'541949264981938177'
+p789
+S'Not Informative'
+p790
+sS'541484541601255424'
+p791
+S'Humanitarian Aid Provided'
+p792
+sS'541369642187767809'
+p793
+S'Not Informative'
+p794
+sS'541460086548213761'
+p795
+S'Not Informative'
+p796
+sS'541417319184883712'
+p797
+S'Humanitarian Aid Provided'
+p798
+sS'541470163078348800'
+p799
+S'Not Informative'
+p800
+sS'541481110736101376'
+p801
+S'Not Informative'
+p802
+sS'541805696124485633'
+p803
+S'Other Relevant Information'
+p804
+sS'541617585091911680'
+p805
+S'Not Informative'
+p806
+sS'541485241475424256'
+p807
+S'Not Informative'
+p808
+sS'541409395448356866'
+p809
+S'Not Informative'
+p810
+sS'541735649204641792'
+p811
+S'Not Informative'
+p812
+sS'542183497360613376'
+p813
+S'Not Informative'
+p814
+sS'541829901855096832'
+p815
+S'Not Informative'
+p816
+sS'542205726123249664'
+p817
+S'Other Relevant Information'
+p818
+sS'542315432384819200'
+p819
+S'Humanitarian Aid Provided'
+p820
+sS'541943174726295552'
+p821
+S'Not Informative'
+p822
+sS'541465912428097536'
+p823
+S'Other Relevant Information'
+p824
+sS'541913763754962944'
+p825
+S'Not Informative'
+p826
+sS'541215846127783936'
+p827
+S'Other Relevant Information'
+p828
+sS'542226061845463040'
+p829
+S'Not Informative'
+p830
+sS'542256142584250369'
+p831
+S'Not Informative'
+p832
+sS'541844051822010368'
+p833
+S'Not Informative'
+p834
+sS'541569690607165441'
+p835
+S'Not Informative'
+p836
+sS'541707881679454208'
+p837
+S'Other Relevant Information'
+p838
+sS'541814054319169536'
+p839
+S'Other Relevant Information'
+p840
+sS'541480320634454016'
+p841
+S'Not Informative'
+p842
+sS'541187495468077056'
+p843
+S'Humanitarian Aid Provided'
+p844
+sS'541497857451495424'
+p845
+S'Other Relevant Information'
+p846
+sS'541377205012406272'
+p847
+S'Not Informative'
+p848
+sS'541474715500810240'
+p849
+S'Not Informative'
+p850
+sS'542012199221215232'
+p851
+S'Not Informative'
+p852
+sS'542169162916048898'
+p853
+S'Not Informative'
+p854
+sS'541416916527489024'
+p855
+S'Not Informative'
+p856
+sS'541495169561133056'
+p857
+S'Not Informative'
+p858
+sS'541101511455961089'
+p859
+S'Not Informative'
+p860
+sS'541457664316690432'
+p861
+S'Not Informative'
+p862
+sS'541474691961978880'
+p863
+S'Not Informative'
+p864
+sS'541144337606660096'
+p865
+S'Not Informative'
+p866
+sS'541736642403655680'
+p867
+S'Not Informative'
+p868
+sS'541743006273921024'
+p869
+S'Not Informative'
+p870
+sS'541959906748678144'
+p871
+S'Not Informative'
+p872
+sS'541942964193218560'
+p873
+S'Not Informative'
+p874
+sS'542310041974349824'
+p875
+S'Not Informative'
+p876
+sS'541616652698124290'
+p877
+S'Not Informative'
+p878
+sS'542326840640028672'
+p879
+S'Humanitarian Aid Provided'
+p880
+sS'541875281985019905'
+p881
+S'Not Informative'
+p882
+sS'541271557948338176'
+p883
+S'Not Informative'
+p884
+sS'541475286987341824'
+p885
+S'Other Relevant Information'
+p886
+sS'541499643301859328'
+p887
+S'Not Informative'
+p888
+sS'542291348452163584'
+p889
+S'Infrastructure Damage'
+p890
+sS'541531306627457024'
+p891
+S'Other Relevant Information'
+p892
+sS'541950683269042176'
+p893
+S'Not Informative'
+p894
+sS'541223631016050688'
+p895
+S'Humanitarian Aid Provided'
+p896
+sS'541996966872645633'
+p897
+S'Not Informative'
+p898
+sS'541472570877280256'
+p899
+S'Not Informative'
+p900
+sS'541213416858615808'
+p901
+S'Humanitarian Aid Provided'
+p902
+sS'541149336889872384'
+p903
+S'Other Relevant Information'
+p904
+sS'541458535641399296'
+p905
+S'Not Informative'
+p906
+sS'541674270473334785'
+p907
+S'Other Relevant Information'
+p908
+sS'541493763689172992'
+p909
+S'Other Relevant Information'
+p910
+sS'541572877078650880'
+p911
+S'Not Informative'
+p912
+sS'541484392502136832'
+p913
+S'Not Informative'
+p914
+sS'541455486994743296'
+p915
+S'Not Informative'
+p916
+sS'541955094720163841'
+p917
+S'Not Informative'
+p918
+sS'541846806414372864'
+p919
+S'Other Relevant Information'
+p920
+sS'541754596448690176'
+p921
+S'Not Informative'
+p922
+sS'541686503240265728'
+p923
+S'Not Informative'
+p924
+sS'541401866123636738'
+p925
+S'Not Informative'
+p926
+sS'541785483626303488'
+p927
+S'Not Informative'
+p928
+sS'541850462547218432'
+p929
+S'Not Informative'
+p930
+sS'541780712689373184'
+p931
+S'Not Informative'
+p932
+sS'541145284986679296'
+p933
+S'Infrastructure Damage'
+p934
+sS'541591540599361536'
+p935
+S'Other Relevant Information'
+p936
+sS'541417930144366595'
+p937
+S'Other Relevant Information'
+p938
+sS'541902538031652864'
+p939
+S'Not Informative'
+p940
+sS'541512539503603713'
+p941
+S'Not Informative'
+p942
+sS'542153262640537600'
+p943
+S'Not Informative'
+p944
+sS'541288024445698048'
+p945
+S'Other Relevant Information'
+p946
+sS'541780270794285056'
+p947
+S'Not Informative'
+p948
+sS'541436993415045120'
+p949
+S'Other Relevant Information'
+p950
+sS'541829639677935617'
+p951
+S'Not Informative'
+p952
+sS'541380780476223488'
+p953
+S'Humanitarian Aid Provided'
+p954
+sS'541424453612077056'
+p955
+S'Not Informative'
+p956
+sS'541891244868136960'
+p957
+S'Not Informative'
+p958
+sS'541527720895606786'
+p959
+S'Not Informative'
+p960
+sS'541758255815327745'
+p961
+S'Not Informative'
+p962
+sS'542193963084836864'
+p963
+S'Not Informative'
+p964
+sS'541627323246575616'
+p965
+S'Not Informative'
+p966
+sS'541718469205835776'
+p967
+S'Not Informative'
+p968
+sS'541377276294619136'
+p969
+S'Not Informative'
+p970
+sS'541478851583307776'
+p971
+S'Not Informative'
+p972
+sS'542229955690893312'
+p973
+S'Other Relevant Information'
+p974
+sS'541621666229391360'
+p975
+S'Not Informative'
+p976
+sS'541310813575725058'
+p977
+S'Not Informative'
+p978
+sS'541420996591247361'
+p979
+S'Not Informative'
+p980
+sS'541522024556810241'
+p981
+S'Not Informative'
+p982
+sS'542390284282118144'
+p983
+S'Infrastructure Damage'
+p984
+sS'541479136246894593'
+p985
+S'Other Relevant Information'
+p986
+sS'541500514937368576'
+p987
+S'Not Informative'
+p988
+sS'541641105263972353'
+p989
+S'Not Informative'
+p990
+sS'541982598181179392'
+p991
+S'Other Relevant Information'
+p992
+sS'541948548359536641'
+p993
+S'Not Informative'
+p994
+sS'541892670365650944'
+p995
+S'Other Relevant Information'
+p996
+sS'542361509763235840'
+p997
+S'Not Informative'
+p998
+sS'541575862433234944'
+p999
+S'Not Informative'
+p1000
+sS'541986134729846785'
+p1001
+S'Not Informative'
+p1002
+sS'541561273272381440'
+p1003
+S'Not Informative'
+p1004
+sS'541729908490137600'
+p1005
+S'Not Informative'
+p1006
+sS'541663921607032833'
+p1007
+S'Infrastructure Damage'
+p1008
+sS'542297659193950208'
+p1009
+S'Humanitarian Aid Provided'
+p1010
+sS'541938533343051776'
+p1011
+S'Not Informative'
+p1012
+sS'541504988682260480'
+p1013
+S'Other Relevant Information'
+p1014
+sS'541583735829721088'
+p1015
+S'Not Informative'
+p1016
+sS'542328852283138048'
+p1017
+S'Not Informative'
+p1018
+sS'541701193710731265'
+p1019
+S'Not Informative'
+p1020
+sS'542311428099559424'
+p1021
+S'Other Relevant Information'
+p1022
+sS'542244583849996288'
+p1023
+S'Other Relevant Information'
+p1024
+sS'541642829907656704'
+p1025
+S'Not Informative'
+p1026
+sS'541531976604209152'
+p1027
+S'Not Informative'
+p1028
+sS'541689869290856448'
+p1029
+S'Not Informative'
+p1030
+sS'542305587032100864'
+p1031
+S'Other Relevant Information'
+p1032
+sS'541750536718917633'
+p1033
+S'Not Informative'
+p1034
+sS'541813805387223040'
+p1035
+S'Not Informative'
+p1036
+sS'541290065863778304'
+p1037
+S'Other Relevant Information'
+p1038
+sS'541138989978103808'
+p1039
+S'Not Informative'
+p1040
+sS'541531240378032128'
+p1041
+S'Other Relevant Information'
+p1042
+sS'541671649662496768'
+p1043
+S'Not Informative'
+p1044
+sS'541604157111934976'
+p1045
+S'Not Informative'
+p1046
+sS'541886535847530496'
+p1047
+S'Not Informative'
+p1048
+sS'541415710732201984'
+p1049
+S'Not Informative'
+p1050
+sS'541535640521699328'
+p1051
+S'Other Relevant Information'
+p1052
+sS'541519440609681408'
+p1053
+S'Not Informative'
+p1054
+sS'541459659601616896'
+p1055
+S'Not Informative'
+p1056
+sS'541449071349620737'
+p1057
+S'Not Informative'
+p1058
+sS'541448371521585152'
+p1059
+S'Not Informative'
+p1060
+sS'541603098104311808'
+p1061
+S'Not Informative'
+p1062
+sS'541902082094026752'
+p1063
+S'Not Informative'
+p1064
+sS'541831364744466432'
+p1065
+S'Not Informative'
+p1066
+sS'541423102023196672'
+p1067
+S'Humanitarian Aid Provided'
+p1068
+sS'541484475457085441'
+p1069
+S'Not Informative'
+p1070
+sS'541883933114519553'
+p1071
+S'Not Informative'
+p1072
+sS'541420312512831488'
+p1073
+S'Humanitarian Aid Provided'
+p1074
+sS'541429610164920320'
+p1075
+S'Not Informative'
+p1076
+sS'541442638621073409'
+p1077
+S'Not Informative'
+p1078
+sS'541974264329408512'
+p1079
+S'Other Relevant Information'
+p1080
+sS'542332138805538816'
+p1081
+S'Other Relevant Information'
+p1082
+sS'541601973036781570'
+p1083
+S'Not Informative'
+p1084
+sS'541365613659058176'
+p1085
+S'Not Informative'
+p1086
+sS'541927123561095168'
+p1087
+S'Not Informative'
+p1088
+sS'541144486978387969'
+p1089
+S'Humanitarian Aid Provided'
+p1090
+sS'541377583632625665'
+p1091
+S'Other Relevant Information'
+p1092
+sS'541578678094667777'
+p1093
+S'Not Informative'
+p1094
+sS'541391202239909888'
+p1095
+S'Not Informative'
+p1096
+sS'541502758864441344'
+p1097
+S'Not Informative'
+p1098
+sS'541718846517022720'
+p1099
+S'Other Relevant Information'
+p1100
+sS'541470011206823936'
+p1101
+S'Not Informative'
+p1102
+sS'541928844111142912'
+p1103
+S'Not Informative'
+p1104
+sS'541624347052363776'
+p1105
+S'Not Informative'
+p1106
+sS'541158685167206401'
+p1107
+S'Other Relevant Information'
+p1108
+sS'541459083623026688'
+p1109
+S'Not Informative'
+p1110
+sS'541608958750752769'
+p1111
+S'Not Informative'
+p1112
+sS'542258255125151744'
+p1113
+S'Other Relevant Information'
+p1114
+sS'541528742234165248'
+p1115
+S'Not Informative'
+p1116
+sS'541139474391265280'
+p1117
+S'Other Relevant Information'
+p1118
+sS'541636662867279872'
+p1119
+S'Not Informative'
+p1120
+sS'541787295431815168'
+p1121
+S'Not Informative'
+p1122
+sS'541690927320817664'
+p1123
+S'Not Informative'
+p1124
+sS'541524872036646912'
+p1125
+S'Not Informative'
+p1126
+sS'541616709400940544'
+p1127
+S'Not Informative'
+p1128
+sS'541991492399538176'
+p1129
+S'Not Informative'
+p1130
+sS'542328247749726208'
+p1131
+S'Humanitarian Aid Provided'
+p1132
+sS'541615247388196864'
+p1133
+S'Other Relevant Information'
+p1134
+sS'541310886070063104'
+p1135
+S'Other Relevant Information'
+p1136
+sS'542325183118589952'
+p1137
+S'Humanitarian Aid Provided'
+p1138
+sS'541581648706301952'
+p1139
+S'Other Relevant Information'
+p1140
+sS'541912816471392257'
+p1141
+S'Not Informative'
+p1142
+sS'541681279415382016'
+p1143
+S'Not Informative'
+p1144
+sS'541649502122151936'
+p1145
+S'Other Relevant Information'
+p1146
+sS'541138481762680832'
+p1147
+S'Other Relevant Information'
+p1148
+sS'541784530990796800'
+p1149
+S'Not Informative'
+p1150
+sS'541445869229195264'
+p1151
+S'Not Informative'
+p1152
+sS'541609718972575744'
+p1153
+S'Not Informative'
+p1154
+sS'541732661241212928'
+p1155
+S'Not Informative'
+p1156
+sS'541614072160976896'
+p1157
+S'Not Informative'
+p1158
+sS'541508169722114048'
+p1159
+S'Not Informative'
+p1160
+sS'541287315872972800'
+p1161
+S'Not Informative'
+p1162
+sS'541756481008201729'
+p1163
+S'Not Informative'
+p1164
+sS'542459412707692545'
+p1165
+S'Not Informative'
+p1166
+sS'541797159180722176'
+p1167
+S'Other Relevant Information'
+p1168
+sS'541526892503764992'
+p1169
+S'Not Informative'
+p1170
+sS'541465999221194752'
+p1171
+S'Not Informative'
+p1172
+sS'542004052750790656'
+p1173
+S'Not Informative'
+p1174
+sS'541878955012157440'
+p1175
+S'Not Informative'
+p1176
+sS'542420796610592768'
+p1177
+S'Not Informative'
+p1178
+sS'541732332621664256'
+p1179
+S'Not Informative'
+p1180
+sS'541727284286455808'
+p1181
+S'Not Informative'
+p1182
+sS'541850867885158400'
+p1183
+S'Not Informative'
+p1184
+sS'541178584845402112'
+p1185
+S'Not Informative'
+p1186
+sS'541554740786503681'
+p1187
+S'Not Informative'
+p1188
+sS'541486192831655936'
+p1189
+S'Not Informative'
+p1190
+sS'541621781136932864'
+p1191
+S'Humanitarian Aid Provided'
+p1192
+sS'542397231072964608'
+p1193
+S'Not Informative'
+p1194
+sS'541555960578179072'
+p1195
+S'Not Informative'
+p1196
+sS'541587651870982145'
+p1197
+S'Other Relevant Information'
+p1198
+sS'541887659518357505'
+p1199
+S'Not Informative'
+p1200
+sS'541722631654096896'
+p1201
+S'Not Informative'
+p1202
+sS'541638560386797568'
+p1203
+S'Not Informative'
+p1204
+sS'541708582824067072'
+p1205
+S'Other Relevant Information'
+p1206
+sS'541473760377704448'
+p1207
+S'Not Informative'
+p1208
+sS'541600115517952000'
+p1209
+S'Not Informative'
+p1210
+sS'541526403624480768'
+p1211
+S'Other Relevant Information'
+p1212
+sS'541725974363000832'
+p1213
+S'Not Informative'
+p1214
+sS'542267352369205248'
+p1215
+S'Not Informative'
+p1216
+sS'541431648458252288'
+p1217
+S'Humanitarian Aid Provided'
+p1218
+sS'541632537324707840'
+p1219
+S'Other Relevant Information'
+p1220
+sS'541811657354141696'
+p1221
+S'Not Informative'
+p1222
+sS'541284814704222208'
+p1223
+S'Other Relevant Information'
+p1224
+sS'541404565547925504'
+p1225
+S'Not Informative'
+p1226
+sS'541901392730804225'
+p1227
+S'Not Informative'
+p1228
+sS'541665472534417409'
+p1229
+S'Not Informative'
+p1230
+sS'541490390688210944'
+p1231
+S'Not Informative'
+p1232
+sS'541404702022180864'
+p1233
+S'Not Informative'
+p1234
+sS'541946421965246465'
+p1235
+S'Not Informative'
+p1236
+sS'541535440012976129'
+p1237
+S'Not Informative'
+p1238
+sS'541923884002729984'
+p1239
+S'Humanitarian Aid Provided'
+p1240
+sS'542250895472619520'
+p1241
+S'Other Relevant Information'
+p1242
+sS'541961342937092096'
+p1243
+S'Not Informative'
+p1244
+sS'541434101274648576'
+p1245
+S'Not Informative'
+p1246
+sS'541469016917671937'
+p1247
+S'Not Informative'
+p1248
+sS'541500787718098944'
+p1249
+S'Requests for Help/Needs'
+p1250
+sS'542243423550308352'
+p1251
+S'Humanitarian Aid Provided'
+p1252
+sS'541895959966273536'
+p1253
+S'Not Informative'
+p1254
+sS'541261539207311360'
+p1255
+S'Not Informative'
+p1256
+sS'541464634750820352'
+p1257
+S'Not Informative'
+p1258
+sS'541953739763253248'
+p1259
+S'Not Informative'
+p1260
+sS'541540785892909056'
+p1261
+S'Not Informative'
+p1262
+sS'541920906906308608'
+p1263
+S'Not Informative'
+p1264
+sS'542203901936562176'
+p1265
+S'Not Informative'
+p1266
+sS'541871043539775488'
+p1267
+S'Not Informative'
+p1268
+sS'541591025739767809'
+p1269
+S'Not Informative'
+p1270
+sS'541616639926497281'
+p1271
+S'Not Informative'
+p1272
+sS'541445957921939458'
+p1273
+S'Not Informative'
+p1274
+sS'541935247999242240'
+p1275
+S'Other Relevant Information'
+p1276
+sS'541611105047425024'
+p1277
+S'Other Relevant Information'
+p1278
+sS'541733245935554560'
+p1279
+S'Not Informative'
+p1280
+sS'542266028919492608'
+p1281
+S'Humanitarian Aid Provided'
+p1282
+sS'541969029800263680'
+p1283
+S'Not Informative'
+p1284
+sS'541623313827524608'
+p1285
+S'Not Informative'
+p1286
+sS'541144417994678274'
+p1287
+S'Other Relevant Information'
+p1288
+sS'542259779482050560'
+p1289
+S'Other Relevant Information'
+p1290
+sS'541981412807561216'
+p1291
+S'Not Informative'
+p1292
+sS'541516032225984512'
+p1293
+S'Not Informative'
+p1294
+sS'541450313060720641'
+p1295
+S'Not Informative'
+p1296
+sS'541147366879801346'
+p1297
+S'Other Relevant Information'
+p1298
+sS'541403086196334592'
+p1299
+S'Not Informative'
+p1300
+sS'541418262009884673'
+p1301
+S'Not Informative'
+p1302
+sS'541351911195021314'
+p1303
+S'Not Informative'
+p1304
+sS'541558415404064768'
+p1305
+S'Other Relevant Information'
+p1306
+sS'542243347327623168'
+p1307
+S'Not Informative'
+p1308
+sS'541955559675924480'
+p1309
+S'Not Informative'
+p1310
+sS'541823585120423936'
+p1311
+S'Not Informative'
+p1312
+sS'541734070468616194'
+p1313
+S'Not Informative'
+p1314
+sS'541590635103256576'
+p1315
+S'Not Informative'
+p1316
+sS'542135155012284417'
+p1317
+S'Not Informative'
+p1318
+sS'541699060965453824'
+p1319
+S'Other Relevant Information'
+p1320
+sS'542242210507685888'
+p1321
+S'Infrastructure Damage'
+p1322
+sS'541893229478961152'
+p1323
+S'Other Relevant Information'
+p1324
+sS'541478570435289088'
+p1325
+S'Other Relevant Information'
+p1326
+sS'541516424276348928'
+p1327
+S'Not Informative'
+p1328
+sS'541518240347082753'
+p1329
+S'Not Informative'
+p1330
+sS'541804425765851136'
+p1331
+S'Not Informative'
+p1332
+sS'541847885663318016'
+p1333
+S'Not Informative'
+p1334
+sS'541527207328227329'
+p1335
+S'Not Informative'
+p1336
+sS'541370944011251713'
+p1337
+S'Not Informative'
+p1338
+sS'541554380990738432'
+p1339
+S'Not Informative'
+p1340
+sS'541235005456785408'
+p1341
+S'Not Informative'
+p1342
+sS'542307767810158592'
+p1343
+S'Humanitarian Aid Provided'
+p1344
+sS'541410219473899520'
+p1345
+S'Not Informative'
+p1346
+sS'541999489511219200'
+p1347
+S'Not Informative'
+p1348
+sS'541933349116579840'
+p1349
+S'Other Relevant Information'
+p1350
+sS'541923045162881024'
+p1351
+S'Other Relevant Information'
+p1352
+sS'542398833938804736'
+p1353
+S'Other Relevant Information'
+p1354
+sS'541434508981960704'
+p1355
+S'Not Informative'
+p1356
+sS'541461558233403392'
+p1357
+S'Not Informative'
+p1358
+sS'541303338542051328'
+p1359
+S'Humanitarian Aid Provided'
+p1360
+sS'541591818974937088'
+p1361
+S'Not Informative'
+p1362
+sS'542229576059867137'
+p1363
+S'Not Informative'
+p1364
+sS'541398083343360000'
+p1365
+S'Not Informative'
+p1366
+sS'541669811390918657'
+p1367
+S'Not Informative'
+p1368
+sS'541920530530439169'
+p1369
+S'Other Relevant Information'
+p1370
+sS'541815178526851072'
+p1371
+S'Not Informative'
+p1372
+sS'541728724123934720'
+p1373
+S'Not Informative'
+p1374
+sS'541211339713413120'
+p1375
+S'Other Relevant Information'
+p1376
+sS'541308561696260097'
+p1377
+S'Other Relevant Information'
+p1378
+sS'541533178696314880'
+p1379
+S'Not Informative'
+p1380
+sS'541379177539436545'
+p1381
+S'Other Relevant Information'
+p1382
+sS'541730787272712192'
+p1383
+S'Not Informative'
+p1384
+sS'541829565849800704'
+p1385
+S'Not Informative'
+p1386
+sS'541535919661019136'
+p1387
+S'Not Informative'
+p1388
+sS'542027946572001281'
+p1389
+S'Not Informative'
+p1390
+sS'541984815499595776'
+p1391
+S'Not Informative'
+p1392
+sS'541342210914930689'
+p1393
+S'Other Relevant Information'
+p1394
+sS'541878906387591168'
+p1395
+S'Not Informative'
+p1396
+sS'541147836826800128'
+p1397
+S'Not Informative'
+p1398
+sS'541835523120037888'
+p1399
+S'Not Informative'
+p1400
+sS'542415784102748160'
+p1401
+S'Not Informative'
+p1402
+sS'541986864471605248'
+p1403
+S'Not Informative'
+p1404
+sS'541459536234565633'
+p1405
+S'Not Informative'
+p1406
+sS'542441649721184257'
+p1407
+S'Other Relevant Information'
+p1408
+sS'542346608168280064'
+p1409
+S'Other Relevant Information'
+p1410
+sS'541734919374790656'
+p1411
+S'Other Relevant Information'
+p1412
+sS'541392864693874688'
+p1413
+S'Humanitarian Aid Provided'
+p1414
+sS'541844407826128896'
+p1415
+S'Not Informative'
+p1416
+sS'541153335189843969'
+p1417
+S'Other Relevant Information'
+p1418
+sS'541643451713196032'
+p1419
+S'Not Informative'
+p1420
+sS'541170546936131584'
+p1421
+S'Not Informative'
+p1422
+sS'541371661077860352'
+p1423
+S'Not Informative'
+p1424
+sS'541403410654703617'
+p1425
+S'Infrastructure Damage'
+p1426
+sS'541527846674386945'
+p1427
+S'Not Informative'
+p1428
+sS'541771021976469505'
+p1429
+S'Other Relevant Information'
+p1430
+sS'541143310866608128'
+p1431
+S'Other Relevant Information'
+p1432
+sS'542024417539530752'
+p1433
+S'Not Informative'
+p1434
+sS'542040901137498112'
+p1435
+S'Not Informative'
+p1436
+sS'541531780507918336'
+p1437
+S'Other Relevant Information'
+p1438
+sS'541547082402652161'
+p1439
+S'Not Informative'
+p1440
+sS'541637792774643713'
+p1441
+S'Not Informative'
+p1442
+sS'541724441055854592'
+p1443
+S'Not Informative'
+p1444
+sS'541584508802179074'
+p1445
+S'Not Informative'
+p1446
+sS'541542689184161793'
+p1447
+S'Not Informative'
+p1448
+sS'541502627528192000'
+p1449
+S'Other Relevant Information'
+p1450
+sS'541506882654175232'
+p1451
+S'Not Informative'
+p1452
+sS'541657567189954560'
+p1453
+S'Humanitarian Aid Provided'
+p1454
+sS'542261278807691265'
+p1455
+S'Other Relevant Information'
+p1456
+sS'542247043897757697'
+p1457
+S'Not Informative'
+p1458
+sS'541423538079428609'
+p1459
+S'Not Informative'
+p1460
+sS'541759460558274562'
+p1461
+S'Not Informative'
+p1462
+sS'541585356320440320'
+p1463
+S'Not Informative'
+p1464
+sS'541586765480722432'
+p1465
+S'Not Informative'
+p1466
+sS'541509111276261376'
+p1467
+S'Not Informative'
+p1468
+sS'541812196087328768'
+p1469
+S'Other Relevant Information'
+p1470
+sS'541191986787942401'
+p1471
+S'Not Informative'
+p1472
+sS'541471343745576960'
+p1473
+S'Not Informative'
+p1474
+sS'541153609610575872'
+p1475
+S'Other Relevant Information'
+p1476
+sS'542440823560757248'
+p1477
+S'Humanitarian Aid Provided'
+p1478
+sS'541617364518076416'
+p1479
+S'Not Informative'
+p1480
+sS'541755931759874048'
+p1481
+S'Not Informative'
+p1482
+sS'541728139819638784'
+p1483
+S'Other Relevant Information'
+p1484
+sS'541781125895430146'
+p1485
+S'Not Informative'
+p1486
+sS'541296815719452673'
+p1487
+S'Other Relevant Information'
+p1488
+sS'541310150238547968'
+p1489
+S'Other Relevant Information'
+p1490
+sS'541756293677989889'
+p1491
+S'Not Informative'
+p1492
+sS'541673477447491584'
+p1493
+S'Not Informative'
+p1494
+sS'542457986312978434'
+p1495
+S'Infrastructure Damage'
+p1496
+sS'541529927833493505'
+p1497
+S'Other Relevant Information'
+p1498
+sS'541785147989692417'
+p1499
+S'Infrastructure Damage'
+p1500
+sS'541420327423574016'
+p1501
+S'Not Informative'
+p1502
+sS'541833826725412867'
+p1503
+S'Not Informative'
+p1504
+sS'541893146083196928'
+p1505
+S'Other Relevant Information'
+p1506
+sS'542394129829732352'
+p1507
+S'Requests for Help/Needs'
+p1508
+sS'541809963564163075'
+p1509
+S'Not Informative'
+p1510
+sS'541537824718061570'
+p1511
+S'Not Informative'
+p1512
+sS'541316891680067585'
+p1513
+S'Not Informative'
+p1514
+sS'541476841408983040'
+p1515
+S'Other Relevant Information'
+p1516
+sS'541395691105693696'
+p1517
+S'Other Relevant Information'
+p1518
+sS'541826211979071490'
+p1519
+S'Not Informative'
+p1520
+sS'541601873506357248'
+p1521
+S'Not Informative'
+p1522
+sS'541246399426625536'
+p1523
+S'Not Informative'
+p1524
+sS'541625476981092353'
+p1525
+S'Not Informative'
+p1526
+sS'541465999502241793'
+p1527
+S'Other Relevant Information'
+p1528
+sS'542004807070793728'
+p1529
+S'Other Relevant Information'
+p1530
+sS'542388023737200640'
+p1531
+S'Other Relevant Information'
+p1532
+sS'541724922897121281'
+p1533
+S'Not Informative'
+p1534
+sS'541616467532185600'
+p1535
+S'Other Relevant Information'
+p1536
+sS'541598294644772865'
+p1537
+S'Humanitarian Aid Provided'
+p1538
+sS'541533474004271104'
+p1539
+S'Not Informative'
+p1540
+sS'541373785530576896'
+p1541
+S'Other Relevant Information'
+p1542
+sS'541100018053025792'
+p1543
+S'Other Relevant Information'
+p1544
+sS'541668481985708032'
+p1545
+S'Not Informative'
+p1546
+sS'542321619864403968'
+p1547
+S'Not Informative'
+p1548
+sS'541483605063512066'
+p1549
+S'Not Informative'
+p1550
+sS'541453626040807424'
+p1551
+S'Not Informative'
+p1552
+sS'541922756552826880'
+p1553
+S'Not Informative'
+p1554
+sS'541326010860322817'
+p1555
+S'Not Informative'
+p1556
+sS'541864523947200512'
+p1557
+S'Not Informative'
+p1558
+sS'541447536284688385'
+p1559
+S'Other Relevant Information'
+p1560
+sS'541601696023994368'
+p1561
+S'Not Informative'
+p1562
+sS'541544544529952768'
+p1563
+S'Not Informative'
+p1564
+sS'541977453074186240'
+p1565
+S'Not Informative'
+p1566
+sS'542237025072869377'
+p1567
+S'Not Informative'
+p1568
+sS'541546949846249473'
+p1569
+S'Not Informative'
+p1570
+sS'541593775777136640'
+p1571
+S'Not Informative'
+p1572
+sS'541974830359126016'
+p1573
+S'Not Informative'
+p1574
+sS'541570256993406977'
+p1575
+S'Not Informative'
+p1576
+sS'541959029526761472'
+p1577
+S'Other Relevant Information'
+p1578
+sS'542288148651589632'
+p1579
+S'Not Informative'
+p1580
+sS'541581364617687040'
+p1581
+S'Other Relevant Information'
+p1582
+sS'541691160909987840'
+p1583
+S'Other Relevant Information'
+p1584
+sS'541465916383313921'
+p1585
+S'Not Informative'
+p1586
+sS'541975229686247424'
+p1587
+S'Not Informative'
+p1588
+sS'542398205930246144'
+p1589
+S'Other Relevant Information'
+p1590
+sS'541882744150556672'
+p1591
+S'Not Informative'
+p1592
+sS'541640000019136512'
+p1593
+S'Not Informative'
+p1594
+sS'541620954242093059'
+p1595
+S'Not Informative'
+p1596
+sS'541518640277753856'
+p1597
+S'Not Informative'
+p1598
+sS'542421344327979008'
+p1599
+S'Other Relevant Information'
+p1600
+sS'541521178280853504'
+p1601
+S'Other Relevant Information'
+p1602
+sS'541850434499928064'
+p1603
+S'Not Informative'
+p1604
+sS'541490386082885633'
+p1605
+S'Not Informative'
+p1606
+sS'541723029471260672'
+p1607
+S'Not Informative'
+p1608
+sS'541402372996476928'
+p1609
+S'Other Relevant Information'
+p1610
+sS'541585398976110593'
+p1611
+S'Other Relevant Information'
+p1612
+sS'542167646922215424'
+p1613
+S'Not Informative'
+p1614
+sS'541799195477565440'
+p1615
+S'Not Informative'
+p1616
+sS'541580268357042176'
+p1617
+S'Other Relevant Information'
+p1618
+sS'541385130133053440'
+p1619
+S'Not Informative'
+p1620
+sS'542202737220648960'
+p1621
+S'Not Informative'
+p1622
+sS'542265274129743872'
+p1623
+S'Requests for Help/Needs'
+p1624
+sS'541428563577434113'
+p1625
+S'Not Informative'
+p1626
+sS'541546799589097474'
+p1627
+S'Not Informative'
+p1628
+sS'541938099849535488'
+p1629
+S'Not Informative'
+p1630
+sS'541797978055655424'
+p1631
+S'Not Informative'
+p1632
+sS'541848128572243970'
+p1633
+S'Not Informative'
+p1634
+sS'541439219931951104'
+p1635
+S'Not Informative'
+p1636
+sS'541526680246837248'
+p1637
+S'Not Informative'
+p1638
+sS'541590063843274752'
+p1639
+S'Not Informative'
+p1640
+sS'542028011382767617'
+p1641
+S'Not Informative'
+p1642
+sS'541383089344106496'
+p1643
+S'Not Informative'
+p1644
+sS'541436612291223553'
+p1645
+S'Not Informative'
+p1646
+sS'541147892002861056'
+p1647
+S'Other Relevant Information'
+p1648
+sS'541852289137270784'
+p1649
+S'Not Informative'
+p1650
+sS'541843623705206785'
+p1651
+S'Not Informative'
+p1652
+sS'542187011546030080'
+p1653
+S'Other Relevant Information'
+p1654
+sS'541916678263562240'
+p1655
+S'Not Informative'
+p1656
+sS'541534655678541824'
+p1657
+S'Not Informative'
+p1658
+sS'542260880399163392'
+p1659
+S'Humanitarian Aid Provided'
+p1660
+sS'541892973114720256'
+p1661
+S'Not Informative'
+p1662
+sS'541722319019069440'
+p1663
+S'Not Informative'
+p1664
+sS'542245083446124545'
+p1665
+S'Infrastructure Damage'
+p1666
+sS'541843866567991296'
+p1667
+S'Humanitarian Aid Provided'
+p1668
+sS'542423327009013761'
+p1669
+S'Not Informative'
+p1670
+sS'542269719697707010'
+p1671
+S'Other Relevant Information'
+p1672
+sS'541953187029483521'
+p1673
+S'Other Relevant Information'
+p1674
+sS'541963367577964545'
+p1675
+S'Not Informative'
+p1676
+sS'541950663287377920'
+p1677
+S'Not Informative'
+p1678
+sS'541612680587403264'
+p1679
+S'Not Informative'
+p1680
+sS'541383841072439296'
+p1681
+S'Other Relevant Information'
+p1682
+sS'541578425702420482'
+p1683
+S'Not Informative'
+p1684
+sS'542220243998113792'
+p1685
+S'Not Informative'
+p1686
+sS'542029499114983424'
+p1687
+S'Other Relevant Information'
+p1688
+sS'541365049462231040'
+p1689
+S'Not Informative'
+p1690
+sS'542018957486465024'
+p1691
+S'Not Informative'
+p1692
+sS'542275761541894144'
+p1693
+S'Other Relevant Information'
+p1694
+sS'541149814881153025'
+p1695
+S'Not Informative'
+p1696
+sS'541480575089901568'
+p1697
+S'Not Informative'
+p1698
+sS'541391240735256576'
+p1699
+S'Other Relevant Information'
+p1700
+sS'541564980286337024'
+p1701
+S'Other Relevant Information'
+p1702
+sS'541936616869093376'
+p1703
+S'Not Informative'
+p1704
+sS'541211025279033344'
+p1705
+S'Not Informative'
+p1706
+sS'542189492241981440'
+p1707
+S'Not Informative'
+p1708
+sS'541499373994401792'
+p1709
+S'Not Informative'
+p1710
+sS'541968927085961216'
+p1711
+S'Not Informative'
+p1712
+sS'542286384405692416'
+p1713
+S'Not Informative'
+p1714
+sS'541476930839535617'
+p1715
+S'Not Informative'
+p1716
+sS'541518553019473921'
+p1717
+S'Other Relevant Information'
+p1718
+sS'541853029218390017'
+p1719
+S'Not Informative'
+p1720
+sS'541746354339741696'
+p1721
+S'Not Informative'
+p1722
+sS'542287704357343232'
+p1723
+S'Other Relevant Information'
+p1724
+sS'541621089256751104'
+p1725
+S'Other Relevant Information'
+p1726
+sS'541258223991275520'
+p1727
+S'Not Informative'
+p1728
+sS'541292627845316609'
+p1729
+S'Not Informative'
+p1730
+sS'542164492260761600'
+p1731
+S'Not Informative'
+p1732
+sS'541475992284311552'
+p1733
+S'Not Informative'
+p1734
+sS'541632518219239424'
+p1735
+S'Other Relevant Information'
+p1736
+sS'541977201760288769'
+p1737
+S'Not Informative'
+p1738
+sS'542374077764079617'
+p1739
+S'Not Informative'
+p1740
+sS'541654733912416257'
+p1741
+S'Not Informative'
+p1742
+sS'541289777018847235'
+p1743
+S'Not Informative'
+p1744
+sS'541485361658998784'
+p1745
+S'Other Relevant Information'
+p1746
+sS'541814559913152512'
+p1747
+S'Not Informative'
+p1748
+sS'541382996863893504'
+p1749
+S'Humanitarian Aid Provided'
+p1750
+sS'541607967473143809'
+p1751
+S'Not Informative'
+p1752
+sS'541993196457574400'
+p1753
+S'Humanitarian Aid Provided'
+p1754
+sS'542131274484162560'
+p1755
+S'Not Informative'
+p1756
+sS'541854353443680257'
+p1757
+S'Not Informative'
+p1758
+sS'541275579387887616'
+p1759
+S'Other Relevant Information'
+p1760
+sS'541667250659274752'
+p1761
+S'Other Relevant Information'
+p1762
+sS'541309394550411264'
+p1763
+S'Other Relevant Information'
+p1764
+sS'541851855299428352'
+p1765
+S'Not Informative'
+p1766
+sS'541538079001935872'
+p1767
+S'Not Informative'
+p1768
+sS'541413690051137536'
+p1769
+S'Not Informative'
+p1770
+sS'541494893223612416'
+p1771
+S'Other Relevant Information'
+p1772
+sS'542114726566559744'
+p1773
+S'Other Relevant Information'
+p1774
+sS'541257678001950721'
+p1775
+S'Other Relevant Information'
+p1776
+sS'541415593270706176'
+p1777
+S'Not Informative'
+p1778
+sS'541721104604082178'
+p1779
+S'Other Relevant Information'
+p1780
+sS'541501835136086016'
+p1781
+S'Not Informative'
+p1782
+sS'541512609296834562'
+p1783
+S'Not Informative'
+p1784
+sS'541421667407233025'
+p1785
+S'Humanitarian Aid Provided'
+p1786
+sS'541864359442780160'
+p1787
+S'Other Relevant Information'
+p1788
+sS'541575497486843905'
+p1789
+S'Not Informative'
+p1790
+sS'541972262979518465'
+p1791
+S'Not Informative'
+p1792
+sS'542140612082810881'
+p1793
+S'Not Informative'
+p1794
+sS'541551507477262340'
+p1795
+S'Other Relevant Information'
+p1796
+sS'542314217328902145'
+p1797
+S'Not Informative'
+p1798
+sS'541854912443715586'
+p1799
+S'Not Informative'
+p1800
+sS'541388683002138624'
+p1801
+S'Other Relevant Information'
+p1802
+sS'541476913915506688'
+p1803
+S'Infrastructure Damage'
+p1804
+sS'541508508768665600'
+p1805
+S'Not Informative'
+p1806
+sS'541491148166934528'
+p1807
+S'Not Informative'
+p1808
+sS'541286810865790976'
+p1809
+S'Not Informative'
+p1810
+sS'541889528147873792'
+p1811
+S'Not Informative'
+p1812
+sS'541550946774286336'
+p1813
+S'Not Informative'
+p1814
+sS'541176046172008448'
+p1815
+S'Not Informative'
+p1816
+sS'541996827176734720'
+p1817
+S'Not Informative'
+p1818
+sS'541421874953981952'
+p1819
+S'Not Informative'
+p1820
+sS'541583172996456448'
+p1821
+S'Not Informative'
+p1822
+sS'541534174574682113'
+p1823
+S'Other Relevant Information'
+p1824
+sS'542242883122655232'
+p1825
+S'Requests for Help/Needs'
+p1826
+sS'541613722171498497'
+p1827
+S'Not Informative'
+p1828
+sS'541527643460362241'
+p1829
+S'Not Informative'
+p1830
+sS'541541828030255104'
+p1831
+S'Humanitarian Aid Provided'
+p1832
+sS'542243567901880320'
+p1833
+S'Other Relevant Information'
+p1834
+sS'541871715333464064'
+p1835
+S'Not Informative'
+p1836
+sS'541773347798147072'
+p1837
+S'Not Informative'
+p1838
+sS'541375536157978626'
+p1839
+S'Other Relevant Information'
+p1840
+sS'541815382181310464'
+p1841
+S'Not Informative'
+p1842
+sS'542124482781913088'
+p1843
+S'Not Informative'
+p1844
+sS'541644166649090048'
+p1845
+S'Other Relevant Information'
+p1846
+sS'541448307189350400'
+p1847
+S'Not Informative'
+p1848
+sS'541606396676947969'
+p1849
+S'Not Informative'
+p1850
+sS'541350501489463296'
+p1851
+S'Not Informative'
+p1852
+sS'541145788639092736'
+p1853
+S'Other Relevant Information'
+p1854
+sS'541408416837541888'
+p1855
+S'Other Relevant Information'
+p1856
+sS'541988778814877696'
+p1857
+S'Not Informative'
+p1858
+sS'541977677490425856'
+p1859
+S'Not Informative'
+p1860
+sS'541584907227525120'
+p1861
+S'Not Informative'
+p1862
+sS'541750883361374208'
+p1863
+S'Other Relevant Information'
+p1864
+sS'542229319331086336'
+p1865
+S'Not Informative'
+p1866
+sS'541634687634919424'
+p1867
+S'Other Relevant Information'
+p1868
+sS'541858006669869056'
+p1869
+S'Not Informative'
+p1870
+sS'541951598902013953'
+p1871
+S'Not Informative'
+p1872
+sS'541452842909716480'
+p1873
+S'Not Informative'
+p1874
+sS'541524623318204416'
+p1875
+S'Not Informative'
+p1876
+sS'541815187267788801'
+p1877
+S'Not Informative'
+p1878
+sS'541525834767409152'
+p1879
+S'Not Informative'
+p1880
+sS'541965137469386752'
+p1881
+S'Other Relevant Information'
+p1882
+sS'542302428276998144'
+p1883
+S'Other Relevant Information'
+p1884
+sS'542120465846648832'
+p1885
+S'Humanitarian Aid Provided'
+p1886
+sS'541679863464079360'
+p1887
+S'Not Informative'
+p1888
+sS'541141462549671936'
+p1889
+S'Not Informative'
+p1890
+sS'541449005658419200'
+p1891
+S'Not Informative'
+p1892
+sS'541269583009546241'
+p1893
+S'Not Informative'
+p1894
+sS'541934107874168832'
+p1895
+S'Not Informative'
+p1896
+sS'541958989320572928'
+p1897
+S'Not Informative'
+p1898
+sS'541648180496973824'
+p1899
+S'Not Informative'
+p1900
+sS'541843323166531585'
+p1901
+S'Humanitarian Aid Provided'
+p1902
+sS'541521586218483713'
+p1903
+S'Not Informative'
+p1904
+sS'541607031107764224'
+p1905
+S'Not Informative'
+p1906
+sS'541847738548097024'
+p1907
+S'Not Informative'
+p1908
+sS'542167681596522496'
+p1909
+S'Not Informative'
+p1910
+sS'541916823034146816'
+p1911
+S'Not Informative'
+p1912
+sS'542011230706073600'
+p1913
+S'Not Informative'
+p1914
+sS'541622102777135104'
+p1915
+S'Not Informative'
+p1916
+sS'541588616628428800'
+p1917
+S'Not Informative'
+p1918
+sS'541282480234299392'
+p1919
+S'Not Informative'
+p1920
+sS'541870912677486592'
+p1921
+S'Other Relevant Information'
+p1922
+sS'541535293136850944'
+p1923
+S'Other Relevant Information'
+p1924
+sS'541475875720790016'
+p1925
+S'Not Informative'
+p1926
+sS'541413900659343360'
+p1927
+S'Other Relevant Information'
+p1928
+sS'541645692188762113'
+p1929
+S'Not Informative'
+p1930
+sS'541473008716484609'
+p1931
+S'Not Informative'
+p1932
+sS'541387894464598016'
+p1933
+S'Infrastructure Damage'
+p1934
+sS'541451126692773888'
+p1935
+S'Not Informative'
+p1936
+sS'541418446068936704'
+p1937
+S'Other Relevant Information'
+p1938
+sS'541892274720751616'
+p1939
+S'Not Informative'
+p1940
+sS'541611864443342848'
+p1941
+S'Not Informative'
+p1942
+sS'541728207397851138'
+p1943
+S'Not Informative'
+p1944
+sS'541577680089407489'
+p1945
+S'Not Informative'
+p1946
+sS'541488462973513728'
+p1947
+S'Not Informative'
+p1948
+sS'541737551669633024'
+p1949
+S'Not Informative'
+p1950
+sS'541940957315604481'
+p1951
+S'Not Informative'
+p1952
+sS'541993289466281985'
+p1953
+S'Not Informative'
+p1954
+sS'541396039836499968'
+p1955
+S'Not Informative'
+p1956
+sS'541432897027063808'
+p1957
+S'Not Informative'
+p1958
+sS'541824563927986176'
+p1959
+S'Not Informative'
+p1960
+sS'541615114789470209'
+p1961
+S'Not Informative'
+p1962
+sS'541454052911886336'
+p1963
+S'Other Relevant Information'
+p1964
+sS'541614602753028096'
+p1965
+S'Not Informative'
+p1966
+sS'542279881686384642'
+p1967
+S'Not Informative'
+p1968
+sS'541460031234142208'
+p1969
+S'Not Informative'
+p1970
+sS'541475255210876928'
+p1971
+S'Not Informative'
+p1972
+sS'542034080624574464'
+p1973
+S'Not Informative'
+p1974
+sS'541509879182020608'
+p1975
+S'Humanitarian Aid Provided'
+p1976
+sS'542228206955151362'
+p1977
+S'Other Relevant Information'
+p1978
+sS'542221097890873344'
+p1979
+S'Not Informative'
+p1980
+sS'542334860887461888'
+p1981
+S'Infrastructure Damage'
+p1982
+sS'541943528692019201'
+p1983
+S'Not Informative'
+p1984
+sS'542283733186142208'
+p1985
+S'Other Relevant Information'
+p1986
+sS'541864927950929920'
+p1987
+S'Not Informative'
+p1988
+sS'541290681386684417'
+p1989
+S'Other Relevant Information'
+p1990
+sS'541429109214019584'
+p1991
+S'Not Informative'
+p1992
+sS'541543410617032704'
+p1993
+S'Other Relevant Information'
+p1994
+sS'542182615550160897'
+p1995
+S'Not Informative'
+p1996
+sS'542305021103075328'
+p1997
+S'Not Informative'
+p1998
+sS'541881737043644417'
+p1999
+S'Not Informative'
+p2000
+sS'541953820075380737'
+p2001
+S'Humanitarian Aid Provided'
+p2002
+sS'542438576835674113'
+p2003
+S'Other Relevant Information'
+p2004
+sS'541367099751669760'
+p2005
+S'Not Informative'
+p2006
+sS'541402783539560449'
+p2007
+S'Not Informative'
+p2008
+sS'542262154657677312'
+p2009
+S'Not Informative'
+p2010
+sS'541339254329466880'
+p2011
+S'Other Relevant Information'
+p2012
+sS'541290927315501056'
+p2013
+S'Not Informative'
+p2014
+sS'542020706654236672'
+p2015
+S'Other Relevant Information'
+p2016
+sS'541516654018973696'
+p2017
+S'Not Informative'
+p2018
+sS'541950024037306368'
+p2019
+S'Not Informative'
+p2020
+sS'541659960438845440'
+p2021
+S'Other Relevant Information'
+p2022
+sS'541453143293181952'
+p2023
+S'Not Informative'
+p2024
+sS'541615938991190017'
+p2025
+S'Infrastructure Damage'
+p2026
+sS'541730776564260864'
+p2027
+S'Not Informative'
+p2028
+sS'541899001193185280'
+p2029
+S'Not Informative'
+p2030
+sS'542380498496933889'
+p2031
+S'Humanitarian Aid Provided'
+p2032
+sS'541988032962777088'
+p2033
+S'Not Informative'
+p2034
+sS'541757297802760192'
+p2035
+S'Not Informative'
+p2036
+sS'541980428174123008'
+p2037
+S'Not Informative'
+p2038
+sS'541470593015496704'
+p2039
+S'Other Relevant Information'
+p2040
+sS'541497865177403392'
+p2041
+S'Not Informative'
+p2042
+sS'541992326025859072'
+p2043
+S'Not Informative'
+p2044
+sS'541197249389527040'
+p2045
+S'Not Informative'
+p2046
+sS'541710517392257024'
+p2047
+S'Other Relevant Information'
+p2048
+sS'541530463500632064'
+p2049
+S'Not Informative'
+p2050
+sS'541809113412296704'
+p2051
+S'Not Informative'
+p2052
+sS'541521925764173824'
+p2053
+S'Not Informative'
+p2054
+sS'542029166494101504'
+p2055
+S'Not Informative'
+p2056
+sS'541993597768564737'
+p2057
+S'Not Informative'
+p2058
+sS'541838639978663936'
+p2059
+S'Not Informative'
+p2060
+sS'541402774009704448'
+p2061
+S'Not Informative'
+p2062
+sS'541536706403385344'
+p2063
+S'Not Informative'
+p2064
+sS'541448819838185472'
+p2065
+S'Not Informative'
+p2066
+sS'541598137865891841'
+p2067
+S'Not Informative'
+p2068
+sS'541778059951501312'
+p2069
+S'Not Informative'
+p2070
+sS'541394922511679489'
+p2071
+S'Not Informative'
+p2072
+sS'541774626049650688'
+p2073
+S'Not Informative'
+p2074
+sS'542325851560214528'
+p2075
+S'Infrastructure Damage'
+p2076
+sS'541568859627876352'
+p2077
+S'Not Informative'
+p2078
+sS'541801601002795010'
+p2079
+S'Not Informative'
+p2080
+sS'541963354496307200'
+p2081
+S'Not Informative'
+p2082
+sS'541472111089684480'
+p2083
+S'Other Relevant Information'
+p2084
+sS'541983798166970368'
+p2085
+S'Not Informative'
+p2086
+sS'541288346073305089'
+p2087
+S'Other Relevant Information'
+p2088
+sS'541529302186348544'
+p2089
+S'Other Relevant Information'
+p2090
+sS'542438889730748417'
+p2091
+S'Humanitarian Aid Provided'
+p2092
+sS'541819057797074945'
+p2093
+S'Not Informative'
+p2094
+sS'541711724160630784'
+p2095
+S'Not Informative'
+p2096
+sS'541874801757806592'
+p2097
+S'Other Relevant Information'
+p2098
+sS'541839175352610816'
+p2099
+S'Not Informative'
+p2100
+sS'541794864803749890'
+p2101
+S'Not Informative'
+p2102
+sS'541945776125931520'
+p2103
+S'Not Informative'
+p2104
+sS'541611750446333952'
+p2105
+S'Not Informative'
+p2106
+sS'541309601749422082'
+p2107
+S'Not Informative'
+p2108
+sS'542365196363120640'
+p2109
+S'Other Relevant Information'
+p2110
+sS'541587406801997825'
+p2111
+S'Not Informative'
+p2112
+sS'541146627843424256'
+p2113
+S'Other Relevant Information'
+p2114
+sS'541589500275597313'
+p2115
+S'Not Informative'
+p2116
+sS'541939748936630272'
+p2117
+S'Not Informative'
+p2118
+sS'541798777208590336'
+p2119
+S'Not Informative'
+p2120
+sS'542336705466884097'
+p2121
+S'Infrastructure Damage'
+p2122
+sS'541601306473820162'
+p2123
+S'Not Informative'
+p2124
+sS'541769787802546177'
+p2125
+S'Not Informative'
+p2126
+sS'542449139468869632'
+p2127
+S'Other Relevant Information'
+p2128
+sS'542412222475935744'
+p2129
+S'Humanitarian Aid Provided'
+p2130
+sS'541842456531054592'
+p2131
+S'Not Informative'
+p2132
+sS'541649623106875392'
+p2133
+S'Other Relevant Information'
+p2134
+sS'541476369709154305'
+p2135
+S'Other Relevant Information'
+p2136
+sS'541469340571549696'
+p2137
+S'Other Relevant Information'
+p2138
+sS'542252851796258816'
+p2139
+S'Not Informative'
+p2140
+sS'542456101950590976'
+p2141
+S'Other Relevant Information'
+p2142
+sS'541498799391506432'
+p2143
+S'Other Relevant Information'
+p2144
+sS'541433838765740034'
+p2145
+S'Humanitarian Aid Provided'
+p2146
+sS'541312431038152704'
+p2147
+S'Other Relevant Information'
+p2148
+sS'541849827584143361'
+p2149
+S'Not Informative'
+p2150
+sS'541977865319755776'
+p2151
+S'Not Informative'
+p2152
+sS'542033468394196992'
+p2153
+S'Not Informative'
+p2154
+sS'541917630009843712'
+p2155
+S'Not Informative'
+p2156
+sS'541975863911534593'
+p2157
+S'Not Informative'
+p2158
+sS'541667771193782272'
+p2159
+S'Not Informative'
+p2160
+sS'541216450493440000'
+p2161
+S'Other Relevant Information'
+p2162
+sS'541754431943876608'
+p2163
+S'Not Informative'
+p2164
+sS'541887650727096320'
+p2165
+S'Not Informative'
+p2166
+sS'541955775732514816'
+p2167
+S'Not Informative'
+p2168
+sS'541799804884746242'
+p2169
+S'Not Informative'
+p2170
+sS'541475065687072769'
+p2171
+S'Not Informative'
+p2172
+sS'541827271531589632'
+p2173
+S'Not Informative'
+p2174
+sS'541603924000505857'
+p2175
+S'Not Informative'
+p2176
+sS'541542849242992641'
+p2177
+S'Infrastructure Damage'
+p2178
+sS'541555811701358592'
+p2179
+S'Not Informative'
+p2180
+sS'541608949015789569'
+p2181
+S'Not Informative'
+p2182
+sS'541898766610337792'
+p2183
+S'Not Informative'
+p2184
+sS'542243823363960832'
+p2185
+S'Not Informative'
+p2186
+sS'541973248154415104'
+p2187
+S'Other Relevant Information'
+p2188
+sS'541877840870797312'
+p2189
+S'Humanitarian Aid Provided'
+p2190
+sS'541603724289130496'
+p2191
+S'Other Relevant Information'
+p2192
+sS'541483568635985921'
+p2193
+S'Other Relevant Information'
+p2194
+sS'542231278691418113'
+p2195
+S'Infrastructure Damage'
+p2196
+sS'541873780130189312'
+p2197
+S'Not Informative'
+p2198
+sS'541457305267482624'
+p2199
+S'Not Informative'
+p2200
+sS'541892748756795392'
+p2201
+S'Not Informative'
+p2202
+sS'542345814740201473'
+p2203
+S'Other Relevant Information'
+p2204
+sS'541482262660128768'
+p2205
+S'Humanitarian Aid Provided'
+p2206
+sS'541512277141504000'
+p2207
+S'Other Relevant Information'
+p2208
+sS'541465106601619456'
+p2209
+S'Not Informative'
+p2210
+sS'541155443288973313'
+p2211
+S'Other Relevant Information'
+p2212
+sS'541902992769703936'
+p2213
+S'Not Informative'
+p2214
+sS'541717687341047808'
+p2215
+S'Not Informative'
+p2216
+sS'541793739572654080'
+p2217
+S'Not Informative'
+p2218
+sS'541480557616459776'
+p2219
+S'Other Relevant Information'
+p2220
+sS'541449740630495232'
+p2221
+S'Not Informative'
+p2222
+sS'541499309942767616'
+p2223
+S'Other Relevant Information'
+p2224
+sS'542243794268078080'
+p2225
+S'Not Informative'
+p2226
+sS'541594133823889408'
+p2227
+S'Not Informative'
+p2228
+sS'542209479962394625'
+p2229
+S'Not Informative'
+p2230
+sS'542326404126613504'
+p2231
+S'Not Informative'
+p2232
+sS'542235249930170368'
+p2233
+S'Other Relevant Information'
+p2234
+sS'541973879694950401'
+p2235
+S'Not Informative'
+p2236
+sS'541867678114140160'
+p2237
+S'Not Informative'
+p2238
+sS'541898344780414976'
+p2239
+S'Not Informative'
+p2240
+sS'541604748512612352'
+p2241
+S'Not Informative'
+p2242
+sS'541650056810868736'
+p2243
+S'Not Informative'
+p2244
+sS'541470452363706369'
+p2245
+S'Other Relevant Information'
+p2246
+sS'541771875584450560'
+p2247
+S'Not Informative'
+p2248
+sS'541416012793786368'
+p2249
+S'Other Relevant Information'
+p2250
+sS'541507720797380608'
+p2251
+S'Other Relevant Information'
+p2252
+sS'541513134754648064'
+p2253
+S'Not Informative'
+p2254
+sS'541527109106012160'
+p2255
+S'Not Informative'
+p2256
+sS'541968834236669952'
+p2257
+S'Not Informative'
+p2258
+sS'541536261538734080'
+p2259
+S'Not Informative'
+p2260
+sS'541416085472690176'
+p2261
+S'Other Relevant Information'
+p2262
+sS'541844887511920640'
+p2263
+S'Not Informative'
+p2264
+sS'541586501432123392'
+p2265
+S'Not Informative'
+p2266
+sS'541487955567579136'
+p2267
+S'Not Informative'
+p2268
+sS'541561778358870017'
+p2269
+S'Not Informative'
+p2270
+sS'541539300681060352'
+p2271
+S'Not Informative'
+p2272
+sS'541530521684037632'
+p2273
+S'Infrastructure Damage'
+p2274
+sS'541335105134800896'
+p2275
+S'Infrastructure Damage'
+p2276
+sS'541522528531787776'
+p2277
+S'Not Informative'
+p2278
+sS'542000689254117376'
+p2279
+S'Other Relevant Information'
+p2280
+sS'542277010694086656'
+p2281
+S'Other Relevant Information'
+p2282
+sS'541423758561402881'
+p2283
+S'Other Relevant Information'
+p2284
+sS'541348887739383808'
+p2285
+S'Other Relevant Information'
+p2286
+sS'541545688241537024'
+p2287
+S'Not Informative'
+p2288
+sS'541520708036468736'
+p2289
+S'Not Informative'
+p2290
+sS'541799839579652096'
+p2291
+S'Not Informative'
+p2292
+sS'542330597944086528'
+p2293
+S'Other Relevant Information'
+p2294
+sS'541527774943776768'
+p2295
+S'Not Informative'
+p2296
+sS'541318064113864704'
+p2297
+S'Not Informative'
+p2298
+sS'542233301952790528'
+p2299
+S'Not Informative'
+p2300
+sS'541524747129868288'
+p2301
+S'Not Informative'
+p2302
+sS'541572894887669760'
+p2303
+S'Not Informative'
+p2304
+sS'541485135703441408'
+p2305
+S'Other Relevant Information'
+p2306
+sS'541852425284378624'
+p2307
+S'Not Informative'
+p2308
+sS'541737159485825024'
+p2309
+S'Other Relevant Information'
+p2310
+sS'541963894223151104'
+p2311
+S'Not Informative'
+p2312
+sS'541813862614306816'
+p2313
+S'Not Informative'
+p2314
+sS'541694249800986624'
+p2315
+S'Other Relevant Information'
+p2316
+sS'541416770653810688'
+p2317
+S'Humanitarian Aid Provided'
+p2318
+sS'541938211602169856'
+p2319
+S'Not Informative'
+p2320
+sS'542407247502929920'
+p2321
+S'Other Relevant Information'
+p2322
+sS'542119923435053056'
+p2323
+S'Not Informative'
+p2324
+sS'542303425623764992'
+p2325
+S'Other Relevant Information'
+p2326
+sS'541146710668365824'
+p2327
+S'Other Relevant Information'
+p2328
+sS'541779878052241408'
+p2329
+S'Not Informative'
+p2330
+sS'541544315688726528'
+p2331
+S'Not Informative'
+p2332
+sS'541701924962435072'
+p2333
+S'Other Relevant Information'
+p2334
+sS'541895320037126144'
+p2335
+S'Not Informative'
+p2336
+sS'542173822066380801'
+p2337
+S'Other Relevant Information'
+p2338
+sS'542036886101835776'
+p2339
+S'Other Relevant Information'
+p2340
+sS'541244438354198531'
+p2341
+S'Not Informative'
+p2342
+sS'541520551366230017'
+p2343
+S'Not Informative'
+p2344
+sS'541722962483617792'
+p2345
+S'Not Informative'
+p2346
+sS'541533367330553857'
+p2347
+S'Not Informative'
+p2348
+sS'541971971895201796'
+p2349
+S'Not Informative'
+p2350
+sS'541849945393754112'
+p2351
+S'Not Informative'
+p2352
+sS'541613211003654144'
+p2353
+S'Not Informative'
+p2354
+sS'542432206900051969'
+p2355
+S'Not Informative'
+p2356
+sS'542276579637071872'
+p2357
+S'Other Relevant Information'
+p2358
+sS'541296319344955392'
+p2359
+S'Other Relevant Information'
+p2360
+sS'542031005096640512'
+p2361
+S'Other Relevant Information'
+p2362
+sS'541950639438184448'
+p2363
+S'Other Relevant Information'
+p2364
+sS'541878852897611778'
+p2365
+S'Not Informative'
+p2366
+sS'541734941214904320'
+p2367
+S'Not Informative'
+p2368
+sS'541685603726000128'
+p2369
+S'Not Informative'
+p2370
+sS'541359394542206976'
+p2371
+S'Not Informative'
+p2372
+sS'542256243218206720'
+p2373
+S'Infrastructure Damage'
+p2374
+sS'541142206980325376'
+p2375
+S'Not Informative'
+p2376
+sS'541588289635885056'
+p2377
+S'Infrastructure Damage'
+p2378
+sS'542042427704356864'
+p2379
+S'Other Relevant Information'
+p2380
+sS'542227462986297344'
+p2381
+S'Not Informative'
+p2382
+sS'542437331127398400'
+p2383
+S'Other Relevant Information'
+p2384
+sS'541813732284706816'
+p2385
+S'Not Informative'
+p2386
+sS'541577789435293697'
+p2387
+S'Not Informative'
+p2388
+sS'541955272478969856'
+p2389
+S'Not Informative'
+p2390
+sS'541736120891879425'
+p2391
+S'Humanitarian Aid Provided'
+p2392
+sS'541395701133881345'
+p2393
+S'Not Informative'
+p2394
+sS'541655446373683200'
+p2395
+S'Not Informative'
+p2396
+sS'541627045822742529'
+p2397
+S'Not Informative'
+p2398
+sS'541952679233466368'
+p2399
+S'Not Informative'
+p2400
+sS'542418690877050882'
+p2401
+S'Humanitarian Aid Provided'
+p2402
+sS'541527525281648640'
+p2403
+S'Other Relevant Information'
+p2404
+sS'541942777542893569'
+p2405
+S'Not Informative'
+p2406
+sS'541471475849777153'
+p2407
+S'Not Informative'
+p2408
+sS'541983984201117696'
+p2409
+S'Not Informative'
+p2410
+sS'541736396143071232'
+p2411
+S'Not Informative'
+p2412
+sS'541821046387531777'
+p2413
+S'Not Informative'
+p2414
+sS'541377385443381248'
+p2415
+S'Not Informative'
+p2416
+sS'541343253648257025'
+p2417
+S'Other Relevant Information'
+p2418
+sS'542387510068776963'
+p2419
+S'Not Informative'
+p2420
+sS'541584662481477632'
+p2421
+S'Not Informative'
+p2422
+sS'541755140047253504'
+p2423
+S'Not Informative'
+p2424
+sS'541840726640717824'
+p2425
+S'Not Informative'
+p2426
+sS'542236312594444288'
+p2427
+S'Other Relevant Information'
+p2428
+sS'541349052592697344'
+p2429
+S'Not Informative'
+p2430
+sS'541797151601205248'
+p2431
+S'Not Informative'
+p2432
+sS'541269172853178369'
+p2433
+S'Other Relevant Information'
+p2434
+sS'541980647527432193'
+p2435
+S'Not Informative'
+p2436
+sS'541870866858921984'
+p2437
+S'Not Informative'
+p2438
+sS'541450057799573504'
+p2439
+S'Not Informative'
+p2440
+sS'542217759753379840'
+p2441
+S'Not Informative'
+p2442
+sS'541837161373261825'
+p2443
+S'Not Informative'
+p2444
+sS'542308591957315584'
+p2445
+S'Not Informative'
+p2446
+sS'541408009893597184'
+p2447
+S'Not Informative'
+p2448
+sS'541532134725664768'
+p2449
+S'Other Relevant Information'
+p2450
+sS'541584188399300608'
+p2451
+S'Not Informative'
+p2452
+sS'541632963272650752'
+p2453
+S'Not Informative'
+p2454
+sS'541618989625905152'
+p2455
+S'Other Relevant Information'
+p2456
+sS'541950212340588545'
+p2457
+S'Not Informative'
+p2458
+sS'541649675372085248'
+p2459
+S'Other Relevant Information'
+p2460
+sS'541618077977174016'
+p2461
+S'Not Informative'
+p2462
+sS'541460659804717057'
+p2463
+S'Not Informative'
+p2464
+sS'541750899081609216'
+p2465
+S'Not Informative'
+p2466
+sS'541833886565548032'
+p2467
+S'Not Informative'
+p2468
+sS'541914663869374465'
+p2469
+S'Not Informative'
+p2470
+sS'541386059896991744'
+p2471
+S'Not Informative'
+p2472
+sS'541384430678323200'
+p2473
+S'Not Informative'
+p2474
+sS'541542621764526082'
+p2475
+S'Other Relevant Information'
+p2476
+sS'541863561731911681'
+p2477
+S'Infrastructure Damage'
+p2478
+sS'542292176948846593'
+p2479
+S'Other Relevant Information'
+p2480
+sS'541274769421647873'
+p2481
+S'Not Informative'
+p2482
+sS'541532747861213184'
+p2483
+S'Not Informative'
+p2484
+sS'542315885592313856'
+p2485
+S'Other Relevant Information'
+p2486
+sS'541940809335975937'
+p2487
+S'Not Informative'
+p2488
+sS'541556780871192577'
+p2489
+S'Not Informative'
+p2490
+sS'541574529995517952'
+p2491
+S'Not Informative'
+p2492
+sS'541410529634684928'
+p2493
+S'Not Informative'
+p2494
+sS'541747179233091584'
+p2495
+S'Not Informative'
+p2496
+sS'541328095303569408'
+p2497
+S'Other Relevant Information'
+p2498
+sS'541735358036074496'
+p2499
+S'Other Relevant Information'
+p2500
+sS'542429453444329473'
+p2501
+S'Other Relevant Information'
+p2502
+sS'541726803396534272'
+p2503
+S'Not Informative'
+p2504
+sS'541546724234649600'
+p2505
+S'Not Informative'
+p2506
+sS'541955320445026304'
+p2507
+S'Not Informative'
+p2508
+sS'541892471366508544'
+p2509
+S'Not Informative'
+p2510
+sS'541524354685607936'
+p2511
+S'Not Informative'
+p2512
+sS'541953224182595584'
+p2513
+S'Other Relevant Information'
+p2514
+sS'541629365956534272'
+p2515
+S'Not Informative'
+p2516
+sS'541293462411563008'
+p2517
+S'Other Relevant Information'
+p2518
+sS'541514955195838464'
+p2519
+S'Not Informative'
+p2520
+sS'541803293672878081'
+p2521
+S'Not Informative'
+p2522
+sS'541378043613569026'
+p2523
+S'Not Informative'
+p2524
+sS'541384788662169600'
+p2525
+S'Other Relevant Information'
+p2526
+sS'541556531754332161'
+p2527
+S'Not Informative'
+p2528
+sS'541415852373864448'
+p2529
+S'Other Relevant Information'
+p2530
+sS'541526923805876224'
+p2531
+S'Not Informative'
+p2532
+sS'541973250088370177'
+p2533
+S'Not Informative'
+p2534
+sS'541783067535626240'
+p2535
+S'Not Informative'
+p2536
+sS'541466637958803456'
+p2537
+S'Not Informative'
+p2538
+sS'542313591093723136'
+p2539
+S'Other Relevant Information'
+p2540
+sS'541836179188895744'
+p2541
+S'Not Informative'
+p2542
+sS'541541124569956352'
+p2543
+S'Not Informative'
+p2544
+sS'541544518965661698'
+p2545
+S'Not Informative'
+p2546
+sS'541543737118044160'
+p2547
+S'Not Informative'
+p2548
+sS'541815846230712320'
+p2549
+S'Not Informative'
+p2550
+sS'542270072811581440'
+p2551
+S'Not Informative'
+p2552
+sS'541552623678025729'
+p2553
+S'Not Informative'
+p2554
+sS'542371744514703360'
+p2555
+S'Other Relevant Information'
+p2556
+sS'541999534516080640'
+p2557
+S'Not Informative'
+p2558
+sS'541610113270681600'
+p2559
+S'Not Informative'
+p2560
+sS'541920051184427008'
+p2561
+S'Not Informative'
+p2562
+sS'541219265828102144'
+p2563
+S'Humanitarian Aid Provided'
+p2564
+sS'541819842559369216'
+p2565
+S'Not Informative'
+p2566
+sS'541772380939747328'
+p2567
+S'Not Informative'
+p2568
+sS'542188849351639041'
+p2569
+S'Other Relevant Information'
+p2570
+sS'542181938984148992'
+p2571
+S'Not Informative'
+p2572
+sS'541390529917767680'
+p2573
+S'Other Relevant Information'
+p2574
+sS'541775523937263616'
+p2575
+S'Not Informative'
+p2576
+sS'541268814646611969'
+p2577
+S'Not Informative'
+p2578
+sS'541940799714246656'
+p2579
+S'Not Informative'
+p2580
+sS'541933389369344000'
+p2581
+S'Other Relevant Information'
+p2582
+sS'541744471541424128'
+p2583
+S'Not Informative'
+p2584
+sS'542149278148595712'
+p2585
+S'Not Informative'
+p2586
+sS'541718634557878273'
+p2587
+S'Not Informative'
+p2588
+sS'541760585327575040'
+p2589
+S'Not Informative'
+p2590
+sS'542308485602373632'
+p2591
+S'Not Informative'
+p2592
+sS'541519736681811969'
+p2593
+S'Humanitarian Aid Provided'
+p2594
+sS'541490452529020928'
+p2595
+S'Other Relevant Information'
+p2596
+sS'541936177511534592'
+p2597
+S'Not Informative'
+p2598
+sS'541489932980600832'
+p2599
+S'Not Informative'
+p2600
+sS'541843029183561729'
+p2601
+S'Not Informative'
+p2602
+sS'541983304581263360'
+p2603
+S'Not Informative'
+p2604
+sS'541801350733246464'
+p2605
+S'Other Relevant Information'
+p2606
+sS'541905880673812480'
+p2607
+S'Not Informative'
+p2608
+sS'541502511773798400'
+p2609
+S'Other Relevant Information'
+p2610
+sS'541977535882346497'
+p2611
+S'Not Informative'
+p2612
+sS'541575236710191104'
+p2613
+S'Not Informative'
+p2614
+sS'541611470748786688'
+p2615
+S'Other Relevant Information'
+p2616
+sS'541990794316378114'
+p2617
+S'Not Informative'
+p2618
+sS'541998956298137601'
+p2619
+S'Not Informative'
+p2620
+sS'541660158456496128'
+p2621
+S'Not Informative'
+p2622
+sS'541589213854965760'
+p2623
+S'Not Informative'
+p2624
+sS'542267929228619777'
+p2625
+S'Infrastructure Damage'
+p2626
+sS'541522398470631424'
+p2627
+S'Not Informative'
+p2628
+sS'541684582328717312'
+p2629
+S'Other Relevant Information'
+p2630
+sS'541711518312566784'
+p2631
+S'Not Informative'
+p2632
+sS'542129818557370368'
+p2633
+S'Not Informative'
+p2634
+sS'541822201184649216'
+p2635
+S'Not Informative'
+p2636
+sS'542351504774934529'
+p2637
+S'Not Informative'
+p2638
+sS'541532143973715968'
+p2639
+S'Not Informative'
+p2640
+sS'541636670211117056'
+p2641
+S'Not Informative'
+p2642
+sS'541890258430742529'
+p2643
+S'Not Informative'
+p2644
+sS'541917479413772288'
+p2645
+S'Humanitarian Aid Provided'
+p2646
+sS'541512538849284096'
+p2647
+S'Not Informative'
+p2648
+sS'541930657740763136'
+p2649
+S'Not Informative'
+p2650
+sS'541559202796535808'
+p2651
+S'Not Informative'
+p2652
+sS'541798337822089216'
+p2653
+S'Not Informative'
+p2654
+sS'541734809903824898'
+p2655
+S'Not Informative'
+p2656
+sS'541533327132733442'
+p2657
+S'Not Informative'
+p2658
+sS'541980105866625024'
+p2659
+S'Not Informative'
+p2660
+sS'541824968011444224'
+p2661
+S'Not Informative'
+p2662
+sS'541373571373613056'
+p2663
+S'Not Informative'
+p2664
+sS'541545090725191680'
+p2665
+S'Not Informative'
+p2666
+sS'541619515176411136'
+p2667
+S'Other Relevant Information'
+p2668
+sS'541729515240574976'
+p2669
+S'Not Informative'
+p2670
+sS'542315890038296576'
+p2671
+S'Other Relevant Information'
+p2672
+sS'542189952423833600'
+p2673
+S'Not Informative'
+p2674
+sS'541490106096300032'
+p2675
+S'Other Relevant Information'
+p2676
+sS'542372136254324736'
+p2677
+S'Other Relevant Information'
+p2678
+sS'541535312422268929'
+p2679
+S'Other Relevant Information'
+p2680
+sS'541191726199631873'
+p2681
+S'Other Relevant Information'
+p2682
+sS'542268148901085184'
+p2683
+S'Not Informative'
+p2684
+sS'541298583635390465'
+p2685
+S'Not Informative'
+p2686
+sS'541292261623857152'
+p2687
+S'Humanitarian Aid Provided'
+p2688
+sS'541505734719324160'
+p2689
+S'Other Relevant Information'
+p2690
+sS'541781686304768000'
+p2691
+S'Not Informative'
+p2692
+sS'542354315038687232'
+p2693
+S'Not Informative'
+p2694
+sS'541394065414447105'
+p2695
+S'Other Relevant Information'
+p2696
+sS'541781207034650624'
+p2697
+S'Not Informative'
+p2698
+sS'541509999621439488'
+p2699
+S'Other Relevant Information'
+p2700
+sS'541793344259907584'
+p2701
+S'Not Informative'
+p2702
+sS'541839879219322880'
+p2703
+S'Not Informative'
+p2704
+sS'541476614454800384'
+p2705
+S'Other Relevant Information'
+p2706
+sS'541819645552910336'
+p2707
+S'Not Informative'
+p2708
+sS'541492961268076544'
+p2709
+S'Other Relevant Information'
+p2710
+sS'541702034035322880'
+p2711
+S'Not Informative'
+p2712
+sS'541806898844930049'
+p2713
+S'Not Informative'
+p2714
+sS'541453240550694912'
+p2715
+S'Not Informative'
+p2716
+sS'541961509899735041'
+p2717
+S'Not Informative'
+p2718
+sS'541649302419165184'
+p2719
+S'Not Informative'
+p2720
+sS'542013221419220992'
+p2721
+S'Not Informative'
+p2722
+sS'542382034266501121'
+p2723
+S'Other Relevant Information'
+p2724
+sS'542318707637092352'
+p2725
+S'Not Informative'
+p2726
+sS'541376185830088704'
+p2727
+S'Other Relevant Information'
+p2728
+sS'542271850060214273'
+p2729
+S'Not Informative'
+p2730
+sS'541460344002990080'
+p2731
+S'Other Relevant Information'
+p2732
+sS'541460827618832384'
+p2733
+S'Not Informative'
+p2734
+sS'541291497191395329'
+p2735
+S'Not Informative'
+p2736
+sS'541389716399357953'
+p2737
+S'Other Relevant Information'
+p2738
+sS'541455432506941440'
+p2739
+S'Not Informative'
+p2740
+sS'541968521505157120'
+p2741
+S'Not Informative'
+p2742
+sS'541890302496108547'
+p2743
+S'Not Informative'
+p2744
+sS'541958470782550018'
+p2745
+S'Not Informative'
+p2746
+sS'541973015320203264'
+p2747
+S'Not Informative'
+p2748
+sS'541586104734871554'
+p2749
+S'Not Informative'
+p2750
+sS'541707542250795009'
+p2751
+S'Not Informative'
+p2752
+sS'541435814300098560'
+p2753
+S'Other Relevant Information'
+p2754
+sS'541363108426436608'
+p2755
+S'Not Informative'
+p2756
+sS'542288699875401728'
+p2757
+S'Other Relevant Information'
+p2758
+sS'542412749842575360'
+p2759
+S'Not Informative'
+p2760
+sS'541261878119239681'
+p2761
+S'Not Informative'
+p2762
+sS'541614349983305728'
+p2763
+S'Not Informative'
+p2764
+sS'541536428279488513'
+p2765
+S'Other Relevant Information'
+p2766
+sS'541433342025924608'
+p2767
+S'Requests for Help/Needs'
+p2768
+sS'541449433687158784'
+p2769
+S'Not Informative'
+p2770
+sS'541812184532013057'
+p2771
+S'Other Relevant Information'
+p2772
+sS'541433822395371520'
+p2773
+S'Not Informative'
+p2774
+sS'541437954330066944'
+p2775
+S'Other Relevant Information'
+p2776
+sS'541604994521108480'
+p2777
+S'Not Informative'
+p2778
+sS'541286209763282944'
+p2779
+S'Other Relevant Information'
+p2780
+sS'541386714313687040'
+p2781
+S'Other Relevant Information'
+p2782
+sS'541472141988724737'
+p2783
+S'Not Informative'
+p2784
+sS'542033267503820800'
+p2785
+S'Not Informative'
+p2786
+sS'541472956648415232'
+p2787
+S'Not Informative'
+p2788
+sS'541375516922478592'
+p2789
+S'Not Informative'
+p2790
+sS'541624752298012672'
+p2791
+S'Not Informative'
+p2792
+sS'541949410460983296'
+p2793
+S'Not Informative'
+p2794
+sS'542123887891197952'
+p2795
+S'Not Informative'
+p2796
+sS'541456742081511425'
+p2797
+S'Other Relevant Information'
+p2798
+sS'541498464564432896'
+p2799
+S'Not Informative'
+p2800
+sS'541986772800909312'
+p2801
+S'Not Informative'
+p2802
+sS'541720300765732865'
+p2803
+S'Not Informative'
+p2804
+sS'541934637757390851'
+p2805
+S'Not Informative'
+p2806
+sS'541409783094337536'
+p2807
+S'Not Informative'
+p2808
+sS'541659944354070528'
+p2809
+S'Other Relevant Information'
+p2810
+sS'541564057195528193'
+p2811
+S'Not Informative'
+p2812
+sS'542143846499377152'
+p2813
+S'Other Relevant Information'
+p2814
+sS'541438771908980738'
+p2815
+S'Not Informative'
+p2816
+sS'541370102830993409'
+p2817
+S'Other Relevant Information'
+p2818
+sS'541952355508314112'
+p2819
+S'Not Informative'
+p2820
+sS'541144478816669696'
+p2821
+S'Other Relevant Information'
+p2822
+sS'542029140979744768'
+p2823
+S'Not Informative'
+p2824
+sS'541627263825895424'
+p2825
+S'Not Informative'
+p2826
+sS'541735458007310336'
+p2827
+S'Not Informative'
+p2828
+sS'541609538089418752'
+p2829
+S'Not Informative'
+p2830
+sS'542235142463315969'
+p2831
+S'Other Relevant Information'
+p2832
+sS'541911227866157056'
+p2833
+S'Not Informative'
+p2834
+sS'541917181857234944'
+p2835
+S'Not Informative'
+p2836
+sS'541732634616147969'
+p2837
+S'Not Informative'
+p2838
+sS'541487208314593280'
+p2839
+S'Not Informative'
+p2840
+sS'541928650372055041'
+p2841
+S'Not Informative'
+p2842
+sS'541944071703392256'
+p2843
+S'Not Informative'
+p2844
+sS'541779127104438272'
+p2845
+S'Other Relevant Information'
+p2846
+sS'541614107888058369'
+p2847
+S'Not Informative'
+p2848
+sS'542458176025530369'
+p2849
+S'Not Informative'
+p2850
+sS'542173680860954626'
+p2851
+S'Infrastructure Damage'
+p2852
+sS'542015516718555136'
+p2853
+S'Not Informative'
+p2854
+sS'541960683093786627'
+p2855
+S'Not Informative'
+p2856
+sS'542010836257370112'
+p2857
+S'Not Informative'
+p2858
+sS'541650577818533888'
+p2859
+S'Not Informative'
+p2860
+sS'541961311073349632'
+p2861
+S'Not Informative'
+p2862
+sS'541695392266452992'
+p2863
+S'Other Relevant Information'
+p2864
+sS'541417962456899584'
+p2865
+S'Not Informative'
+p2866
+sS'541746079343988736'
+p2867
+S'Infrastructure Damage'
+p2868
+sS'541892457500540928'
+p2869
+S'Not Informative'
+p2870
+sS'541529366363394048'
+p2871
+S'Other Relevant Information'
+p2872
+sS'541959968510201856'
+p2873
+S'Not Informative'
+p2874
+sS'541941382928404481'
+p2875
+S'Not Informative'
+p2876
+sS'541842172094345216'
+p2877
+S'Not Informative'
+p2878
+sS'541792045593948160'
+p2879
+S'Humanitarian Aid Provided'
+p2880
+sS'541595352210489345'
+p2881
+S'Not Informative'
+p2882
+sS'541379950079508480'
+p2883
+S'Not Informative'
+p2884
+sS'541920338054250496'
+p2885
+S'Not Informative'
+p2886
+sS'541475705314238464'
+p2887
+S'Other Relevant Information'
+p2888
+sS'542297449315196928'
+p2889
+S'Other Relevant Information'
+p2890
+sS'541272721523355648'
+p2891
+S'Other Relevant Information'
+p2892
+sS'541288782691962881'
+p2893
+S'Not Informative'
+p2894
+sS'541761794348314625'
+p2895
+S'Not Informative'
+p2896
+sS'542321246424166400'
+p2897
+S'Not Informative'
+p2898
+sS'541852261937594368'
+p2899
+S'Not Informative'
+p2900
+sS'541744513471873024'
+p2901
+S'Not Informative'
+p2902
+sS'542200129042649088'
+p2903
+S'Not Informative'
+p2904
+sS'541625665556983808'
+p2905
+S'Not Informative'
+p2906
+sS'541641185526181889'
+p2907
+S'Other Relevant Information'
+p2908
+sS'541619476320354304'
+p2909
+S'Other Relevant Information'
+p2910
+sS'541712451532640256'
+p2911
+S'Other Relevant Information'
+p2912
+sS'541750560605499392'
+p2913
+S'Not Informative'
+p2914
+sS'541501301981343746'
+p2915
+S'Infrastructure Damage'
+p2916
+sS'541980646021689344'
+p2917
+S'Not Informative'
+p2918
+sS'542246033414057984'
+p2919
+S'Other Relevant Information'
+p2920
+sS'541347316326993920'
+p2921
+S'Not Informative'
+p2922
+sS'541762088582914048'
+p2923
+S'Not Informative'
+p2924
+sS'541905251960225792'
+p2925
+S'Not Informative'
+p2926
+sS'541327552908763136'
+p2927
+S'Not Informative'
+p2928
+sS'541934526398619648'
+p2929
+S'Other Relevant Information'
+p2930
+sS'541835123767775233'
+p2931
+S'Not Informative'
+p2932
+sS'541978328983277568'
+p2933
+S'Not Informative'
+p2934
+sS'542279838678396928'
+p2935
+S'Not Informative'
+p2936
+sS'541346815749009408'
+p2937
+S'Other Relevant Information'
+p2938
+sS'541819066596335616'
+p2939
+S'Not Informative'
+p2940
+sS'541530074852241408'
+p2941
+S'Other Relevant Information'
+p2942
+sS'541920838568517632'
+p2943
+S'Not Informative'
+p2944
+sS'541872299666710528'
+p2945
+S'Not Informative'
+p2946
+sS'541749597907853313'
+p2947
+S'Not Informative'
+p2948
+sS'542389958020177920'
+p2949
+S'Not Informative'
+p2950
+sS'541981481904533504'
+p2951
+S'Not Informative'
+p2952
+sS'541465858712023040'
+p2953
+S'Not Informative'
+p2954
+sS'541638455546372099'
+p2955
+S'Not Informative'
+p2956
+sS'541903341161172993'
+p2957
+S'Not Informative'
+p2958
+sS'541149635021393921'
+p2959
+S'Other Relevant Information'
+p2960
+sS'541445556208283648'
+p2961
+S'Not Informative'
+p2962
+sS'541360350063382528'
+p2963
+S'Not Informative'
+p2964
+sS'541961339766190081'
+p2965
+S'Not Informative'
+p2966
+sS'541159623957282816'
+p2967
+S'Other Relevant Information'
+p2968
+sS'541577933769297922'
+p2969
+S'Not Informative'
+p2970
+sS'541636356074897408'
+p2971
+S'Other Relevant Information'
+p2972
+sS'541548694512758784'
+p2973
+S'Not Informative'
+p2974
+sS'542126606609698816'
+p2975
+S'Not Informative'
+p2976
+sS'541814648035893248'
+p2977
+S'Not Informative'
+p2978
+sS'542039198023581696'
+p2979
+S'Other Relevant Information'
+p2980
+sS'542307616756879361'
+p2981
+S'Not Informative'
+p2982
+sS'541261962944860161'
+p2983
+S'Not Informative'
+p2984
+sS'541836972495339520'
+p2985
+S'Not Informative'
+p2986
+sS'541836054819389440'
+p2987
+S'Not Informative'
+p2988
+sS'541824763434242048'
+p2989
+S'Not Informative'
+p2990
+sS'541359170750935040'
+p2991
+S'Not Informative'
+p2992
+sS'541472549113036800'
+p2993
+S'Not Informative'
+p2994
+sS'541868316013244416'
+p2995
+S'Not Informative'
+p2996
+sS'541586941246853120'
+p2997
+S'Other Relevant Information'
+p2998
+sS'541746842589876224'
+p2999
+S'Not Informative'
+p3000
+sS'542019731793133568'
+p3001
+S'Not Informative'
+p3002
+sS'541536937686097920'
+p3003
+S'Other Relevant Information'
+p3004
+sS'542007494487187456'
+p3005
+S'Not Informative'
+p3006
+sS'541752487355506688'
+p3007
+S'Not Informative'
+p3008
+sS'541702455688302592'
+p3009
+S'Not Informative'
+p3010
+sS'541718411995131904'
+p3011
+S'Not Informative'
+p3012
+sS'541522600384413697'
+p3013
+S'Other Relevant Information'
+p3014
+sS'541791964429971456'
+p3015
+S'Not Informative'
+p3016
+sS'541475598929891328'
+p3017
+S'Other Relevant Information'
+p3018
+sS'541380597847842817'
+p3019
+S'Not Informative'
+p3020
+sS'541882593328001025'
+p3021
+S'Not Informative'
+p3022
+sS'541320084460150785'
+p3023
+S'Requests for Help/Needs'
+p3024
+sS'541493403222302721'
+p3025
+S'Other Relevant Information'
+p3026
+sS'541495778066583552'
+p3027
+S'Other Relevant Information'
+p3028
+sS'541915397205667841'
+p3029
+S'Not Informative'
+p3030
+sS'542275425540403200'
+p3031
+S'Other Relevant Information'
+p3032
+sS'542175384020586496'
+p3033
+S'Not Informative'
+p3034
+sS'542146960371634176'
+p3035
+S'Not Informative'
+p3036
+sS'541805147920138241'
+p3037
+S'Not Informative'
+p3038
+sS'542357957376479233'
+p3039
+S'Not Informative'
+p3040
+sS'541630776006025216'
+p3041
+S'Not Informative'
+p3042
+sS'541607490707009536'
+p3043
+S'Other Relevant Information'
+p3044
+sS'541100305614503936'
+p3045
+S'Not Informative'
+p3046
+sS'542340370093182976'
+p3047
+S'Not Informative'
+p3048
+sS'541488643265667073'
+p3049
+S'Not Informative'
+p3050
+sS'542267856281665536'
+p3051
+S'Infrastructure Damage'
+p3052
+sS'541762635977732096'
+p3053
+S'Not Informative'
+p3054
+sS'542273972629278720'
+p3055
+S'Humanitarian Aid Provided'
+p3056
+sS'542121842547253248'
+p3057
+S'Not Informative'
+p3058
+sS'541618177600278528'
+p3059
+S'Not Informative'
+p3060
+sS'541795277934305280'
+p3061
+S'Not Informative'
+p3062
+sS'542170117426016256'
+p3063
+S'Other Relevant Information'
+p3064
+sS'541795434100834306'
+p3065
+S'Not Informative'
+p3066
+sS'542256932049129472'
+p3067
+S'Infrastructure Damage'
+p3068
+sS'541861688069603329'
+p3069
+S'Not Informative'
+p3070
+sS'541878282602708993'
+p3071
+S'Other Relevant Information'
+p3072
+sS'541400688429780993'
+p3073
+S'Not Informative'
+p3074
+sS'541697713956323328'
+p3075
+S'Not Informative'
+p3076
+sS'541955472954519553'
+p3077
+S'Not Informative'
+p3078
+sS'541638666221678592'
+p3079
+S'Not Informative'
+p3080
+sS'541231319100186624'
+p3081
+S'Other Relevant Information'
+p3082
+sS'541646123283120129'
+p3083
+S'Not Informative'
+p3084
+sS'541552115668115457'
+p3085
+S'Not Informative'
+p3086
+sS'542234247495684096'
+p3087
+S'Other Relevant Information'
+p3088
+sS'541654844025868290'
+p3089
+S'Not Informative'
+p3090
+sS'542363060824846336'
+p3091
+S'Requests for Help/Needs'
+p3092
+sS'541767016521007104'
+p3093
+S'Not Informative'
+p3094
+sS'541502385659854848'
+p3095
+S'Other Relevant Information'
+p3096
+sS'541205369549119488'
+p3097
+S'Not Informative'
+p3098
+sS'541959731904925697'
+p3099
+S'Not Informative'
+p3100
+sS'541557506204397568'
+p3101
+S'Not Informative'
+p3102
+sS'541697022634364928'
+p3103
+S'Not Informative'
+p3104
+sS'541754426520653826'
+p3105
+S'Not Informative'
+p3106
+sS'541213912650510338'
+p3107
+S'Infrastructure Damage'
+p3108
+sS'541282036536053761'
+p3109
+S'Not Informative'
+p3110
+sS'542024508782424064'
+p3111
+S'Not Informative'
+p3112
+sS'541874879176253441'
+p3113
+S'Not Informative'
+p3114
+sS'542000856636219392'
+p3115
+S'Not Informative'
+p3116
+sS'541415645544718336'
+p3117
+S'Not Informative'
+p3118
+sS'542116587306622977'
+p3119
+S'Not Informative'
+p3120
+sS'541278737053274112'
+p3121
+S'Other Relevant Information'
+p3122
+sS'542022191521333248'
+p3123
+S'Other Relevant Information'
+p3124
+sS'541490564189810688'
+p3125
+S'Other Relevant Information'
+p3126
+sS'541298789814767616'
+p3127
+S'Not Informative'
+p3128
+sS'541099467320356864'
+p3129
+S'Other Relevant Information'
+p3130
+sS'542307537736196096'
+p3131
+S'Other Relevant Information'
+p3132
+sS'541429702229901313'
+p3133
+S'Humanitarian Aid Provided'
+p3134
+sS'541481600832536577'
+p3135
+S'Not Informative'
+p3136
+sS'541846611287355392'
+p3137
+S'Not Informative'
+p3138
+sS'541385980524376064'
+p3139
+S'Not Informative'
+p3140
+sS'541459421797171202'
+p3141
+S'Not Informative'
+p3142
+sS'541447179760463872'
+p3143
+S'Humanitarian Aid Provided'
+p3144
+sS'542226051204513792'
+p3145
+S'Other Relevant Information'
+p3146
+sS'541428911830081539'
+p3147
+S'Not Informative'
+p3148
+sS'541617723260690432'
+p3149
+S'Not Informative'
+p3150
+sS'541101065652150272'
+p3151
+S'Not Informative'
+p3152
+sS'541460916500316160'
+p3153
+S'Not Informative'
+p3154
+sS'541866551398244352'
+p3155
+S'Not Informative'
+p3156
+sS'541486934204219392'
+p3157
+S'Not Informative'
+p3158
+sS'541340002949812224'
+p3159
+S'Not Informative'
+p3160
+sS'541791985304993793'
+p3161
+S'Not Informative'
+p3162
+sS'541794019479519234'
+p3163
+S'Not Informative'
+p3164
+sS'541147484093825025'
+p3165
+S'Not Informative'
+p3166
+sS'541984498187902976'
+p3167
+S'Not Informative'
+p3168
+sS'541745757498273792'
+p3169
+S'Not Informative'
+p3170
+sS'541273050340016129'
+p3171
+S'Not Informative'
+p3172
+sS'542232517307150336'
+p3173
+S'Other Relevant Information'
+p3174
+sS'541870790216392704'
+p3175
+S'Not Informative'
+p3176
+sS'541531931800649728'
+p3177
+S'Not Informative'
+p3178
+sS'541913580489039873'
+p3179
+S'Not Informative'
+p3180
+sS'542438417716346881'
+p3181
+S'Other Relevant Information'
+p3182
+sS'541935355415371776'
+p3183
+S'Other Relevant Information'
+p3184
+sS'541506778585116672'
+p3185
+S'Not Informative'
+p3186
+sS'541372695892340736'
+p3187
+S'Requests for Help/Needs'
+p3188
+sS'541855264106745856'
+p3189
+S'Not Informative'
+p3190
+sS'542239123642150912'
+p3191
+S'Not Informative'
+p3192
+sS'541500777823760384'
+p3193
+S'Not Informative'
+p3194
+sS'542000221987692544'
+p3195
+S'Not Informative'
+p3196
+sS'541894166679404544'
+p3197
+S'Not Informative'
+p3198
+sS'541546727874895872'
+p3199
+S'Not Informative'
+p3200
+sS'541494850911105024'
+p3201
+S'Other Relevant Information'
+p3202
+sS'541152171321221120'
+p3203
+S'Other Relevant Information'
+p3204
+sS'541365483446870016'
+p3205
+S'Other Relevant Information'
+p3206
+sS'541738464228552705'
+p3207
+S'Not Informative'
+p3208
+sS'541449757797789696'
+p3209
+S'Humanitarian Aid Provided'
+p3210
+sS'541630790124048384'
+p3211
+S'Not Informative'
+p3212
+sS'542362843480203264'
+p3213
+S'Not Informative'
+p3214
+sS'541574435556175873'
+p3215
+S'Not Informative'
+p3216
+sS'541849492320825346'
+p3217
+S'Other Relevant Information'
+p3218
+sS'541368483779334144'
+p3219
+S'Other Relevant Information'
+p3220
+sS'541646432201998337'
+p3221
+S'Not Informative'
+p3222
+sS'541595336586719232'
+p3223
+S'Not Informative'
+p3224
+sS'541346855440089088'
+p3225
+S'Other Relevant Information'
+p3226
+sS'541870581847556096'
+p3227
+S'Other Relevant Information'
+p3228
+sS'541404837355589632'
+p3229
+S'Not Informative'
+p3230
+sS'541465262260637696'
+p3231
+S'Not Informative'
+p3232
+sS'541486333575712770'
+p3233
+S'Not Informative'
+p3234
+sS'541509331364364288'
+p3235
+S'Not Informative'
+p3236
+sS'541410710384037888'
+p3237
+S'Other Relevant Information'
+p3238
+sS'541490969648975872'
+p3239
+S'Not Informative'
+p3240
+sS'541399377089007616'
+p3241
+S'Not Informative'
+p3242
+sS'542234087876853760'
+p3243
+S'Other Relevant Information'
+p3244
+sS'541461351768403968'
+p3245
+S'Infrastructure Damage'
+p3246
+sS'541421366507868160'
+p3247
+S'Humanitarian Aid Provided'
+p3248
+sS'541952281852510209'
+p3249
+S'Not Informative'
+p3250
+sS'541730256277618688'
+p3251
+S'Humanitarian Aid Provided'
+p3252
+sS'541172966491684865'
+p3253
+S'Not Informative'
+p3254
+sS'542255867132137473'
+p3255
+S'Other Relevant Information'
+p3256
+sS'541196636471713792'
+p3257
+S'Other Relevant Information'
+p3258
+sS'541680890498539521'
+p3259
+S'Other Relevant Information'
+p3260
+sS'541878178479108096'
+p3261
+S'Not Informative'
+p3262
+sS'541610226139406336'
+p3263
+S'Not Informative'
+p3264
+sS'542380096082833409'
+p3265
+S'Other Relevant Information'
+p3266
+sS'541922895325188098'
+p3267
+S'Not Informative'
+p3268
+sS'541876085953019904'
+p3269
+S'Not Informative'
+p3270
+sS'541529765358751744'
+p3271
+S'Not Informative'
+p3272
+sS'541999372771151873'
+p3273
+S'Not Informative'
+p3274
+sS'541605394729009152'
+p3275
+S'Not Informative'
+p3276
+sS'541954129749606401'
+p3277
+S'Not Informative'
+p3278
+sS'541233866628157440'
+p3279
+S'Humanitarian Aid Provided'
+p3280
+sS'541644666186125312'
+p3281
+S'Not Informative'
+p3282
+sS'542298776845963265'
+p3283
+S'Not Informative'
+p3284
+sS'541841977432498176'
+p3285
+S'Not Informative'
+p3286
+sS'541325745448943618'
+p3287
+S'Other Relevant Information'
+p3288
+sS'541628185209622528'
+p3289
+S'Not Informative'
+p3290
+sS'541830647011356672'
+p3291
+S'Not Informative'
+p3292
+sS'542045310466658304'
+p3293
+S'Not Informative'
+p3294
+sS'541591284461629440'
+p3295
+S'Other Relevant Information'
+p3296
+sS'541397189398769665'
+p3297
+S'Other Relevant Information'
+p3298
+sS'541413022292393984'
+p3299
+S'Not Informative'
+p3300
+sS'541524229699543040'
+p3301
+S'Not Informative'
+p3302
+sS'541868621224374272'
+p3303
+S'Not Informative'
+p3304
+sS'541499277327867904'
+p3305
+S'Not Informative'
+p3306
+sS'541555205381181440'
+p3307
+S'Not Informative'
+p3308
+sS'541790669208309760'
+p3309
+S'Not Informative'
+p3310
+sS'541378747249987585'
+p3311
+S'Not Informative'
+p3312
+sS'541501744065171456'
+p3313
+S'Not Informative'
+p3314
+sS'541516692740767744'
+p3315
+S'Not Informative'
+p3316
+sS'541741941654683648'
+p3317
+S'Not Informative'
+p3318
+sS'541276507675439104'
+p3319
+S'Not Informative'
+p3320
+sS'541945814940012544'
+p3321
+S'Not Informative'
+p3322
+sS'541889296836222977'
+p3323
+S'Not Informative'
+p3324
+sS'541143208550334465'
+p3325
+S'Other Relevant Information'
+p3326
+sS'541927217128034304'
+p3327
+S'Not Informative'
+p3328
+sS'541330477244641280'
+p3329
+S'Not Informative'
+p3330
+sS'541472306896183296'
+p3331
+S'Not Informative'
+p3332
+sS'541535489765818368'
+p3333
+S'Not Informative'
+p3334
+sS'541514763679707137'
+p3335
+S'Not Informative'
+p3336
+sS'541622803129450496'
+p3337
+S'Not Informative'
+p3338
+sS'541642633005649920'
+p3339
+S'Not Informative'
+p3340
+sS'541888473188139008'
+p3341
+S'Not Informative'
+p3342
+sS'541821316588777473'
+p3343
+S'Not Informative'
+p3344
+sS'542333464624635904'
+p3345
+S'Not Informative'
+p3346
+sS'541381216792891392'
+p3347
+S'Not Informative'
+p3348
+sS'541759250973073409'
+p3349
+S'Not Informative'
+p3350
+sS'541462942672105472'
+p3351
+S'Not Informative'
+p3352
+sS'541567161748430848'
+p3353
+S'Other Relevant Information'
+p3354
+sS'541716695484624896'
+p3355
+S'Not Informative'
+p3356
+sS'541534570336620545'
+p3357
+S'Not Informative'
+p3358
+sS'541594560808222720'
+p3359
+S'Not Informative'
+p3360
+sS'541333955778064386'
+p3361
+S'Other Relevant Information'
+p3362
+sS'541594841495252992'
+p3363
+S'Not Informative'
+p3364
+sS'541520956334694400'
+p3365
+S'Not Informative'
+p3366
+sS'542444701647794176'
+p3367
+S'Not Informative'
+p3368
+sS'541873084450349056'
+p3369
+S'Not Informative'
+p3370
+sS'541684147404943360'
+p3371
+S'Not Informative'
+p3372
+sS'541845233248387072'
+p3373
+S'Not Informative'
+p3374
+sS'541506233874661376'
+p3375
+S'Not Informative'
+p3376
+sS'542330920036888576'
+p3377
+S'Not Informative'
+p3378
+sS'541173135530131456'
+p3379
+S'Other Relevant Information'
+p3380
+sS'541582190073487360'
+p3381
+S'Infrastructure Damage'
+p3382
+sS'541549468483457024'
+p3383
+S'Not Informative'
+p3384
+sS'541528368295206912'
+p3385
+S'Not Informative'
+p3386
+sS'542325352308023298'
+p3387
+S'Other Relevant Information'
+p3388
+sS'541889086118957056'
+p3389
+S'Not Informative'
+p3390
+sS'541605191972564992'
+p3391
+S'Not Informative'
+p3392
+sS'541434696433811456'
+p3393
+S'Other Relevant Information'
+p3394
+sS'541724606789210112'
+p3395
+S'Not Informative'
+p3396
+sS'541900766962008064'
+p3397
+S'Not Informative'
+p3398
+sS'541842972212330497'
+p3399
+S'Not Informative'
+p3400
+sS'541545405926748160'
+p3401
+S'Not Informative'
+p3402
+sS'541177957142654976'
+p3403
+S'Not Informative'
+p3404
+sS'541598826142781442'
+p3405
+S'Other Relevant Information'
+p3406
+sS'541851549358907392'
+p3407
+S'Not Informative'
+p3408
+sS'541149085764317184'
+p3409
+S'Other Relevant Information'
+p3410
+sS'542274508225130497'
+p3411
+S'Not Informative'
+p3412
+sS'541734991357820928'
+p3413
+S'Not Informative'
+p3414
+sS'541954862116634625'
+p3415
+S'Not Informative'
+p3416
+sS'541548957324046336'
+p3417
+S'Not Informative'
+p3418
+sS'541561620376211457'
+p3419
+S'Other Relevant Information'
+p3420
+sS'541599652651339776'
+p3421
+S'Not Informative'
+p3422
+sS'541408262336180224'
+p3423
+S'Not Informative'
+p3424
+sS'541579741757968384'
+p3425
+S'Not Informative'
+p3426
+sS'541923031740735488'
+p3427
+S'Not Informative'
+p3428
+sS'541996840728920064'
+p3429
+S'Other Relevant Information'
+p3430
+sS'542272171046100992'
+p3431
+S'Not Informative'
+p3432
+sS'541633192608804864'
+p3433
+S'Not Informative'
+p3434
+sS'541550880613351424'
+p3435
+S'Not Informative'
+p3436
+sS'541975498918985728'
+p3437
+S'Not Informative'
+p3438
+sS'542344251980267520'
+p3439
+S'Other Relevant Information'
+p3440
+sS'541170220011106304'
+p3441
+S'Not Informative'
+p3442
+sS'541944889420681216'
+p3443
+S'Other Relevant Information'
+p3444
+sS'541968294073618434'
+p3445
+S'Not Informative'
+p3446
+sS'541603976173481984'
+p3447
+S'Not Informative'
+p3448
+sS'541874231412142080'
+p3449
+S'Not Informative'
+p3450
+sS'541902128269123585'
+p3451
+S'Not Informative'
+p3452
+sS'541516372287569920'
+p3453
+S'Not Informative'
+p3454
+sS'541762021142700032'
+p3455
+S'Not Informative'
+p3456
+sS'541751387877408768'
+p3457
+S'Other Relevant Information'
+p3458
+sS'541627554554462209'
+p3459
+S'Other Relevant Information'
+p3460
+sS'541691633243537409'
+p3461
+S'Not Informative'
+p3462
+sS'542191351991767040'
+p3463
+S'Not Informative'
+p3464
+sS'541357059263197184'
+p3465
+S'Not Informative'
+p3466
+sS'542036069756063744'
+p3467
+S'Not Informative'
+p3468
+sS'542243488243257344'
+p3469
+S'Other Relevant Information'
+p3470
+sS'541746791851388928'
+p3471
+S'Not Informative'
+p3472
+sS'541387261770997760'
+p3473
+S'Not Informative'
+p3474
+sS'541452059631820802'
+p3475
+S'Other Relevant Information'
+p3476
+sS'541945123379351552'
+p3477
+S'Not Informative'
+p3478
+sS'541493204806545408'
+p3479
+S'Not Informative'
+p3480
+sS'541493430443335680'
+p3481
+S'Not Informative'
+p3482
+sS'541768107253981185'
+p3483
+S'Not Informative'
+p3484
+sS'541466553359691776'
+p3485
+S'Other Relevant Information'
+p3486
+sS'541829641346895872'
+p3487
+S'Not Informative'
+p3488
+sS'541369527582212096'
+p3489
+S'Other Relevant Information'
+p3490
+sS'541828726485315584'
+p3491
+S'Not Informative'
+p3492
+sS'541510795977170945'
+p3493
+S'Not Informative'
+p3494
+sS'541887878310014977'
+p3495
+S'Not Informative'
+p3496
+sS'541598582776680449'
+p3497
+S'Not Informative'
+p3498
+sS'541444500712083456'
+p3499
+S'Other Relevant Information'
+p3500
+sS'541977223876460546'
+p3501
+S'Not Informative'
+p3502
+sS'541494454524596224'
+p3503
+S'Not Informative'
+p3504
+sS'541464867706662913'
+p3505
+S'Not Informative'
+p3506
+sS'541625525664350208'
+p3507
+S'Not Informative'
+p3508
+sS'542131120070852608'
+p3509
+S'Other Relevant Information'
+p3510
+sS'541482355698192385'
+p3511
+S'Not Informative'
+p3512
+sS'541945797378846720'
+p3513
+S'Not Informative'
+p3514
+sS'541485290964008960'
+p3515
+S'Humanitarian Aid Provided'
+p3516
+sS'541459186098638848'
+p3517
+S'Not Informative'
+p3518
+sS'542447366339436545'
+p3519
+S'Other Relevant Information'
+p3520
+sS'541878420758487040'
+p3521
+S'Not Informative'
+p3522
+sS'541385338157924353'
+p3523
+S'Not Informative'
+p3524
+sS'541352372640174081'
+p3525
+S'Not Informative'
+p3526
+sS'541100743558987777'
+p3527
+S'Other Relevant Information'
+p3528
+sS'541943000876593152'
+p3529
+S'Not Informative'
+p3530
+sS'541623400834539521'
+p3531
+S'Not Informative'
+p3532
+sS'541540206940143616'
+p3533
+S'Not Informative'
+p3534
+sS'541544863863685120'
+p3535
+S'Not Informative'
+p3536
+sS'541730218843463680'
+p3537
+S'Not Informative'
+p3538
+sS'541508094845407232'
+p3539
+S'Not Informative'
+p3540
+sS'541303628468727808'
+p3541
+S'Not Informative'
+p3542
+sS'541956478924767232'
+p3543
+S'Not Informative'
+p3544
+sS'541527253935349762'
+p3545
+S'Other Relevant Information'
+p3546
+sS'542003139725910016'
+p3547
+S'Not Informative'
+p3548
+sS'541952221613539328'
+p3549
+S'Not Informative'
+p3550
+sS'542438431528198144'
+p3551
+S'Other Relevant Information'
+p3552
+sS'542302703020294144'
+p3553
+S'Other Relevant Information'
+p3554
+sS'541367113298886656'
+p3555
+S'Other Relevant Information'
+p3556
+sS'541998809199308800'
+p3557
+S'Not Informative'
+p3558
+sS'541735108802121729'
+p3559
+S'Not Informative'
+p3560
+sS'541845893779972097'
+p3561
+S'Other Relevant Information'
+p3562
+sS'541723594762371072'
+p3563
+S'Not Informative'
+p3564
+sS'541710444012908544'
+p3565
+S'Not Informative'
+p3566
+sS'541421253026783232'
+p3567
+S'Not Informative'
+p3568
+sS'542447906607742976'
+p3569
+S'Other Relevant Information'
+p3570
+sS'541937612861091841'
+p3571
+S'Other Relevant Information'
+p3572
+sS'541493362918830081'
+p3573
+S'Not Informative'
+p3574
+sS'541532002370191360'
+p3575
+S'Other Relevant Information'
+p3576
+sS'541729171676733440'
+p3577
+S'Not Informative'
+p3578
+sS'541719497527156736'
+p3579
+S'Infrastructure Damage'
+p3580
+sS'542370782966345728'
+p3581
+S'Not Informative'
+p3582
+sS'541829863150071808'
+p3583
+S'Not Informative'
+p3584
+sS'541882664689487872'
+p3585
+S'Other Relevant Information'
+p3586
+sS'541536840759517184'
+p3587
+S'Other Relevant Information'
+p3588
+sS'541519771317981184'
+p3589
+S'Not Informative'
+p3590
+sS'541531434918215681'
+p3591
+S'Other Relevant Information'
+p3592
+sS'541532337599557632'
+p3593
+S'Not Informative'
+p3594
+sS'541378822331834368'
+p3595
+S'Not Informative'
+p3596
+sS'541412247629623297'
+p3597
+S'Other Relevant Information'
+p3598
+sS'542272080243216384'
+p3599
+S'Infrastructure Damage'
+p3600
+sS'541202858658381824'
+p3601
+S'Not Informative'
+p3602
+sS'542129118242807809'
+p3603
+S'Not Informative'
+p3604
+sS'541736568545751040'
+p3605
+S'Not Informative'
+p3606
+sS'541664651184836609'
+p3607
+S'Not Informative'
+p3608
+sS'541534603517779968'
+p3609
+S'Not Informative'
+p3610
+sS'541539909312716800'
+p3611
+S'Not Informative'
+p3612
+sS'541378726345588738'
+p3613
+S'Not Informative'
+p3614
+sS'541482938227888128'
+p3615
+S'Infrastructure Damage'
+p3616
+sS'541138493649743872'
+p3617
+S'Other Relevant Information'
+p3618
+sS'541537394671902720'
+p3619
+S'Not Informative'
+p3620
+sS'542166435485601793'
+p3621
+S'Not Informative'
+p3622
+sS'541614951664594946'
+p3623
+S'Not Informative'
+p3624
+sS'542116172338978816'
+p3625
+S'Not Informative'
+p3626
+sS'541790597590175744'
+p3627
+S'Not Informative'
+p3628
+sS'542030234300579840'
+p3629
+S'Not Informative'
+p3630
+sS'541893394109562880'
+p3631
+S'Not Informative'
+p3632
+sS'541415178336604160'
+p3633
+S'Other Relevant Information'
+p3634
+sS'541662623557615617'
+p3635
+S'Not Informative'
+p3636
+sS'541337007793127424'
+p3637
+S'Infrastructure Damage'
+p3638
+sS'541980050480832512'
+p3639
+S'Not Informative'
+p3640
+sS'542384657711366144'
+p3641
+S'Other Relevant Information'
+p3642
+sS'541568565418029057'
+p3643
+S'Not Informative'
+p3644
+sS'541498707661705216'
+p3645
+S'Not Informative'
+p3646
+sS'541943010120843266'
+p3647
+S'Not Informative'
+p3648
+sS'541977869329903616'
+p3649
+S'Not Informative'
+p3650
+sS'541939905597673472'
+p3651
+S'Not Informative'
+p3652
+sS'541610736225505280'
+p3653
+S'Not Informative'
+p3654
+sS'541393190637801472'
+p3655
+S'Other Relevant Information'
+p3656
+sS'541916475041136642'
+p3657
+S'Not Informative'
+p3658
+sS'542035758098292736'
+p3659
+S'Not Informative'
+p3660
+sS'541553976744095745'
+p3661
+S'Not Informative'
+p3662
+sS'541492425462517763'
+p3663
+S'Not Informative'
+p3664
+sS'541720617003659265'
+p3665
+S'Not Informative'
+p3666
+sS'542295581050171392'
+p3667
+S'Not Informative'
+p3668
+sS'541506724038205440'
+p3669
+S'Not Informative'
+p3670
+sS'542230928127324161'
+p3671
+S'Not Informative'
+p3672
+sS'541616832700891137'
+p3673
+S'Not Informative'
+p3674
+sS'541354647043051520'
+p3675
+S'Not Informative'
+p3676
+sS'541988310311514112'
+p3677
+S'Not Informative'
+p3678
+sS'541779600528142336'
+p3679
+S'Not Informative'
+p3680
+sS'541272365217230848'
+p3681
+S'Not Informative'
+p3682
+sS'541846183539249152'
+p3683
+S'Not Informative'
+p3684
+sS'542430036213497856'
+p3685
+S'Other Relevant Information'
+p3686
+sS'542451065744941056'
+p3687
+S'Other Relevant Information'
+p3688
+sS'541769551537389568'
+p3689
+S'Not Informative'
+p3690
+sS'541944691961626624'
+p3691
+S'Not Informative'
+p3692
+sS'541644989252399104'
+p3693
+S'Not Informative'
+p3694
+sS'541974473256075264'
+p3695
+S'Not Informative'
+p3696
+sS'541723434913263616'
+p3697
+S'Not Informative'
+p3698
+sS'541394876936355840'
+p3699
+S'Not Informative'
+p3700
+sS'541574461506347010'
+p3701
+S'Not Informative'
+p3702
+sS'541805199866593280'
+p3703
+S'Other Relevant Information'
+p3704
+sS'541279941711900673'
+p3705
+S'Not Informative'
+p3706
+sS'541167929703026688'
+p3707
+S'Not Informative'
+p3708
+sS'541976713001852929'
+p3709
+S'Not Informative'
+p3710
+sS'541710378183696384'
+p3711
+S'Other Relevant Information'
+p3712
+sS'541530041067122688'
+p3713
+S'Not Informative'
+p3714
+sS'541676171579371521'
+p3715
+S'Not Informative'
+p3716
+sS'541842340500238337'
+p3717
+S'Not Informative'
+p3718
+sS'542040877615439872'
+p3719
+S'Not Informative'
+p3720
+sS'541612559422349312'
+p3721
+S'Not Informative'
+p3722
+sS'541491705912885250'
+p3723
+S'Not Informative'
+p3724
+sS'541848485876625408'
+p3725
+S'Not Informative'
+p3726
+sS'541855640092540928'
+p3727
+S'Not Informative'
+p3728
+sS'541816642322190336'
+p3729
+S'Not Informative'
+p3730
+sS'541394493660876800'
+p3731
+S'Other Relevant Information'
+p3732
+sS'541734739321712640'
+p3733
+S'Not Informative'
+p3734
+sS'541820547286720512'
+p3735
+S'Not Informative'
+p3736
+sS'541418243949219840'
+p3737
+S'Not Informative'
+p3738
+sS'541454458920525824'
+p3739
+S'Humanitarian Aid Provided'
+p3740
+sS'541601503442526208'
+p3741
+S'Not Informative'
+p3742
+sS'541479757502623744'
+p3743
+S'Not Informative'
+p3744
+sS'541483734352936960'
+p3745
+S'Not Informative'
+p3746
+sS'541493498390667265'
+p3747
+S'Not Informative'
+p3748
+sS'541593342023200770'
+p3749
+S'Not Informative'
+p3750
+sS'541354652285943808'
+p3751
+S'Humanitarian Aid Provided'
+p3752
+sS'541437573868974080'
+p3753
+S'Other Relevant Information'
+p3754
+sS'541650607937830912'
+p3755
+S'Not Informative'
+p3756
+sS'541741893210476544'
+p3757
+S'Not Informative'
+p3758
+sS'541478268046934016'
+p3759
+S'Not Informative'
+p3760
+sS'542308053228326912'
+p3761
+S'Not Informative'
+p3762
+sS'542235258314182656'
+p3763
+S'Not Informative'
+p3764
+sS'542018404413349889'
+p3765
+S'Not Informative'
+p3766
+sS'541848270964666368'
+p3767
+S'Humanitarian Aid Provided'
+p3768
+sS'541708720980254720'
+p3769
+S'Not Informative'
+p3770
+sS'541449702697234432'
+p3771
+S'Not Informative'
+p3772
+sS'542271744036192258'
+p3773
+S'Requests for Help/Needs'
+p3774
+sS'541564390739161090'
+p3775
+S'Not Informative'
+p3776
+sS'541160855618846720'
+p3777
+S'Other Relevant Information'
+p3778
+sS'541650779182866432'
+p3779
+S'Not Informative'
+p3780
+sS'541899345621037057'
+p3781
+S'Not Informative'
+p3782
+sS'542296750044631040'
+p3783
+S'Not Informative'
+p3784
+sS'541767530826571776'
+p3785
+S'Not Informative'
+p3786
+sS'541841401462657025'
+p3787
+S'Not Informative'
+p3788
+sS'542344046388072448'
+p3789
+S'Requests for Help/Needs'
+p3790
+sS'541322255632846848'
+p3791
+S'Humanitarian Aid Provided'
+p3792
+sS'541533171288793088'
+p3793
+S'Not Informative'
+p3794
+sS'541956877098049536'
+p3795
+S'Not Informative'
+p3796
+sS'541916724488974338'
+p3797
+S'Not Informative'
+p3798
+sS'541458661068267520'
+p3799
+S'Infrastructure Damage'
+p3800
+sS'541848211300691968'
+p3801
+S'Not Informative'
+p3802
+sS'541377638917361664'
+p3803
+S'Not Informative'
+p3804
+sS'541495524608987136'
+p3805
+S'Other Relevant Information'
+p3806
+sS'541654596339630080'
+p3807
+S'Not Informative'
+p3808
+sS'541179244546899968'
+p3809
+S'Not Informative'
+p3810
+sS'542120026019336192'
+p3811
+S'Not Informative'
+p3812
+sS'542408387535724544'
+p3813
+S'Humanitarian Aid Provided'
+p3814
+sS'541770850647556097'
+p3815
+S'Not Informative'
+p3816
+sS'541524655660863489'
+p3817
+S'Infrastructure Damage'
+p3818
+sS'541498104394944512'
+p3819
+S'Not Informative'
+p3820
+sS'541973244954169345'
+p3821
+S'Not Informative'
+p3822
+sS'542345656296161281'
+p3823
+S'Not Informative'
+p3824
+sS'541515811983069184'
+p3825
+S'Not Informative'
+p3826
+sS'541527927931031552'
+p3827
+S'Other Relevant Information'
+p3828
+sS'542445259490222082'
+p3829
+S'Other Relevant Information'
+p3830
+sS'541382372080361473'
+p3831
+S'Not Informative'
+p3832
+sS'541944585313067009'
+p3833
+S'Not Informative'
+p3834
+sS'541739291563401217'
+p3835
+S'Not Informative'
+p3836
+sS'541637109048545282'
+p3837
+S'Not Informative'
+p3838
+sS'541523812857032704'
+p3839
+S'Not Informative'
+p3840
+sS'541793720664719360'
+p3841
+S'Humanitarian Aid Provided'
+p3842
+sS'541560518524538880'
+p3843
+S'Other Relevant Information'
+p3844
+sS'541487930640846848'
+p3845
+S'Not Informative'
+p3846
+sS'541610938479017984'
+p3847
+S'Not Informative'
+p3848
+sS'541499789150392320'
+p3849
+S'Not Informative'
+p3850
+sS'542372000296366080'
+p3851
+S'Not Informative'
+p3852
+sS'541456229290090496'
+p3853
+S'Not Informative'
+p3854
+sS'541819724699422720'
+p3855
+S'Not Informative'
+p3856
+sS'541454719126753281'
+p3857
+S'Not Informative'
+p3858
+sS'541851667184906240'
+p3859
+S'Other Relevant Information'
+p3860
+sS'541399189502976000'
+p3861
+S'Not Informative'
+p3862
+sS'541944819484868608'
+p3863
+S'Not Informative'
+p3864
+sS'541998885548204032'
+p3865
+S'Not Informative'
+p3866
+sS'541938253306556417'
+p3867
+S'Not Informative'
+p3868
+sS'541546632601296897'
+p3869
+S'Not Informative'
+p3870
+sS'541771905498222593'
+p3871
+S'Not Informative'
+p3872
+sS'541457809112453120'
+p3873
+S'Other Relevant Information'
+p3874
+sS'541488440248791044'
+p3875
+S'Other Relevant Information'
+p3876
+sS'541590470934413313'
+p3877
+S'Not Informative'
+p3878
+sS'541679285451620352'
+p3879
+S'Other Relevant Information'
+p3880
+sS'541714853103038465'
+p3881
+S'Not Informative'
+p3882
+sS'541175080550948866'
+p3883
+S'Not Informative'
+p3884
+sS'541455406703599616'
+p3885
+S'Not Informative'
+p3886
+sS'542247373968130048'
+p3887
+S'Not Informative'
+p3888
+sS'541977383998197760'
+p3889
+S'Not Informative'
+p3890
+sS'541477100910149632'
+p3891
+S'Not Informative'
+p3892
+sS'541889197569634304'
+p3893
+S'Not Informative'
+p3894
+sS'541763575203647488'
+p3895
+S'Not Informative'
+p3896
+sS'541409038748352512'
+p3897
+S'Not Informative'
+p3898
+sS'541498939531202561'
+p3899
+S'Other Relevant Information'
+p3900
+sS'542163911819001856'
+p3901
+S'Not Informative'
+p3902
+sS'541473579158618112'
+p3903
+S'Other Relevant Information'
+p3904
+sS'541458754126901248'
+p3905
+S'Not Informative'
+p3906
+sS'541149802235703296'
+p3907
+S'Other Relevant Information'
+p3908
+sS'541682121782603777'
+p3909
+S'Other Relevant Information'
+p3910
+sS'541561864551809024'
+p3911
+S'Not Informative'
+p3912
+sS'541587805839716352'
+p3913
+S'Not Informative'
+p3914
+sS'541513798557782016'
+p3915
+S'Not Informative'
+p3916
+sS'542342039010947073'
+p3917
+S'Not Informative'
+p3918
+sS'541285179500015616'
+p3919
+S'Not Informative'
+p3920
+sS'542024895975391233'
+p3921
+S'Not Informative'
+p3922
+sS'541879764764479489'
+p3923
+S'Not Informative'
+p3924
+sS'541167228570202113'
+p3925
+S'Not Informative'
+p3926
+sS'541394445334097920'
+p3927
+S'Not Informative'
+p3928
+sS'541972993438539777'
+p3929
+S'Other Relevant Information'
+p3930
+sS'542290259086544896'
+p3931
+S'Other Relevant Information'
+p3932
+sS'541670670921244672'
+p3933
+S'Other Relevant Information'
+p3934
+sS'541828670612992000'
+p3935
+S'Not Informative'
+p3936
+sS'542010110122668032'
+p3937
+S'Not Informative'
+p3938
+sS'541806586558038017'
+p3939
+S'Other Relevant Information'
+p3940
+sS'541465157671473152'
+p3941
+S'Not Informative'
+p3942
+sS'541816328881852416'
+p3943
+S'Not Informative'
+p3944
+sS'541992162770972672'
+p3945
+S'Not Informative'
+p3946
+sS'541706040921055232'
+p3947
+S'Other Relevant Information'
+p3948
+sS'541957467157307392'
+p3949
+S'Not Informative'
+p3950
+sS'541721357445509120'
+p3951
+S'Not Informative'
+p3952
+sS'542437931617509377'
+p3953
+S'Other Relevant Information'
+p3954
+sS'541769304275165185'
+p3955
+S'Not Informative'
+p3956
+sS'541610649999011843'
+p3957
+S'Not Informative'
+p3958
+sS'541854837177348097'
+p3959
+S'Not Informative'
+p3960
+sS'541273562875977728'
+p3961
+S'Not Informative'
+p3962
+sS'541982234677608449'
+p3963
+S'Not Informative'
+p3964
+sS'541945902642913280'
+p3965
+S'Other Relevant Information'
+p3966
+sS'541959804286021634'
+p3967
+S'Not Informative'
+p3968
+sS'542155492559056896'
+p3969
+S'Other Relevant Information'
+p3970
+sS'541527505560023040'
+p3971
+S'Other Relevant Information'
+p3972
+sS'541743444520337409'
+p3973
+S'Not Informative'
+p3974
+sS'541862358482968576'
+p3975
+S'Not Informative'
+p3976
+sS'541826886188679168'
+p3977
+S'Not Informative'
+p3978
+sS'542144763072217088'
+p3979
+S'Not Informative'
+p3980
+sS'541728840687431681'
+p3981
+S'Not Informative'
+p3982
+sS'541943920679456769'
+p3983
+S'Not Informative'
+p3984
+sS'542341199923671040'
+p3985
+S'Other Relevant Information'
+p3986
+sS'541639923288121345'
+p3987
+S'Not Informative'
+p3988
+sS'541466374603014144'
+p3989
+S'Not Informative'
+p3990
+sS'541382341491687424'
+p3991
+S'Not Informative'
+p3992
+sS'541257858789040129'
+p3993
+S'Other Relevant Information'
+p3994
+sS'541511960437612545'
+p3995
+S'Humanitarian Aid Provided'
+p3996
+sS'541604948698734593'
+p3997
+S'Not Informative'
+p3998
+sS'541506871580827648'
+p3999
+S'Not Informative'
+p4000
+sS'541493191002693632'
+p4001
+S'Not Informative'
+p4002
+sS'542274645735399424'
+p4003
+S'Humanitarian Aid Provided'
+p4004
+sS'541766420082610176'
+p4005
+S'Not Informative'
+p4006
+sS'542308144286674944'
+p4007
+S'Not Informative'
+p4008
+sS'541640370476429312'
+p4009
+S'Not Informative'
+p4010
+sS'541229616405688323'
+p4011
+S'Other Relevant Information'
+p4012
+sS'541601252426002432'
+p4013
+S'Not Informative'
+p4014
+sS'541551583721304066'
+p4015
+S'Other Relevant Information'
+p4016
+sS'541401899971276800'
+p4017
+S'Not Informative'
+p4018
+sS'542235970943188992'
+p4019
+S'Other Relevant Information'
+p4020
+sS'541383473466859520'
+p4021
+S'Requests for Help/Needs'
+p4022
+sS'541589539392061440'
+p4023
+S'Humanitarian Aid Provided'
+p4024
+sS'541536360268439553'
+p4025
+S'Not Informative'
+p4026
+sS'541467701018124288'
+p4027
+S'Not Informative'
+p4028
+sS'541258148414099456'
+p4029
+S'Requests for Help/Needs'
+p4030
+sS'542022402465464321'
+p4031
+S'Not Informative'
+p4032
+sS'541628255380324352'
+p4033
+S'Not Informative'
+p4034
+sS'541632429778141184'
+p4035
+S'Other Relevant Information'
+p4036
+sS'541645933705183232'
+p4037
+S'Not Informative'
+p4038
+sS'541759131976081408'
+p4039
+S'Not Informative'
+p4040
+sS'541618492588322817'
+p4041
+S'Other Relevant Information'
+p4042
+sS'541318926164963329'
+p4043
+S'Not Informative'
+p4044
+sS'541502649527705600'
+p4045
+S'Not Informative'
+p4046
+sS'542297723689398272'
+p4047
+S'Not Informative'
+p4048
+sS'541549241601380352'
+p4049
+S'Not Informative'
+p4050
+sS'541447402524139520'
+p4051
+S'Not Informative'
+p4052
+sS'542239473556144128'
+p4053
+S'Not Informative'
+p4054
+sS'541840547615211522'
+p4055
+S'Other Relevant Information'
+p4056
+sS'541942398239387648'
+p4057
+S'Not Informative'
+p4058
+sS'541956922250117120'
+p4059
+S'Other Relevant Information'
+p4060
+sS'542347484337831936'
+p4061
+S'Other Relevant Information'
+p4062
+sS'541534602800939008'
+p4063
+S'Not Informative'
+p4064
+sS'541649303706411008'
+p4065
+S'Not Informative'
+p4066
+sS'542426835292663808'
+p4067
+S'Other Relevant Information'
+p4068
+sS'541498658832023552'
+p4069
+S'Other Relevant Information'
+p4070
+sS'541541008861696001'
+p4071
+S'Other Relevant Information'
+p4072
+sS'541559706243043328'
+p4073
+S'Not Informative'
+p4074
+sS'541721869440012288'
+p4075
+S'Other Relevant Information'
+p4076
+sS'541618382332645378'
+p4077
+S'Not Informative'
+p4078
+sS'541589467971059712'
+p4079
+S'Not Informative'
+p4080
+sS'541598440393043968'
+p4081
+S'Other Relevant Information'
+p4082
+sS'541601365944852480'
+p4083
+S'Not Informative'
+p4084
+sS'541592075767398400'
+p4085
+S'Not Informative'
+p4086
+sS'541990333702090752'
+p4087
+S'Not Informative'
+p4088
+sS'541920099137884160'
+p4089
+S'Not Informative'
+p4090
+sS'541276654757089281'
+p4091
+S'Not Informative'
+p4092
+sS'541430060717453312'
+p4093
+S'Other Relevant Information'
+p4094
+sS'542023316320428032'
+p4095
+S'Requests for Help/Needs'
+p4096
+sS'541734133207019520'
+p4097
+S'Not Informative'
+p4098
+sS'541122500910800896'
+p4099
+S'Not Informative'
+p4100
+sS'541435102438252544'
+p4101
+S'Not Informative'
+p4102
+sS'541495696004620288'
+p4103
+S'Other Relevant Information'
+p4104
+sS'541794568669118464'
+p4105
+S'Not Informative'
+p4106
+sS'541578905950240769'
+p4107
+S'Not Informative'
+p4108
+sS'541897682948616192'
+p4109
+S'Not Informative'
+p4110
+sS'541979221506002946'
+p4111
+S'Not Informative'
+p4112
+sS'541893969269886977'
+p4113
+S'Not Informative'
+p4114
+sS'541713700747350016'
+p4115
+S'Not Informative'
+p4116
+sS'541578291199475712'
+p4117
+S'Not Informative'
+p4118
+sS'541684681989955584'
+p4119
+S'Not Informative'
+p4120
+sS'541784118908821504'
+p4121
+S'Not Informative'
+p4122
+sS'541580102690041856'
+p4123
+S'Not Informative'
+p4124
+sS'541619984758087680'
+p4125
+S'Not Informative'
+p4126
+sS'541658392066916352'
+p4127
+S'Not Informative'
+p4128
+sS'541464287357976576'
+p4129
+S'Not Informative'
+p4130
+sS'541231969657315328'
+p4131
+S'Humanitarian Aid Provided'
+p4132
+sS'541575724323201024'
+p4133
+S'Not Informative'
+p4134
+sS'541791235728359425'
+p4135
+S'Not Informative'
+p4136
+sS'541820839872581632'
+p4137
+S'Not Informative'
+p4138
+sS'541576789911666688'
+p4139
+S'Not Informative'
+p4140
+sS'541154031713136640'
+p4141
+S'Other Relevant Information'
+p4142
+sS'541503153095442432'
+p4143
+S'Other Relevant Information'
+p4144
+sS'542274041654960130'
+p4145
+S'Not Informative'
+p4146
+sS'542290828970844161'
+p4147
+S'Other Relevant Information'
+p4148
+sS'541812868027781120'
+p4149
+S'Other Relevant Information'
+p4150
+sS'541488466622570496'
+p4151
+S'Not Informative'
+p4152
+sS'541508544395083776'
+p4153
+S'Not Informative'
+p4154
+sS'541587737506111488'
+p4155
+S'Humanitarian Aid Provided'
+p4156
+sS'541414699204481024'
+p4157
+S'Other Relevant Information'
+p4158
+sS'541385388409892866'
+p4159
+S'Not Informative'
+p4160
+sS'541621436620619776'
+p4161
+S'Not Informative'
+p4162
+sS'541956781090811904'
+p4163
+S'Not Informative'
+p4164
+sS'541289134149877760'
+p4165
+S'Other Relevant Information'
+p4166
+sS'541954823701028865'
+p4167
+S'Not Informative'
+p4168
+sS'541372781469114369'
+p4169
+S'Infrastructure Damage'
+p4170
+sS'541853534866509824'
+p4171
+S'Not Informative'
+p4172
+sS'541996516043657216'
+p4173
+S'Other Relevant Information'
+p4174
+sS'541964192841236480'
+p4175
+S'Not Informative'
+p4176
+sS'541816178684203008'
+p4177
+S'Not Informative'
+p4178
+sS'541866050707795969'
+p4179
+S'Not Informative'
+p4180
+sS'541363605472415744'
+p4181
+S'Requests for Help/Needs'
+p4182
+sS'541528237528989696'
+p4183
+S'Not Informative'
+p4184
+sS'541738153225105408'
+p4185
+S'Not Informative'
+p4186
+sS'542202625618219008'
+p4187
+S'Other Relevant Information'
+p4188
+sS'542326261541244928'
+p4189
+S'Other Relevant Information'
+p4190
+sS'541527998189801472'
+p4191
+S'Other Relevant Information'
+p4192
+sS'542201987740467201'
+p4193
+S'Not Informative'
+p4194
+sS'541213599494991872'
+p4195
+S'Other Relevant Information'
+p4196
+sS'541658972441174016'
+p4197
+S'Not Informative'
+p4198
+sS'541869084313284609'
+p4199
+S'Not Informative'
+p4200
+sS'541662632650895360'
+p4201
+S'Not Informative'
+p4202
+sS'541485109136748544'
+p4203
+S'Not Informative'
+p4204
+sS'541460352827789312'
+p4205
+S'Not Informative'
+p4206
+sS'541617432881020929'
+p4207
+S'Not Informative'
+p4208
+sS'541710481296068608'
+p4209
+S'Not Informative'
+p4210
+sS'541933502560612353'
+p4211
+S'Not Informative'
+p4212
+sS'541421759468015616'
+p4213
+S'Not Informative'
+p4214
+sS'542139328197955584'
+p4215
+S'Other Relevant Information'
+p4216
+sS'541597976469061633'
+p4217
+S'Not Informative'
+p4218
+sS'542305236086292480'
+p4219
+S'Not Informative'
+p4220
+sS'541435322156855296'
+p4221
+S'Other Relevant Information'
+p4222
+sS'541618426834206720'
+p4223
+S'Other Relevant Information'
+p4224
+sS'541969945081704448'
+p4225
+S'Not Informative'
+p4226
+sS'541539927520182272'
+p4227
+S'Not Informative'
+p4228
+sS'541782438448345088'
+p4229
+S'Other Relevant Information'
+p4230
+sS'541823955376406528'
+p4231
+S'Not Informative'
+p4232
+sS'541754308476555264'
+p4233
+S'Not Informative'
+p4234
+sS'541500747720847360'
+p4235
+S'Not Informative'
+p4236
+sS'541475974789857280'
+p4237
+S'Other Relevant Information'
+p4238
+sS'541348887534247937'
+p4239
+S'Other Relevant Information'
+p4240
+sS'541490263298830337'
+p4241
+S'Not Informative'
+p4242
+sS'541578841253502976'
+p4243
+S'Other Relevant Information'
+p4244
+sS'541749666463768576'
+p4245
+S'Not Informative'
+p4246
+sS'541598878126964738'
+p4247
+S'Not Informative'
+p4248
+sS'542408077039792128'
+p4249
+S'Other Relevant Information'
+p4250
+sS'541916190499553281'
+p4251
+S'Not Informative'
+p4252
+sS'541377669867528192'
+p4253
+S'Not Informative'
+p4254
+sS'541736617963048960'
+p4255
+S'Other Relevant Information'
+p4256
+sS'541689134356897792'
+p4257
+S'Not Informative'
+p4258
+sS'541821862737477633'
+p4259
+S'Not Informative'
+p4260
+sS'541995561952366593'
+p4261
+S'Not Informative'
+p4262
+sS'541603998663311360'
+p4263
+S'Not Informative'
+p4264
+sS'541649666480144385'
+p4265
+S'Not Informative'
+p4266
+sS'541733615869386752'
+p4267
+S'Infrastructure Damage'
+p4268
+sS'542276079956676609'
+p4269
+S'Not Informative'
+p4270
+sS'541337591639863296'
+p4271
+S'Not Informative'
+p4272
+sS'541770278401888256'
+p4273
+S'Other Relevant Information'
+p4274
+sS'542186837905645568'
+p4275
+S'Not Informative'
+p4276
+sS'541496286025752577'
+p4277
+S'Not Informative'
+p4278
+sS'541635215085424640'
+p4279
+S'Not Informative'
+p4280
+sS'541144851543101441'
+p4281
+S'Not Informative'
+p4282
+sS'541495062480187394'
+p4283
+S'Not Informative'
+p4284
+sS'541527661504638976'
+p4285
+S'Other Relevant Information'
+p4286
+sS'541482382339997696'
+p4287
+S'Not Informative'
+p4288
+sS'541579478003380224'
+p4289
+S'Not Informative'
+p4290
+sS'541492448367616000'
+p4291
+S'Other Relevant Information'
+p4292
+sS'541636586102747137'
+p4293
+S'Not Informative'
+p4294
+sS'541829358269505537'
+p4295
+S'Not Informative'
+p4296
+sS'541676223244824577'
+p4297
+S'Other Relevant Information'
+p4298
+sS'541838558739566593'
+p4299
+S'Not Informative'
+p4300
+sS'541781518214258688'
+p4301
+S'Humanitarian Aid Provided'
+p4302
+sS'541514608494653441'
+p4303
+S'Not Informative'
+p4304
+sS'541423175540547585'
+p4305
+S'Not Informative'
+p4306
+sS'541814701051895808'
+p4307
+S'Not Informative'
+p4308
+sS'541807534915346434'
+p4309
+S'Not Informative'
+p4310
+sS'542177148555890689'
+p4311
+S'Not Informative'
+p4312
+sS'542277552945897472'
+p4313
+S'Other Relevant Information'
+p4314
+sS'541352289454534656'
+p4315
+S'Other Relevant Information'
+p4316
+sS'541473645366108161'
+p4317
+S'Not Informative'
+p4318
+sS'541373259288018944'
+p4319
+S'Not Informative'
+p4320
+sS'542223343106007040'
+p4321
+S'Not Informative'
+p4322
+sS'542302153163808770'
+p4323
+S'Humanitarian Aid Provided'
+p4324
+sS'541490728720171008'
+p4325
+S'Other Relevant Information'
+p4326
+sS'541753959874957313'
+p4327
+S'Not Informative'
+p4328
+sS'541941666974683136'
+p4329
+S'Not Informative'
+p4330
+sS'541656233996849152'
+p4331
+S'Not Informative'
+p4332
+sS'541471958974464000'
+p4333
+S'Infrastructure Damage'
+p4334
+sS'541761966352523266'
+p4335
+S'Not Informative'
+p4336
+sS'541831190919933952'
+p4337
+S'Infrastructure Damage'
+p4338
+sS'541611189407461376'
+p4339
+S'Not Informative'
+p4340
+sS'541516413525966848'
+p4341
+S'Other Relevant Information'
+p4342
+sS'541158218479579136'
+p4343
+S'Humanitarian Aid Provided'
+p4344
+sS'541308144568508416'
+p4345
+S'Not Informative'
+p4346
+sS'541979005637783553'
+p4347
+S'Not Informative'
+p4348
+sS'541562363082579968'
+p4349
+S'Not Informative'
+p4350
+sS'541592520254177280'
+p4351
+S'Not Informative'
+p4352
+sS'541843135593472000'
+p4353
+S'Not Informative'
+p4354
+sS'542038173325721600'
+p4355
+S'Humanitarian Aid Provided'
+p4356
+sS'541484087811526656'
+p4357
+S'Humanitarian Aid Provided'
+p4358
+sS'541807510722588672'
+p4359
+S'Not Informative'
+p4360
+sS'541429793309224960'
+p4361
+S'Humanitarian Aid Provided'
+p4362
+sS'541358149794406400'
+p4363
+S'Other Relevant Information'
+p4364
+sS'541478569658961921'
+p4365
+S'Other Relevant Information'
+p4366
+sS'542404322705686529'
+p4367
+S'Not Informative'
+p4368
+sS'541936609990414338'
+p4369
+S'Other Relevant Information'
+p4370
+sS'541250790774411264'
+p4371
+S'Infrastructure Damage'
+p4372
+sS'541788200159571968'
+p4373
+S'Not Informative'
+p4374
+sS'542155619851972608'
+p4375
+S'Other Relevant Information'
+p4376
+sS'541378856939429888'
+p4377
+S'Other Relevant Information'
+p4378
+sS'541544306364801024'
+p4379
+S'Not Informative'
+p4380
+sS'541785819821137920'
+p4381
+S'Other Relevant Information'
+p4382
+sS'541525071006011392'
+p4383
+S'Other Relevant Information'
+p4384
+sS'541459291224276992'
+p4385
+S'Not Informative'
+p4386
+sS'541919457493266433'
+p4387
+S'Not Informative'
+p4388
+sS'542137379763408897'
+p4389
+S'Not Informative'
+p4390
+sS'541583941556117505'
+p4391
+S'Not Informative'
+p4392
+sS'541517421954486272'
+p4393
+S'Not Informative'
+p4394
+sS'541766244027101184'
+p4395
+S'Not Informative'
+p4396
+sS'541219912686243841'
+p4397
+S'Humanitarian Aid Provided'
+p4398
+sS'541621753055674369'
+p4399
+S'Not Informative'
+p4400
+sS'541974926480003072'
+p4401
+S'Not Informative'
+p4402
+sS'541546845982314497'
+p4403
+S'Infrastructure Damage'
+p4404
+sS'542216290266402816'
+p4405
+S'Not Informative'
+p4406
+sS'541185387486396416'
+p4407
+S'Not Informative'
+p4408
+sS'542314357728632832'
+p4409
+S'Infrastructure Damage'
+p4410
+sS'541385034695864320'
+p4411
+S'Not Informative'
+p4412
+sS'541845397484736512'
+p4413
+S'Other Relevant Information'
+p4414
+sS'541631779753324544'
+p4415
+S'Other Relevant Information'
+p4416
+sS'541508636799823872'
+p4417
+S'Not Informative'
+p4418
+sS'541835460423581696'
+p4419
+S'Not Informative'
+p4420
+sS'541441355579281408'
+p4421
+S'Humanitarian Aid Provided'
+p4422
+sS'541520029465214976'
+p4423
+S'Not Informative'
+p4424
+sS'541172292420513793'
+p4425
+S'Not Informative'
+p4426
+sS'542323301314334722'
+p4427
+S'Other Relevant Information'
+p4428
+sS'541989917719822338'
+p4429
+S'Not Informative'
+p4430
+sS'542365580334862336'
+p4431
+S'Not Informative'
+p4432
+sS'541591805356032000'
+p4433
+S'Other Relevant Information'
+p4434
+sS'541472728121749504'
+p4435
+S'Not Informative'
+p4436
+sS'541840992975192065'
+p4437
+S'Not Informative'
+p4438
+sS'541838580889296896'
+p4439
+S'Not Informative'
+p4440
+sS'541407175143608320'
+p4441
+S'Other Relevant Information'
+p4442
+sS'541844542048063488'
+p4443
+S'Other Relevant Information'
+p4444
+sS'541511731218903041'
+p4445
+S'Other Relevant Information'
+p4446
+sS'541301189631938560'
+p4447
+S'Other Relevant Information'
+p4448
+sS'541431931284369408'
+p4449
+S'Not Informative'
+p4450
+sS'541531267922022400'
+p4451
+S'Not Informative'
+p4452
+sS'541534643070062592'
+p4453
+S'Not Informative'
+p4454
+sS'541938002667511809'
+p4455
+S'Other Relevant Information'
+p4456
+sS'541460350944546816'
+p4457
+S'Other Relevant Information'
+p4458
+sS'541248817878687744'
+p4459
+S'Humanitarian Aid Provided'
+p4460
+sS'541501954539536386'
+p4461
+S'Not Informative'
+p4462
+sS'541886833315946496'
+p4463
+S'Not Informative'
+p4464
+sS'541691120174907392'
+p4465
+S'Not Informative'
+p4466
+sS'541943482101665792'
+p4467
+S'Not Informative'
+p4468
+sS'541528867299540993'
+p4469
+S'Not Informative'
+p4470
+sS'541646722447839232'
+p4471
+S'Not Informative'
+p4472
+sS'541554094377160704'
+p4473
+S'Humanitarian Aid Provided'
+p4474
+sS'541922762219323392'
+p4475
+S'Not Informative'
+p4476
+sS'541489265637875712'
+p4477
+S'Not Informative'
+p4478
+sS'541371263714095104'
+p4479
+S'Other Relevant Information'
+p4480
+sS'541987335739437057'
+p4481
+S'Humanitarian Aid Provided'
+p4482
+sS'541548097294192640'
+p4483
+S'Not Informative'
+p4484
+sS'541897894656098304'
+p4485
+S'Not Informative'
+p4486
+sS'541595570448515072'
+p4487
+S'Infrastructure Damage'
+p4488
+sS'541572391168520192'
+p4489
+S'Not Informative'
+p4490
+sS'542233044766449665'
+p4491
+S'Not Informative'
+p4492
+sS'541652590019108864'
+p4493
+S'Not Informative'
+p4494
+sS'541203280026935296'
+p4495
+S'Not Informative'
+p4496
+sS'542341667190104065'
+p4497
+S'Not Informative'
+p4498
+sS'541726587566047232'
+p4499
+S'Infrastructure Damage'
+p4500
+sS'541173370759299074'
+p4501
+S'Not Informative'
+p4502
+sS'541572430192721920'
+p4503
+S'Other Relevant Information'
+p4504
+sS'541866304664109056'
+p4505
+S'Not Informative'
+p4506
+sS'541854345839792128'
+p4507
+S'Not Informative'
+p4508
+sS'541647612688879616'
+p4509
+S'Not Informative'
+p4510
+sS'541845545573052416'
+p4511
+S'Other Relevant Information'
+p4512
+sS'542116225484980224'
+p4513
+S'Not Informative'
+p4514
+sS'541718768754245632'
+p4515
+S'Not Informative'
+p4516
+sS'541714100720369665'
+p4517
+S'Not Informative'
+p4518
+sS'541797623825698816'
+p4519
+S'Not Informative'
+p4520
+sS'541429350600830976'
+p4521
+S'Not Informative'
+p4522
+sS'541976726247456768'
+p4523
+S'Not Informative'
+p4524
+sS'541164998341312513'
+p4525
+S'Not Informative'
+p4526
+sS'541486353653837824'
+p4527
+S'Not Informative'
+p4528
+sS'541897260431179777'
+p4529
+S'Not Informative'
+p4530
+sS'541479777274564608'
+p4531
+S'Other Relevant Information'
+p4532
+sS'542259020296237056'
+p4533
+S'Humanitarian Aid Provided'
+p4534
+sS'541491533032488960'
+p4535
+S'Not Informative'
+p4536
+sS'541609250062340096'
+p4537
+S'Not Informative'
+p4538
+sS'541769481286991872'
+p4539
+S'Not Informative'
+p4540
+sS'541385444874002432'
+p4541
+S'Not Informative'
+p4542
+sS'541692681961742336'
+p4543
+S'Not Informative'
+p4544
+sS'541975236204195840'
+p4545
+S'Not Informative'
+p4546
+sS'541277178353041409'
+p4547
+S'Not Informative'
+p4548
+sS'541533355293278208'
+p4549
+S'Not Informative'
+p4550
+sS'541494199149805568'
+p4551
+S'Not Informative'
+p4552
+sS'541613937897111553'
+p4553
+S'Not Informative'
+p4554
+sS'541591038121762816'
+p4555
+S'Other Relevant Information'
+p4556
+sS'542437189833879553'
+p4557
+S'Not Informative'
+p4558
+sS'542135463105282048'
+p4559
+S'Not Informative'
+p4560
+sS'541842296069554176'
+p4561
+S'Not Informative'
+p4562
+sS'541476187088769024'
+p4563
+S'Other Relevant Information'
+p4564
+sS'541639937272348672'
+p4565
+S'Other Relevant Information'
+p4566
+sS'541482507661619200'
+p4567
+S'Not Informative'
+p4568
+sS'541970618925592576'
+p4569
+S'Not Informative'
+p4570
+sS'541771217510731776'
+p4571
+S'Not Informative'
+p4572
+sS'541471752761933826'
+p4573
+S'Other Relevant Information'
+p4574
+sS'541676154415894529'
+p4575
+S'Other Relevant Information'
+p4576
+sS'541402636042645504'
+p4577
+S'Not Informative'
+p4578
+sS'541763225075728384'
+p4579
+S'Not Informative'
+p4580
+sS'541776635649736704'
+p4581
+S'Not Informative'
+p4582
+sS'541701204603326464'
+p4583
+S'Not Informative'
+p4584
+sS'541412271923007489'
+p4585
+S'Other Relevant Information'
+p4586
+sS'541936516885655552'
+p4587
+S'Other Relevant Information'
+p4588
+sS'542173581174505472'
+p4589
+S'Not Informative'
+p4590
+sS'542347803247534081'
+p4591
+S'Other Relevant Information'
+p4592
+sS'541531734882271232'
+p4593
+S'Not Informative'
+p4594
+sS'541469583082020864'
+p4595
+S'Not Informative'
+p4596
+sS'541786391626010624'
+p4597
+S'Not Informative'
+p4598
+sS'541936558442422273'
+p4599
+S'Not Informative'
+p4600
+sS'541138483876605954'
+p4601
+S'Not Informative'
+p4602
+sS'541976904387948545'
+p4603
+S'Not Informative'
+p4604
+sS'541759561116295168'
+p4605
+S'Not Informative'
+p4606
+sS'542197918481260545'
+p4607
+S'Not Informative'
+p4608
+sS'541164446022774784'
+p4609
+S'Humanitarian Aid Provided'
+p4610
+sS'542422408519352320'
+p4611
+S'Not Informative'
+p4612
+sS'541719546252365825'
+p4613
+S'Not Informative'
+p4614
+sS'541984899230871553'
+p4615
+S'Other Relevant Information'
+p4616
+sS'541947177308676096'
+p4617
+S'Infrastructure Damage'
+p4618
+sS'541939754179125248'
+p4619
+S'Not Informative'
+p4620
+sS'541598237472194561'
+p4621
+S'Not Informative'
+p4622
+sS'541850699483455488'
+p4623
+S'Not Informative'
+p4624
+sS'542247379160666112'
+p4625
+S'Other Relevant Information'
+p4626
+sS'542037301405036546'
+p4627
+S'Other Relevant Information'
+p4628
+sS'541783913505374208'
+p4629
+S'Not Informative'
+p4630
+sS'541836237997215744'
+p4631
+S'Humanitarian Aid Provided'
+p4632
+sS'541580111506853888'
+p4633
+S'Not Informative'
+p4634
+sS'541475334332248064'
+p4635
+S'Not Informative'
+p4636
+sS'541381184911982592'
+p4637
+S'Other Relevant Information'
+p4638
+sS'541928522789310464'
+p4639
+S'Not Informative'
+p4640
+sS'541637943585038337'
+p4641
+S'Not Informative'
+p4642
+sS'541558270494638080'
+p4643
+S'Not Informative'
+p4644
+sS'541713786710028288'
+p4645
+S'Other Relevant Information'
+p4646
+sS'541313090344595456'
+p4647
+S'Other Relevant Information'
+p4648
+sS'542144610634825728'
+p4649
+S'Other Relevant Information'
+p4650
+sS'541556849053409280'
+p4651
+S'Not Informative'
+p4652
+sS'541538210183000064'
+p4653
+S'Not Informative'
+p4654
+sS'541485587522285568'
+p4655
+S'Not Informative'
+p4656
+sS'541820716623360000'
+p4657
+S'Not Informative'
+p4658
+sS'541336586156523520'
+p4659
+S'Other Relevant Information'
+p4660
+sS'541753308256301056'
+p4661
+S'Not Informative'
+p4662
+sS'541835944081367040'
+p4663
+S'Not Informative'
+p4664
+sS'541405922669920256'
+p4665
+S'Other Relevant Information'
+p4666
+sS'541544684246409216'
+p4667
+S'Not Informative'
+p4668
+sS'541774898561957888'
+p4669
+S'Not Informative'
+p4670
+sS'541730089403043840'
+p4671
+S'Not Informative'
+p4672
+sS'541950519606931457'
+p4673
+S'Not Informative'
+p4674
+sS'541821115434164225'
+p4675
+S'Not Informative'
+p4676
+sS'541470519015776256'
+p4677
+S'Other Relevant Information'
+p4678
+sS'541796841054953473'
+p4679
+S'Other Relevant Information'
+p4680
+sS'541281073234452480'
+p4681
+S'Other Relevant Information'
+p4682
+sS'541948253885833218'
+p4683
+S'Not Informative'
+p4684
+sS'541720140463620096'
+p4685
+S'Not Informative'
+p4686
+sS'541193183816712192'
+p4687
+S'Not Informative'
+p4688
+sS'541588279636676609'
+p4689
+S'Not Informative'
+p4690
+sS'541239606449287168'
+p4691
+S'Not Informative'
+p4692
+sS'541564374108762113'
+p4693
+S'Not Informative'
+p4694
+sS'541477196918161408'
+p4695
+S'Not Informative'
+p4696
+sS'542333653884207104'
+p4697
+S'Other Relevant Information'
+p4698
+sS'541941566391058433'
+p4699
+S'Not Informative'
+p4700
+sS'541726491516895232'
+p4701
+S'Not Informative'
+p4702
+sS'541948217085018112'
+p4703
+S'Other Relevant Information'
+p4704
+sS'541596511302598656'
+p4705
+S'Not Informative'
+p4706
+sS'541439123127406592'
+p4707
+S'Not Informative'
+p4708
+sS'541603373053534208'
+p4709
+S'Not Informative'
+p4710
+sS'542028536224428032'
+p4711
+S'Humanitarian Aid Provided'
+p4712
+sS'541391831594856448'
+p4713
+S'Not Informative'
+p4714
+sS'541516501757341696'
+p4715
+S'Other Relevant Information'
+p4716
+sS'541706376960294912'
+p4717
+S'Not Informative'
+p4718
+sS'541847693807472641'
+p4719
+S'Not Informative'
+p4720
+sS'541793323556413440'
+p4721
+S'Not Informative'
+p4722
+sS'542121116270329857'
+p4723
+S'Not Informative'
+p4724
+sS'541280664088489985'
+p4725
+S'Other Relevant Information'
+p4726
+sS'541933992749318144'
+p4727
+S'Other Relevant Information'
+p4728
+sS'541763481544835072'
+p4729
+S'Not Informative'
+p4730
+sS'541382787589107712'
+p4731
+S'Not Informative'
+p4732
+sS'541734647684550656'
+p4733
+S'Not Informative'
+p4734
+sS'542226262887264256'
+p4735
+S'Not Informative'
+p4736
+sS'542256467907444737'
+p4737
+S'Other Relevant Information'
+p4738
+sS'541532667108282368'
+p4739
+S'Not Informative'
+p4740
+sS'541554651871449088'
+p4741
+S'Not Informative'
+p4742
+sS'542189795620188160'
+p4743
+S'Not Informative'
+p4744
+sS'542217093824118784'
+p4745
+S'Not Informative'
+p4746
+sS'541921413825708032'
+p4747
+S'Not Informative'
+p4748
+sS'541666194164428800'
+p4749
+S'Not Informative'
+p4750
+sS'541836803091603458'
+p4751
+S'Not Informative'
+p4752
+sS'541738633779089408'
+p4753
+S'Not Informative'
+p4754
+sS'541142565421326336'
+p4755
+S'Other Relevant Information'
+p4756
+sS'541666280093126657'
+p4757
+S'Not Informative'
+p4758
+sS'541622608169824257'
+p4759
+S'Other Relevant Information'
+p4760
+sS'541561804611014656'
+p4761
+S'Not Informative'
+p4762
+sS'542304020673462272'
+p4763
+S'Not Informative'
+p4764
+sS'541850193981734912'
+p4765
+S'Not Informative'
+p4766
+sS'541845508768010241'
+p4767
+S'Not Informative'
+p4768
+sS'541633940771971072'
+p4769
+S'Not Informative'
+p4770
+sS'541560008467820544'
+p4771
+S'Not Informative'
+p4772
+sS'541468649031102464'
+p4773
+S'Not Informative'
+p4774
+sS'542399028575498241'
+p4775
+S'Infrastructure Damage'
+p4776
+sS'541148745287872513'
+p4777
+S'Not Informative'
+p4778
+sS'541948030652411904'
+p4779
+S'Not Informative'
+p4780
+sS'541405455931555840'
+p4781
+S'Not Informative'
+p4782
+sS'541674218119643136'
+p4783
+S'Other Relevant Information'
+p4784
+sS'541570374111354880'
+p4785
+S'Other Relevant Information'
+p4786
+sS'541271079218864128'
+p4787
+S'Not Informative'
+p4788
+sS'541259449462050816'
+p4789
+S'Not Informative'
+p4790
+sS'541495502127116288'
+p4791
+S'Not Informative'
+p4792
+sS'542454065565691905'
+p4793
+S'Not Informative'
+p4794
+sS'541628932114497537'
+p4795
+S'Not Informative'
+p4796
+sS'542009856048496640'
+p4797
+S'Not Informative'
+p4798
+sS'541498918375141376'
+p4799
+S'Not Informative'
+p4800
+sS'541831017246388225'
+p4801
+S'Other Relevant Information'
+p4802
+sS'541630180670713856'
+p4803
+S'Not Informative'
+p4804
+sS'541462852754620416'
+p4805
+S'Not Informative'
+p4806
+sS'541354007499792384'
+p4807
+S'Not Informative'
+p4808
+sS'541499170922967041'
+p4809
+S'Other Relevant Information'
+p4810
+sS'541378048642146304'
+p4811
+S'Not Informative'
+p4812
+sS'541780685015379968'
+p4813
+S'Not Informative'
+p4814
+sS'541628137055195136'
+p4815
+S'Not Informative'
+p4816
+sS'542015972475817984'
+p4817
+S'Not Informative'
+p4818
+sS'541354619822436352'
+p4819
+S'Other Relevant Information'
+p4820
+sS'541264592559554560'
+p4821
+S'Not Informative'
+p4822
+sS'541447135682494464'
+p4823
+S'Not Informative'
+p4824
+sS'542313989300973569'
+p4825
+S'Not Informative'
+p4826
+sS'541616044335316992'
+p4827
+S'Not Informative'
+p4828
+sS'542279804675174400'
+p4829
+S'Other Relevant Information'
+p4830
+sS'541948912454492160'
+p4831
+S'Not Informative'
+p4832
+sS'541215370380451840'
+p4833
+S'Humanitarian Aid Provided'
+p4834
+sS'541770086541819904'
+p4835
+S'Not Informative'
+p4836
+sS'541853790844878848'
+p4837
+S'Not Informative'
+p4838
+sS'541478478059536384'
+p4839
+S'Not Informative'
+p4840
+sS'541610002843041793'
+p4841
+S'Not Informative'
+p4842
+sS'541958827126452225'
+p4843
+S'Not Informative'
+p4844
+sS'541445918944268289'
+p4845
+S'Infrastructure Damage'
+p4846
+sS'541609047741317122'
+p4847
+S'Not Informative'
+p4848
+sS'542231655755182080'
+p4849
+S'Not Informative'
+p4850
+sS'542041109044527104'
+p4851
+S'Other Relevant Information'
+p4852
+sS'542032113617219584'
+p4853
+S'Other Relevant Information'
+p4854
+sS'541570011698302976'
+p4855
+S'Not Informative'
+p4856
+sS'541839463429582849'
+p4857
+S'Not Informative'
+p4858
+sS'541810513588387840'
+p4859
+S'Not Informative'
+p4860
+sS'542015792942809088'
+p4861
+S'Not Informative'
+p4862
+sS'541954992081362944'
+p4863
+S'Not Informative'
+p4864
+sS'542027104914014208'
+p4865
+S'Not Informative'
+p4866
+sS'541572760137240577'
+p4867
+S'Not Informative'
+p4868
+sS'541624199324782592'
+p4869
+S'Not Informative'
+p4870
+sS'541788572118822912'
+p4871
+S'Not Informative'
+p4872
+sS'541728242801975296'
+p4873
+S'Not Informative'
+p4874
+sS'541875394279145472'
+p4875
+S'Not Informative'
+p4876
+sS'541295838375333888'
+p4877
+S'Not Informative'
+p4878
+sS'541563771404439552'
+p4879
+S'Other Relevant Information'
+p4880
+sS'541549997364244481'
+p4881
+S'Not Informative'
+p4882
+sS'542278608081780736'
+p4883
+S'Other Relevant Information'
+p4884
+sS'542336702703222785'
+p4885
+S'Other Relevant Information'
+p4886
+sS'541880619421405184'
+p4887
+S'Not Informative'
+p4888
+sS'542315931272093696'
+p4889
+S'Other Relevant Information'
+p4890
+sS'541955297510576128'
+p4891
+S'Not Informative'
+p4892
+sS'541816064007352320'
+p4893
+S'Not Informative'
+p4894
+sS'542315542045278208'
+p4895
+S'Other Relevant Information'
+p4896
+sS'541942033720434688'
+p4897
+S'Not Informative'
+p4898
+sS'541587530999545856'
+p4899
+S'Not Informative'
+p4900
+sS'541232978639077376'
+p4901
+S'Not Informative'
+p4902
+sS'541966230924439552'
+p4903
+S'Not Informative'
+p4904
+sS'541767546006155264'
+p4905
+S'Not Informative'
+p4906
+sS'541459999277330432'
+p4907
+S'Not Informative'
+p4908
+sS'542378237607673856'
+p4909
+S'Other Relevant Information'
+p4910
+sS'541403756043067392'
+p4911
+S'Not Informative'
+p4912
+sS'541718665037496321'
+p4913
+S'Not Informative'
+p4914
+sS'541435349721812992'
+p4915
+S'Not Informative'
+p4916
+sS'541930094088839168'
+p4917
+S'Not Informative'
+p4918
+sS'541581087181262848'
+p4919
+S'Not Informative'
+p4920
+sS'541961021955387394'
+p4921
+S'Not Informative'
+p4922
+sS'541907272587169792'
+p4923
+S'Not Informative'
+p4924
+sS'541589570450886656'
+p4925
+S'Infrastructure Damage'
+p4926
+sS'542244265233874944'
+p4927
+S'Other Relevant Information'
+p4928
+sS'541370087219806209'
+p4929
+S'Not Informative'
+p4930
+sS'541468943391526912'
+p4931
+S'Not Informative'
+p4932
+sS'542027116775501824'
+p4933
+S'Not Informative'
+p4934
+sS'541197878036029440'
+p4935
+S'Other Relevant Information'
+p4936
+sS'541974515178168322'
+p4937
+S'Not Informative'
+p4938
+sS'541753978602549249'
+p4939
+S'Not Informative'
+p4940
+sS'541847966374301696'
+p4941
+S'Other Relevant Information'
+p4942
+sS'541605035260399616'
+p4943
+S'Not Informative'
+p4944
+sS'542019153888935937'
+p4945
+S'Not Informative'
+p4946
+sS'541995281475072000'
+p4947
+S'Not Informative'
+p4948
+sS'541406310386774016'
+p4949
+S'Other Relevant Information'
+p4950
+sS'541984831358242817'
+p4951
+S'Not Informative'
+p4952
+sS'541526820072329217'
+p4953
+S'Not Informative'
+p4954
+sS'541937148169945088'
+p4955
+S'Not Informative'
+p4956
+sS'541145810751070209'
+p4957
+S'Other Relevant Information'
+p4958
+sS'541594166258835457'
+p4959
+S'Infrastructure Damage'
+p4960
+sS'541782821350944768'
+p4961
+S'Not Informative'
+p4962
+sS'541467090184441856'
+p4963
+S'Other Relevant Information'
+p4964
+sS'541985719044939776'
+p4965
+S'Not Informative'
+p4966
+sS'542319192146329601'
+p4967
+S'Requests for Help/Needs'
+p4968
+sS'541814964542267392'
+p4969
+S'Not Informative'
+p4970
+sS'541472712057581569'
+p4971
+S'Not Informative'
+p4972
+sS'541605584626143233'
+p4973
+S'Not Informative'
+p4974
+sS'541381669794508800'
+p4975
+S'Other Relevant Information'
+p4976
+sS'541430831466553344'
+p4977
+S'Not Informative'
+p4978
+sS'541494730979160064'
+p4979
+S'Other Relevant Information'
+p4980
+sS'541945430414589952'
+p4981
+S'Not Informative'
+p4982
+sS'542244659783663616'
+p4983
+S'Other Relevant Information'
+p4984
+sS'541974102089945088'
+p4985
+S'Other Relevant Information'
+p4986
+sS'541454960416673792'
+p4987
+S'Other Relevant Information'
+p4988
+sS'541599902103384064'
+p4989
+S'Not Informative'
+p4990
+sS'541550858492588032'
+p4991
+S'Not Informative'
+p4992
+sS'541404816384065537'
+p4993
+S'Not Informative'
+p4994
+sS'542024412686319616'
+p4995
+S'Not Informative'
+p4996
+sS'541419555407798272'
+p4997
+S'Not Informative'
+p4998
+sS'541718426692382721'
+p4999
+S'Other Relevant Information'
+p5000
+sS'541767566041960448'
+p5001
+S'Not Informative'
+p5002
+sS'541513094929739776'
+p5003
+S'Not Informative'
+p5004
+sS'542293833829339137'
+p5005
+S'Not Informative'
+p5006
+sS'541530797023322112'
+p5007
+S'Other Relevant Information'
+p5008
+sS'541429503952551936'
+p5009
+S'Not Informative'
+p5010
+sS'541529044173348864'
+p5011
+S'Not Informative'
+p5012
+sS'541374099587489792'
+p5013
+S'Not Informative'
+p5014
+sS'541688717019451392'
+p5015
+S'Infrastructure Damage'
+p5016
+sS'541938569938350080'
+p5017
+S'Not Informative'
+p5018
+sS'542287453495640065'
+p5019
+S'Infrastructure Damage'
+p5020
+sS'542263987799203840'
+p5021
+S'Not Informative'
+p5022
+sS'541794909083017216'
+p5023
+S'Not Informative'
+p5024
+sS'541472172628541440'
+p5025
+S'Other Relevant Information'
+p5026
+sS'541694127922880512'
+p5027
+S'Not Informative'
+p5028
+sS'541639890337669120'
+p5029
+S'Not Informative'
+p5030
+sS'541505075852902400'
+p5031
+S'Not Informative'
+p5032
+sS'541956200477114369'
+p5033
+S'Not Informative'
+p5034
+sS'541732506509135872'
+p5035
+S'Other Relevant Information'
+p5036
+sS'541585317996683264'
+p5037
+S'Not Informative'
+p5038
+sS'541482123824078850'
+p5039
+S'Other Relevant Information'
+p5040
+sS'541239019758055425'
+p5041
+S'Not Informative'
+p5042
+sS'541406379106242560'
+p5043
+S'Not Informative'
+p5044
+sS'541845938268954624'
+p5045
+S'Not Informative'
+p5046
+sS'541937412729872384'
+p5047
+S'Not Informative'
+p5048
+sS'542448389183381504'
+p5049
+S'Other Relevant Information'
+p5050
+sS'542243634595115008'
+p5051
+S'Humanitarian Aid Provided'
+p5052
+sS'542135318187487232'
+p5053
+S'Not Informative'
+p5054
+sS'541581768436883459'
+p5055
+S'Other Relevant Information'
+p5056
+sS'541936317484257280'
+p5057
+S'Not Informative'
+p5058
+sS'541452221372964864'
+p5059
+S'Other Relevant Information'
+p5060
+sS'541734995774025728'
+p5061
+S'Not Informative'
+p5062
+sS'542220852297625600'
+p5063
+S'Other Relevant Information'
+p5064
+sS'541289452250079232'
+p5065
+S'Not Informative'
+p5066
+sS'541551024960311296'
+p5067
+S'Not Informative'
+p5068
+sS'541101552442671104'
+p5069
+S'Other Relevant Information'
+p5070
+sS'541296469710733312'
+p5071
+S'Other Relevant Information'
+p5072
+sS'541639045600657408'
+p5073
+S'Other Relevant Information'
+p5074
+sS'542412890402074624'
+p5075
+S'Other Relevant Information'
+p5076
+sS'541988464112463872'
+p5077
+S'Not Informative'
+p5078
+sS'541485137590882304'
+p5079
+S'Humanitarian Aid Provided'
+p5080
+sS'541436007300608000'
+p5081
+S'Requests for Help/Needs'
+p5082
+sS'541572970850697216'
+p5083
+S'Not Informative'
+p5084
+sS'541820463346098177'
+p5085
+S'Not Informative'
+p5086
+sS'541821994266669057'
+p5087
+S'Not Informative'
+p5088
+sS'541548828328210432'
+p5089
+S'Humanitarian Aid Provided'
+p5090
+sS'541549867621830657'
+p5091
+S'Not Informative'
+p5092
+sS'541465289934635008'
+p5093
+S'Not Informative'
+p5094
+sS'541502202427097088'
+p5095
+S'Other Relevant Information'
+p5096
+sS'542255157883314176'
+p5097
+S'Other Relevant Information'
+p5098
+sS'542043276803465216'
+p5099
+S'Other Relevant Information'
+p5100
+sS'542246910984462336'
+p5101
+S'Infrastructure Damage'
+p5102
+sS'541571658276818944'
+p5103
+S'Not Informative'
+p5104
+sS'541376283259592704'
+p5105
+S'Not Informative'
+p5106
+sS'541439740726087680'
+p5107
+S'Humanitarian Aid Provided'
+p5108
+sS'541425919161012224'
+p5109
+S'Not Informative'
+p5110
+sS'541831867465732097'
+p5111
+S'Humanitarian Aid Provided'
+p5112
+sS'541823210850111488'
+p5113
+S'Not Informative'
+p5114
+sS'541552864049381378'
+p5115
+S'Not Informative'
+p5116
+sS'541946049842405376'
+p5117
+S'Not Informative'
+p5118
+sS'541720535655124992'
+p5119
+S'Not Informative'
+p5120
+sS'541711275949309952'
+p5121
+S'Not Informative'
+p5122
+sS'541593062024413185'
+p5123
+S'Not Informative'
+p5124
+sS'541993218679001089'
+p5125
+S'Not Informative'
+p5126
+sS'541478167245254656'
+p5127
+S'Not Informative'
+p5128
+sS'541590807027793920'
+p5129
+S'Not Informative'
+p5130
+sS'542033646228897792'
+p5131
+S'Not Informative'
+p5132
+sS'541959359237222400'
+p5133
+S'Not Informative'
+p5134
+sS'541916343704883200'
+p5135
+S'Not Informative'
+p5136
+sS'541970734755504130'
+p5137
+S'Not Informative'
+p5138
+sS'541933075891257345'
+p5139
+S'Not Informative'
+p5140
+sS'542363085835493379'
+p5141
+S'Not Informative'
+p5142
+sS'541825097741266944'
+p5143
+S'Not Informative'
+p5144
+sS'541365277338787840'
+p5145
+S'Not Informative'
+p5146
+sS'541513594111016960'
+p5147
+S'Not Informative'
+p5148
+sS'541871469601361920'
+p5149
+S'Not Informative'
+p5150
+sS'542239642922123265'
+p5151
+S'Not Informative'
+p5152
+sS'542265964851888128'
+p5153
+S'Other Relevant Information'
+p5154
+sS'541842147662921728'
+p5155
+S'Other Relevant Information'
+p5156
+sS'541487669146968064'
+p5157
+S'Not Informative'
+p5158
+sS'541757896334131201'
+p5159
+S'Not Informative'
+p5160
+sS'541515887992254464'
+p5161
+S'Infrastructure Damage'
+p5162
+sS'541610213049389056'
+p5163
+S'Not Informative'
+p5164
+sS'541879231920099328'
+p5165
+S'Not Informative'
+p5166
+sS'542017301810139137'
+p5167
+S'Not Informative'
+p5168
+sS'541975707165810689'
+p5169
+S'Not Informative'
+p5170
+sS'541769866684809216'
+p5171
+S'Not Informative'
+p5172
+sS'541821825085239296'
+p5173
+S'Not Informative'
+p5174
+sS'542002471682711553'
+p5175
+S'Not Informative'
+p5176
+sS'541776519010738176'
+p5177
+S'Not Informative'
+p5178
+sS'541148205682290688'
+p5179
+S'Not Informative'
+p5180
+sS'541468133375377409'
+p5181
+S'Other Relevant Information'
+p5182
+sS'541780915111075840'
+p5183
+S'Not Informative'
+p5184
+sS'541495817849552897'
+p5185
+S'Not Informative'
+p5186
+sS'541958101629693952'
+p5187
+S'Not Informative'
+p5188
+sS'541381295733891072'
+p5189
+S'Not Informative'
+p5190
+sS'541482333078310912'
+p5191
+S'Not Informative'
+p5192
+sS'541432266216308737'
+p5193
+S'Not Informative'
+p5194
+sS'541748684044509184'
+p5195
+S'Not Informative'
+p5196
+sS'542331247846891521'
+p5197
+S'Humanitarian Aid Provided'
+p5198
+sS'542369639159042048'
+p5199
+S'Humanitarian Aid Provided'
+p5200
+sS'541935509954519041'
+p5201
+S'Other Relevant Information'
+p5202
+sS'542275801912078336'
+p5203
+S'Not Informative'
+p5204
+sS'541916026167107584'
+p5205
+S'Not Informative'
+p5206
+sS'541985401410707456'
+p5207
+S'Not Informative'
+p5208
+sS'541486616896733186'
+p5209
+S'Not Informative'
+p5210
+sS'541506127138013184'
+p5211
+S'Other Relevant Information'
+p5212
+sS'541466020066508800'
+p5213
+S'Not Informative'
+p5214
+sS'541518779088646144'
+p5215
+S'Other Relevant Information'
+p5216
+sS'541292536774811648'
+p5217
+S'Not Informative'
+p5218
+sS'542449082506027011'
+p5219
+S'Not Informative'
+p5220
+sS'541544045034475520'
+p5221
+S'Other Relevant Information'
+p5222
+sS'541654758155489280'
+p5223
+S'Not Informative'
+p5224
+sS'541984035732729856'
+p5225
+S'Not Informative'
+p5226
+sS'541507602207629312'
+p5227
+S'Other Relevant Information'
+p5228
+sS'541401338328793088'
+p5229
+S'Other Relevant Information'
+p5230
+sS'541450427053916160'
+p5231
+S'Not Informative'
+p5232
+sS'541288580887216129'
+p5233
+S'Not Informative'
+p5234
+sS'541415487448432640'
+p5235
+S'Not Informative'
+p5236
+sS'542194740389617664'
+p5237
+S'Not Informative'
+p5238
+sS'541654874530643968'
+p5239
+S'Not Informative'
+p5240
+sS'541526874753490944'
+p5241
+S'Other Relevant Information'
+p5242
+sS'541491290181873665'
+p5243
+S'Infrastructure Damage'
+p5244
+sS'541644452213690368'
+p5245
+S'Other Relevant Information'
+p5246
+sS'541463627383853058'
+p5247
+S'Not Informative'
+p5248
+sS'542448462227193856'
+p5249
+S'Not Informative'
+p5250
+sS'541422549368713216'
+p5251
+S'Not Informative'
+p5252
+sS'541621914603503618'
+p5253
+S'Other Relevant Information'
+p5254
+sS'541950769457815552'
+p5255
+S'Not Informative'
+p5256
+sS'541377660824207360'
+p5257
+S'Not Informative'
+p5258
+sS'541563330746667008'
+p5259
+S'Not Informative'
+p5260
+sS'541221270428213248'
+p5261
+S'Other Relevant Information'
+p5262
+sS'541350799423836160'
+p5263
+S'Not Informative'
+p5264
+sS'541459863881011201'
+p5265
+S'Other Relevant Information'
+p5266
+sS'541958150237458432'
+p5267
+S'Not Informative'
+p5268
+sS'541449989646323712'
+p5269
+S'Infrastructure Damage'
+p5270
+sS'541944922161438720'
+p5271
+S'Not Informative'
+p5272
+sS'541506147392303106'
+p5273
+S'Other Relevant Information'
+p5274
+sS'541476650785861632'
+p5275
+S'Not Informative'
+p5276
+sS'542162528696926209'
+p5277
+S'Not Informative'
+p5278
+sS'541824572798926848'
+p5279
+S'Not Informative'
+p5280
+sS'541956068490756096'
+p5281
+S'Not Informative'
+p5282
+sS'541473323507396608'
+p5283
+S'Not Informative'
+p5284
+sS'541142837568360448'
+p5285
+S'Other Relevant Information'
+p5286
+sS'541969632664379392'
+p5287
+S'Not Informative'
+p5288
+sS'541585165718667264'
+p5289
+S'Not Informative'
+p5290
+sS'541522289443885057'
+p5291
+S'Not Informative'
+p5292
+sS'541454890254340098'
+p5293
+S'Humanitarian Aid Provided'
+p5294
+sS'542372639533068288'
+p5295
+S'Other Relevant Information'
+p5296
+sS'542392625894932480'
+p5297
+S'Not Informative'
+p5298
+sS'541982105836609537'
+p5299
+S'Not Informative'
+p5300
+sS'541607149290266624'
+p5301
+S'Not Informative'
+p5302
+sS'541531532662304769'
+p5303
+S'Other Relevant Information'
+p5304
+sS'541396762242461698'
+p5305
+S'Other Relevant Information'
+p5306
+sS'541299897840828417'
+p5307
+S'Other Relevant Information'
+p5308
+sS'542295172017815553'
+p5309
+S'Humanitarian Aid Provided'
+p5310
+sS'541732078535319552'
+p5311
+S'Not Informative'
+p5312
+sS'542015928792543233'
+p5313
+S'Not Informative'
+p5314
+sS'541624485539885056'
+p5315
+S'Not Informative'
+p5316
+sS'541405226407043072'
+p5317
+S'Infrastructure Damage'
+p5318
+sS'541975739768123392'
+p5319
+S'Not Informative'
+p5320
+sS'541578233272348673'
+p5321
+S'Not Informative'
+p5322
+sS'541147053976326145'
+p5323
+S'Other Relevant Information'
+p5324
+sS'541645408393379841'
+p5325
+S'Not Informative'
+p5326
+sS'541553738477883392'
+p5327
+S'Infrastructure Damage'
+p5328
+sS'541382441852604417'
+p5329
+S'Other Relevant Information'
+p5330
+sS'541976954673836032'
+p5331
+S'Humanitarian Aid Provided'
+p5332
+sS'541275281386770432'
+p5333
+S'Other Relevant Information'
+p5334
+sS'541921780831494146'
+p5335
+S'Other Relevant Information'
+p5336
+sS'541978516464492544'
+p5337
+S'Requests for Help/Needs'
+p5338
+sS'542037915258212352'
+p5339
+S'Not Informative'
+p5340
+sS'541731797780799488'
+p5341
+S'Not Informative'
+p5342
+sS'541583287970299904'
+p5343
+S'Not Informative'
+p5344
+sS'541779694803107840'
+p5345
+S'Not Informative'
+p5346
+sS'541228687882874880'
+p5347
+S'Other Relevant Information'
+p5348
+sS'541978653585051649'
+p5349
+S'Not Informative'
+p5350
+sS'541383155672829952'
+p5351
+S'Other Relevant Information'
+p5352
+sS'541469386800775168'
+p5353
+S'Other Relevant Information'
+p5354
+sS'541149094321090560'
+p5355
+S'Other Relevant Information'
+p5356
+sS'541940343931809794'
+p5357
+S'Other Relevant Information'
+p5358
+sS'541435213931225088'
+p5359
+S'Not Informative'
+p5360
+sS'541389856996204544'
+p5361
+S'Humanitarian Aid Provided'
+p5362
+sS'541668473491824640'
+p5363
+S'Not Informative'
+p5364
+sS'541558317248557056'
+p5365
+S'Not Informative'
+p5366
+sS'541617725504638977'
+p5367
+S'Not Informative'
+p5368
+sS'541642066758225920'
+p5369
+S'Not Informative'
+p5370
+sS'542204535163215872'
+p5371
+S'Other Relevant Information'
+p5372
+sS'541451251985031168'
+p5373
+S'Not Informative'
+p5374
+sS'541553107771981825'
+p5375
+S'Not Informative'
+p5376
+sS'541258206668804096'
+p5377
+S'Not Informative'
+p5378
+sS'541529551373742080'
+p5379
+S'Other Relevant Information'
+p5380
+sS'541718057375113216'
+p5381
+S'Not Informative'
+p5382
+sS'542310651171856384'
+p5383
+S'Not Informative'
+p5384
+sS'541775093001510913'
+p5385
+S'Not Informative'
+p5386
+sS'541782358748172288'
+p5387
+S'Not Informative'
+p5388
+sS'541886540754870272'
+p5389
+S'Not Informative'
+p5390
+sS'541846047715110913'
+p5391
+S'Not Informative'
+p5392
+sS'541824795873005569'
+p5393
+S'Not Informative'
+p5394
+sS'541705005292855296'
+p5395
+S'Not Informative'
+p5396
+sS'541404299121930240'
+p5397
+S'Other Relevant Information'
+p5398
+sS'541724863984312321'
+p5399
+S'Not Informative'
+p5400
+sS'541506442537472000'
+p5401
+S'Not Informative'
+p5402
+sS'542162336283250688'
+p5403
+S'Other Relevant Information'
+p5404
+sS'541604628379758592'
+p5405
+S'Not Informative'
+p5406
+sS'541327363733463040'
+p5407
+S'Not Informative'
+p5408
+sS'541467887328690177'
+p5409
+S'Other Relevant Information'
+p5410
+sS'541560780072574977'
+p5411
+S'Not Informative'
+p5412
+sS'541518851020947456'
+p5413
+S'Infrastructure Damage'
+p5414
+sS'541985781116456961'
+p5415
+S'Not Informative'
+p5416
+sS'541602149030174720'
+p5417
+S'Not Informative'
+p5418
+sS'541909181218164737'
+p5419
+S'Other Relevant Information'
+p5420
+sS'541958048206434304'
+p5421
+S'Not Informative'
+p5422
+sS'541849102175047681'
+p5423
+S'Other Relevant Information'
+p5424
+sS'541808389685141504'
+p5425
+S'Other Relevant Information'
+p5426
+sS'541739454218510336'
+p5427
+S'Not Informative'
+p5428
+sS'541618441803689984'
+p5429
+S'Not Informative'
+p5430
+sS'541527741695143936'
+p5431
+S'Not Informative'
+p5432
+sS'541638280932892673'
+p5433
+S'Other Relevant Information'
+p5434
+sS'541146247818911744'
+p5435
+S'Other Relevant Information'
+p5436
+sS'541836524875042816'
+p5437
+S'Not Informative'
+p5438
+sS'541650257310801920'
+p5439
+S'Not Informative'
+p5440
+sS'541419845376409600'
+p5441
+S'Other Relevant Information'
+p5442
+sS'541481171821920260'
+p5443
+S'Not Informative'
+p5444
+sS'541772626620719104'
+p5445
+S'Not Informative'
+p5446
+sS'541805376824295424'
+p5447
+S'Not Informative'
+p5448
+sS'541980216902823936'
+p5449
+S'Not Informative'
+p5450
+sS'541469445168693248'
+p5451
+S'Not Informative'
+p5452
+sS'541630495331590144'
+p5453
+S'Not Informative'
+p5454
+sS'541550428283219968'
+p5455
+S'Other Relevant Information'
+p5456
+sS'541288588915134464'
+p5457
+S'Not Informative'
+p5458
+sS'542019671134715904'
+p5459
+S'Other Relevant Information'
+p5460
+sS'541767897438117888'
+p5461
+S'Not Informative'
+p5462
+sS'541892909789089792'
+p5463
+S'Not Informative'
+p5464
+sS'541537882469437440'
+p5465
+S'Not Informative'
+p5466
+sS'542310389535756288'
+p5467
+S'Not Informative'
+p5468
+sS'541580018535497729'
+p5469
+S'Not Informative'
+p5470
+sS'541471509064462337'
+p5471
+S'Other Relevant Information'
+p5472
+sS'541491675932409856'
+p5473
+S'Other Relevant Information'
+p5474
+sS'541407936489467904'
+p5475
+S'Other Relevant Information'
+p5476
+sS'541403354576855041'
+p5477
+S'Not Informative'
+p5478
+sS'541470885937295360'
+p5479
+S'Other Relevant Information'
+p5480
+sS'541767684074242048'
+p5481
+S'Other Relevant Information'
+p5482
+sS'541878050712211456'
+p5483
+S'Not Informative'
+p5484
+sS'541257816598532096'
+p5485
+S'Not Informative'
+p5486
+sS'541891845844787200'
+p5487
+S'Not Informative'
+p5488
+sS'541522866333024256'
+p5489
+S'Infrastructure Damage'
+p5490
+sS'542373239801257984'
+p5491
+S'Other Relevant Information'
+p5492
+sS'541986525177577472'
+p5493
+S'Not Informative'
+p5494
+sS'541561109518381056'
+p5495
+S'Not Informative'
+p5496
+sS'541417327011450880'
+p5497
+S'Not Informative'
+p5498
+sS'541823642280419329'
+p5499
+S'Not Informative'
+p5500
+sS'541643504032563200'
+p5501
+S'Other Relevant Information'
+p5502
+sS'541457179526447104'
+p5503
+S'Not Informative'
+p5504
+sS'541458843822469120'
+p5505
+S'Not Informative'
+p5506
+sS'541776714485886977'
+p5507
+S'Not Informative'
+p5508
+sS'541529497749946369'
+p5509
+S'Other Relevant Information'
+p5510
+sS'542292297656709120'
+p5511
+S'Not Informative'
+p5512
+sS'541640172119789569'
+p5513
+S'Not Informative'
+p5514
+sS'541161921680900096'
+p5515
+S'Humanitarian Aid Provided'
+p5516
+sS'541615680819175424'
+p5517
+S'Not Informative'
+p5518
+sS'541740179522723840'
+p5519
+S'Not Informative'
+p5520
+sS'541654997541588993'
+p5521
+S'Other Relevant Information'
+p5522
+sS'541626136522797056'
+p5523
+S'Not Informative'
+p5524
+sS'541580923595022336'
+p5525
+S'Not Informative'
+p5526
+sS'541596444361105408'
+p5527
+S'Other Relevant Information'
+p5528
+sS'541378350053208064'
+p5529
+S'Not Informative'
+p5530
+sS'541142664817569792'
+p5531
+S'Other Relevant Information'
+p5532
+sS'541799490764537856'
+p5533
+S'Not Informative'
+p5534
+sS'541459467523457024'
+p5535
+S'Not Informative'
+p5536
+sS'541291088175038464'
+p5537
+S'Not Informative'
+p5538
+sS'541327013303558144'
+p5539
+S'Other Relevant Information'
+p5540
+sS'541840641701842944'
+p5541
+S'Not Informative'
+p5542
+sS'541761028384509952'
+p5543
+S'Not Informative'
+p5544
+sS'541458822968389632'
+p5545
+S'Other Relevant Information'
+p5546
+sS'541535320135974913'
+p5547
+S'Not Informative'
+p5548
+sS'541520429396271104'
+p5549
+S'Other Relevant Information'
+p5550
+sS'541491434554019840'
+p5551
+S'Not Informative'
+p5552
+sS'541514209905750016'
+p5553
+S'Other Relevant Information'
+p5554
+sS'542231020201058304'
+p5555
+S'Other Relevant Information'
+p5556
+sS'541974922151469056'
+p5557
+S'Not Informative'
+p5558
+sS'541656096574668800'
+p5559
+S'Other Relevant Information'
+p5560
+sS'541453924645875713'
+p5561
+S'Not Informative'
+p5562
+sS'541494985057513473'
+p5563
+S'Not Informative'
+p5564
+sS'541938868308545536'
+p5565
+S'Other Relevant Information'
+p5566
+sS'542193932470206465'
+p5567
+S'Not Informative'
+p5568
+sS'542280201741565952'
+p5569
+S'Not Informative'
+p5570
+sS'541457378974371840'
+p5571
+S'Humanitarian Aid Provided'
+p5572
+sS'541996815835348992'
+p5573
+S'Not Informative'
+p5574
+sS'541981319094214656'
+p5575
+S'Not Informative'
+p5576
+sS'541975679898628096'
+p5577
+S'Other Relevant Information'
+p5578
+sS'541522392271429632'
+p5579
+S'Not Informative'
+p5580
+sS'542354212169199617'
+p5581
+S'Other Relevant Information'
+p5582
+sS'541494549902675969'
+p5583
+S'Humanitarian Aid Provided'
+p5584
+sS'541510593107460096'
+p5585
+S'Not Informative'
+p5586
+sS'542248660549906432'
+p5587
+S'Other Relevant Information'
+p5588
+sS'541921679111254016'
+p5589
+S'Not Informative'
+p5590
+sS'541386000707387394'
+p5591
+S'Humanitarian Aid Provided'
+p5592
+sS'541848978090774528'
+p5593
+S'Not Informative'
+p5594
+sS'541483358794964992'
+p5595
+S'Infrastructure Damage'
+p5596
+sS'542420929419026435'
+p5597
+S'Other Relevant Information'
+p5598
+sS'541822395695108096'
+p5599
+S'Not Informative'
+p5600
+sS'541512808060313600'
+p5601
+S'Not Informative'
+p5602
+sS'541445144348606465'
+p5603
+S'Other Relevant Information'
+p5604
+sS'541495510385713152'
+p5605
+S'Not Informative'
+p5606
+sS'542135329231482880'
+p5607
+S'Other Relevant Information'
+p5608
+sS'541542743785209856'
+p5609
+S'Not Informative'
+p5610
+sS'542269899830079489'
+p5611
+S'Other Relevant Information'
+p5612
+sS'541292290942070784'
+p5613
+S'Not Informative'
+p5614
+sS'541495317011501056'
+p5615
+S'Other Relevant Information'
+p5616
+sS'541796949054087169'
+p5617
+S'Other Relevant Information'
+p5618
+sS'541424169448005633'
+p5619
+S'Not Informative'
+p5620
+sS'541411512170995713'
+p5621
+S'Humanitarian Aid Provided'
+p5622
+sS'541796586271961088'
+p5623
+S'Not Informative'
+p5624
+sS'541783239191326720'
+p5625
+S'Not Informative'
+p5626
+sS'541623356056150016'
+p5627
+S'Not Informative'
+p5628
+sS'542045917608955904'
+p5629
+S'Not Informative'
+p5630
+sS'541827591196651520'
+p5631
+S'Not Informative'
+p5632
+sS'541604766741045252'
+p5633
+S'Not Informative'
+p5634
+sS'542303031677968384'
+p5635
+S'Other Relevant Information'
+p5636
+sS'541588320937979905'
+p5637
+S'Not Informative'
+p5638
+sS'542012823636025344'
+p5639
+S'Requests for Help/Needs'
+p5640
+sS'541144145948340224'
+p5641
+S'Not Informative'
+p5642
+sS'541431647543914497'
+p5643
+S'Not Informative'
+p5644
+sS'541572679816314880'
+p5645
+S'Not Informative'
+p5646
+sS'541407106490855424'
+p5647
+S'Other Relevant Information'
+p5648
+sS'541386086245621761'
+p5649
+S'Other Relevant Information'
+p5650
+sS'541559560847097856'
+p5651
+S'Not Informative'
+p5652
+sS'541967229357940736'
+p5653
+S'Not Informative'
+p5654
+sS'542246396804743168'
+p5655
+S'Not Informative'
+p5656
+sS'542335695663017984'
+p5657
+S'Not Informative'
+p5658
+sS'541482906255114240'
+p5659
+S'Not Informative'
+p5660
+sS'541265329167425536'
+p5661
+S'Other Relevant Information'
+p5662
+sS'541754327396651008'
+p5663
+S'Not Informative'
+p5664
+sS'541142977729810432'
+p5665
+S'Other Relevant Information'
+p5666
+sS'541896259624120320'
+p5667
+S'Not Informative'
+p5668
+sS'541824468167823360'
+p5669
+S'Not Informative'
+p5670
+sS'541596202962538496'
+p5671
+S'Other Relevant Information'
+p5672
+sS'541445346425970688'
+p5673
+S'Not Informative'
+p5674
+sS'541520144447860736'
+p5675
+S'Other Relevant Information'
+p5676
+sS'541239729027444736'
+p5677
+S'Other Relevant Information'
+p5678
+sS'541422066524622848'
+p5679
+S'Not Informative'
+p5680
+sS'541649627628335104'
+p5681
+S'Not Informative'
+p5682
+sS'541470703347052544'
+p5683
+S'Not Informative'
+p5684
+sS'541483540173422592'
+p5685
+S'Not Informative'
+p5686
+sS'541565209018503168'
+p5687
+S'Not Informative'
+p5688
+sS'541446689572548608'
+p5689
+S'Other Relevant Information'
+p5690
+sS'541713379539165185'
+p5691
+S'Not Informative'
+p5692
+sS'541147038704881664'
+p5693
+S'Other Relevant Information'
+p5694
+sS'541478839369474048'
+p5695
+S'Not Informative'
+p5696
+sS'542154592310423552'
+p5697
+S'Not Informative'
+p5698
+sS'541934503459954688'
+p5699
+S'Not Informative'
+p5700
+sS'541161197626597376'
+p5701
+S'Other Relevant Information'
+p5702
+sS'541618461214928896'
+p5703
+S'Not Informative'
+p5704
+sS'541889050764783616'
+p5705
+S'Not Informative'
+p5706
+sS'541523463114993664'
+p5707
+S'Other Relevant Information'
+p5708
+sS'541167622885109760'
+p5709
+S'Not Informative'
+p5710
+sS'541399918699900928'
+p5711
+S'Not Informative'
+p5712
+sS'541541155670728705'
+p5713
+S'Not Informative'
+p5714
+sS'541779493132582913'
+p5715
+S'Not Informative'
+p5716
+sS'542224460669939713'
+p5717
+S'Not Informative'
+p5718
+sS'541396420893614083'
+p5719
+S'Not Informative'
+p5720
+sS'541454715049893888'
+p5721
+S'Not Informative'
+p5722
+sS'541533489213222912'
+p5723
+S'Other Relevant Information'
+p5724
+sS'542440717906231297'
+p5725
+S'Not Informative'
+p5726
+sS'541530932294193152'
+p5727
+S'Other Relevant Information'
+p5728
+sS'541508121437278210'
+p5729
+S'Other Relevant Information'
+p5730
+sS'541261477265813505'
+p5731
+S'Other Relevant Information'
+p5732
+sS'541164237926989824'
+p5733
+S'Not Informative'
+p5734
+sS'541622996201242624'
+p5735
+S'Not Informative'
+p5736
+sS'541482555023691777'
+p5737
+S'Not Informative'
+p5738
+sS'542180256497405952'
+p5739
+S'Not Informative'
+p5740
+sS'541711227064291329'
+p5741
+S'Other Relevant Information'
+p5742
+sS'541607924150181888'
+p5743
+S'Not Informative'
+p5744
+sS'541423748537397248'
+p5745
+S'Not Informative'
+p5746
+sS'541638177531129857'
+p5747
+S'Not Informative'
+p5748
+sS'541946388330713088'
+p5749
+S'Not Informative'
+p5750
+sS'541564406924976129'
+p5751
+S'Not Informative'
+p5752
+sS'541733705778081792'
+p5753
+S'Not Informative'
+p5754
+sS'542313588107796480'
+p5755
+S'Infrastructure Damage'
+p5756
+sS'541263906736312320'
+p5757
+S'Not Informative'
+p5758
+sS'542404899913224192'
+p5759
+S'Other Relevant Information'
+p5760
+sS'541822576922591232'
+p5761
+S'Not Informative'
+p5762
+sS'541483651859353600'
+p5763
+S'Other Relevant Information'
+p5764
+sS'541714051760271361'
+p5765
+S'Not Informative'
+p5766
+sS'541921094886633473'
+p5767
+S'Not Informative'
+p5768
+sS'541489871240855552'
+p5769
+S'Not Informative'
+p5770
+sS'542453195155320833'
+p5771
+S'Other Relevant Information'
+p5772
+sS'541577747366445057'
+p5773
+S'Not Informative'
+p5774
+sS'541619426848559104'
+p5775
+S'Not Informative'
+p5776
+sS'541464446817026049'
+p5777
+S'Not Informative'
+p5778
+sS'541749279119790080'
+p5779
+S'Not Informative'
+p5780
+sS'541653582387634176'
+p5781
+S'Other Relevant Information'
+p5782
+sS'542455575552880641'
+p5783
+S'Other Relevant Information'
+p5784
+sS'541422462420807681'
+p5785
+S'Not Informative'
+p5786
+sS'541657741991763970'
+p5787
+S'Not Informative'
+p5788
+sS'542392879021162497'
+p5789
+S'Infrastructure Damage'
+p5790
+sS'541299835018543105'
+p5791
+S'Other Relevant Information'
+p5792
+sS'541265464140132352'
+p5793
+S'Other Relevant Information'
+p5794
+sS'541514187168432129'
+p5795
+S'Other Relevant Information'
+p5796
+sS'541975755282857986'
+p5797
+S'Other Relevant Information'
+p5798
+sS'541544328746008578'
+p5799
+S'Not Informative'
+p5800
+sS'541651401344954370'
+p5801
+S'Not Informative'
+p5802
+sS'541902713744015360'
+p5803
+S'Not Informative'
+p5804
+sS'541520217114165248'
+p5805
+S'Not Informative'
+p5806
+sS'541514363010433024'
+p5807
+S'Not Informative'
+p5808
+sS'541534770422120448'
+p5809
+S'Not Informative'
+p5810
+sS'541461893261447168'
+p5811
+S'Humanitarian Aid Provided'
+p5812
+sS'541704720855752704'
+p5813
+S'Not Informative'
+p5814
+sS'541394511864143872'
+p5815
+S'Not Informative'
+p5816
+sS'541523966502785024'
+p5817
+S'Other Relevant Information'
+p5818
+sS'541419187738902529'
+p5819
+S'Other Relevant Information'
+p5820
+sS'542438130574311426'
+p5821
+S'Other Relevant Information'
+p5822
+sS'541611136940920832'
+p5823
+S'Not Informative'
+p5824
+sS'541603513982529536'
+p5825
+S'Not Informative'
+p5826
+sS'541471568434458624'
+p5827
+S'Not Informative'
+p5828
+sS'542001945565995008'
+p5829
+S'Not Informative'
+p5830
+sS'541147575877791744'
+p5831
+S'Not Informative'
+p5832
+sS'541959081150251008'
+p5833
+S'Infrastructure Damage'
+p5834
+sS'542020709766402048'
+p5835
+S'Not Informative'
+p5836
+sS'542268842416693248'
+p5837
+S'Not Informative'
+p5838
+sS'541532910847660034'
+p5839
+S'Not Informative'
+p5840
+sS'541949774081953793'
+p5841
+S'Not Informative'
+p5842
+sS'542320278551146496'
+p5843
+S'Humanitarian Aid Provided'
+p5844
+sS'541655821180866560'
+p5845
+S'Other Relevant Information'
+p5846
+sS'541681698358824961'
+p5847
+S'Other Relevant Information'
+p5848
+sS'541919981705768961'
+p5849
+S'Not Informative'
+p5850
+sS'541990827082678272'
+p5851
+S'Other Relevant Information'
+p5852
+sS'541544719268839424'
+p5853
+S'Not Informative'
+p5854
+sS'541476050425761794'
+p5855
+S'Other Relevant Information'
+p5856
+sS'541879661572415488'
+p5857
+S'Not Informative'
+p5858
+sS'541739748193079297'
+p5859
+S'Not Informative'
+p5860
+sS'541868439464185856'
+p5861
+S'Not Informative'
+p5862
+sS'541142749148631040'
+p5863
+S'Not Informative'
+p5864
+sS'541419873419554816'
+p5865
+S'Not Informative'
+p5866
+sS'541941807178063872'
+p5867
+S'Not Informative'
+p5868
+sS'541463219886231552'
+p5869
+S'Not Informative'
+p5870
+sS'541138692912320512'
+p5871
+S'Other Relevant Information'
+p5872
+sS'541262056377184257'
+p5873
+S'Not Informative'
+p5874
+sS'541497856452857857'
+p5875
+S'Other Relevant Information'
+p5876
+sS'541472059511939073'
+p5877
+S'Not Informative'
+p5878
+sS'541541226084704256'
+p5879
+S'Not Informative'
+p5880
+sS'541516285394558976'
+p5881
+S'Infrastructure Damage'
+p5882
+sS'541813565221384192'
+p5883
+S'Other Relevant Information'
+p5884
+sS'541607164343627777'
+p5885
+S'Not Informative'
+p5886
+sS'541892987492388864'
+p5887
+S'Not Informative'
+p5888
+sS'541919310562611201'
+p5889
+S'Not Informative'
+p5890
+sS'541585545856438272'
+p5891
+S'Not Informative'
+p5892
+sS'541415582390693889'
+p5893
+S'Not Informative'
+p5894
+sS'542397133622480898'
+p5895
+S'Other Relevant Information'
+p5896
+sS'541747900620242944'
+p5897
+S'Not Informative'
+p5898
+sS'541268346948571136'
+p5899
+S'Other Relevant Information'
+p5900
+sS'541817519078920193'
+p5901
+S'Not Informative'
+p5902
+sS'541447578840080384'
+p5903
+S'Not Informative'
+p5904
+sS'541523600969187328'
+p5905
+S'Not Informative'
+p5906
+sS'541802225333305344'
+p5907
+S'Not Informative'
+p5908
+sS'542372878457376768'
+p5909
+S'Humanitarian Aid Provided'
+p5910
+sS'541462149269557248'
+p5911
+S'Not Informative'
+p5912
+sS'541735400637599747'
+p5913
+S'Not Informative'
+p5914
+sS'541977650378444801'
+p5915
+S'Not Informative'
+p5916
+sS'541619893712330752'
+p5917
+S'Not Informative'
+p5918
+sS'541442597013565440'
+p5919
+S'Infrastructure Damage'
+p5920
+sS'541910589329522689'
+p5921
+S'Not Informative'
+p5922
+sS'541875326809165824'
+p5923
+S'Not Informative'
+p5924
+sS'541273013279129600'
+p5925
+S'Not Informative'
+p5926
+sS'541614634323939328'
+p5927
+S'Not Informative'
+p5928
+sS'541595893502197763'
+p5929
+S'Not Informative'
+p5930
+sS'541935793929859072'
+p5931
+S'Other Relevant Information'
+p5932
+sS'541597507042553856'
+p5933
+S'Not Informative'
+p5934
+sS'542116692390731777'
+p5935
+S'Not Informative'
+p5936
+sS'541594665997185024'
+p5937
+S'Not Informative'
+p5938
+sS'541505656746831872'
+p5939
+S'Not Informative'
+p5940
+sS'541770973804916737'
+p5941
+S'Other Relevant Information'
+p5942
+sS'541638534566670336'
+p5943
+S'Not Informative'
+p5944
+sS'541879503987826689'
+p5945
+S'Not Informative'
+p5946
+sS'541476071690878977'
+p5947
+S'Not Informative'
+p5948
+sS'542194614229164035'
+p5949
+S'Not Informative'
+p5950
+sS'541846252061605888'
+p5951
+S'Not Informative'
+p5952
+sS'541521276255219713'
+p5953
+S'Other Relevant Information'
+p5954
+sS'542032896031092736'
+p5955
+S'Not Informative'
+p5956
+sS'541544750663217153'
+p5957
+S'Other Relevant Information'
+p5958
+sS'541477841607475200'
+p5959
+S'Humanitarian Aid Provided'
+p5960
+sS'541932787444752384'
+p5961
+S'Not Informative'
+p5962
+sS'542366302741200897'
+p5963
+S'Not Informative'
+p5964
+sS'541999465368809472'
+p5965
+S'Not Informative'
+p5966
+sS'542182778201059328'
+p5967
+S'Not Informative'
+p5968
+sS'542035631006691329'
+p5969
+S'Not Informative'
+p5970
+sS'541938566545563649'
+p5971
+S'Not Informative'
+p5972
+sS'542207363814391808'
+p5973
+S'Not Informative'
+p5974
+sS'541138959506493441'
+p5975
+S'Not Informative'
+p5976
+sS'542021623277047808'
+p5977
+S'Not Informative'
+p5978
+sS'541707891221086208'
+p5979
+S'Infrastructure Damage'
+p5980
+sS'541772168867377152'
+p5981
+S'Not Informative'
+p5982
+sS'541730712571748352'
+p5983
+S'Humanitarian Aid Provided'
+p5984
+sS'541467106676453376'
+p5985
+S'Not Informative'
+p5986
+sS'541587709915959296'
+p5987
+S'Not Informative'
+p5988
+sS'541099151904083970'
+p5989
+S'Requests for Help/Needs'
+p5990
+sS'541981352942239744'
+p5991
+S'Not Informative'
+p5992
+sS'541489272377729026'
+p5993
+S'Not Informative'
+p5994
+sS'541641546072719360'
+p5995
+S'Infrastructure Damage'
+p5996
+sS'541980173667532801'
+p5997
+S'Not Informative'
+p5998
+sS'541473298451021825'
+p5999
+S'Other Relevant Information'
+p6000
+sS'541146050879176705'
+p6001
+S'Not Informative'
+p6002
+sS'541957706224259072'
+p6003
+S'Not Informative'
+p6004
+sS'541414385093074945'
+p6005
+S'Not Informative'
+p6006
+sS'541349897736552448'
+p6007
+S'Not Informative'
+p6008
+sS'541525338598031360'
+p6009
+S'Other Relevant Information'
+p6010
+sS'541216422823997440'
+p6011
+S'Other Relevant Information'
+p6012
+sS'541757772052721664'
+p6013
+S'Not Informative'
+p6014
+sS'541337415810445312'
+p6015
+S'Not Informative'
+p6016
+sS'541854810056577024'
+p6017
+S'Not Informative'
+p6018
+sS'542374001792667648'
+p6019
+S'Not Informative'
+p6020
+sS'541979889474080768'
+p6021
+S'Not Informative'
+p6022
+sS'541973030638202880'
+p6023
+S'Not Informative'
+p6024
+sS'541380783685259265'
+p6025
+S'Not Informative'
+p6026
+sS'541959744949604352'
+p6027
+S'Requests for Help/Needs'
+p6028
+sS'541858276498227200'
+p6029
+S'Other Relevant Information'
+p6030
+sS'541774721642012672'
+p6031
+S'Not Informative'
+p6032
+sS'541766561900408832'
+p6033
+S'Not Informative'
+p6034
+sS'541378678387511296'
+p6035
+S'Not Informative'
+p6036
+sS'541850798066380800'
+p6037
+S'Not Informative'
+p6038
+sS'541715316141989888'
+p6039
+S'Not Informative'
+p6040
+sS'542370633485541377'
+p6041
+S'Not Informative'
+p6042
+sS'541652496343506944'
+p6043
+S'Not Informative'
+p6044
+sS'542310614987591680'
+p6045
+S'Other Relevant Information'
+p6046
+sS'541843224701071360'
+p6047
+S'Not Informative'
+p6048
+sS'541569714380480512'
+p6049
+S'Not Informative'
+p6050
+sS'541775042854391809'
+p6051
+S'Not Informative'
+p6052
+sS'541141191325020161'
+p6053
+S'Not Informative'
+p6054
+sS'541395500436426752'
+p6055
+S'Not Informative'
+p6056
+sS'541512235894312961'
+p6057
+S'Other Relevant Information'
+p6058
+sS'541959374457958400'
+p6059
+S'Not Informative'
+p6060
+sS'541767919911174145'
+p6061
+S'Not Informative'
+p6062
+sS'542324696864530432'
+p6063
+S'Other Relevant Information'
+p6064
+sS'541941069152137217'
+p6065
+S'Not Informative'
+p6066
+sS'541944492434391040'
+p6067
+S'Other Relevant Information'
+p6068
+sS'541381401208037376'
+p6069
+S'Not Informative'
+p6070
+sS'541999817535537153'
+p6071
+S'Not Informative'
+p6072
+sS'541727955291222016'
+p6073
+S'Not Informative'
+p6074
+sS'541521109644890112'
+p6075
+S'Infrastructure Damage'
+p6076
+sS'541520090835873792'
+p6077
+S'Other Relevant Information'
+p6078
+sS'541460152709181440'
+p6079
+S'Not Informative'
+p6080
+sS'541456614046191616'
+p6081
+S'Not Informative'
+p6082
+sS'541833880253108224'
+p6083
+S'Not Informative'
+p6084
+sS'541850416401502208'
+p6085
+S'Not Informative'
+p6086
+sS'541820848881954816'
+p6087
+S'Not Informative'
+p6088
+sS'541731174503043072'
+p6089
+S'Not Informative'
+p6090
+sS'541556668505419777'
+p6091
+S'Other Relevant Information'
+p6092
+sS'541595526115127296'
+p6093
+S'Not Informative'
+p6094
+sS'542015716350648320'
+p6095
+S'Not Informative'
+p6096
+sS'541243103248515072'
+p6097
+S'Not Informative'
+p6098
+sS'541519151123423232'
+p6099
+S'Other Relevant Information'
+p6100
+sS'541418850244648960'
+p6101
+S'Not Informative'
+p6102
+sS'541730734382125056'
+p6103
+S'Not Informative'
+p6104
+sS'541958255618969601'
+p6105
+S'Other Relevant Information'
+p6106
+sS'541499618391891968'
+p6107
+S'Not Informative'
+p6108
+sS'541313235895734272'
+p6109
+S'Not Informative'
+p6110
+sS'541915328985317376'
+p6111
+S'Not Informative'
+p6112
+sS'541667490619994112'
+p6113
+S'Not Informative'
+p6114
+sS'542262859867365376'
+p6115
+S'Not Informative'
+p6116
+sS'542286871402131456'
+p6117
+S'Not Informative'
+p6118
+sS'541849680645464064'
+p6119
+S'Not Informative'
+p6120
+sS'541490675787636736'
+p6121
+S'Other Relevant Information'
+p6122
+sS'541757162775527424'
+p6123
+S'Other Relevant Information'
+p6124
+sS'541151876390326272'
+p6125
+S'Other Relevant Information'
+p6126
+sS'542235831117680640'
+p6127
+S'Not Informative'
+p6128
+sS'541729749454692352'
+p6129
+S'Not Informative'
+p6130
+sS'542020841760763904'
+p6131
+S'Not Informative'
+p6132
+sS'541840244052484097'
+p6133
+S'Not Informative'
+p6134
+sS'541885215950774272'
+p6135
+S'Not Informative'
+p6136
+sS'541626990155939840'
+p6137
+S'Other Relevant Information'
+p6138
+sS'541815719206195200'
+p6139
+S'Other Relevant Information'
+p6140
+sS'542005005281406980'
+p6141
+S'Not Informative'
+p6142
+sS'541606800278437888'
+p6143
+S'Not Informative'
+p6144
+sS'542208241745534976'
+p6145
+S'Not Informative'
+p6146
+sS'541536463720960000'
+p6147
+S'Not Informative'
+p6148
+sS'541960528092876801'
+p6149
+S'Not Informative'
+p6150
+sS'542334260234170368'
+p6151
+S'Other Relevant Information'
+p6152
+sS'541944991933677568'
+p6153
+S'Not Informative'
+p6154
+sS'541824558743830529'
+p6155
+S'Not Informative'
+p6156
+sS'541524743992528896'
+p6157
+S'Other Relevant Information'
+p6158
+sS'541173978757210112'
+p6159
+S'Not Informative'
+p6160
+sS'541670797614407680'
+p6161
+S'Not Informative'
+p6162
+sS'541492218947981312'
+p6163
+S'Other Relevant Information'
+p6164
+sS'541970563716362240'
+p6165
+S'Not Informative'
+p6166
+sS'541308699269017600'
+p6167
+S'Not Informative'
+p6168
+sS'541928052750422016'
+p6169
+S'Other Relevant Information'
+p6170
+sS'541955932305911808'
+p6171
+S'Not Informative'
+p6172
+sS'541461001925689344'
+p6173
+S'Other Relevant Information'
+p6174
+sS'541365852906340352'
+p6175
+S'Not Informative'
+p6176
+sS'541391184216592385'
+p6177
+S'Not Informative'
+p6178
+sS'541985110992498690'
+p6179
+S'Humanitarian Aid Provided'
+p6180
+sS'542271459633397761'
+p6181
+S'Other Relevant Information'
+p6182
+sS'541639045961760768'
+p6183
+S'Other Relevant Information'
+p6184
+sS'541855879935434753'
+p6185
+S'Not Informative'
+p6186
+sS'541962754727624704'
+p6187
+S'Not Informative'
+p6188
+sS'541314920327827457'
+p6189
+S'Other Relevant Information'
+p6190
+sS'542277803383603201'
+p6191
+S'Not Informative'
+p6192
+sS'542280620135972865'
+p6193
+S'Other Relevant Information'
+p6194
+sS'542017839302180864'
+p6195
+S'Not Informative'
+p6196
+sS'541981726533095425'
+p6197
+S'Humanitarian Aid Provided'
+p6198
+sS'541811559060627456'
+p6199
+S'Not Informative'
+p6200
+sS'541346389243203585'
+p6201
+S'Not Informative'
+p6202
+sS'541461725321515008'
+p6203
+S'Other Relevant Information'
+p6204
+sS'541406165721030656'
+p6205
+S'Not Informative'
+p6206
+sS'542020129752907779'
+p6207
+S'Infrastructure Damage'
+p6208
+sS'541995532420673537'
+p6209
+S'Not Informative'
+p6210
+sS'541804283642249216'
+p6211
+S'Not Informative'
+p6212
+sS'541855389998792704'
+p6213
+S'Not Informative'
+p6214
+sS'541141005387300864'
+p6215
+S'Not Informative'
+p6216
+sS'541367223542362112'
+p6217
+S'Other Relevant Information'
+p6218
+sS'541614211332177921'
+p6219
+S'Not Informative'
+p6220
+sS'541831327016681474'
+p6221
+S'Not Informative'
+p6222
+sS'541941927529041923'
+p6223
+S'Not Informative'
+p6224
+sS'541300948040450048'
+p6225
+S'Not Informative'
+p6226
+sS'542043532534751232'
+p6227
+S'Not Informative'
+p6228
+sS'541732030002638848'
+p6229
+S'Not Informative'
+p6230
+sS'541558656861356033'
+p6231
+S'Not Informative'
+p6232
+sS'541519442165764096'
+p6233
+S'Not Informative'
+p6234
+sS'541467806080856064'
+p6235
+S'Not Informative'
+p6236
+sS'541863881287544832'
+p6237
+S'Not Informative'
+p6238
+sS'541654968919281667'
+p6239
+S'Not Informative'
+p6240
+sS'541774626578112512'
+p6241
+S'Not Informative'
+p6242
+sS'541539856925462528'
+p6243
+S'Not Informative'
+p6244
+sS'541804735515217921'
+p6245
+S'Not Informative'
+p6246
+sS'541854600446222336'
+p6247
+S'Other Relevant Information'
+p6248
+sS'541650002192642048'
+p6249
+S'Not Informative'
+p6250
+sS'541420249094963200'
+p6251
+S'Not Informative'
+p6252
+sS'541920891261579264'
+p6253
+S'Not Informative'
+p6254
+sS'541561952997081088'
+p6255
+S'Humanitarian Aid Provided'
+p6256
+sS'541475705477799936'
+p6257
+S'Not Informative'
+p6258
+sS'541263396562558976'
+p6259
+S'Humanitarian Aid Provided'
+p6260
+sS'541383015327211521'
+p6261
+S'Not Informative'
+p6262
+sS'541989070520340480'
+p6263
+S'Not Informative'
+p6264
+sS'541366964980310017'
+p6265
+S'Not Informative'
+p6266
+sS'542320320242520064'
+p6267
+S'Humanitarian Aid Provided'
+p6268
+sS'541817245542789120'
+p6269
+S'Not Informative'
+p6270
+sS'541640532716290048'
+p6271
+S'Not Informative'
+p6272
+sS'541781049030623232'
+p6273
+S'Other Relevant Information'
+p6274
+sS'541847290634194945'
+p6275
+S'Not Informative'
+p6276
+sS'541971239753875456'
+p6277
+S'Not Informative'
+p6278
+sS'541464965454901248'
+p6279
+S'Not Informative'
+p6280
+sS'541620692144242688'
+p6281
+S'Other Relevant Information'
+p6282
+sS'541816647086919680'
+p6283
+S'Not Informative'
+p6284
+sS'541596203935207424'
+p6285
+S'Not Informative'
+p6286
+sS'541379598756610048'
+p6287
+S'Not Informative'
+p6288
+sS'541743385376460800'
+p6289
+S'Not Informative'
+p6290
+sS'541918205468360704'
+p6291
+S'Not Informative'
+p6292
+sS'541299657478254593'
+p6293
+S'Not Informative'
+p6294
+sS'541486987795243009'
+p6295
+S'Infrastructure Damage'
+p6296
+sS'541893458009399296'
+p6297
+S'Not Informative'
+p6298
+sS'541960137674481664'
+p6299
+S'Not Informative'
+p6300
+sS'541803413772566528'
+p6301
+S'Not Informative'
+p6302
+sS'541561664542216192'
+p6303
+S'Not Informative'
+p6304
+sS'541526678082580480'
+p6305
+S'Not Informative'
+p6306
+sS'541447060797407232'
+p6307
+S'Not Informative'
+p6308
+sS'541482758829535232'
+p6309
+S'Other Relevant Information'
+p6310
+sS'541741321027739648'
+p6311
+S'Humanitarian Aid Provided'
+p6312
+sS'541776868442005504'
+p6313
+S'Other Relevant Information'
+p6314
+sS'541729334646800384'
+p6315
+S'Not Informative'
+p6316
+sS'541816679643103233'
+p6317
+S'Not Informative'
+p6318
+sS'541851071971196929'
+p6319
+S'Not Informative'
+p6320
+sS'541620629934333954'
+p6321
+S'Not Informative'
+p6322
+sS'542448983835037698'
+p6323
+S'Infrastructure Damage'
+p6324
+sS'541480623471198209'
+p6325
+S'Other Relevant Information'
+p6326
+sS'541456416897134592'
+p6327
+S'Other Relevant Information'
+p6328
+sS'541952349720178690'
+p6329
+S'Other Relevant Information'
+p6330
+sS'541847819934375936'
+p6331
+S'Not Informative'
+p6332
+sS'541683744495923200'
+p6333
+S'Not Informative'
+p6334
+sS'541660098784161794'
+p6335
+S'Other Relevant Information'
+p6336
+sS'541385373809532928'
+p6337
+S'Not Informative'
+p6338
+sS'541977497726750720'
+p6339
+S'Not Informative'
+p6340
+sS'541527252236652544'
+p6341
+S'Not Informative'
+p6342
+sS'541529154739380226'
+p6343
+S'Other Relevant Information'
+p6344
+sS'541627547994181632'
+p6345
+S'Not Informative'
+p6346
+sS'542410877639471106'
+p6347
+S'Other Relevant Information'
+p6348
+sS'541967125317832704'
+p6349
+S'Not Informative'
+p6350
+sS'541532550749880320'
+p6351
+S'Not Informative'
+p6352
+sS'542025826464960512'
+p6353
+S'Other Relevant Information'
+p6354
+sS'541972784524443648'
+p6355
+S'Not Informative'
+p6356
+sS'541752259810304000'
+p6357
+S'Not Informative'
+p6358
+sS'541814446125895680'
+p6359
+S'Not Informative'
+p6360
+sS'541697132894240768'
+p6361
+S'Not Informative'
+p6362
+sS'541402905736011778'
+p6363
+S'Not Informative'
+p6364
+sS'541274370732466176'
+p6365
+S'Other Relevant Information'
+p6366
+sS'541428288330432513'
+p6367
+S'Not Informative'
+p6368
+sS'541991802320875520'
+p6369
+S'Not Informative'
+p6370
+sS'541652019992223746'
+p6371
+S'Other Relevant Information'
+p6372
+sS'542215246614892544'
+p6373
+S'Not Informative'
+p6374
+sS'541153600001409024'
+p6375
+S'Other Relevant Information'
+p6376
+sS'542115336553000960'
+p6377
+S'Other Relevant Information'
+p6378
+sS'541556324455428097'
+p6379
+S'Humanitarian Aid Provided'
+p6380
+sS'541352092816793600'
+p6381
+S'Not Informative'
+p6382
+sS'541647094394535936'
+p6383
+S'Not Informative'
+p6384
+sS'542036769244315648'
+p6385
+S'Not Informative'
+p6386
+sS'541576237928304640'
+p6387
+S'Not Informative'
+p6388
+sS'541154086620385281'
+p6389
+S'Other Relevant Information'
+p6390
+sS'541977362816958464'
+p6391
+S'Other Relevant Information'
+p6392
+sS'541473022205370368'
+p6393
+S'Other Relevant Information'
+p6394
+sS'541444435964223488'
+p6395
+S'Infrastructure Damage'
+p6396
+sS'541480529254559744'
+p6397
+S'Other Relevant Information'
+p6398
+sS'541829727988625411'
+p6399
+S'Not Informative'
+p6400
+sS'542226443821146113'
+p6401
+S'Not Informative'
+p6402
+sS'541573806004113408'
+p6403
+S'Not Informative'
+p6404
+sS'541300727335751680'
+p6405
+S'Not Informative'
+p6406
+sS'541928490862657537'
+p6407
+S'Other Relevant Information'
+p6408
+sS'541267758613151744'
+p6409
+S'Not Informative'
+p6410
+sS'542436550001176577'
+p6411
+S'Other Relevant Information'
+p6412
+sS'541561852979716096'
+p6413
+S'Not Informative'
+p6414
+sS'541498648321069056'
+p6415
+S'Infrastructure Damage'
+p6416
+sS'541732176073867265'
+p6417
+S'Not Informative'
+p6418
+sS'541741539437719552'
+p6419
+S'Not Informative'
+p6420
+sS'542142540657344512'
+p6421
+S'Not Informative'
+p6422
+sS'541153877332987905'
+p6423
+S'Other Relevant Information'
+p6424
+sS'541423277424402432'
+p6425
+S'Not Informative'
+p6426
+sS'541274126833696769'
+p6427
+S'Not Informative'
+p6428
+sS'541687934554865665'
+p6429
+S'Infrastructure Damage'
+p6430
+sS'541950957517414401'
+p6431
+S'Not Informative'
+p6432
+sS'541906486461755393'
+p6433
+S'Not Informative'
+p6434
+sS'541937950372556800'
+p6435
+S'Not Informative'
+p6436
+sS'541946656212934657'
+p6437
+S'Other Relevant Information'
+p6438
+sS'542206606121787392'
+p6439
+S'Not Informative'
+p6440
+sS'541700714771136512'
+p6441
+S'Not Informative'
+p6442
+sS'541862046602514432'
+p6443
+S'Not Informative'
+p6444
+sS'541655002960261121'
+p6445
+S'Other Relevant Information'
+p6446
+sS'542224095195037696'
+p6447
+S'Not Informative'
+p6448
+sS'541792340369620993'
+p6449
+S'Not Informative'
+p6450
+sS'541606600708874240'
+p6451
+S'Not Informative'
+p6452
+sS'542029074785263616'
+p6453
+S'Not Informative'
+p6454
+sS'541542265085124608'
+p6455
+S'Not Informative'
+p6456
+sS'541515524799074304'
+p6457
+S'Other Relevant Information'
+p6458
+sS'541177246547857409'
+p6459
+S'Not Informative'
+p6460
+sS'541235278195617793'
+p6461
+S'Not Informative'
+p6462
+sS'541612477188800512'
+p6463
+S'Not Informative'
+p6464
+sS'541458557376278528'
+p6465
+S'Not Informative'
+p6466
+sS'541581557291442178'
+p6467
+S'Not Informative'
+p6468
+sS'541937121586458625'
+p6469
+S'Other Relevant Information'
+p6470
+sS'541517394955362304'
+p6471
+S'Not Informative'
+p6472
+sS'541363318267854848'
+p6473
+S'Other Relevant Information'
+p6474
+sS'541599891693113344'
+p6475
+S'Not Informative'
+p6476
+sS'541589636418519040'
+p6477
+S'Not Informative'
+p6478
+sS'541641780265885696'
+p6479
+S'Other Relevant Information'
+p6480
+sS'541660223828930560'
+p6481
+S'Not Informative'
+p6482
+sS'541584401671675904'
+p6483
+S'Not Informative'
+p6484
+sS'542322014024138752'
+p6485
+S'Not Informative'
+p6486
+sS'542291635057348608'
+p6487
+S'Requests for Help/Needs'
+p6488
+sS'541783666557333506'
+p6489
+S'Not Informative'
+p6490
+sS'541554921607135232'
+p6491
+S'Not Informative'
+p6492
+sS'541466790182674433'
+p6493
+S'Other Relevant Information'
+p6494
+sS'541458795701223424'
+p6495
+S'Not Informative'
+p6496
+sS'541684345829076992'
+p6497
+S'Other Relevant Information'
+p6498
+sS'541900999791632385'
+p6499
+S'Not Informative'
+p6500
+sS'541330874886021120'
+p6501
+S'Other Relevant Information'
+p6502
+sS'541850990383611904'
+p6503
+S'Not Informative'
+p6504
+sS'542010518530048001'
+p6505
+S'Other Relevant Information'
+p6506
+sS'542193037594853377'
+p6507
+S'Not Informative'
+p6508
+sS'541143451052417025'
+p6509
+S'Not Informative'
+p6510
+sS'542341018927263744'
+p6511
+S'Not Informative'
+p6512
+sS'542184944920190976'
+p6513
+S'Not Informative'
+p6514
+sS'541518713921363968'
+p6515
+S'Not Informative'
+p6516
+sS'541703255441416192'
+p6517
+S'Not Informative'
+p6518
+sS'541153068013072385'
+p6519
+S'Other Relevant Information'
+p6520
+sS'541656507322880001'
+p6521
+S'Other Relevant Information'
+p6522
+sS'541854010089938944'
+p6523
+S'Not Informative'
+p6524
+sS'541505960418611200'
+p6525
+S'Not Informative'
+p6526
+sS'542212303538487296'
+p6527
+S'Not Informative'
+p6528
+sS'541854315250319360'
+p6529
+S'Not Informative'
+p6530
+sS'541266278090952704'
+p6531
+S'Not Informative'
+p6532
+sS'542199460189986816'
+p6533
+S'Not Informative'
+p6534
+sS'541513359129325568'
+p6535
+S'Other Relevant Information'
+p6536
+sS'541414894763905024'
+p6537
+S'Not Informative'
+p6538
+sS'541847898913116160'
+p6539
+S'Not Informative'
+p6540
+sS'542360396695236608'
+p6541
+S'Other Relevant Information'
+p6542
+sS'541258296813182977'
+p6543
+S'Not Informative'
+p6544
+sS'542227287945383937'
+p6545
+S'Not Informative'
+p6546
+sS'541148590026936321'
+p6547
+S'Other Relevant Information'
+p6548
+sS'542006093564485632'
+p6549
+S'Not Informative'
+p6550
+sS'542004268476014592'
+p6551
+S'Not Informative'
+p6552
+sS'542167444672880640'
+p6553
+S'Not Informative'
+p6554
+sS'541460130358112256'
+p6555
+S'Infrastructure Damage'
+p6556
+sS'541939087041888256'
+p6557
+S'Not Informative'
+p6558
+sS'541901796440940544'
+p6559
+S'Not Informative'
+p6560
+sS'541479767657050112'
+p6561
+S'Not Informative'
+p6562
+sS'542318603576426496'
+p6563
+S'Not Informative'
+p6564
+sS'541619164150910976'
+p6565
+S'Not Informative'
+p6566
+sS'541612358096138241'
+p6567
+S'Humanitarian Aid Provided'
+p6568
+sS'541718428562628608'
+p6569
+S'Not Informative'
+p6570
+sS'542232660148748288'
+p6571
+S'Other Relevant Information'
+p6572
+sS'541375044274769920'
+p6573
+S'Not Informative'
+p6574
+sS'541596747232202753'
+p6575
+S'Not Informative'
+p6576
+sS'541505451377324033'
+p6577
+S'Requests for Help/Needs'
+p6578
+sS'542002369111023616'
+p6579
+S'Not Informative'
+p6580
+sS'541613071547256832'
+p6581
+S'Not Informative'
+p6582
+sS'541467485585674240'
+p6583
+S'Not Informative'
+p6584
+sS'541856292197769216'
+p6585
+S'Not Informative'
+p6586
+sS'541923267963940865'
+p6587
+S'Not Informative'
+p6588
+sS'541717624099307520'
+p6589
+S'Not Informative'
+p6590
+sS'542010259569922048'
+p6591
+S'Requests for Help/Needs'
+p6592
+sS'541563684535808001'
+p6593
+S'Not Informative'
+p6594
+sS'541470193692585984'
+p6595
+S'Other Relevant Information'
+p6596
+sS'541488019648159744'
+p6597
+S'Not Informative'
+p6598
+sS'541428670691557376'
+p6599
+S'Infrastructure Damage'
+p6600
+sS'541794058146828290'
+p6601
+S'Not Informative'
+p6602
+sS'541312986334236672'
+p6603
+S'Not Informative'
+p6604
+sS'541507306744066048'
+p6605
+S'Not Informative'
+p6606
+sS'541353409278771200'
+p6607
+S'Other Relevant Information'
+p6608
+sS'541569195125653504'
+p6609
+S'Not Informative'
+p6610
+sS'541475431262994433'
+p6611
+S'Not Informative'
+p6612
+sS'541854016699768832'
+p6613
+S'Not Informative'
+p6614
+sS'541214792996749312'
+p6615
+S'Humanitarian Aid Provided'
+p6616
+sS'542253904205848576'
+p6617
+S'Other Relevant Information'
+p6618
+sS'541841669826412544'
+p6619
+S'Not Informative'
+p6620
+sS'542368246419435520'
+p6621
+S'Other Relevant Information'
+p6622
+sS'541662181071519746'
+p6623
+S'Other Relevant Information'
+p6624
+sS'541433216494624768'
+p6625
+S'Other Relevant Information'
+p6626
+sS'542425232640724996'
+p6627
+S'Other Relevant Information'
+p6628
+sS'541934931849396225'
+p6629
+S'Other Relevant Information'
+p6630
+sS'541505548990967810'
+p6631
+S'Not Informative'
+p6632
+sS'541675641460887553'
+p6633
+S'Not Informative'
+p6634
+sS'541840591168872448'
+p6635
+S'Not Informative'
+p6636
+sS'541743906107301889'
+p6637
+S'Not Informative'
+p6638
+sS'541755456733990912'
+p6639
+S'Not Informative'
+p6640
+sS'541850958016151552'
+p6641
+S'Not Informative'
+p6642
+sS'541538574638649344'
+p6643
+S'Infrastructure Damage'
+p6644
+sS'541988106295975938'
+p6645
+S'Other Relevant Information'
+p6646
+sS'541452347616927744'
+p6647
+S'Not Informative'
+p6648
+sS'541599212199108609'
+p6649
+S'Not Informative'
+p6650
+sS'542328901775532032'
+p6651
+S'Not Informative'
+p6652
+sS'541786328308785153'
+p6653
+S'Not Informative'
+p6654
+sS'542029910663917568'
+p6655
+S'Not Informative'
+p6656
+sS'541862835593039872'
+p6657
+S'Not Informative'
+p6658
+sS'541453600245817344'
+p6659
+S'Other Relevant Information'
+p6660
+sS'541803688093044736'
+p6661
+S'Other Relevant Information'
+p6662
+sS'541570041632661504'
+p6663
+S'Not Informative'
+p6664
+sS'541939486754492417'
+p6665
+S'Not Informative'
+p6666
+sS'541810899351515136'
+p6667
+S'Not Informative'
+p6668
+sS'541982559132213248'
+p6669
+S'Humanitarian Aid Provided'
+p6670
+sS'541417198028210176'
+p6671
+S'Not Informative'
+p6672
+sS'541436248137531392'
+p6673
+S'Infrastructure Damage'
+p6674
+sS'541611963961606144'
+p6675
+S'Humanitarian Aid Provided'
+p6676
+sS'542458764276690944'
+p6677
+S'Other Relevant Information'
+p6678
+sS'541995928668737536'
+p6679
+S'Not Informative'
+p6680
+sS'541817728965677057'
+p6681
+S'Not Informative'
+p6682
+sS'542228673940570113'
+p6683
+S'Not Informative'
+p6684
+sS'542285343601332224'
+p6685
+S'Other Relevant Information'
+p6686
+sS'541614990390620161'
+p6687
+S'Not Informative'
+p6688
+sS'541445413048295424'
+p6689
+S'Other Relevant Information'
+p6690
+sS'541140044447092737'
+p6691
+S'Other Relevant Information'
+p6692
+sS'541852107033174016'
+p6693
+S'Not Informative'
+p6694
+sS'541398953544388608'
+p6695
+S'Not Informative'
+p6696
+sS'541724367005044736'
+p6697
+S'Not Informative'
+p6698
+sS'542454521859829760'
+p6699
+S'Other Relevant Information'
+p6700
+sS'541457045216432128'
+p6701
+S'Not Informative'
+p6702
+sS'541940008223920128'
+p6703
+S'Other Relevant Information'
+p6704
+sS'542155052396580864'
+p6705
+S'Other Relevant Information'
+p6706
+sS'541532731012698113'
+p6707
+S'Other Relevant Information'
+p6708
+sS'541677500699394048'
+p6709
+S'Not Informative'
+p6710
+sS'542203010437234688'
+p6711
+S'Not Informative'
+p6712
+sS'541686719720878080'
+p6713
+S'Not Informative'
+p6714
+sS'541967717650419712'
+p6715
+S'Not Informative'
+p6716
+sS'542207629716512769'
+p6717
+S'Not Informative'
+p6718
+sS'542241318156910592'
+p6719
+S'Not Informative'
+p6720
+sS'541297788865486848'
+p6721
+S'Not Informative'
+p6722
+sS'541738736300486656'
+p6723
+S'Not Informative'
+p6724
+sS'541988147903873024'
+p6725
+S'Not Informative'
+p6726
+sS'541531718889402368'
+p6727
+S'Not Informative'
+p6728
+sS'541747226851041281'
+p6729
+S'Not Informative'
+p6730
+sS'541329958082080768'
+p6731
+S'Other Relevant Information'
+p6732
+sS'541395163709317121'
+p6733
+S'Not Informative'
+p6734
+sS'541543347479797760'
+p6735
+S'Not Informative'
+p6736
+sS'541152929399332864'
+p6737
+S'Other Relevant Information'
+p6738
+sS'541577992942546944'
+p6739
+S'Not Informative'
+p6740
+sS'541417287505289216'
+p6741
+S'Infrastructure Damage'
+p6742
+sS'541286205149966336'
+p6743
+S'Other Relevant Information'
+p6744
+sS'541308105515364352'
+p6745
+S'Infrastructure Damage'
+p6746
+sS'541834265793552385'
+p6747
+S'Not Informative'
+p6748
+sS'541471462037532672'
+p6749
+S'Other Relevant Information'
+p6750
+sS'541763223045685249'
+p6751
+S'Not Informative'
+p6752
+sS'541603622954348544'
+p6753
+S'Not Informative'
+p6754
+sS'542232068462104576'
+p6755
+S'Not Informative'
+p6756
+sS'541387522933153792'
+p6757
+S'Not Informative'
+p6758
+sS'541416730317570049'
+p6759
+S'Other Relevant Information'
+p6760
+sS'541937864104099841'
+p6761
+S'Not Informative'
+p6762
+sS'541478021534711808'
+p6763
+S'Not Informative'
+p6764
+sS'541883006978248704'
+p6765
+S'Not Informative'
+p6766
+sS'541235209614553088'
+p6767
+S'Not Informative'
+p6768
+sS'541155582997065729'
+p6769
+S'Other Relevant Information'
+p6770
+sS'541142399838617600'
+p6771
+S'Not Informative'
+p6772
+sS'541670124449984512'
+p6773
+S'Not Informative'
+p6774
+sS'541875062446366720'
+p6775
+S'Not Informative'
+p6776
+sS'541610865829502976'
+p6777
+S'Not Informative'
+p6778
+sS'541556416654618624'
+p6779
+S'Other Relevant Information'
+p6780
+sS'541980893834141696'
+p6781
+S'Other Relevant Information'
+p6782
+sS'541784003720663040'
+p6783
+S'Other Relevant Information'
+p6784
+sS'541361303499976704'
+p6785
+S'Not Informative'
+p6786
+sS'541373705255809024'
+p6787
+S'Not Informative'
+p6788
+sS'541366122893676544'
+p6789
+S'Not Informative'
+p6790
+sS'541819215716433922'
+p6791
+S'Not Informative'
+p6792
+sS'541525392742309888'
+p6793
+S'Requests for Help/Needs'
+p6794
+sS'541950395434557440'
+p6795
+S'Not Informative'
+p6796
+sS'542384778063130624'
+p6797
+S'Other Relevant Information'
+p6798
+sS'541843426979762180'
+p6799
+S'Other Relevant Information'
+p6800
+sS'541551004315971584'
+p6801
+S'Not Informative'
+p6802
+sS'541596406784339968'
+p6803
+S'Not Informative'
+p6804
+sS'541933286021279745'
+p6805
+S'Not Informative'
+p6806
+sS'542327107162877952'
+p6807
+S'Not Informative'
+p6808
+sS'541586566653546497'
+p6809
+S'Not Informative'
+p6810
+sS'541143094087790592'
+p6811
+S'Other Relevant Information'
+p6812
+sS'541526858266066944'
+p6813
+S'Not Informative'
+p6814
+sS'541492429715554304'
+p6815
+S'Not Informative'
+p6816
+sS'541281740770136064'
+p6817
+S'Not Informative'
+p6818
+sS'541563086574858240'
+p6819
+S'Not Informative'
+p6820
+sS'541377355973804033'
+p6821
+S'Not Informative'
+p6822
+sS'541476494426402816'
+p6823
+S'Other Relevant Information'
+p6824
+sS'541506728173772801'
+p6825
+S'Not Informative'
+p6826
+sS'541809009628827650'
+p6827
+S'Not Informative'
+p6828
+sS'541518613887201281'
+p6829
+S'Other Relevant Information'
+p6830
+sS'541740265786978304'
+p6831
+S'Other Relevant Information'
+p6832
+sS'541975550261092353'
+p6833
+S'Not Informative'
+p6834
+sS'542027730569527296'
+p6835
+S'Not Informative'
+p6836
+sS'541170583422398464'
+p6837
+S'Not Informative'
+p6838
+sS'541278463475191808'
+p6839
+S'Not Informative'
+p6840
+sS'541231098785579008'
+p6841
+S'Other Relevant Information'
+p6842
+sS'541809487120564224'
+p6843
+S'Not Informative'
+p6844
+sS'541831658727428097'
+p6845
+S'Other Relevant Information'
+p6846
+sS'541573656535527425'
+p6847
+S'Not Informative'
+p6848
+sS'541915077839163392'
+p6849
+S'Not Informative'
+p6850
+sS'541377592498995201'
+p6851
+S'Not Informative'
+p6852
+sS'541951729273962496'
+p6853
+S'Not Informative'
+p6854
+sS'541366673421656064'
+p6855
+S'Not Informative'
+p6856
+sS'541789870579253249'
+p6857
+S'Not Informative'
+p6858
+sS'541825618095403008'
+p6859
+S'Not Informative'
+p6860
+sS'541992555718901761'
+p6861
+S'Requests for Help/Needs'
+p6862
+sS'541986082376515585'
+p6863
+S'Not Informative'
+p6864
+sS'541946725695377408'
+p6865
+S'Other Relevant Information'
+p6866
+sS'541741183295569920'
+p6867
+S'Not Informative'
+p6868
+sS'541605450924294144'
+p6869
+S'Not Informative'
+p6870
+sS'541862268934160386'
+p6871
+S'Humanitarian Aid Provided'
+p6872
+sS'541664582154985472'
+p6873
+S'Not Informative'
+p6874
+sS'541823191874666496'
+p6875
+S'Not Informative'
+p6876
+sS'541886879579136000'
+p6877
+S'Not Informative'
+p6878
+sS'541957584152842240'
+p6879
+S'Not Informative'
+p6880
+sS'541415413725147137'
+p6881
+S'Not Informative'
+p6882
+sS'541991861607755776'
+p6883
+S'Not Informative'
+p6884
+sS'541493783263604736'
+p6885
+S'Other Relevant Information'
+p6886
+sS'541603006568235008'
+p6887
+S'Not Informative'
+p6888
+sS'541852183264632832'
+p6889
+S'Not Informative'
+p6890
+sS'541992311451054080'
+p6891
+S'Not Informative'
+p6892
+sS'541955298718924800'
+p6893
+S'Not Informative'
+p6894
+sS'542350906923040769'
+p6895
+S'Humanitarian Aid Provided'
+p6896
+sS'541146946572800000'
+p6897
+S'Not Informative'
+p6898
+sS'541565304497651712'
+p6899
+S'Not Informative'
+p6900
+sS'541336575951785985'
+p6901
+S'Not Informative'
+p6902
+sS'541850636547936256'
+p6903
+S'Not Informative'
+p6904
+sS'541864860296814592'
+p6905
+S'Other Relevant Information'
+p6906
+sS'541485369280061441'
+p6907
+S'Not Informative'
+p6908
+sS'541613957035749377'
+p6909
+S'Not Informative'
+p6910
+sS'541521540395708416'
+p6911
+S'Not Informative'
+p6912
+sS'541817143457628160'
+p6913
+S'Not Informative'
+p6914
+sS'542354489186209792'
+p6915
+S'Other Relevant Information'
+p6916
+sS'542294446440599553'
+p6917
+S'Other Relevant Information'
+p6918
+sS'541444146762764288'
+p6919
+S'Not Informative'
+p6920
+sS'542199751702114306'
+p6921
+S'Not Informative'
+p6922
+sS'541746899007463424'
+p6923
+S'Not Informative'
+p6924
+sS'541636062226173952'
+p6925
+S'Not Informative'
+p6926
+sS'541944428701548544'
+p6927
+S'Not Informative'
+p6928
+sS'541390413139947520'
+p6929
+S'Other Relevant Information'
+p6930
+sS'541541347757260800'
+p6931
+S'Other Relevant Information'
+p6932
+sS'541533330383323136'
+p6933
+S'Not Informative'
+p6934
+sS'541886104694435840'
+p6935
+S'Not Informative'
+p6936
+sS'541945721587396608'
+p6937
+S'Not Informative'
+p6938
+sS'541895962029879296'
+p6939
+S'Not Informative'
+p6940
+sS'541444665623318528'
+p6941
+S'Not Informative'
+p6942
+sS'541531974280544256'
+p6943
+S'Not Informative'
+p6944
+sS'541507327048699904'
+p6945
+S'Not Informative'
+p6946
+sS'542357997650190337'
+p6947
+S'Not Informative'
+p6948
+sS'541987327208194048'
+p6949
+S'Not Informative'
+p6950
+sS'541832867160915968'
+p6951
+S'Not Informative'
+p6952
+sS'541580021152768001'
+p6953
+S'Not Informative'
+p6954
+sS'541254885379801088'
+p6955
+S'Other Relevant Information'
+p6956
+sS'541595709519052800'
+p6957
+S'Not Informative'
+p6958
+sS'541997653429858304'
+p6959
+S'Not Informative'
+p6960
+sS'541480230062288897'
+p6961
+S'Not Informative'
+p6962
+sS'541766618942930944'
+p6963
+S'Not Informative'
+p6964
+sS'541355755706646529'
+p6965
+S'Other Relevant Information'
+p6966
+sS'541697134706561025'
+p6967
+S'Other Relevant Information'
+p6968
+sS'541486240348921858'
+p6969
+S'Other Relevant Information'
+p6970
+sS'542142670798614529'
+p6971
+S'Not Informative'
+p6972
+sS'541535795333443584'
+p6973
+S'Not Informative'
+p6974
+sS'541966375493722114'
+p6975
+S'Not Informative'
+p6976
+sS'542212294252310528'
+p6977
+S'Not Informative'
+p6978
+sS'541409307237941249'
+p6979
+S'Not Informative'
+p6980
+sS'541856555298082816'
+p6981
+S'Not Informative'
+p6982
+sS'541417008030416896'
+p6983
+S'Other Relevant Information'
+p6984
+sS'541742696516161536'
+p6985
+S'Not Informative'
+p6986
+sS'541561211125772288'
+p6987
+S'Not Informative'
+p6988
+sS'541101630918496257'
+p6989
+S'Other Relevant Information'
+p6990
+sS'541625987340206081'
+p6991
+S'Not Informative'
+p6992
+sS'541545824673492992'
+p6993
+S'Not Informative'
+p6994
+sS'541534800058662912'
+p6995
+S'Other Relevant Information'
+p6996
+sS'541616587045097473'
+p6997
+S'Infrastructure Damage'
+p6998
+sS'541138577779081216'
+p6999
+S'Other Relevant Information'
+p7000
+sS'541656750093389824'
+p7001
+S'Not Informative'
+p7002
+sS'541923441000349696'
+p7003
+S'Not Informative'
+p7004
+sS'541778712086474752'
+p7005
+S'Not Informative'
+p7006
+sS'541424922942132224'
+p7007
+S'Not Informative'
+p7008
+sS'541580176078172160'
+p7009
+S'Not Informative'
+p7010
+sS'541961712954789888'
+p7011
+S'Not Informative'
+p7012
+sS'541976784741224448'
+p7013
+S'Not Informative'
+p7014
+sS'541485694628007937'
+p7015
+S'Not Informative'
+p7016
+sS'541749416642629633'
+p7017
+S'Not Informative'
+p7018
+sS'541394914991292416'
+p7019
+S'Not Informative'
+p7020
+sS'541526353795772416'
+p7021
+S'Other Relevant Information'
+p7022
+sS'542005411155423232'
+p7023
+S'Humanitarian Aid Provided'
+p7024
+sS'541360424407408641'
+p7025
+S'Other Relevant Information'
+p7026
+sS'541368288224100354'
+p7027
+S'Other Relevant Information'
+p7028
+sS'541882451832733696'
+p7029
+S'Not Informative'
+p7030
+sS'541412028091351040'
+p7031
+S'Not Informative'
+p7032
+sS'542176873829384192'
+p7033
+S'Other Relevant Information'
+p7034
+sS'541467308074344449'
+p7035
+S'Other Relevant Information'
+p7036
+sS'542303451326476288'
+p7037
+S'Other Relevant Information'
+p7038
+sS'542421964548096002'
+p7039
+S'Other Relevant Information'
+p7040
+sS'541382340484669441'
+p7041
+S'Not Informative'
+p7042
+sS'541470901833695232'
+p7043
+S'Not Informative'
+p7044
+sS'541753205822988288'
+p7045
+S'Not Informative'
+p7046
+sS'541953373281320962'
+p7047
+S'Not Informative'
+p7048
+sS'541540870688739328'
+p7049
+S'Not Informative'
+p7050
+sS'541985622710181888'
+p7051
+S'Not Informative'
+p7052
+sS'541657733544427521'
+p7053
+S'Not Informative'
+p7054
+sS'541590178675294208'
+p7055
+S'Other Relevant Information'
+p7056
+sS'541459952259186689'
+p7057
+S'Other Relevant Information'
+p7058
+sS'541493927560642561'
+p7059
+S'Other Relevant Information'
+p7060
+sS'541493961152413696'
+p7061
+S'Not Informative'
+p7062
+sS'541701344139415555'
+p7063
+S'Not Informative'
+p7064
+sS'541954805929762816'
+p7065
+S'Not Informative'
+p7066
+sS'541558317273731072'
+p7067
+S'Not Informative'
+p7068
+sS'541863197473796096'
+p7069
+S'Not Informative'
+p7070
+sS'541949075646840833'
+p7071
+S'Not Informative'
+p7072
+sS'541548910116753408'
+p7073
+S'Not Informative'
+p7074
+sS'542385978644922368'
+p7075
+S'Other Relevant Information'
+p7076
+sS'542341292701659138'
+p7077
+S'Other Relevant Information'
+p7078
+sS'541580084243476480'
+p7079
+S'Not Informative'
+p7080
+sS'542198548834422785'
+p7081
+S'Other Relevant Information'
+p7082
+sS'542246023725195264'
+p7083
+S'Not Informative'
+p7084
+sS'541934395364356096'
+p7085
+S'Not Informative'
+p7086
+sS'541610190265544704'
+p7087
+S'Not Informative'
+p7088
+sS'541651143890190336'
+p7089
+S'Not Informative'
+p7090
+sS'541645124237676544'
+p7091
+S'Not Informative'
+p7092
+sS'541614886363889664'
+p7093
+S'Not Informative'
+p7094
+sS'541587314120466432'
+p7095
+S'Not Informative'
+p7096
+sS'541636686958977024'
+p7097
+S'Not Informative'
+p7098
+sS'541435462976434176'
+p7099
+S'Not Informative'
+p7100
+sS'541393577230622722'
+p7101
+S'Infrastructure Damage'
+p7102
+sS'541959034794803202'
+p7103
+S'Not Informative'
+p7104
+sS'541770541946789888'
+p7105
+S'Not Informative'
+p7106
+sS'541493394556452864'
+p7107
+S'Not Informative'
+p7108
+sS'541465353172172800'
+p7109
+S'Not Informative'
+p7110
+sS'541880861029724160'
+p7111
+S'Not Informative'
+p7112
+sS'541659521853435905'
+p7113
+S'Not Informative'
+p7114
+sS'541565424819658752'
+p7115
+S'Not Informative'
+p7116
+sS'541471569306845185'
+p7117
+S'Other Relevant Information'
+p7118
+sS'541922712944254976'
+p7119
+S'Other Relevant Information'
+p7120
+sS'542293043072610304'
+p7121
+S'Not Informative'
+p7122
+sS'541625968943579136'
+p7123
+S'Not Informative'
+p7124
+sS'541692773385383936'
+p7125
+S'Not Informative'
+p7126
+sS'541612794076880897'
+p7127
+S'Not Informative'
+p7128
+sS'541966646928105472'
+p7129
+S'Other Relevant Information'
+p7130
+sS'542223857772285952'
+p7131
+S'Other Relevant Information'
+p7132
+sS'542172039163822080'
+p7133
+S'Not Informative'
+p7134
+sS'541518170469982208'
+p7135
+S'Not Informative'
+p7136
+sS'542264851104804864'
+p7137
+S'Not Informative'
+p7138
+sS'541771999379349504'
+p7139
+S'Not Informative'
+p7140
+sS'541507366076706816'
+p7141
+S'Other Relevant Information'
+p7142
+sS'541233250380038145'
+p7143
+S'Not Informative'
+p7144
+sS'541747040242241536'
+p7145
+S'Not Informative'
+p7146
+sS'541996862442844160'
+p7147
+S'Other Relevant Information'
+p7148
+sS'542354678931918848'
+p7149
+S'Other Relevant Information'
+p7150
+sS'542335576700354560'
+p7151
+S'Other Relevant Information'
+p7152
+sS'541691256049770496'
+p7153
+S'Other Relevant Information'
+p7154
+sS'541432827028713472'
+p7155
+S'Not Informative'
+p7156
+sS'541375811043856384'
+p7157
+S'Other Relevant Information'
+p7158
+sS'541889731005808640'
+p7159
+S'Other Relevant Information'
+p7160
+sS'541470395853856769'
+p7161
+S'Infrastructure Damage'
+p7162
+sS'541942760366813184'
+p7163
+S'Not Informative'
+p7164
+sS'541367028821803009'
+p7165
+S'Not Informative'
+p7166
+sS'541486890457636866'
+p7167
+S'Not Informative'
+p7168
+sS'541620537730924545'
+p7169
+S'Not Informative'
+p7170
+sS'541161924633706496'
+p7171
+S'Other Relevant Information'
+p7172
+sS'541942150326263809'
+p7173
+S'Other Relevant Information'
+p7174
+sS'542175217158586369'
+p7175
+S'Not Informative'
+p7176
+sS'541723189156802560'
+p7177
+S'Not Informative'
+p7178
+sS'541498009826373633'
+p7179
+S'Not Informative'
+p7180
+sS'541935845381378048'
+p7181
+S'Not Informative'
+p7182
+sS'541783245528915968'
+p7183
+S'Not Informative'
+p7184
+sS'542407383310278657'
+p7185
+S'Other Relevant Information'
+p7186
+sS'541226867970158593'
+p7187
+S'Other Relevant Information'
+p7188
+sS'541455123994517506'
+p7189
+S'Not Informative'
+p7190
+sS'541654915677188098'
+p7191
+S'Other Relevant Information'
+p7192
+sS'541367406644719616'
+p7193
+S'Not Informative'
+p7194
+sS'541726884623417344'
+p7195
+S'Not Informative'
+p7196
+sS'541653411419000832'
+p7197
+S'Other Relevant Information'
+p7198
+sS'542174555419066368'
+p7199
+S'Not Informative'
+p7200
+sS'541483463736844288'
+p7201
+S'Other Relevant Information'
+p7202
+sS'542414411034402816'
+p7203
+S'Not Informative'
+p7204
+sS'541483160501252096'
+p7205
+S'Infrastructure Damage'
+p7206
+sS'541358969432711168'
+p7207
+S'Not Informative'
+p7208
+sS'541972559529791488'
+p7209
+S'Not Informative'
+p7210
+sS'541867379865575426'
+p7211
+S'Not Informative'
+p7212
+sS'541417983105462273'
+p7213
+S'Not Informative'
+p7214
+sS'542121748658143232'
+p7215
+S'Not Informative'
+p7216
+sS'542192425452576768'
+p7217
+S'Other Relevant Information'
+p7218
+sS'541399615879143425'
+p7219
+S'Not Informative'
+p7220
+sS'541412578417594369'
+p7221
+S'Not Informative'
+p7222
+sS'541910807185854464'
+p7223
+S'Not Informative'
+p7224
+sS'541145105986768896'
+p7225
+S'Other Relevant Information'
+p7226
+sS'541370049811218432'
+p7227
+S'Other Relevant Information'
+p7228
+sS'541621660780986369'
+p7229
+S'Humanitarian Aid Provided'
+p7230
+sS'541547577506684929'
+p7231
+S'Not Informative'
+p7232
+sS'542241564555112448'
+p7233
+S'Other Relevant Information'
+p7234
+sS'541849066737762304'
+p7235
+S'Not Informative'
+p7236
+sS'541872706304483328'
+p7237
+S'Not Informative'
+p7238
+sS'541848126055649282'
+p7239
+S'Not Informative'
+p7240
+sS'541890128470224896'
+p7241
+S'Not Informative'
+p7242
+sS'541749503707983873'
+p7243
+S'Not Informative'
+p7244
+sS'542167940200927232'
+p7245
+S'Not Informative'
+p7246
+sS'542032992529428480'
+p7247
+S'Not Informative'
+p7248
+sS'541611630719561730'
+p7249
+S'Not Informative'
+p7250
+sS'541447482899574784'
+p7251
+S'Other Relevant Information'
+p7252
+sS'541680954675564545'
+p7253
+S'Other Relevant Information'
+p7254
+sS'541937339635728384'
+p7255
+S'Not Informative'
+p7256
+sS'541753701350649856'
+p7257
+S'Not Informative'
+p7258
+sS'542360660546318336'
+p7259
+S'Not Informative'
+p7260
+sS'542392634992377859'
+p7261
+S'Infrastructure Damage'
+p7262
+sS'541536183688232960'
+p7263
+S'Not Informative'
+p7264
+sS'542302027909705728'
+p7265
+S'Not Informative'
+p7266
+sS'541586443240738817'
+p7267
+S'Other Relevant Information'
+p7268
+sS'541919215406428160'
+p7269
+S'Not Informative'
+p7270
+sS'542429974779535362'
+p7271
+S'Other Relevant Information'
+p7272
+sS'541884992545370112'
+p7273
+S'Other Relevant Information'
+p7274
+sS'541771988285390848'
+p7275
+S'Not Informative'
+p7276
+sS'541841802282557440'
+p7277
+S'Not Informative'
+p7278
+sS'541473430747774976'
+p7279
+S'Not Informative'
+p7280
+sS'542257027960283137'
+p7281
+S'Other Relevant Information'
+p7282
+sS'541203625947967488'
+p7283
+S'Not Informative'
+p7284
+sS'541979658531520513'
+p7285
+S'Not Informative'
+p7286
+sS'541543225710751744'
+p7287
+S'Not Informative'
+p7288
+sS'542210534712422400'
+p7289
+S'Not Informative'
+p7290
+sS'541493709444227072'
+p7291
+S'Not Informative'
+p7292
+sS'541735039634255873'
+p7293
+S'Humanitarian Aid Provided'
+p7294
+sS'541963682628907008'
+p7295
+S'Other Relevant Information'
+p7296
+sS'541645548864811009'
+p7297
+S'Not Informative'
+p7298
+sS'541628486142943232'
+p7299
+S'Other Relevant Information'
+p7300
+sS'541421455917871104'
+p7301
+S'Not Informative'
+p7302
+sS'541282398525083649'
+p7303
+S'Other Relevant Information'
+p7304
+sS'542215622805819394'
+p7305
+S'Not Informative'
+p7306
+sS'541808899117301761'
+p7307
+S'Other Relevant Information'
+p7308
+sS'541973236162891777'
+p7309
+S'Not Informative'
+p7310
+sS'541836609411231745'
+p7311
+S'Not Informative'
+p7312
+sS'541909576350568448'
+p7313
+S'Not Informative'
+p7314
+sS'541752305771884546'
+p7315
+S'Not Informative'
+p7316
+sS'541958941530279938'
+p7317
+S'Not Informative'
+p7318
+sS'542176324794609664'
+p7319
+S'Not Informative'
+p7320
+sS'541325744991776768'
+p7321
+S'Not Informative'
+p7322
+sS'541808529565155328'
+p7323
+S'Not Informative'
+p7324
+sS'542244484088492033'
+p7325
+S'Not Informative'
+p7326
+sS'541979507112960000'
+p7327
+S'Not Informative'
+p7328
+sS'541459009757138944'
+p7329
+S'Other Relevant Information'
+p7330
+sS'541667199014805504'
+p7331
+S'Not Informative'
+p7332
+sS'541612753585070080'
+p7333
+S'Not Informative'
+p7334
+sS'542359135095123968'
+p7335
+S'Infrastructure Damage'
+p7336
+sS'542450102711767040'
+p7337
+S'Not Informative'
+p7338
+sS'541609882647285760'
+p7339
+S'Not Informative'
+p7340
+sS'541475551253262336'
+p7341
+S'Other Relevant Information'
+p7342
+sS'541716918953332738'
+p7343
+S'Not Informative'
+p7344
+sS'541684330167541761'
+p7345
+S'Humanitarian Aid Provided'
+p7346
+sS'541139476048003072'
+p7347
+S'Not Informative'
+p7348
+sS'541646384294670337'
+p7349
+S'Not Informative'
+p7350
+sS'541830428357705728'
+p7351
+S'Not Informative'
+p7352
+sS'542249071843348481'
+p7353
+S'Infrastructure Damage'
+p7354
+sS'541877817051316224'
+p7355
+S'Requests for Help/Needs'
+p7356
+sS'541836515827933184'
+p7357
+S'Not Informative'
+p7358
+sS'542326400187777024'
+p7359
+S'Not Informative'
+p7360
+sS'541139754814025728'
+p7361
+S'Other Relevant Information'
+p7362
+sS'541513063807983616'
+p7363
+S'Not Informative'
+p7364
+sS'541713656816205824'
+p7365
+S'Other Relevant Information'
+p7366
+sS'541563604877594625'
+p7367
+S'Other Relevant Information'
+p7368
+sS'541437540717166593'
+p7369
+S'Other Relevant Information'
+p7370
+sS'541887928750702592'
+p7371
+S'Other Relevant Information'
+p7372
+sS'541520252711223296'
+p7373
+S'Infrastructure Damage'
+p7374
+sS'541399568605122561'
+p7375
+S'Not Informative'
+p7376
+sS'542155447554162688'
+p7377
+S'Humanitarian Aid Provided'
+p7378
+sS'541733105812250624'
+p7379
+S'Not Informative'
+p7380
+sS'541466309641633793'
+p7381
+S'Not Informative'
+p7382
+sS'541974123442737153'
+p7383
+S'Not Informative'
+p7384
+sS'541909825660018688'
+p7385
+S'Not Informative'
+p7386
+sS'541829629632606208'
+p7387
+S'Other Relevant Information'
+p7388
+sS'542331578689785856'
+p7389
+S'Other Relevant Information'
+p7390
+sS'541489195965898752'
+p7391
+S'Other Relevant Information'
+p7392
+sS'541400751503708160'
+p7393
+S'Other Relevant Information'
+p7394
+sS'541393542976110594'
+p7395
+S'Not Informative'
+p7396
+sS'541467825626697728'
+p7397
+S'Not Informative'
+p7398
+sS'541580667466035201'
+p7399
+S'Other Relevant Information'
+p7400
+sS'541439069998174208'
+p7401
+S'Infrastructure Damage'
+p7402
+sS'541468991546331136'
+p7403
+S'Not Informative'
+p7404
+sS'541654549359239168'
+p7405
+S'Not Informative'
+p7406
+sS'541794994839752705'
+p7407
+S'Not Informative'
+p7408
+sS'541652499649015808'
+p7409
+S'Not Informative'
+p7410
+sS'541154896582426625'
+p7411
+S'Not Informative'
+p7412
+sS'542120796395560960'
+p7413
+S'Not Informative'
+p7414
+sS'542295567871664128'
+p7415
+S'Other Relevant Information'
+p7416
+sS'541612123055341569'
+p7417
+S'Not Informative'
+p7418
+sS'541937198505811969'
+p7419
+S'Not Informative'
+p7420
+sS'541956137147305984'
+p7421
+S'Not Informative'
+p7422
+sS'541784552721494016'
+p7423
+S'Humanitarian Aid Provided'
+p7424
+sS'541544239562518529'
+p7425
+S'Not Informative'
+p7426
+sS'541595598848548865'
+p7427
+S'Not Informative'
+p7428
+sS'541604930394390528'
+p7429
+S'Other Relevant Information'
+p7430
+sS'541513119634190337'
+p7431
+S'Not Informative'
+p7432
+sS'541422153061502977'
+p7433
+S'Not Informative'
+p7434
+sS'541526336733339648'
+p7435
+S'Not Informative'
+p7436
+sS'541153013789106176'
+p7437
+S'Other Relevant Information'
+p7438
+sS'541435362019901442'
+p7439
+S'Not Informative'
+p7440
+sS'541819690578739200'
+p7441
+S'Not Informative'
+p7442
+sS'542415780927639552'
+p7443
+S'Not Informative'
+p7444
+sS'541793833869008897'
+p7445
+S'Not Informative'
+p7446
+sS'541754331859390464'
+p7447
+S'Not Informative'
+p7448
+sS'541494769470287872'
+p7449
+S'Not Informative'
+p7450
+sS'541861695337930752'
+p7451
+S'Not Informative'
+p7452
+sS'541895641429843970'
+p7453
+S'Not Informative'
+p7454
+sS'541998728983232513'
+p7455
+S'Not Informative'
+p7456
+sS'541735284119834624'
+p7457
+S'Other Relevant Information'
+p7458
+sS'541456663396372480'
+p7459
+S'Not Informative'
+p7460
+sS'541282386936221696'
+p7461
+S'Other Relevant Information'
+p7462
+sS'541254801506308097'
+p7463
+S'Not Informative'
+p7464
+sS'541490445612621825'
+p7465
+S'Not Informative'
+p7466
+sS'541818159892676608'
+p7467
+S'Other Relevant Information'
+p7468
+sS'541406669964472321'
+p7469
+S'Other Relevant Information'
+p7470
+sS'542238334916247552'
+p7471
+S'Not Informative'
+p7472
+sS'541524709163036672'
+p7473
+S'Not Informative'
+p7474
+sS'541806143278829568'
+p7475
+S'Not Informative'
+p7476
+sS'541701714462515201'
+p7477
+S'Not Informative'
+p7478
+sS'541478045995909121'
+p7479
+S'Not Informative'
+p7480
+sS'541550957322960897'
+p7481
+S'Other Relevant Information'
+p7482
+sS'541853513240690688'
+p7483
+S'Not Informative'
+p7484
+sS'541531802599706625'
+p7485
+S'Other Relevant Information'
+p7486
+sS'541973957604167680'
+p7487
+S'Not Informative'
+p7488
+sS'541436692410810369'
+p7489
+S'Other Relevant Information'
+p7490
+sS'541199698313621504'
+p7491
+S'Other Relevant Information'
+p7492
+sS'542201883113189376'
+p7493
+S'Not Informative'
+p7494
+sS'541512228587855872'
+p7495
+S'Other Relevant Information'
+p7496
+sS'541817420403707904'
+p7497
+S'Not Informative'
+p7498
+sS'541563187942789120'
+p7499
+S'Not Informative'
+p7500
+sS'541818354281902080'
+p7501
+S'Not Informative'
+p7502
+sS'541534392095485952'
+p7503
+S'Not Informative'
+p7504
+sS'541816954831769600'
+p7505
+S'Not Informative'
+p7506
+sS'541828816063045632'
+p7507
+S'Not Informative'
+p7508
+sS'541997808006742016'
+p7509
+S'Not Informative'
+p7510
+sS'541390731361792000'
+p7511
+S'Not Informative'
+p7512
+sS'542243638571712512'
+p7513
+S'Not Informative'
+p7514
+sS'541633076007141377'
+p7515
+S'Not Informative'
+p7516
+sS'541363924646780928'
+p7517
+S'Not Informative'
+p7518
+sS'541382992045035521'
+p7519
+S'Other Relevant Information'
+p7520
+sS'541674736778887168'
+p7521
+S'Not Informative'
+p7522
+sS'542322294681378816'
+p7523
+S'Other Relevant Information'
+p7524
+sS'541985547531468800'
+p7525
+S'Not Informative'
+p7526
+sS'542184668204777474'
+p7527
+S'Not Informative'
+p7528
+sS'542002553051811841'
+p7529
+S'Not Informative'
+p7530
+sS'541740977459691520'
+p7531
+S'Not Informative'
+p7532
+sS'541619416946184193'
+p7533
+S'Not Informative'
+p7534
+sS'541633354840301568'
+p7535
+S'Not Informative'
+p7536
+sS'541271396786401280'
+p7537
+S'Humanitarian Aid Provided'
+p7538
+sS'542413659738083329'
+p7539
+S'Not Informative'
+p7540
+sS'541800305071910912'
+p7541
+S'Not Informative'
+p7542
+sS'541519103496708097'
+p7543
+S'Not Informative'
+p7544
+sS'541931990694387713'
+p7545
+S'Not Informative'
+p7546
+sS'541742244579917824'
+p7547
+S'Humanitarian Aid Provided'
+p7548
+sS'541298057628119040'
+p7549
+S'Not Informative'
+p7550
+sS'541833568276586496'
+p7551
+S'Not Informative'
+p7552
+sS'541788478292230144'
+p7553
+S'Not Informative'
+p7554
+sS'541966449321857024'
+p7555
+S'Not Informative'
+p7556
+sS'541835333365923841'
+p7557
+S'Not Informative'
+p7558
+sS'541273066186473473'
+p7559
+S'Other Relevant Information'
+p7560
+sS'541790717069127681'
+p7561
+S'Other Relevant Information'
+p7562
+sS'542336951802556417'
+p7563
+S'Humanitarian Aid Provided'
+p7564
+sS'541403498009489409'
+p7565
+S'Not Informative'
+p7566
+sS'541483472217309184'
+p7567
+S'Humanitarian Aid Provided'
+p7568
+sS'541471890091417600'
+p7569
+S'Other Relevant Information'
+p7570
+sS'541422297114873856'
+p7571
+S'Not Informative'
+p7572
+sS'541883628821569536'
+p7573
+S'Not Informative'
+p7574
+sS'541592842804940800'
+p7575
+S'Not Informative'
+p7576
+sS'541511446492745729'
+p7577
+S'Not Informative'
+p7578
+sS'541617103862648832'
+p7579
+S'Not Informative'
+p7580
+sS'541635316277207041'
+p7581
+S'Not Informative'
+p7582
+sS'541795083104681984'
+p7583
+S'Not Informative'
+p7584
+sS'541578221683478528'
+p7585
+S'Other Relevant Information'
+p7586
+sS'541738213514039297'
+p7587
+S'Not Informative'
+p7588
+sS'541732716820324352'
+p7589
+S'Not Informative'
+p7590
+sS'541845720249434112'
+p7591
+S'Not Informative'
+p7592
+sS'541815719621820418'
+p7593
+S'Not Informative'
+p7594
+sS'541629624510210051'
+p7595
+S'Not Informative'
+p7596
+sS'541970896290734080'
+p7597
+S'Not Informative'
+p7598
+sS'542038449881358336'
+p7599
+S'Not Informative'
+p7600
+sS'541420632370872320'
+p7601
+S'Not Informative'
+p7602
+sS'541987893892231168'
+p7603
+S'Not Informative'
+p7604
+sS'541392398186602496'
+p7605
+S'Not Informative'
+p7606
+sS'541771480158064640'
+p7607
+S'Not Informative'
+p7608
+sS'542308267183980544'
+p7609
+S'Other Relevant Information'
+p7610
+sS'542125256295448576'
+p7611
+S'Other Relevant Information'
+p7612
+sS'542223070207807488'
+p7613
+S'Not Informative'
+p7614
+sS'541483634717257729'
+p7615
+S'Infrastructure Damage'
+p7616
+sS'541471779668385793'
+p7617
+S'Not Informative'
+p7618
+sS'541560533632045056'
+p7619
+S'Not Informative'
+p7620
+sS'541874502204809216'
+p7621
+S'Not Informative'
+p7622
+sS'541791158024687617'
+p7623
+S'Other Relevant Information'
+p7624
+sS'542382807390371840'
+p7625
+S'Not Informative'
+p7626
+sS'541420283941629952'
+p7627
+S'Other Relevant Information'
+p7628
+sS'541465241716936704'
+p7629
+S'Not Informative'
+p7630
+sS'541452130025242624'
+p7631
+S'Other Relevant Information'
+p7632
+sS'542213170321195009'
+p7633
+S'Not Informative'
+p7634
+sS'541896914711494656'
+p7635
+S'Not Informative'
+p7636
+sS'541515691820470274'
+p7637
+S'Other Relevant Information'
+p7638
+sS'541518327802503168'
+p7639
+S'Other Relevant Information'
+p7640
+sS'542437326824034304'
+p7641
+S'Other Relevant Information'
+p7642
+sS'541464920743612416'
+p7643
+S'Other Relevant Information'
+p7644
+sS'542304413524582401'
+p7645
+S'Not Informative'
+p7646
+sS'542404021957308417'
+p7647
+S'Other Relevant Information'
+p7648
+sS'541427321404534784'
+p7649
+S'Not Informative'
+p7650
+sS'541923973257113600'
+p7651
+S'Not Informative'
+p7652
+sS'541946972949995520'
+p7653
+S'Not Informative'
+p7654
+sS'541987255402110976'
+p7655
+S'Not Informative'
+p7656
+sS'541649578924064768'
+p7657
+S'Not Informative'
+p7658
+sS'541711897150488576'
+p7659
+S'Not Informative'
+p7660
+sS'541515863342342144'
+p7661
+S'Not Informative'
+p7662
+sS'541649674470694914'
+p7663
+S'Not Informative'
+p7664
+sS'541214186345205760'
+p7665
+S'Humanitarian Aid Provided'
+p7666
+sS'541141800619372544'
+p7667
+S'Other Relevant Information'
+p7668
+sS'542348372376440832'
+p7669
+S'Not Informative'
+p7670
+sS'541597458912927745'
+p7671
+S'Not Informative'
+p7672
+sS'541182623549112320'
+p7673
+S'Not Informative'
+p7674
+sS'541187114314907649'
+p7675
+S'Humanitarian Aid Provided'
+p7676
+sS'541823383403364352'
+p7677
+S'Not Informative'
+p7678
+sS'541480337088327680'
+p7679
+S'Not Informative'
+p7680
+sS'541631765509451776'
+p7681
+S'Not Informative'
+p7682
+sS'541720503690350592'
+p7683
+S'Not Informative'
+p7684
+sS'541493736929517568'
+p7685
+S'Not Informative'
+p7686
+sS'541920515892342784'
+p7687
+S'Not Informative'
+p7688
+sS'541829675052322816'
+p7689
+S'Not Informative'
+p7690
+sS'541856240763019264'
+p7691
+S'Not Informative'
+p7692
+sS'541416498188005376'
+p7693
+S'Not Informative'
+p7694
+sS'541555316396019712'
+p7695
+S'Not Informative'
+p7696
+sS'541994013276905472'
+p7697
+S'Not Informative'
+p7698
+sS'541436462198059009'
+p7699
+S'Not Informative'
+p7700
+sS'541897874259197952'
+p7701
+S'Not Informative'
+p7702
+sS'542180198532145152'
+p7703
+S'Not Informative'
+p7704
+sS'541411364783140865'
+p7705
+S'Other Relevant Information'
+p7706
+sS'541385144859246594'
+p7707
+S'Not Informative'
+p7708
+sS'541546608375394305'
+p7709
+S'Not Informative'
+p7710
+sS'541846909636202496'
+p7711
+S'Not Informative'
+p7712
+sS'541142633310355456'
+p7713
+S'Other Relevant Information'
+p7714
+sS'541776709729533952'
+p7715
+S'Not Informative'
+p7716
+sS'542361305634447360'
+p7717
+S'Infrastructure Damage'
+p7718
+sS'541795598676934656'
+p7719
+S'Not Informative'
+p7720
+sS'541904729551298560'
+p7721
+S'Not Informative'
+p7722
+sS'541714449015402498'
+p7723
+S'Not Informative'
+p7724
+sS'542318386961989632'
+p7725
+S'Infrastructure Damage'
+p7726
+sS'541975421248479232'
+p7727
+S'Not Informative'
+p7728
+sS'541683888020389888'
+p7729
+S'Not Informative'
+p7730
+sS'541299005230444545'
+p7731
+S'Not Informative'
+p7732
+sS'541988173161582592'
+p7733
+S'Not Informative'
+p7734
+sS'542283990888374272'
+p7735
+S'Other Relevant Information'
+p7736
+sS'542349798544654337'
+p7737
+S'Other Relevant Information'
+p7738
+sS'541862307739860992'
+p7739
+S'Not Informative'
+p7740
+sS'541445538965495808'
+p7741
+S'Not Informative'
+p7742
+sS'541580804254490624'
+p7743
+S'Other Relevant Information'
+p7744
+sS'541804335156310018'
+p7745
+S'Other Relevant Information'
+p7746
+sS'541542493146185729'
+p7747
+S'Not Informative'
+p7748
+sS'541757862838427650'
+p7749
+S'Not Informative'
+p7750
+sS'541650312147132416'
+p7751
+S'Not Informative'
+p7752
+sS'541516842464837632'
+p7753
+S'Not Informative'
+p7754
+sS'541335619280965633'
+p7755
+S'Other Relevant Information'
+p7756
+sS'541297441379999745'
+p7757
+S'Not Informative'
+p7758
+sS'541537997577912320'
+p7759
+S'Not Informative'
+p7760
+sS'541819567165538304'
+p7761
+S'Not Informative'
+p7762
+sS'541593252550287360'
+p7763
+S'Not Informative'
+p7764
+sS'541160452429213696'
+p7765
+S'Other Relevant Information'
+p7766
+sS'541487019487023104'
+p7767
+S'Requests for Help/Needs'
+p7768
+sS'541589868435238913'
+p7769
+S'Not Informative'
+p7770
+sS'541516396744548352'
+p7771
+S'Not Informative'
+p7772
+sS'541556928833282049'
+p7773
+S'Not Informative'
+p7774
+sS'541457024186609664'
+p7775
+S'Not Informative'
+p7776
+sS'541465869826551808'
+p7777
+S'Not Informative'
+p7778
+sS'541461671475027968'
+p7779
+S'Not Informative'
+p7780
+sS'541898541069656064'
+p7781
+S'Not Informative'
+p7782
+sS'541877384501133312'
+p7783
+S'Not Informative'
+p7784
+sS'542239344036048897'
+p7785
+S'Not Informative'
+p7786
+sS'541952371312447488'
+p7787
+S'Not Informative'
+p7788
+sS'541483111674957826'
+p7789
+S'Not Informative'
+p7790
+sS'541249895735119873'
+p7791
+S'Not Informative'
+p7792
+sS'542114074310361088'
+p7793
+S'Not Informative'
+p7794
+sS'541830984140718081'
+p7795
+S'Not Informative'
+p7796
+sS'541473016115646464'
+p7797
+S'Other Relevant Information'
+p7798
+sS'542462465364086784'
+p7799
+S'Not Informative'
+p7800
+sS'541933772547956736'
+p7801
+S'Not Informative'
+p7802
+sS'542029026777255936'
+p7803
+S'Not Informative'
+p7804
+sS'541519571597795329'
+p7805
+S'Not Informative'
+p7806
+sS'541739226815938560'
+p7807
+S'Not Informative'
+p7808
+sS'541513638214107136'
+p7809
+S'Not Informative'
+p7810
+sS'541816928055345152'
+p7811
+S'Not Informative'
+p7812
+sS'541574842689290241'
+p7813
+S'Not Informative'
+p7814
+sS'541977051247284224'
+p7815
+S'Not Informative'
+p7816
+sS'541920446573076480'
+p7817
+S'Not Informative'
+p7818
+sS'542031395288150016'
+p7819
+S'Not Informative'
+p7820
+sS'541960037690650624'
+p7821
+S'Not Informative'
+p7822
+sS'542173795046273024'
+p7823
+S'Humanitarian Aid Provided'
+p7824
+sS'541797215333658624'
+p7825
+S'Not Informative'
+p7826
+sS'541619165140754433'
+p7827
+S'Not Informative'
+p7828
+sS'541366339898580992'
+p7829
+S'Not Informative'
+p7830
+sS'542032095359406080'
+p7831
+S'Other Relevant Information'
+p7832
+sS'542238244344045568'
+p7833
+S'Humanitarian Aid Provided'
+p7834
+sS'541988618861305857'
+p7835
+S'Not Informative'
+p7836
+sS'541401920406298624'
+p7837
+S'Not Informative'
+p7838
+sS'542134665897717760'
+p7839
+S'Not Informative'
+p7840
+sS'542171437717397504'
+p7841
+S'Not Informative'
+p7842
+sS'541515769553498112'
+p7843
+S'Infrastructure Damage'
+p7844
+sS'541624678193037312'
+p7845
+S'Not Informative'
+p7846
+sS'541541739937288193'
+p7847
+S'Not Informative'
+p7848
+sS'541667180585447425'
+p7849
+S'Not Informative'
+p7850
+sS'541988087854022656'
+p7851
+S'Not Informative'
+p7852
+sS'541832854779334657'
+p7853
+S'Not Informative'
+p7854
+sS'542217561321250816'
+p7855
+S'Not Informative'
+p7856
+sS'541857953700397056'
+p7857
+S'Not Informative'
+p7858
+sS'541794930897608705'
+p7859
+S'Not Informative'
+p7860
+sS'541266875146321920'
+p7861
+S'Other Relevant Information'
+p7862
+sS'542041489069453312'
+p7863
+S'Not Informative'
+p7864
+sS'541439967302385666'
+p7865
+S'Not Informative'
+p7866
+sS'541950676486475777'
+p7867
+S'Not Informative'
+p7868
+sS'541937998817148928'
+p7869
+S'Not Informative'
+p7870
+sS'542136770025259009'
+p7871
+S'Infrastructure Damage'
+p7872
+sS'541828651445010432'
+p7873
+S'Not Informative'
+p7874
+sS'542396337119956993'
+p7875
+S'Other Relevant Information'
+p7876
+sS'541816575200743424'
+p7877
+S'Not Informative'
+p7878
+sS'542414932889706496'
+p7879
+S'Not Informative'
+p7880
+sS'541453358192545793'
+p7881
+S'Not Informative'
+p7882
+sS'541960000709464064'
+p7883
+S'Not Informative'
+p7884
+sS'541442331690278913'
+p7885
+S'Not Informative'
+p7886
+sS'541576166021144576'
+p7887
+S'Not Informative'
+p7888
+sS'541970277714776065'
+p7889
+S'Other Relevant Information'
+p7890
+sS'541167476625530880'
+p7891
+S'Not Informative'
+p7892
+sS'541535609484226560'
+p7893
+S'Not Informative'
+p7894
+sS'541854299697864706'
+p7895
+S'Not Informative'
+p7896
+sS'541752257767694336'
+p7897
+S'Not Informative'
+p7898
+sS'541661301764665344'
+p7899
+S'Not Informative'
+p7900
+sS'541148360699576320'
+p7901
+S'Other Relevant Information'
+p7902
+sS'541792933427822593'
+p7903
+S'Other Relevant Information'
+p7904
+sS'541527939561439232'
+p7905
+S'Other Relevant Information'
+p7906
+sS'541768668271501312'
+p7907
+S'Not Informative'
+p7908
+sS'541160754414497792'
+p7909
+S'Other Relevant Information'
+p7910
+sS'542154860397727745'
+p7911
+S'Other Relevant Information'
+p7912
+sS'541480633491410944'
+p7913
+S'Infrastructure Damage'
+p7914
+sS'541805459967967233'
+p7915
+S'Not Informative'
+p7916
+sS'541763490533224448'
+p7917
+S'Not Informative'
+p7918
+sS'541737741185073153'
+p7919
+S'Not Informative'
+p7920
+sS'541459848852811776'
+p7921
+S'Not Informative'
+p7922
+sS'541415815027765249'
+p7923
+S'Infrastructure Damage'
+p7924
+sS'541482041083445248'
+p7925
+S'Other Relevant Information'
+p7926
+sS'541960116119953410'
+p7927
+S'Not Informative'
+p7928
+sS'541521177408049153'
+p7929
+S'Not Informative'
+p7930
+sS'542414663443431425'
+p7931
+S'Other Relevant Information'
+p7932
+sS'541531475087081472'
+p7933
+S'Not Informative'
+p7934
+sS'541518062520762368'
+p7935
+S'Not Informative'
+p7936
+sS'541899132060057600'
+p7937
+S'Not Informative'
+p7938
+sS'541530302212878336'
+p7939
+S'Other Relevant Information'
+p7940
+sS'541764422898024448'
+p7941
+S'Not Informative'
+p7942
+sS'541902231302602752'
+p7943
+S'Not Informative'
+p7944
+sS'541948997905428482'
+p7945
+S'Not Informative'
+p7946
+sS'541451516310085632'
+p7947
+S'Not Informative'
+p7948
+sS'542347731378122753'
+p7949
+S'Not Informative'
+p7950
+sS'541485228213407744'
+p7951
+S'Not Informative'
+p7952
+sS'541557094760333313'
+p7953
+S'Not Informative'
+p7954
+sS'541154375104602112'
+p7955
+S'Other Relevant Information'
+p7956
+sS'541380816509476864'
+p7957
+S'Other Relevant Information'
+p7958
+sS'541609516559650817'
+p7959
+S'Not Informative'
+p7960
+sS'542005557301747712'
+p7961
+S'Other Relevant Information'
+p7962
+sS'542390581331116032'
+p7963
+S'Other Relevant Information'
+p7964
+sS'541548289208762369'
+p7965
+S'Not Informative'
+p7966
+sS'541361274291249152'
+p7967
+S'Not Informative'
+p7968
+sS'541977079206932480'
+p7969
+S'Not Informative'
+p7970
+sS'541550673548963840'
+p7971
+S'Not Informative'
+p7972
+sS'541780476646522881'
+p7973
+S'Not Informative'
+p7974
+sS'541864902328352768'
+p7975
+S'Not Informative'
+p7976
+sS'541377154379182080'
+p7977
+S'Not Informative'
+p7978
+sS'541712272176185344'
+p7979
+S'Not Informative'
+p7980
+sS'541364658742231040'
+p7981
+S'Other Relevant Information'
+p7982
+sS'542267021572861952'
+p7983
+S'Not Informative'
+p7984
+sS'542417825847992322'
+p7985
+S'Not Informative'
+p7986
+sS'541923238620975104'
+p7987
+S'Not Informative'
+p7988
+sS'541442718631997440'
+p7989
+S'Not Informative'
+p7990
+sS'541585138740518912'
+p7991
+S'Not Informative'
+p7992
+sS'541177230404386816'
+p7993
+S'Humanitarian Aid Provided'
+p7994
+sS'541961662258221056'
+p7995
+S'Not Informative'
+p7996
+sS'542200785497382912'
+p7997
+S'Other Relevant Information'
+p7998
+sS'541720087611572224'
+p7999
+S'Infrastructure Damage'
+p8000
+sS'541376059489669120'
+p8001
+S'Other Relevant Information'
+p8002
+sS'541842639830544385'
+p8003
+S'Not Informative'
+p8004
+sS'542270199521484801'
+p8005
+S'Not Informative'
+p8006
+sS'541779431946080256'
+p8007
+S'Not Informative'
+p8008
+sS'541444854710956032'
+p8009
+S'Not Informative'
+p8010
+sS'542177994664464384'
+p8011
+S'Not Informative'
+p8012
+sS'541962686955667457'
+p8013
+S'Not Informative'
+p8014
+sS'541766299966521344'
+p8015
+S'Not Informative'
+p8016
+sS'541531282711134209'
+p8017
+S'Not Informative'
+p8018
+sS'541793961514254337'
+p8019
+S'Not Informative'
+p8020
+sS'541266980234616832'
+p8021
+S'Not Informative'
+p8022
+sS'541463239646019584'
+p8023
+S'Not Informative'
+p8024
+sS'541288129492033536'
+p8025
+S'Not Informative'
+p8026
+sS'541718088312709120'
+p8027
+S'Not Informative'
+p8028
+sS'541980876574179329'
+p8029
+S'Not Informative'
+p8030
+sS'541940900545302528'
+p8031
+S'Not Informative'
+p8032
+sS'541256576087375872'
+p8033
+S'Other Relevant Information'
+p8034
+sS'541526434477391873'
+p8035
+S'Not Informative'
+p8036
+sS'541499310626455552'
+p8037
+S'Other Relevant Information'
+p8038
+sS'541433186383720449'
+p8039
+S'Other Relevant Information'
+p8040
+sS'541610185236967424'
+p8041
+S'Not Informative'
+p8042
+sS'542271201855303682'
+p8043
+S'Requests for Help/Needs'
+p8044
+sS'541692840120573952'
+p8045
+S'Other Relevant Information'
+p8046
+sS'542224077532848128'
+p8047
+S'Other Relevant Information'
+p8048
+sS'541534141133901825'
+p8049
+S'Other Relevant Information'
+p8050
+sS'542150293568229376'
+p8051
+S'Not Informative'
+p8052
+sS'541669720399687680'
+p8053
+S'Not Informative'
+p8054
+sS'541448043355070466'
+p8055
+S'Not Informative'
+p8056
+sS'542183316342853632'
+p8057
+S'Not Informative'
+p8058
+sS'541489478414516224'
+p8059
+S'Not Informative'
+p8060
+sS'541545183272525824'
+p8061
+S'Not Informative'
+p8062
+sS'541436609757847552'
+p8063
+S'Requests for Help/Needs'
+p8064
+sS'541434531061194752'
+p8065
+S'Not Informative'
+p8066
+sS'541289416757899267'
+p8067
+S'Not Informative'
+p8068
+sS'541892079375638528'
+p8069
+S'Not Informative'
+p8070
+sS'542212476977553409'
+p8071
+S'Other Relevant Information'
+p8072
+sS'541492923150237697'
+p8073
+S'Other Relevant Information'
+p8074
+sS'542277924213522432'
+p8075
+S'Other Relevant Information'
+p8076
+sS'542338556836839424'
+p8077
+S'Other Relevant Information'
+p8078
+sS'541938466922037249'
+p8079
+S'Not Informative'
+p8080
+sS'542168865464414208'
+p8081
+S'Infrastructure Damage'
+p8082
+sS'541868463275261952'
+p8083
+S'Not Informative'
+p8084
+sS'541504293832912896'
+p8085
+S'Not Informative'
+p8086
+sS'541807608186015744'
+p8087
+S'Not Informative'
+p8088
+sS'541602903635406850'
+p8089
+S'Not Informative'
+p8090
+sS'542360305099997184'
+p8091
+S'Not Informative'
+p8092
+sS'542359585151909888'
+p8093
+S'Other Relevant Information'
+p8094
+sS'541742257519329281'
+p8095
+S'Not Informative'
+p8096
+sS'541975712182587393'
+p8097
+S'Not Informative'
+p8098
+sS'542009166618181632'
+p8099
+S'Not Informative'
+p8100
+sS'541692925277503488'
+p8101
+S'Not Informative'
+p8102
+sS'541985523510689792'
+p8103
+S'Not Informative'
+p8104
+sS'541804206969987072'
+p8105
+S'Not Informative'
+p8106
+sS'541965115902676992'
+p8107
+S'Not Informative'
+p8108
+sS'541544640059813889'
+p8109
+S'Other Relevant Information'
+p8110
+sS'541531204772978688'
+p8111
+S'Not Informative'
+p8112
+sS'541368646535507968'
+p8113
+S'Not Informative'
+p8114
+sS'541885826150330368'
+p8115
+S'Not Informative'
+p8116
+sS'541182358615883776'
+p8117
+S'Not Informative'
+p8118
+sS'541585409080184832'
+p8119
+S'Not Informative'
+p8120
+sS'542343403107676160'
+p8121
+S'Not Informative'
+p8122
+sS'541752892706000896'
+p8123
+S'Not Informative'
+p8124
+sS'541847137907003393'
+p8125
+S'Not Informative'
+p8126
+sS'541628814174871554'
+p8127
+S'Not Informative'
+p8128
+sS'542304521162997762'
+p8129
+S'Not Informative'
+p8130
+sS'541517523695718402'
+p8131
+S'Infrastructure Damage'
+p8132
+sS'541851469494767617'
+p8133
+S'Not Informative'
+p8134
+sS'541530896218607616'
+p8135
+S'Not Informative'
+p8136
+sS'541614652925288448'
+p8137
+S'Not Informative'
+p8138
+sS'541969359938543617'
+p8139
+S'Other Relevant Information'
+p8140
+sS'541407125336248321'
+p8141
+S'Not Informative'
+p8142
+sS'541542238530969601'
+p8143
+S'Not Informative'
+p8144
+sS'541269072718336000'
+p8145
+S'Not Informative'
+p8146
+sS'541423083312386048'
+p8147
+S'Not Informative'
+p8148
+sS'541750658311802880'
+p8149
+S'Not Informative'
+p8150
+sS'541610716512657408'
+p8151
+S'Not Informative'
+p8152
+sS'542409664688693248'
+p8153
+S'Not Informative'
+p8154
+sS'541490810504491010'
+p8155
+S'Not Informative'
+p8156
+sS'541499637945745408'
+p8157
+S'Not Informative'
+p8158
+sS'541947689022144513'
+p8159
+S'Not Informative'
+p8160
+sS'542209335267692544'
+p8161
+S'Not Informative'
+p8162
+sS'541469134027239424'
+p8163
+S'Infrastructure Damage'
+p8164
+sS'541569075302764544'
+p8165
+S'Not Informative'
+p8166
+sS'541717045671231490'
+p8167
+S'Not Informative'
+p8168
+sS'541422672844836865'
+p8169
+S'Not Informative'
+p8170
+sS'541518879856807936'
+p8171
+S'Other Relevant Information'
+p8172
+sS'541652311345348608'
+p8173
+S'Not Informative'
+p8174
+sS'541422507027206144'
+p8175
+S'Not Informative'
+p8176
+sS'541513350794862592'
+p8177
+S'Not Informative'
+p8178
+sS'541628507382480897'
+p8179
+S'Not Informative'
+p8180
+sS'542270248993685505'
+p8181
+S'Other Relevant Information'
+p8182
+sS'542331084294610944'
+p8183
+S'Humanitarian Aid Provided'
+p8184
+sS'541853349898100736'
+p8185
+S'Not Informative'
+p8186
+sS'541526285978447872'
+p8187
+S'Other Relevant Information'
+p8188
+sS'541526139744059392'
+p8189
+S'Not Informative'
+p8190
+sS'542041770620514304'
+p8191
+S'Not Informative'
+p8192
+sS'541550750468280321'
+p8193
+S'Not Informative'
+p8194
+sS'541713999998754816'
+p8195
+S'Not Informative'
+p8196
+sS'541433596523712512'
+p8197
+S'Other Relevant Information'
+p8198
+sS'541472627462656000'
+p8199
+S'Not Informative'
+p8200
+sS'541804576392085504'
+p8201
+S'Not Informative'
+p8202
+sS'541341464354361344'
+p8203
+S'Not Informative'
+p8204
+sS'542004256115417088'
+p8205
+S'Not Informative'
+p8206
+sS'542348234702589952'
+p8207
+S'Not Informative'
+p8208
+sS'541598467718541313'
+p8209
+S'Not Informative'
+p8210
+sS'541978878156492801'
+p8211
+S'Not Informative'
+p8212
+sS'541786406121504768'
+p8213
+S'Not Informative'
+p8214
+sS'541750184229613568'
+p8215
+S'Not Informative'
+p8216
+sS'541161238865412097'
+p8217
+S'Other Relevant Information'
+p8218
+sS'541926269722451968'
+p8219
+S'Other Relevant Information'
+p8220
+sS'541737858835300352'
+p8221
+S'Not Informative'
+p8222
+sS'541291903476449280'
+p8223
+S'Other Relevant Information'
+p8224
+sS'542357252385288193'
+p8225
+S'Infrastructure Damage'
+p8226
+sS'541824890886565888'
+p8227
+S'Not Informative'
+p8228
+sS'541603766936813568'
+p8229
+S'Not Informative'
+p8230
+sS'541834747979505664'
+p8231
+S'Not Informative'
+p8232
+sS'542006792956301315'
+p8233
+S'Not Informative'
+p8234
+sS'541351431333085185'
+p8235
+S'Other Relevant Information'
+p8236
+sS'541379192936759297'
+p8237
+S'Not Informative'
+p8238
+sS'541955939511697408'
+p8239
+S'Not Informative'
+p8240
+sS'541702946304442368'
+p8241
+S'Not Informative'
+p8242
+sS'541597624131129344'
+p8243
+S'Humanitarian Aid Provided'
+p8244
+sS'542424191631253504'
+p8245
+S'Not Informative'
+p8246
+sS'541965492609880064'
+p8247
+S'Other Relevant Information'
+p8248
+sS'542193569528700928'
+p8249
+S'Other Relevant Information'
+p8250
+sS'541721419378225152'
+p8251
+S'Other Relevant Information'
+p8252
+sS'542116043636740097'
+p8253
+S'Requests for Help/Needs'
+p8254
+sS'541326024978350080'
+p8255
+S'Other Relevant Information'
+p8256
+sS'541769412823367680'
+p8257
+S'Not Informative'
+p8258
+sS'542279268227502081'
+p8259
+S'Requests for Help/Needs'
+p8260
+sS'542019137707331584'
+p8261
+S'Not Informative'
+p8262
+sS'541706278343413760'
+p8263
+S'Not Informative'
+p8264
+sS'541531912393994241'
+p8265
+S'Not Informative'
+p8266
+sS'542441542607052800'
+p8267
+S'Not Informative'
+p8268
+sS'541355744952467456'
+p8269
+S'Other Relevant Information'
+p8270
+sS'542230195671797760'
+p8271
+S'Other Relevant Information'
+p8272
+sS'542395850568105984'
+p8273
+S'Other Relevant Information'
+p8274
+sS'541759114934624256'
+p8275
+S'Not Informative'
+p8276
+sS'541550809524084737'
+p8277
+S'Infrastructure Damage'
+p8278
+sS'541147705402085376'
+p8279
+S'Other Relevant Information'
+p8280
+sS'541484850059161602'
+p8281
+S'Other Relevant Information'
+p8282
+sS'541149706647502848'
+p8283
+S'Not Informative'
+p8284
+sS'541552736924618752'
+p8285
+S'Not Informative'
+p8286
+sS'541872593889148928'
+p8287
+S'Not Informative'
+p8288
+sS'541155558602985472'
+p8289
+S'Other Relevant Information'
+p8290
+sS'541800450534936578'
+p8291
+S'Not Informative'
+p8292
+sS'541735497551187968'
+p8293
+S'Not Informative'
+p8294
+sS'542455660445569024'
+p8295
+S'Other Relevant Information'
+p8296
+sS'542302311595253760'
+p8297
+S'Not Informative'
+p8298
+sS'541414860328665088'
+p8299
+S'Other Relevant Information'
+p8300
+sS'541848043155251201'
+p8301
+S'Other Relevant Information'
+p8302
+sS'541606544907849728'
+p8303
+S'Infrastructure Damage'
+p8304
+sS'541923056185118720'
+p8305
+S'Humanitarian Aid Provided'
+p8306
+sS'541955176307777537'
+p8307
+S'Not Informative'
+p8308
+sS'541479737281900544'
+p8309
+S'Not Informative'
+p8310
+sS'542315136120131584'
+p8311
+S'Not Informative'
+p8312
+sS'542344884800086017'
+p8313
+S'Not Informative'
+p8314
+sS'541279003911286785'
+p8315
+S'Humanitarian Aid Provided'
+p8316
+sS'541942101244522496'
+p8317
+S'Not Informative'
+p8318
+sS'542256842899197953'
+p8319
+S'Other Relevant Information'
+p8320
+sS'541540421764009984'
+p8321
+S'Not Informative'
+p8322
+sS'541361452460695553'
+p8323
+S'Not Informative'
+p8324
+sS'542351755120361472'
+p8325
+S'Other Relevant Information'
+p8326
+sS'541746599802576896'
+p8327
+S'Not Informative'
+p8328
+sS'541916430581506048'
+p8329
+S'Not Informative'
+p8330
+sS'541883335107035136'
+p8331
+S'Not Informative'
+p8332
+sS'541455041031589888'
+p8333
+S'Not Informative'
+p8334
+sS'541556980863610880'
+p8335
+S'Other Relevant Information'
+p8336
+sS'541287469811904512'
+p8337
+S'Not Informative'
+p8338
+sS'541622872712957952'
+p8339
+S'Not Informative'
+p8340
+sS'541978649981747200'
+p8341
+S'Not Informative'
+p8342
+sS'542290071626342401'
+p8343
+S'Not Informative'
+p8344
+sS'542303022211035136'
+p8345
+S'Other Relevant Information'
+p8346
+sS'541459437202862081'
+p8347
+S'Not Informative'
+p8348
+sS'541756423500079105'
+p8349
+S'Not Informative'
+p8350
+sS'541415962646282240'
+p8351
+S'Other Relevant Information'
+p8352
+sS'541596641061376000'
+p8353
+S'Not Informative'
+p8354
+sS'541846581549359106'
+p8355
+S'Not Informative'
+p8356
+sS'541396070149152768'
+p8357
+S'Other Relevant Information'
+p8358
+sS'541954029274660865'
+p8359
+S'Not Informative'
+p8360
+sS'541987590556352512'
+p8361
+S'Not Informative'
+p8362
+sS'541441357609324544'
+p8363
+S'Other Relevant Information'
+p8364
+sS'541161039685898240'
+p8365
+S'Not Informative'
+p8366
+sS'541985133163606016'
+p8367
+S'Other Relevant Information'
+p8368
+sS'541574912188874752'
+p8369
+S'Not Informative'
+p8370
+sS'541928459572748290'
+p8371
+S'Not Informative'
+p8372
+sS'542452959376732160'
+p8373
+S'Not Informative'
+p8374
+sS'541224143526830081'
+p8375
+S'Humanitarian Aid Provided'
+p8376
+sS'541383680430575616'
+p8377
+S'Not Informative'
+p8378
+sS'541972489065082880'
+p8379
+S'Not Informative'
+p8380
+sS'542247941915017216'
+p8381
+S'Not Informative'
+p8382
+sS'541843682542903296'
+p8383
+S'Not Informative'
+p8384
+sS'541555134774255617'
+p8385
+S'Other Relevant Information'
+p8386
+sS'541423851385524224'
+p8387
+S'Not Informative'
+p8388
+sS'541614021196005376'
+p8389
+S'Not Informative'
+p8390
+sS'541959541651681281'
+p8391
+S'Not Informative'
+p8392
+sS'542262692400996352'
+p8393
+S'Other Relevant Information'
+p8394
+sS'541430695269126144'
+p8395
+S'Other Relevant Information'
+p8396
+sS'542021874147160064'
+p8397
+S'Not Informative'
+p8398
+sS'541456859618504704'
+p8399
+S'Not Informative'
+p8400
+sS'541477520084721664'
+p8401
+S'Not Informative'
+p8402
+sS'541943060049842179'
+p8403
+S'Other Relevant Information'
+p8404
+sS'542028080550649856'
+p8405
+S'Not Informative'
+p8406
+sS'541693633573842944'
+p8407
+S'Not Informative'
+p8408
+sS'541989164397236224'
+p8409
+S'Not Informative'
+p8410
+sS'541880417826406400'
+p8411
+S'Not Informative'
+p8412
+sS'541585004716126208'
+p8413
+S'Not Informative'
+p8414
+sS'541550068772667392'
+p8415
+S'Not Informative'
+p8416
+sS'541314198848823296'
+p8417
+S'Not Informative'
+p8418
+sS'541448680298274816'
+p8419
+S'Other Relevant Information'
+p8420
+sS'541460595690582017'
+p8421
+S'Not Informative'
+p8422
+sS'541746086130360320'
+p8423
+S'Not Informative'
+p8424
+sS'541944179673161730'
+p8425
+S'Not Informative'
+p8426
+sS'541622742681137152'
+p8427
+S'Other Relevant Information'
+p8428
+sS'541633712061181952'
+p8429
+S'Not Informative'
+p8430
+sS'542310980202409985'
+p8431
+S'Not Informative'
+p8432
+sS'542044648730939393'
+p8433
+S'Requests for Help/Needs'
+p8434
+sS'541156425914122240'
+p8435
+S'Not Informative'
+p8436
+sS'541829386656153600'
+p8437
+S'Not Informative'
+p8438
+sS'541319535161511936'
+p8439
+S'Other Relevant Information'
+p8440
+sS'541891259020103680'
+p8441
+S'Other Relevant Information'
+p8442
+sS'541459276883963906'
+p8443
+S'Not Informative'
+p8444
+sS'542289170677657600'
+p8445
+S'Not Informative'
+p8446
+sS'542323175212601344'
+p8447
+S'Not Informative'
+p8448
+sS'541723333122088961'
+p8449
+S'Not Informative'
+p8450
+sS'541845153548206080'
+p8451
+S'Not Informative'
+p8452
+sS'541462676207976448'
+p8453
+S'Not Informative'
+p8454
+sS'541298484372975616'
+p8455
+S'Other Relevant Information'
+p8456
+sS'541583735066353664'
+p8457
+S'Not Informative'
+p8458
+sS'541266697663963136'
+p8459
+S'Not Informative'
+p8460
+sS'541792884325122049'
+p8461
+S'Not Informative'
+p8462
+sS'541436963455504384'
+p8463
+S'Not Informative'
+p8464
+sS'541936676621127680'
+p8465
+S'Not Informative'
+p8466
+sS'541856287865446400'
+p8467
+S'Not Informative'
+p8468
+sS'541442463479521280'
+p8469
+S'Not Informative'
+p8470
+sS'541580295208566784'
+p8471
+S'Not Informative'
+p8472
+sS'542322181091631104'
+p8473
+S'Other Relevant Information'
+p8474
+sS'541423074143637504'
+p8475
+S'Not Informative'
+p8476
+sS'541823585971490816'
+p8477
+S'Not Informative'
+p8478
+sS'541587069856788480'
+p8479
+S'Not Informative'
+p8480
+sS'541424587414585344'
+p8481
+S'Other Relevant Information'
+p8482
+sS'542265191082512384'
+p8483
+S'Other Relevant Information'
+p8484
+sS'542183804576604160'
+p8485
+S'Not Informative'
+p8486
+sS'541616188233891840'
+p8487
+S'Infrastructure Damage'
+p8488
+sS'541405837340975105'
+p8489
+S'Not Informative'
+p8490
+sS'541482690701062145'
+p8491
+S'Infrastructure Damage'
+p8492
+sS'541456733453815808'
+p8493
+S'Not Informative'
+p8494
+sS'541990557086519296'
+p8495
+S'Not Informative'
+p8496
+sS'541298402181783552'
+p8497
+S'Not Informative'
+p8498
+sS'542226435336052737'
+p8499
+S'Not Informative'
+p8500
+sS'542041732456927232'
+p8501
+S'Not Informative'
+p8502
+sS'541810373876142080'
+p8503
+S'Not Informative'
+p8504
+sS'541617733960351744'
+p8505
+S'Not Informative'
+p8506
+sS'541151773910904832'
+p8507
+S'Other Relevant Information'
+p8508
+sS'541459586537238529'
+p8509
+S'Not Informative'
+p8510
+sS'541533168428277761'
+p8511
+S'Not Informative'
+p8512
+sS'541395296958177280'
+p8513
+S'Not Informative'
+p8514
+sS'541870601472712704'
+p8515
+S'Not Informative'
+p8516
+sS'541367609682186240'
+p8517
+S'Not Informative'
+p8518
+sS'542371302825144321'
+p8519
+S'Humanitarian Aid Provided'
+p8520
+sS'542032869451780096'
+p8521
+S'Not Informative'
+p8522
+sS'542416011127824384'
+p8523
+S'Humanitarian Aid Provided'
+p8524
+sS'542214195849068544'
+p8525
+S'Other Relevant Information'
+p8526
+sS'542239276528709633'
+p8527
+S'Not Informative'
+p8528
+sS'541466546065793024'
+p8529
+S'Other Relevant Information'
+p8530
+sS'542035949912608769'
+p8531
+S'Not Informative'
+p8532
+sS'541701161838215168'
+p8533
+S'Not Informative'
+p8534
+sS'542237087580160000'
+p8535
+S'Other Relevant Information'
+p8536
+sS'541754230806040576'
+p8537
+S'Not Informative'
+p8538
+sS'541609216750784513'
+p8539
+S'Not Informative'
+p8540
+sS'541754411819626496'
+p8541
+S'Not Informative'
+p8542
+sS'541431499120074752'
+p8543
+S'Other Relevant Information'
+p8544
+sS'541687436871340033'
+p8545
+S'Not Informative'
+p8546
+sS'541515150126104576'
+p8547
+S'Other Relevant Information'
+p8548
+sS'541730116275949569'
+p8549
+S'Not Informative'
+p8550
+sS'541274366692954115'
+p8551
+S'Not Informative'
+p8552
+sS'541612655580958720'
+p8553
+S'Not Informative'
+p8554
+sS'541581215489196033'
+p8555
+S'Not Informative'
+p8556
+sS'541969999007453185'
+p8557
+S'Not Informative'
+p8558
+sS'541304388183007233'
+p8559
+S'Not Informative'
+p8560
+sS'541587698612727808'
+p8561
+S'Not Informative'
+p8562
+sS'541579229859561474'
+p8563
+S'Other Relevant Information'
+p8564
+sS'541143398929813504'
+p8565
+S'Other Relevant Information'
+p8566
+sS'542262992218247169'
+p8567
+S'Requests for Help/Needs'
+p8568
+sS'541790723503181825'
+p8569
+S'Not Informative'
+p8570
+sS'541978331755716609'
+p8571
+S'Not Informative'
+p8572
+sS'541627140559486976'
+p8573
+S'Infrastructure Damage'
+p8574
+sS'541453450240737280'
+p8575
+S'Other Relevant Information'
+p8576
+sS'541366799996952576'
+p8577
+S'Not Informative'
+p8578
+sS'542188266531745792'
+p8579
+S'Not Informative'
+p8580
+sS'541605243868688385'
+p8581
+S'Humanitarian Aid Provided'
+p8582
+sS'541897091111321600'
+p8583
+S'Not Informative'
+p8584
+sS'541465869260320768'
+p8585
+S'Not Informative'
+p8586
+sS'541415572181762048'
+p8587
+S'Not Informative'
+p8588
+sS'541756462385467392'
+p8589
+S'Not Informative'
+p8590
+sS'541515985820205057'
+p8591
+S'Not Informative'
+p8592
+sS'541362306970443776'
+p8593
+S'Other Relevant Information'
+p8594
+sS'541588100690874368'
+p8595
+S'Not Informative'
+p8596
+sS'541639427894673408'
+p8597
+S'Not Informative'
+p8598
+sS'541379266139537408'
+p8599
+S'Not Informative'
+p8600
+sS'541582140308066304'
+p8601
+S'Not Informative'
+p8602
+sS'541462647279865860'
+p8603
+S'Not Informative'
+p8604
+sS'541263319643213825'
+p8605
+S'Humanitarian Aid Provided'
+p8606
+sS'541500038934175744'
+p8607
+S'Not Informative'
+p8608
+sS'541493607618719744'
+p8609
+S'Humanitarian Aid Provided'
+p8610
+sS'542163512470953986'
+p8611
+S'Not Informative'
+p8612
+sS'541743876692643840'
+p8613
+S'Not Informative'
+p8614
+sS'542258639256309760'
+p8615
+S'Not Informative'
+p8616
+sS'541955145152462848'
+p8617
+S'Other Relevant Information'
+p8618
+sS'541472199081992193'
+p8619
+S'Other Relevant Information'
+p8620
+sS'541504772293931008'
+p8621
+S'Other Relevant Information'
+p8622
+sS'542163011184910337'
+p8623
+S'Not Informative'
+p8624
+sS'541750005753593856'
+p8625
+S'Not Informative'
+p8626
+sS'541516109602906113'
+p8627
+S'Not Informative'
+p8628
+sS'541939460431028224'
+p8629
+S'Not Informative'
+p8630
+sS'541261571171684352'
+p8631
+S'Not Informative'
+p8632
+sS'541445758893826048'
+p8633
+S'Not Informative'
+p8634
+sS'541468918788149248'
+p8635
+S'Not Informative'
+p8636
+sS'542288206029664257'
+p8637
+S'Not Informative'
+p8638
+sS'541986321750048769'
+p8639
+S'Not Informative'
+p8640
+sS'542193078866423808'
+p8641
+S'Not Informative'
+p8642
+sS'542297643859197952'
+p8643
+S'Other Relevant Information'
+p8644
+sS'542168316778147842'
+p8645
+S'Not Informative'
+p8646
+sS'541973860082384896'
+p8647
+S'Not Informative'
+p8648
+sS'542023782236307456'
+p8649
+S'Not Informative'
+p8650
+sS'541589054962159616'
+p8651
+S'Other Relevant Information'
+p8652
+sS'541641341252677632'
+p8653
+S'Not Informative'
+p8654
+sS'541635053122379777'
+p8655
+S'Not Informative'
+p8656
+sS'541612306384572416'
+p8657
+S'Not Informative'
+p8658
+sS'541829245182304257'
+p8659
+S'Not Informative'
+p8660
+sS'541901415321329664'
+p8661
+S'Other Relevant Information'
+p8662
+sS'542017498514587648'
+p8663
+S'Not Informative'
+p8664
+sS'541267854469763072'
+p8665
+S'Not Informative'
+p8666
+sS'541413246553423872'
+p8667
+S'Not Informative'
+p8668
+sS'541419319159037952'
+p8669
+S'Not Informative'
+p8670
+sS'541963123003891712'
+p8671
+S'Not Informative'
+p8672
+sS'541670290523054081'
+p8673
+S'Not Informative'
+p8674
+sS'542340426288869376'
+p8675
+S'Not Informative'
+p8676
+sS'541614453758767104'
+p8677
+S'Other Relevant Information'
+p8678
+sS'541472868576821248'
+p8679
+S'Other Relevant Information'
+p8680
+sS'541846599891447808'
+p8681
+S'Not Informative'
+p8682
+sS'542285054215323649'
+p8683
+S'Not Informative'
+p8684
+sS'541153519274045440'
+p8685
+S'Other Relevant Information'
+p8686
+sS'541368971191009281'
+p8687
+S'Other Relevant Information'
+p8688
+sS'542288080808714240'
+p8689
+S'Not Informative'
+p8690
+sS'541827414385762304'
+p8691
+S'Not Informative'
+p8692
+sS'541819758640128000'
+p8693
+S'Not Informative'
+p8694
+sS'541725858029780992'
+p8695
+S'Other Relevant Information'
+p8696
+sS'542215157309374465'
+p8697
+S'Not Informative'
+p8698
+sS'541153696084553731'
+p8699
+S'Other Relevant Information'
+p8700
+sS'541319708088098816'
+p8701
+S'Other Relevant Information'
+p8702
+sS'541997518960066560'
+p8703
+S'Not Informative'
+p8704
+sS'541144538359005184'
+p8705
+S'Other Relevant Information'
+p8706
+sS'541713144024801280'
+p8707
+S'Infrastructure Damage'
+p8708
+sS'541476062186582017'
+p8709
+S'Not Informative'
+p8710
+sS'541727038013321216'
+p8711
+S'Not Informative'
+p8712
+sS'541999760928829441'
+p8713
+S'Not Informative'
+p8714
+sS'542268462899691520'
+p8715
+S'Other Relevant Information'
+p8716
+sS'541942009489932288'
+p8717
+S'Not Informative'
+p8718
+sS'541277324902027264'
+p8719
+S'Other Relevant Information'
+p8720
+sS'541408553194364930'
+p8721
+S'Not Informative'
+p8722
+sS'541979385624944640'
+p8723
+S'Other Relevant Information'
+p8724
+sS'541882450742218752'
+p8725
+S'Not Informative'
+p8726
+sS'541900757197262848'
+p8727
+S'Not Informative'
+p8728
+sS'541970652555517952'
+p8729
+S'Not Informative'
+p8730
+sS'541147590390059009'
+p8731
+S'Other Relevant Information'
+p8732
+sS'541850125908594688'
+p8733
+S'Not Informative'
+p8734
+sS'541690642712121345'
+p8735
+S'Not Informative'
+p8736
+sS'541848056761548800'
+p8737
+S'Not Informative'
+p8738
+sS'541888130748805120'
+p8739
+S'Not Informative'
+p8740
+sS'541559310380068864'
+p8741
+S'Not Informative'
+p8742
+sS'541899149541531648'
+p8743
+S'Not Informative'
+p8744
+sS'542148017311084544'
+p8745
+S'Not Informative'
+p8746
+sS'541439224986075136'
+p8747
+S'Not Informative'
+p8748
+sS'541947597892489217'
+p8749
+S'Not Informative'
+p8750
+sS'541549994088480772'
+p8751
+S'Not Informative'
+p8752
+sS'541974805529243648'
+p8753
+S'Not Informative'
+p8754
+sS'541492927428452352'
+p8755
+S'Not Informative'
+p8756
+sS'541540526374137856'
+p8757
+S'Not Informative'
+p8758
+sS'542164625182035968'
+p8759
+S'Not Informative'
+p8760
+sS'541143603301470208'
+p8761
+S'Not Informative'
+p8762
+sS'541546049614397440'
+p8763
+S'Not Informative'
+p8764
+sS'541960174450130944'
+p8765
+S'Not Informative'
+p8766
+sS'541538155212853249'
+p8767
+S'Not Informative'
+p8768
+sS'542307680623558656'
+p8769
+S'Not Informative'
+p8770
+sS'541141199591972865'
+p8771
+S'Not Informative'
+p8772
+sS'541461159673475072'
+p8773
+S'Other Relevant Information'
+p8774
+sS'542354826051338241'
+p8775
+S'Other Relevant Information'
+p8776
+sS'541941190837297152'
+p8777
+S'Not Informative'
+p8778
+sS'541513254279712768'
+p8779
+S'Other Relevant Information'
+p8780
+sS'541948906980921345'
+p8781
+S'Other Relevant Information'
+p8782
+sS'541828192462336000'
+p8783
+S'Not Informative'
+p8784
+sS'541987748786089984'
+p8785
+S'Not Informative'
+p8786
+sS'541483501120266240'
+p8787
+S'Not Informative'
+p8788
+sS'541621667538415616'
+p8789
+S'Not Informative'
+p8790
+sS'542356802424152064'
+p8791
+S'Other Relevant Information'
+p8792
+sS'541590225579802624'
+p8793
+S'Not Informative'
+p8794
+sS'541819524220080128'
+p8795
+S'Not Informative'
+p8796
+sS'541737558531522560'
+p8797
+S'Not Informative'
+p8798
+sS'541638914205700097'
+p8799
+S'Other Relevant Information'
+p8800
+sS'541838018613886976'
+p8801
+S'Not Informative'
+p8802
+sS'541976691740917761'
+p8803
+S'Not Informative'
+p8804
+sS'541841223749623808'
+p8805
+S'Not Informative'
+p8806
+sS'541418457791610880'
+p8807
+S'Not Informative'
+p8808
+sS'541692924925599744'
+p8809
+S'Humanitarian Aid Provided'
+p8810
+sS'541146419453636608'
+p8811
+S'Not Informative'
+p8812
+sS'541880070181109760'
+p8813
+S'Not Informative'
+p8814
+sS'541339791191986176'
+p8815
+S'Not Informative'
+p8816
+sS'541799820311031808'
+p8817
+S'Not Informative'
+p8818
+sS'541327188851568640'
+p8819
+S'Not Informative'
+p8820
+sS'541653273141190657'
+p8821
+S'Not Informative'
+p8822
+sS'541882279027425281'
+p8823
+S'Not Informative'
+p8824
+sS'541505708949114880'
+p8825
+S'Not Informative'
+p8826
+sS'541626539603800066'
+p8827
+S'Not Informative'
+p8828
+sS'541921480431239169'
+p8829
+S'Not Informative'
+p8830
+sS'541275989070729216'
+p8831
+S'Not Informative'
+p8832
+sS'541940632407666688'
+p8833
+S'Not Informative'
+p8834
+sS'541210198422327297'
+p8835
+S'Other Relevant Information'
+p8836
+sS'541886290816282624'
+p8837
+S'Not Informative'
+p8838
+sS'541320540397371392'
+p8839
+S'Other Relevant Information'
+p8840
+sS'541904237467168768'
+p8841
+S'Not Informative'
+p8842
+sS'541845132321247232'
+p8843
+S'Other Relevant Information'
+p8844
+sS'541352406970150912'
+p8845
+S'Other Relevant Information'
+p8846
+sS'541526301212172289'
+p8847
+S'Other Relevant Information'
+p8848
+sS'541955227155300353'
+p8849
+S'Not Informative'
+p8850
+sS'542452764140249090'
+p8851
+S'Other Relevant Information'
+p8852
+sS'541473492164943872'
+p8853
+S'Not Informative'
+p8854
+sS'542397800181694464'
+p8855
+S'Other Relevant Information'
+p8856
+sS'541442101234237441'
+p8857
+S'Not Informative'
+p8858
+sS'541473519431712768'
+p8859
+S'Requests for Help/Needs'
+p8860
+sS'541492134163922944'
+p8861
+S'Not Informative'
+p8862
+sS'541599072948219904'
+p8863
+S'Not Informative'
+p8864
+sS'541476646059270145'
+p8865
+S'Requests for Help/Needs'
+p8866
+sS'541867498941845504'
+p8867
+S'Not Informative'
+p8868
+sS'541910037765947393'
+p8869
+S'Not Informative'
+p8870
+sS'541399403827716096'
+p8871
+S'Other Relevant Information'
+p8872
+sS'541835792167866368'
+p8873
+S'Not Informative'
+p8874
+sS'541955836944207875'
+p8875
+S'Not Informative'
+p8876
+sS'541767775551623168'
+p8877
+S'Not Informative'
+p8878
+sS'541545246358663168'
+p8879
+S'Not Informative'
+p8880
+sS'541997327016153088'
+p8881
+S'Not Informative'
+p8882
+sS'541422965372362752'
+p8883
+S'Not Informative'
+p8884
+sS'542341449883586560'
+p8885
+S'Humanitarian Aid Provided'
+p8886
+sS'542023596563238913'
+p8887
+S'Not Informative'
+p8888
+sS'541273623349055488'
+p8889
+S'Not Informative'
+p8890
+sS'541582797375164416'
+p8891
+S'Not Informative'
+p8892
+sS'541707177061527552'
+p8893
+S'Infrastructure Damage'
+p8894
+sS'542008358127931392'
+p8895
+S'Other Relevant Information'
+p8896
+sS'541608395808460801'
+p8897
+S'Other Relevant Information'
+p8898
+sS'542218570185187328'
+p8899
+S'Other Relevant Information'
+p8900
+sS'541755509368307712'
+p8901
+S'Not Informative'
+p8902
+sS'542143129143365633'
+p8903
+S'Humanitarian Aid Provided'
+p8904
+sS'541828789718638593'
+p8905
+S'Other Relevant Information'
+p8906
+sS'541537646166560769'
+p8907
+S'Not Informative'
+p8908
+sS'541431327426220032'
+p8909
+S'Other Relevant Information'
+p8910
+sS'541987500097830912'
+p8911
+S'Not Informative'
+p8912
+sS'541813500872368128'
+p8913
+S'Not Informative'
+p8914
+sS'542203043240886272'
+p8915
+S'Not Informative'
+p8916
+sS'541384902961156097'
+p8917
+S'Other Relevant Information'
+p8918
+sS'541757113765076992'
+p8919
+S'Not Informative'
+p8920
+sS'542253202788597760'
+p8921
+S'Other Relevant Information'
+p8922
+sS'541716579239481344'
+p8923
+S'Not Informative'
+p8924
+sS'542394794647891968'
+p8925
+S'Infrastructure Damage'
+p8926
+sS'541701877185126400'
+p8927
+S'Not Informative'
+p8928
+sS'541409978515337216'
+p8929
+S'Not Informative'
+p8930
+sS'542245739603054594'
+p8931
+S'Humanitarian Aid Provided'
+p8932
+sS'541377683595091970'
+p8933
+S'Not Informative'
+p8934
+sS'541939522599415809'
+p8935
+S'Not Informative'
+p8936
+sS'541587795899588608'
+p8937
+S'Not Informative'
+p8938
+sS'541489475579576320'
+p8939
+S'Other Relevant Information'
+p8940
+sS'541494655422971904'
+p8941
+S'Not Informative'
+p8942
+sS'542214975343689729'
+p8943
+S'Not Informative'
+p8944
+sS'541551058787389441'
+p8945
+S'Not Informative'
+p8946
+sS'541673464391028736'
+p8947
+S'Not Informative'
+p8948
+sS'541431507802271744'
+p8949
+S'Not Informative'
+p8950
+sS'541485048596156416'
+p8951
+S'Other Relevant Information'
+p8952
+sS'541485147707539456'
+p8953
+S'Not Informative'
+p8954
+sS'541739123401584641'
+p8955
+S'Not Informative'
+p8956
+sS'541463353650991104'
+p8957
+S'Other Relevant Information'
+p8958
+sS'541408074141925377'
+p8959
+S'Infrastructure Damage'
+p8960
+sS'541520022091214849'
+p8961
+S'Other Relevant Information'
+p8962
+sS'542270183977390080'
+p8963
+S'Other Relevant Information'
+p8964
+sS'541370493501046785'
+p8965
+S'Other Relevant Information'
+p8966
+sS'541394027828875265'
+p8967
+S'Not Informative'
+p8968
+sS'541985289330106369'
+p8969
+S'Not Informative'
+p8970
+sS'541705281097322496'
+p8971
+S'Not Informative'
+p8972
+sS'541241337303932928'
+p8973
+S'Not Informative'
+p8974
+sS'541732506291036160'
+p8975
+S'Not Informative'
+p8976
+sS'542044359122644992'
+p8977
+S'Not Informative'
+p8978
+sS'541314334874296320'
+p8979
+S'Not Informative'
+p8980
+sS'542340201742626816'
+p8981
+S'Not Informative'
+p8982
+sS'542129808411721728'
+p8983
+S'Not Informative'
+p8984
+sS'541974171945689088'
+p8985
+S'Not Informative'
+p8986
+sS'542456648426471425'
+p8987
+S'Not Informative'
+p8988
+sS'541758819638837248'
+p8989
+S'Not Informative'
+p8990
+sS'541973480431181824'
+p8991
+S'Not Informative'
+p8992
+sS'541546701614772224'
+p8993
+S'Not Informative'
+p8994
+sS'541756177298624512'
+p8995
+S'Not Informative'
+p8996
+sS'541424839702368256'
+p8997
+S'Other Relevant Information'
+p8998
+sS'541856539154194432'
+p8999
+S'Not Informative'
+p9000
+sS'541949502794379267'
+p9001
+S'Infrastructure Damage'
+p9002
+sS'541605400223551489'
+p9003
+S'Other Relevant Information'
+p9004
+sS'541505682776678400'
+p9005
+S'Not Informative'
+p9006
+sS'541545161352704000'
+p9007
+S'Infrastructure Damage'
+p9008
+sS'541414949625417728'
+p9009
+S'Not Informative'
+p9010
+sS'541660476762230784'
+p9011
+S'Other Relevant Information'
+p9012
+sS'541585113067188224'
+p9013
+S'Not Informative'
+p9014
+sS'541605165892005888'
+p9015
+S'Not Informative'
+p9016
+sS'541551612368404480'
+p9017
+S'Not Informative'
+p9018
+sS'542454440301580290'
+p9019
+S'Not Informative'
+p9020
+sS'541482693444526080'
+p9021
+S'Not Informative'
+p9022
+sS'541599472342425600'
+p9023
+S'Not Informative'
+p9024
+sS'541871146979688449'
+p9025
+S'Not Informative'
+p9026
+sS'541976555337957376'
+p9027
+S'Not Informative'
+p9028
+sS'542318716810436608'
+p9029
+S'Humanitarian Aid Provided'
+p9030
+sS'541602756310487042'
+p9031
+S'Not Informative'
+p9032
+sS'541712148083126272'
+p9033
+S'Other Relevant Information'
+p9034
+sS'541316333301157889'
+p9035
+S'Other Relevant Information'
+p9036
+sS'541474244324909056'
+p9037
+S'Not Informative'
+p9038
+sS'541388045350498304'
+p9039
+S'Other Relevant Information'
+p9040
+sS'541379957860364288'
+p9041
+S'Not Informative'
+p9042
+sS'541690140444606464'
+p9043
+S'Not Informative'
+p9044
+sS'541720912945364992'
+p9045
+S'Not Informative'
+p9046
+sS'541967272042971136'
+p9047
+S'Other Relevant Information'
+p9048
+sS'541843054999531520'
+p9049
+S'Not Informative'
+p9050
+sS'541381596541374464'
+p9051
+S'Not Informative'
+p9052
+sS'541625062638747648'
+p9053
+S'Not Informative'
+p9054
+sS'541456634841944064'
+p9055
+S'Other Relevant Information'
+p9056
+sS'541804217418383360'
+p9057
+S'Other Relevant Information'
+p9058
+sS'541514996639756288'
+p9059
+S'Not Informative'
+p9060
+sS'541505611922690049'
+p9061
+S'Not Informative'
+p9062
+sS'541169119643455488'
+p9063
+S'Other Relevant Information'
+p9064
+sS'541871776897052672'
+p9065
+S'Not Informative'
+p9066
+sS'541994529549602816'
+p9067
+S'Not Informative'
+p9068
+sS'541762372017213440'
+p9069
+S'Not Informative'
+p9070
+sS'541673830066819072'
+p9071
+S'Not Informative'
+p9072
+sS'541977916465504256'
+p9073
+S'Not Informative'
+p9074
+sS'541440380676222977'
+p9075
+S'Infrastructure Damage'
+p9076
+sS'542018432158273537'
+p9077
+S'Not Informative'
+p9078
+sS'541437528872873984'
+p9079
+S'Other Relevant Information'
+p9080
+sS'541493434712748032'
+p9081
+S'Other Relevant Information'
+p9082
+sS'541434094278557696'
+p9083
+S'Not Informative'
+p9084
+sS'541555735901908993'
+p9085
+S'Humanitarian Aid Provided'
+p9086
+sS'541921228370345984'
+p9087
+S'Not Informative'
+p9088
+sS'541688873319813120'
+p9089
+S'Not Informative'
+p9090
+sS'542205709845135360'
+p9091
+S'Not Informative'
+p9092
+sS'541621586290565120'
+p9093
+S'Not Informative'
+p9094
+sS'542207312061284352'
+p9095
+S'Other Relevant Information'
+p9096
+sS'541809377028497408'
+p9097
+S'Not Informative'
+p9098
+sS'541719242551218176'
+p9099
+S'Not Informative'
+p9100
+sS'542188287449116672'
+p9101
+S'Not Informative'
+p9102
+sS'541427347824840704'
+p9103
+S'Not Informative'
+p9104
+sS'542038700171857921'
+p9105
+S'Not Informative'
+p9106
+sS'541614153748606976'
+p9107
+S'Not Informative'
+p9108
+sS'541755036850614273'
+p9109
+S'Not Informative'
+p9110
+sS'542212481783832576'
+p9111
+S'Not Informative'
+p9112
+sS'541616250372513792'
+p9113
+S'Not Informative'
+p9114
+sS'542019340610969600'
+p9115
+S'Not Informative'
+p9116
+sS'541529914864721920'
+p9117
+S'Not Informative'
+p9118
+sS'542008222958108674'
+p9119
+S'Not Informative'
+p9120
+sS'541509442856947712'
+p9121
+S'Humanitarian Aid Provided'
+p9122
+sS'541571436351995904'
+p9123
+S'Not Informative'
+p9124
+sS'541454668291776512'
+p9125
+S'Humanitarian Aid Provided'
+p9126
+sS'541438992797818880'
+p9127
+S'Other Relevant Information'
+p9128
+sS'541497538483068929'
+p9129
+S'Not Informative'
+p9130
+sS'541502738039726080'
+p9131
+S'Other Relevant Information'
+p9132
+sS'541713198140096513'
+p9133
+S'Other Relevant Information'
+p9134
+sS'541427253238706178'
+p9135
+S'Not Informative'
+p9136
+sS'541324522662936576'
+p9137
+S'Not Informative'
+p9138
+sS'541502135263715328'
+p9139
+S'Other Relevant Information'
+p9140
+sS'541821838729678849'
+p9141
+S'Not Informative'
+p9142
+sS'541938153758920704'
+p9143
+S'Other Relevant Information'
+p9144
+sS'541748824264699904'
+p9145
+S'Not Informative'
+p9146
+sS'541912664771788803'
+p9147
+S'Not Informative'
+p9148
+sS'541509921640951810'
+p9149
+S'Not Informative'
+p9150
+sS'542163919331000321'
+p9151
+S'Not Informative'
+p9152
+sS'541713895405010944'
+p9153
+S'Other Relevant Information'
+p9154
+sS'541587457402085376'
+p9155
+S'Not Informative'
+p9156
+sS'541720335905615873'
+p9157
+S'Not Informative'
+p9158
+sS'541471415522705408'
+p9159
+S'Not Informative'
+p9160
+sS'541939753445126144'
+p9161
+S'Not Informative'
+p9162
+sS'541216630387535872'
+p9163
+S'Humanitarian Aid Provided'
+p9164
+sS'541917373054193665'
+p9165
+S'Humanitarian Aid Provided'
+p9166
+sS'541474867959173121'
+p9167
+S'Other Relevant Information'
+p9168
+sS'541936585579589633'
+p9169
+S'Not Informative'
+p9170
+sS'541209225691537408'
+p9171
+S'Other Relevant Information'
+p9172
+sS'541790958686191618'
+p9173
+S'Not Informative'
+p9174
+sS'541397409960845313'
+p9175
+S'Not Informative'
+p9176
+sS'542320279582547968'
+p9177
+S'Not Informative'
+p9178
+sS'542010256168345601'
+p9179
+S'Not Informative'
+p9180
+sS'542328261335068672'
+p9181
+S'Not Informative'
+p9182
+sS'541459846609244160'
+p9183
+S'Infrastructure Damage'
+p9184
+sS'541399505829380097'
+p9185
+S'Other Relevant Information'
+p9186
+sS'541460791589748736'
+p9187
+S'Not Informative'
+p9188
+sS'541560842131890176'
+p9189
+S'Not Informative'
+p9190
+sS'541813823171088384'
+p9191
+S'Other Relevant Information'
+p9192
+sS'541446292971339776'
+p9193
+S'Other Relevant Information'
+p9194
+sS'541710490724864000'
+p9195
+S'Other Relevant Information'
+p9196
+sS'541760538179424257'
+p9197
+S'Not Informative'
+p9198
+sS'541635512486739968'
+p9199
+S'Not Informative'
+p9200
+sS'542028444079779840'
+p9201
+S'Not Informative'
+p9202
+sS'541460287660896257'
+p9203
+S'Not Informative'
+p9204
+sS'541494597629661185'
+p9205
+S'Other Relevant Information'
+p9206
+sS'542429902356492288'
+p9207
+S'Other Relevant Information'
+p9208
+sS'541649527380275200'
+p9209
+S'Other Relevant Information'
+p9210
+sS'541733056894099456'
+p9211
+S'Not Informative'
+p9212
+sS'541663366809657345'
+p9213
+S'Not Informative'
+p9214
+sS'542346448265027584'
+p9215
+S'Not Informative'
+p9216
+sS'542191966365036544'
+p9217
+S'Not Informative'
+p9218
+sS'541828840180293632'
+p9219
+S'Not Informative'
+p9220
+sS'541387378032533505'
+p9221
+S'Not Informative'
+p9222
+sS'541676745821544448'
+p9223
+S'Not Informative'
+p9224
+sS'541897694394847232'
+p9225
+S'Not Informative'
+p9226
+sS'541901739058688000'
+p9227
+S'Not Informative'
+p9228
+sS'541553981739528193'
+p9229
+S'Not Informative'
+p9230
+sS'541491618302689280'
+p9231
+S'Not Informative'
+p9232
+sS'541915215999148032'
+p9233
+S'Not Informative'
+p9234
+sS'542372088980320256'
+p9235
+S'Other Relevant Information'
+p9236
+sS'542337855063068672'
+p9237
+S'Other Relevant Information'
+p9238
+sS'541143553473126404'
+p9239
+S'Not Informative'
+p9240
+sS'542224958450335745'
+p9241
+S'Not Informative'
+p9242
+sS'541904607442898944'
+p9243
+S'Not Informative'
+p9244
+sS'541844409776484353'
+p9245
+S'Not Informative'
+p9246
+sS'541162904373186560'
+p9247
+S'Other Relevant Information'
+p9248
+sS'541530000512413696'
+p9249
+S'Other Relevant Information'
+p9250
+sS'541845019263369216'
+p9251
+S'Not Informative'
+p9252
+sS'542198640106676226'
+p9253
+S'Not Informative'
+p9254
+sS'541422038125412352'
+p9255
+S'Not Informative'
+p9256
+sS'541515883089113089'
+p9257
+S'Not Informative'
+p9258
+sS'541622523041828865'
+p9259
+S'Not Informative'
+p9260
+sS'541492618631184384'
+p9261
+S'Requests for Help/Needs'
+p9262
+sS'541885179736780800'
+p9263
+S'Not Informative'
+p9264
+sS'541985328341323776'
+p9265
+S'Not Informative'
+p9266
+sS'541154752248037376'
+p9267
+S'Other Relevant Information'
+p9268
+sS'541643199719018496'
+p9269
+S'Not Informative'
+p9270
+sS'541661816485847041'
+p9271
+S'Other Relevant Information'
+p9272
+sS'541348269688115200'
+p9273
+S'Not Informative'
+p9274
+sS'541561785971908608'
+p9275
+S'Not Informative'
+p9276
+sS'541614441461080065'
+p9277
+S'Not Informative'
+p9278
+sS'541753446085300224'
+p9279
+S'Not Informative'
+p9280
+sS'541880275756539904'
+p9281
+S'Not Informative'
+p9282
+sS'541282972948004865'
+p9283
+S'Not Informative'
+p9284
+sS'541926763320713217'
+p9285
+S'Not Informative'
+p9286
+sS'541517748485246976'
+p9287
+S'Not Informative'
+p9288
+sS'541836136768094208'
+p9289
+S'Not Informative'
+p9290
+sS'541916737159954433'
+p9291
+S'Not Informative'
+p9292
+sS'541986612553711617'
+p9293
+S'Not Informative'
+p9294
+sS'542179670024679424'
+p9295
+S'Not Informative'
+p9296
+sS'541312400558141440'
+p9297
+S'Not Informative'
+p9298
+sS'541461189004234752'
+p9299
+S'Not Informative'
+p9300
+sS'541465645431652352'
+p9301
+S'Not Informative'
+p9302
+sS'541993228221042688'
+p9303
+S'Not Informative'
+p9304
+sS'542347194552942592'
+p9305
+S'Humanitarian Aid Provided'
+p9306
+sS'541646180665421824'
+p9307
+S'Not Informative'
+p9308
+sS'541322078654197760'
+p9309
+S'Not Informative'
+p9310
+sS'541437555980636160'
+p9311
+S'Not Informative'
+p9312
+sS'541843813874925568'
+p9313
+S'Not Informative'
+p9314
+sS'541405909293887488'
+p9315
+S'Not Informative'
+p9316
+sS'541984448468631553'
+p9317
+S'Not Informative'
+p9318
+sS'541292565509992448'
+p9319
+S'Not Informative'
+p9320
+sS'541512511619481600'
+p9321
+S'Other Relevant Information'
+p9322
+sS'541700295110041601'
+p9323
+S'Not Informative'
+p9324
+sS'541527676281163776'
+p9325
+S'Not Informative'
+p9326
+sS'541719536454881280'
+p9327
+S'Not Informative'
+p9328
+sS'541640814795837440'
+p9329
+S'Not Informative'
+p9330
+sS'541451287179444225'
+p9331
+S'Other Relevant Information'
+p9332
+sS'541588990521257984'
+p9333
+S'Infrastructure Damage'
+p9334
+sS'541165410129678336'
+p9335
+S'Not Informative'
+p9336
+sS'541709710252982272'
+p9337
+S'Not Informative'
+p9338
+sS'541925787834671105'
+p9339
+S'Not Informative'
+p9340
+sS'541499120469299200'
+p9341
+S'Other Relevant Information'
+p9342
+sS'541456093436575745'
+p9343
+S'Humanitarian Aid Provided'
+p9344
+sS'541366487567446016'
+p9345
+S'Other Relevant Information'
+p9346
+sS'541213861513162752'
+p9347
+S'Not Informative'
+p9348
+sS'541535103864688640'
+p9349
+S'Not Informative'
+p9350
+sS'541937280726732800'
+p9351
+S'Not Informative'
+p9352
+sS'542459014760513538'
+p9353
+S'Not Informative'
+p9354
+sS'542227734538096640'
+p9355
+S'Not Informative'
+p9356
+sS'541970959888957440'
+p9357
+S'Not Informative'
+p9358
+sS'541717993231638528'
+p9359
+S'Not Informative'
+p9360
+sS'541468217508904960'
+p9361
+S'Other Relevant Information'
+p9362
+sS'541205281896947713'
+p9363
+S'Other Relevant Information'
+p9364
+sS'541539136180846592'
+p9365
+S'Not Informative'
+p9366
+sS'541505402375249920'
+p9367
+S'Humanitarian Aid Provided'
+p9368
+sS'542015667394707458'
+p9369
+S'Not Informative'
+p9370
+sS'541900398634622976'
+p9371
+S'Not Informative'
+p9372
+sS'541808832054181888'
+p9373
+S'Other Relevant Information'
+p9374
+sS'541394019872288769'
+p9375
+S'Not Informative'
+p9376
+sS'542436422360129537'
+p9377
+S'Not Informative'
+p9378
+sS'541743280627916800'
+p9379
+S'Not Informative'
+p9380
+sS'541569582071156737'
+p9381
+S'Not Informative'
+p9382
+sS'541940500895260672'
+p9383
+S'Not Informative'
+p9384
+sS'541274158261211136'
+p9385
+S'Not Informative'
+p9386
+sS'541264249444519936'
+p9387
+S'Not Informative'
+p9388
+sS'541548841913184256'
+p9389
+S'Not Informative'
+p9390
+sS'541457426252578816'
+p9391
+S'Infrastructure Damage'
+p9392
+sS'541391220531290112'
+p9393
+S'Not Informative'
+p9394
+sS'541907618336231425'
+p9395
+S'Not Informative'
+p9396
+sS'541915285570076672'
+p9397
+S'Not Informative'
+p9398
+sS'541752536445632514'
+p9399
+S'Not Informative'
+p9400
+sS'541259868229758976'
+p9401
+S'Not Informative'
+p9402
+sS'541425365214695424'
+p9403
+S'Not Informative'
+p9404
+sS'541940682978390017'
+p9405
+S'Not Informative'
+p9406
+sS'541742104448233472'
+p9407
+S'Not Informative'
+p9408
+sS'541742151369912320'
+p9409
+S'Not Informative'
+p9410
+sS'542242459162791936'
+p9411
+S'Other Relevant Information'
+p9412
+sS'541616992407814146'
+p9413
+S'Other Relevant Information'
+p9414
+sS'541932911843229696'
+p9415
+S'Not Informative'
+p9416
+sS'541287766718681088'
+p9417
+S'Not Informative'
+p9418
+sS'541522498169606144'
+p9419
+S'Not Informative'
+p9420
+sS'541253745422524416'
+p9421
+S'Not Informative'
+p9422
+sS'541845068693258241'
+p9423
+S'Not Informative'
+p9424
+sS'541446446759686146'
+p9425
+S'Not Informative'
+p9426
+sS'541691199069769728'
+p9427
+S'Not Informative'
+p9428
+sS'542452996450156544'
+p9429
+S'Not Informative'
+p9430
+sS'541872087174893570'
+p9431
+S'Not Informative'
+p9432
+sS'541458525918994432'
+p9433
+S'Not Informative'
+p9434
+sS'541593365918142465'
+p9435
+S'Other Relevant Information'
+p9436
+sS'541464692112117762'
+p9437
+S'Not Informative'
+p9438
+sS'541419684445179904'
+p9439
+S'Other Relevant Information'
+p9440
+sS'541490364092137472'
+p9441
+S'Not Informative'
+p9442
+sS'541790336285028352'
+p9443
+S'Not Informative'
+p9444
+sS'541946661480976385'
+p9445
+S'Not Informative'
+p9446
+sS'541409749099892736'
+p9447
+S'Not Informative'
+p9448
+sS'541580307908927488'
+p9449
+S'Not Informative'
+p9450
+sS'542129704753315841'
+p9451
+S'Not Informative'
+p9452
+sS'541890412688863232'
+p9453
+S'Not Informative'
+p9454
+sS'541481174166540288'
+p9455
+S'Not Informative'
+p9456
+sS'542394505798750208'
+p9457
+S'Other Relevant Information'
+p9458
+sS'541480005469868032'
+p9459
+S'Not Informative'
+p9460
+sS'541728236481159169'
+p9461
+S'Not Informative'
+p9462
+sS'541869425792532481'
+p9463
+S'Not Informative'
+p9464
+sS'542438798341046272'
+p9465
+S'Other Relevant Information'
+p9466
+sS'541542427551875072'
+p9467
+S'Not Informative'
+p9468
+sS'541811668292874240'
+p9469
+S'Not Informative'
+p9470
+sS'541419418694062081'
+p9471
+S'Not Informative'
+p9472
+sS'541784630890749952'
+p9473
+S'Not Informative'
+p9474
+sS'541454143953850368'
+p9475
+S'Not Informative'
+p9476
+sS'541444563794395136'
+p9477
+S'Not Informative'
+p9478
+sS'541846327437438977'
+p9479
+S'Not Informative'
+p9480
+sS'541406905982132224'
+p9481
+S'Other Relevant Information'
+p9482
+sS'541923481370099713'
+p9483
+S'Not Informative'
+p9484
+sS'541516063016374272'
+p9485
+S'Not Informative'
+p9486
+sS'541577955911426048'
+p9487
+S'Not Informative'
+p9488
+sS'541585110068641792'
+p9489
+S'Humanitarian Aid Provided'
+p9490
+sS'541605926113796098'
+p9491
+S'Other Relevant Information'
+p9492
+sS'541986063162425344'
+p9493
+S'Not Informative'
+p9494
+sS'541839575790788608'
+p9495
+S'Not Informative'
+p9496
+sS'541527693364191233'
+p9497
+S'Other Relevant Information'
+p9498
+sS'541398593521729536'
+p9499
+S'Not Informative'
+p9500
+sS'541333278314078208'
+p9501
+S'Other Relevant Information'
+p9502
+sS'542185000356294656'
+p9503
+S'Not Informative'
+p9504
+sS'541883680864468992'
+p9505
+S'Not Informative'
+p9506
+sS'541589459377332225'
+p9507
+S'Not Informative'
+p9508
+sS'541660744958230528'
+p9509
+S'Not Informative'
+p9510
+sS'541658659034783745'
+p9511
+S'Not Informative'
+p9512
+sS'542356973610893312'
+p9513
+S'Other Relevant Information'
+p9514
+sS'541497586868187136'
+p9515
+S'Other Relevant Information'
+p9516
+sS'541257601674006529'
+p9517
+S'Humanitarian Aid Provided'
+p9518
+sS'541871336562241536'
+p9519
+S'Not Informative'
+p9520
+sS'541784287058468865'
+p9521
+S'Not Informative'
+p9522
+sS'541562746198704128'
+p9523
+S'Not Informative'
+p9524
+sS'541468506730946560'
+p9525
+S'Not Informative'
+p9526
+sS'541760412182540288'
+p9527
+S'Not Informative'
+p9528
+sS'541349306964246528'
+p9529
+S'Not Informative'
+p9530
+sS'541975139089670144'
+p9531
+S'Other Relevant Information'
+p9532
+sS'541533249130872832'
+p9533
+S'Not Informative'
+p9534
+sS'541894546443862017'
+p9535
+S'Not Informative'
+p9536
+sS'541583211751411712'
+p9537
+S'Infrastructure Damage'
+p9538
+sS'542356332053929984'
+p9539
+S'Not Informative'
+p9540
+sS'541985757918134272'
+p9541
+S'Other Relevant Information'
+p9542
+sS'541680378138746880'
+p9543
+S'Not Informative'
+p9544
+sS'541260941342826496'
+p9545
+S'Other Relevant Information'
+p9546
+sS'542010699480702976'
+p9547
+S'Not Informative'
+p9548
+sS'541863883229511680'
+p9549
+S'Not Informative'
+p9550
+sS'541813696088272897'
+p9551
+S'Not Informative'
+p9552
+sS'541780800253861888'
+p9553
+S'Not Informative'
+p9554
+sS'542285224680624129'
+p9555
+S'Other Relevant Information'
+p9556
+sS'541352983309459456'
+p9557
+S'Not Informative'
+p9558
+sS'542303339682091009'
+p9559
+S'Other Relevant Information'
+p9560
+sS'541924175510642688'
+p9561
+S'Not Informative'
+p9562
+sS'541486075353378816'
+p9563
+S'Not Informative'
+p9564
+sS'541147535088181248'
+p9565
+S'Other Relevant Information'
+p9566
+sS'541642613367910403'
+p9567
+S'Not Informative'
+p9568
+sS'542286627486179330'
+p9569
+S'Not Informative'
+p9570
+sS'542007331936931840'
+p9571
+S'Other Relevant Information'
+p9572
+sS'541580023237337089'
+p9573
+S'Not Informative'
+p9574
+sS'541612828533465088'
+p9575
+S'Not Informative'
+p9576
+sS'541262290658807808'
+p9577
+S'Not Informative'
+p9578
+sS'541374539456724992'
+p9579
+S'Not Informative'
+p9580
+sS'541987918781616128'
+p9581
+S'Other Relevant Information'
+p9582
+sS'541797039537790976'
+p9583
+S'Not Informative'
+p9584
+sS'541139992483864576'
+p9585
+S'Other Relevant Information'
+p9586
+sS'541805796267274240'
+p9587
+S'Not Informative'
+p9588
+sS'541737283850739713'
+p9589
+S'Not Informative'
+p9590
+sS'542280117280841728'
+p9591
+S'Other Relevant Information'
+p9592
+sS'542245916128714752'
+p9593
+S'Not Informative'
+p9594
+sS'541938384050978816'
+p9595
+S'Not Informative'
+p9596
+sS'541518207329517569'
+p9597
+S'Humanitarian Aid Provided'
+p9598
+sS'541146712065458176'
+p9599
+S'Other Relevant Information'
+p9600
+sS'541312312590995456'
+p9601
+S'Not Informative'
+p9602
+sS'541841885703049217'
+p9603
+S'Not Informative'
+p9604
+sS'541254653493514241'
+p9605
+S'Other Relevant Information'
+p9606
+sS'541892386050154497'
+p9607
+S'Not Informative'
+p9608
+sS'542163225694191617'
+p9609
+S'Not Informative'
+p9610
+sS'541745720978837504'
+p9611
+S'Not Informative'
+p9612
+sS'541688479155892224'
+p9613
+S'Not Informative'
+p9614
+sS'541943620526292992'
+p9615
+S'Not Informative'
+p9616
+sS'541543093414428672'
+p9617
+S'Not Informative'
+p9618
+sS'541768485077282816'
+p9619
+S'Not Informative'
+p9620
+sS'542188285171621888'
+p9621
+S'Not Informative'
+p9622
+sS'541611351970287619'
+p9623
+S'Other Relevant Information'
+p9624
+sS'541600401854713856'
+p9625
+S'Not Informative'
+p9626
+sS'541960179869159424'
+p9627
+S'Not Informative'
+p9628
+sS'541596957982994432'
+p9629
+S'Not Informative'
+p9630
+sS'541255842809401345'
+p9631
+S'Not Informative'
+p9632
+sS'541403800591167488'
+p9633
+S'Not Informative'
+p9634
+sS'541452233154367488'
+p9635
+S'Not Informative'
+p9636
+sS'541623119299895297'
+p9637
+S'Not Informative'
+p9638
+sS'541476415762214912'
+p9639
+S'Humanitarian Aid Provided'
+p9640
+sS'541809589105082368'
+p9641
+S'Other Relevant Information'
+p9642
+sS'541600164830396416'
+p9643
+S'Not Informative'
+p9644
+sS'542129443297185792'
+p9645
+S'Not Informative'
+p9646
+sS'542115599602577409'
+p9647
+S'Other Relevant Information'
+p9648
+sS'541949043849445376'
+p9649
+S'Not Informative'
+p9650
+sS'542188338401116160'
+p9651
+S'Not Informative'
+p9652
+sS'541432288010334210'
+p9653
+S'Not Informative'
+p9654
+sS'541473564713844736'
+p9655
+S'Not Informative'
+p9656
+sS'542219585265487872'
+p9657
+S'Other Relevant Information'
+p9658
+sS'541625949280681984'
+p9659
+S'Not Informative'
+p9660
+sS'541490834311364608'
+p9661
+S'Not Informative'
+p9662
+sS'541981536363364352'
+p9663
+S'Not Informative'
+p9664
+sS'542327589801435136'
+p9665
+S'Not Informative'
+p9666
+sS'541886003707801600'
+p9667
+S'Not Informative'
+p9668
+sS'541695021179613184'
+p9669
+S'Not Informative'
+p9670
+sS'541464494606516224'
+p9671
+S'Other Relevant Information'
+p9672
+sS'541957966321418240'
+p9673
+S'Not Informative'
+p9674
+sS'541791658866511872'
+p9675
+S'Not Informative'
+p9676
+sS'541505256836714496'
+p9677
+S'Other Relevant Information'
+p9678
+sS'541855617925660672'
+p9679
+S'Not Informative'
+p9680
+sS'541557900435415040'
+p9681
+S'Humanitarian Aid Provided'
+p9682
+sS'542397415282601984'
+p9683
+S'Other Relevant Information'
+p9684
+sS'541362866612228097'
+p9685
+S'Other Relevant Information'
+p9686
+sS'541875944206905344'
+p9687
+S'Not Informative'
+p9688
+sS'541824713429774336'
+p9689
+S'Not Informative'
+p9690
+sS'541976933441871872'
+p9691
+S'Not Informative'
+p9692
+sS'542038660406050816'
+p9693
+S'Infrastructure Damage'
+p9694
+sS'541678576676786176'
+p9695
+S'Other Relevant Information'
+p9696
+sS'541394604411482112'
+p9697
+S'Not Informative'
+p9698
+sS'541554252746072065'
+p9699
+S'Other Relevant Information'
+p9700
+sS'541838424118812672'
+p9701
+S'Other Relevant Information'
+p9702
+sS'541546323992776706'
+p9703
+S'Not Informative'
+p9704
+sS'541999717425889281'
+p9705
+S'Not Informative'
+p9706
+sS'541458510035161088'
+p9707
+S'Not Informative'
+p9708
+sS'542174034578780160'
+p9709
+S'Not Informative'
+p9710
+sS'541581522760130560'
+p9711
+S'Not Informative'
+p9712
+sS'541505758177660928'
+p9713
+S'Other Relevant Information'
+p9714
+sS'541466193853292546'
+p9715
+S'Not Informative'
+p9716
+sS'541418191981776896'
+p9717
+S'Not Informative'
+p9718
+sS'541869093377159168'
+p9719
+S'Not Informative'
+p9720
+sS'541922863188426754'
+p9721
+S'Not Informative'
+p9722
+sS'541646719029903360'
+p9723
+S'Not Informative'
+p9724
+sS'541579824955785216'
+p9725
+S'Not Informative'
+p9726
+sS'541532588469264384'
+p9727
+S'Not Informative'
+p9728
+sS'541724370700615680'
+p9729
+S'Not Informative'
+p9730
+sS'541608696539648000'
+p9731
+S'Not Informative'
+p9732
+sS'541803617854840832'
+p9733
+S'Other Relevant Information'
+p9734
+sS'541475253084778497'
+p9735
+S'Other Relevant Information'
+p9736
+sS'541444882825359360'
+p9737
+S'Not Informative'
+p9738
+sS'541273460849115136'
+p9739
+S'Other Relevant Information'
+p9740
+sS'541972100559691776'
+p9741
+S'Not Informative'
+p9742
+sS'541987294467878912'
+p9743
+S'Not Informative'
+p9744
+sS'541448458671230976'
+p9745
+S'Not Informative'
+p9746
+sS'541609157590519809'
+p9747
+S'Not Informative'
+p9748
+sS'541915517762957312'
+p9749
+S'Not Informative'
+p9750
+sS'541937754494365696'
+p9751
+S'Not Informative'
+p9752
+sS'541460282438995968'
+p9753
+S'Not Informative'
+p9754
+sS'541550489025118208'
+p9755
+S'Not Informative'
+p9756
+sS'542250545814044673'
+p9757
+S'Other Relevant Information'
+p9758
+sS'541481930810613760'
+p9759
+S'Not Informative'
+p9760
+sS'541619688803823616'
+p9761
+S'Not Informative'
+p9762
+sS'541358045222436864'
+p9763
+S'Not Informative'
+p9764
+sS'542186785434894336'
+p9765
+S'Not Informative'
+p9766
+sS'541429223471063040'
+p9767
+S'Not Informative'
+p9768
+sS'541465126046404608'
+p9769
+S'Not Informative'
+p9770
+sS'541616121426624512'
+p9771
+S'Not Informative'
+p9772
+sS'541625578038652928'
+p9773
+S'Not Informative'
+p9774
+sS'541924952870379520'
+p9775
+S'Not Informative'
+p9776
+sS'541970779806502912'
+p9777
+S'Not Informative'
+p9778
+sS'541578653151158274'
+p9779
+S'Other Relevant Information'
+p9780
+sS'541382425071591425'
+p9781
+S'Not Informative'
+p9782
+sS'541597650500722688'
+p9783
+S'Humanitarian Aid Provided'
+p9784
+sS'541409575564750848'
+p9785
+S'Other Relevant Information'
+p9786
+sS'541656300510539777'
+p9787
+S'Other Relevant Information'
+p9788
+sS'541932298313408513'
+p9789
+S'Not Informative'
+p9790
+sS'542300884387233792'
+p9791
+S'Not Informative'
+p9792
+sS'542187204936613888'
+p9793
+S'Not Informative'
+p9794
+sS'541917181680705537'
+p9795
+S'Not Informative'
+p9796
+sS'541519094537654274'
+p9797
+S'Other Relevant Information'
+p9798
+sS'541843122524024832'
+p9799
+S'Not Informative'
+p9800
+sS'541625226098782208'
+p9801
+S'Not Informative'
+p9802
+sS'541888328446902274'
+p9803
+S'Not Informative'
+p9804
+sS'541562267511177216'
+p9805
+S'Other Relevant Information'
+p9806
+sS'541738662195503106'
+p9807
+S'Not Informative'
+p9808
+sS'541648069226266624'
+p9809
+S'Not Informative'
+p9810
+sS'541420447359705088'
+p9811
+S'Humanitarian Aid Provided'
+p9812
+sS'541706589145948160'
+p9813
+S'Infrastructure Damage'
+p9814
+sS'541472554259476480'
+p9815
+S'Not Informative'
+p9816
+sS'541521634868211714'
+p9817
+S'Not Informative'
+p9818
+sS'541837337697607680'
+p9819
+S'Not Informative'
+p9820
+sS'541510471590088704'
+p9821
+S'Not Informative'
+p9822
+sS'541447964787343360'
+p9823
+S'Not Informative'
+p9824
+sS'541623684944101376'
+p9825
+S'Not Informative'
+p9826
+sS'541465188491206656'
+p9827
+S'Not Informative'
+p9828
+sS'541157740509687808'
+p9829
+S'Other Relevant Information'
+p9830
+sS'541816359923900416'
+p9831
+S'Other Relevant Information'
+p9832
+sS'541349011085479937'
+p9833
+S'Not Informative'
+p9834
+sS'541367465343987713'
+p9835
+S'Not Informative'
+p9836
+sS'541746357984194560'
+p9837
+S'Not Informative'
+p9838
+sS'541976248700792832'
+p9839
+S'Not Informative'
+p9840
+sS'541160491070930944'
+p9841
+S'Other Relevant Information'
+p9842
+sS'541763728753315840'
+p9843
+S'Not Informative'
+p9844
+sS'541615661362200576'
+p9845
+S'Not Informative'
+p9846
+sS'542353757947060224'
+p9847
+S'Other Relevant Information'
+p9848
+sS'542305049381068800'
+p9849
+S'Not Informative'
+p9850
+sS'541904447631134720'
+p9851
+S'Not Informative'
+p9852
+sS'541680851290169344'
+p9853
+S'Other Relevant Information'
+p9854
+sS'541312264469348353'
+p9855
+S'Not Informative'
+p9856
+sS'541772956083716100'
+p9857
+S'Requests for Help/Needs'
+p9858
+sS'541734291676213248'
+p9859
+S'Not Informative'
+p9860
+sS'541636678151307265'
+p9861
+S'Not Informative'
+p9862
+sS'541158946048704513'
+p9863
+S'Other Relevant Information'
+p9864
+sS'541912631234154497'
+p9865
+S'Not Informative'
+p9866
+sS'541524953955196928'
+p9867
+S'Not Informative'
+p9868
+sS'541757538962640896'
+p9869
+S'Not Informative'
+p9870
+sS'541461418684743680'
+p9871
+S'Not Informative'
+p9872
+sS'541403371559989249'
+p9873
+S'Not Informative'
+p9874
+sS'541593859692978177'
+p9875
+S'Other Relevant Information'
+p9876
+sS'541753593032761344'
+p9877
+S'Not Informative'
+p9878
+sS'541668287042449408'
+p9879
+S'Not Informative'
+p9880
+sS'541533836824154113'
+p9881
+S'Not Informative'
+p9882
+sS'541417537087356928'
+p9883
+S'Not Informative'
+p9884
+sS'541705519258689537'
+p9885
+S'Infrastructure Damage'
+p9886
+sS'542303158102659072'
+p9887
+S'Not Informative'
+p9888
+sS'541941655104794624'
+p9889
+S'Other Relevant Information'
+p9890
+sS'541297206473809920'
+p9891
+S'Humanitarian Aid Provided'
+p9892
+sS'541957085639245824'
+p9893
+S'Infrastructure Damage'
+p9894
+sS'541685269129625601'
+p9895
+S'Not Informative'
+p9896
+sS'541704130209669120'
+p9897
+S'Not Informative'
+p9898
+sS'541782511429246976'
+p9899
+S'Not Informative'
+p9900
+sS'541527333585162241'
+p9901
+S'Not Informative'
+p9902
+sS'541902989154205696'
+p9903
+S'Not Informative'
+p9904
+sS'541496586925125633'
+p9905
+S'Other Relevant Information'
+p9906
+sS'541504908604624896'
+p9907
+S'Not Informative'
+p9908
+sS'541526613964247041'
+p9909
+S'Not Informative'
+p9910
+sS'541345865852813312'
+p9911
+S'Not Informative'
+p9912
+sS'541618478126350336'
+p9913
+S'Not Informative'
+p9914
+sS'541310023276576770'
+p9915
+S'Not Informative'
+p9916
+sS'542121011009695744'
+p9917
+S'Not Informative'
+p9918
+sS'541653394889261056'
+p9919
+S'Not Informative'
+p9920
+sS'541600625843122176'
+p9921
+S'Not Informative'
+p9922
+sS'541641220846780417'
+p9923
+S'Not Informative'
+p9924
+sS'541261263762751489'
+p9925
+S'Not Informative'
+p9926
+sS'541725576340324352'
+p9927
+S'Not Informative'
+p9928
+sS'542415196145188864'
+p9929
+S'Other Relevant Information'
+p9930
+sS'541460778184757250'
+p9931
+S'Not Informative'
+p9932
+sS'541484743766716416'
+p9933
+S'Not Informative'
+p9934
+sS'541325733860093952'
+p9935
+S'Not Informative'
+p9936
+sS'541715356990332928'
+p9937
+S'Infrastructure Damage'
+p9938
+sS'541960652588204033'
+p9939
+S'Not Informative'
+p9940
+sS'541947120484220929'
+p9941
+S'Other Relevant Information'
+p9942
+sS'541640914842554370'
+p9943
+S'Not Informative'
+p9944
+sS'542028605707268096'
+p9945
+S'Other Relevant Information'
+p9946
+sS'541946223062577152'
+p9947
+S'Not Informative'
+p9948
+sS'541960746695806977'
+p9949
+S'Not Informative'
+p9950
+sS'542283997343408129'
+p9951
+S'Other Relevant Information'
+p9952
+sS'541529699483000832'
+p9953
+S'Not Informative'
+p9954
+sS'542288965269614592'
+p9955
+S'Requests for Help/Needs'
+p9956
+sS'541271970600742912'
+p9957
+S'Not Informative'
+p9958
+sS'541386378492125185'
+p9959
+S'Not Informative'
+p9960
+sS'542032551238316032'
+p9961
+S'Not Informative'
+p9962
+sS'542339190999228416'
+p9963
+S'Other Relevant Information'
+p9964
+sS'542304565362970624'
+p9965
+S'Not Informative'
+p9966
+sS'541590506917339136'
+p9967
+S'Infrastructure Damage'
+p9968
+sS'542240132372234240'
+p9969
+S'Other Relevant Information'
+p9970
+sS'541555168672632832'
+p9971
+S'Not Informative'
+p9972
+sS'541535969334149120'
+p9973
+S'Not Informative'
+p9974
+sS'542285256267538434'
+p9975
+S'Other Relevant Information'
+p9976
+sS'542275348990156800'
+p9977
+S'Not Informative'
+p9978
+sS'541648286604476416'
+p9979
+S'Not Informative'
+p9980
+sS'541731201220755458'
+p9981
+S'Not Informative'
+p9982
+sS'541921313539891200'
+p9983
+S'Not Informative'
+p9984
+sS'541639900840620033'
+p9985
+S'Not Informative'
+p9986
+sS'541948515010621440'
+p9987
+S'Not Informative'
+p9988
+sS'541418269303791616'
+p9989
+S'Not Informative'
+p9990
+sS'541144337216573441'
+p9991
+S'Other Relevant Information'
+p9992
+sS'541935049881694208'
+p9993
+S'Not Informative'
+p9994
+sS'541613044787585024'
+p9995
+S'Not Informative'
+p9996
+sS'542125344455544832'
+p9997
+S'Not Informative'
+p9998
+sS'542236962028261377'
+p9999
+S'Other Relevant Information'
+p10000
+sS'541808734951841792'
+p10001
+S'Not Informative'
+p10002
+sS'541491480838148096'
+p10003
+S'Not Informative'
+p10004
+sS'542321068786974720'
+p10005
+S'Other Relevant Information'
+p10006
+sS'541359931140501504'
+p10007
+S'Other Relevant Information'
+p10008
+sS'541918230579666945'
+p10009
+S'Not Informative'
+p10010
+sS'541626484809416705'
+p10011
+S'Not Informative'
+p10012
+sS'541978057494368256'
+p10013
+S'Not Informative'
+p10014
+sS'542345587233140736'
+p10015
+S'Not Informative'
+p10016
+sS'541844481360683008'
+p10017
+S'Not Informative'
+p10018
+sS'541814552661196801'
+p10019
+S'Other Relevant Information'
+p10020
+sS'541144848460709888'
+p10021
+S'Infrastructure Damage'
+p10022
+sS'541936391253270531'
+p10023
+S'Not Informative'
+p10024
+sS'541472204089606144'
+p10025
+S'Other Relevant Information'
+p10026
+sS'541531134945796096'
+p10027
+S'Other Relevant Information'
+p10028
+sS'541586256686485504'
+p10029
+S'Not Informative'
+p10030
+sS'542181360505327616'
+p10031
+S'Not Informative'
+p10032
+sS'541605350353682432'
+p10033
+S'Not Informative'
+p10034
+sS'542315220132065280'
+p10035
+S'Other Relevant Information'
+p10036
+sS'542005521662758913'
+p10037
+S'Not Informative'
+p10038
+sS'541552768624754688'
+p10039
+S'Other Relevant Information'
+p10040
+sS'541705213367693312'
+p10041
+S'Not Informative'
+p10042
+sS'541896533377957889'
+p10043
+S'Not Informative'
+p10044
+sS'541805368461262848'
+p10045
+S'Not Informative'
+p10046
+sS'541404491040313345'
+p10047
+S'Infrastructure Damage'
+p10048
+sS'541470520424677377'
+p10049
+S'Not Informative'
+p10050
+sS'541377144048582656'
+p10051
+S'Other Relevant Information'
+p10052
+sS'541537266712068097'
+p10053
+S'Not Informative'
+p10054
+sS'542318533665759232'
+p10055
+S'Other Relevant Information'
+p10056
+sS'541972620573290497'
+p10057
+S'Infrastructure Damage'
+p10058
+sS'541977419515568128'
+p10059
+S'Other Relevant Information'
+p10060
+sS'541787034906411008'
+p10061
+S'Not Informative'
+p10062
+sS'541602487845679104'
+p10063
+S'Not Informative'
+p10064
+sS'542423266149666816'
+p10065
+S'Not Informative'
+p10066
+sS'541619366752944129'
+p10067
+S'Not Informative'
+p10068
+sS'541456110516207616'
+p10069
+S'Not Informative'
+p10070
+sS'541947000007041025'
+p10071
+S'Not Informative'
+p10072
+sS'542398910837182465'
+p10073
+S'Not Informative'
+p10074
+sS'542263712438951937'
+p10075
+S'Not Informative'
+p10076
+sS'541437657734066176'
+p10077
+S'Other Relevant Information'
+p10078
+sS'542396086824878080'
+p10079
+S'Other Relevant Information'
+p10080
+sS'541780800534880257'
+p10081
+S'Other Relevant Information'
+p10082
+sS'541828628502175744'
+p10083
+S'Not Informative'
+p10084
+sS'541848445393195008'
+p10085
+S'Not Informative'
+p10086
+sS'542323550347358208'
+p10087
+S'Other Relevant Information'
+p10088
+sS'541853807899336705'
+p10089
+S'Not Informative'
+p10090
+sS'541729696107749376'
+p10091
+S'Other Relevant Information'
+p10092
+sS'541863722831323136'
+p10093
+S'Other Relevant Information'
+p10094
+sS'541276308882223105'
+p10095
+S'Infrastructure Damage'
+p10096
+sS'541145758162907136'
+p10097
+S'Other Relevant Information'
+p10098
+sS'542363135131140096'
+p10099
+S'Humanitarian Aid Provided'
+p10100
+sS'541402664508981248'
+p10101
+S'Not Informative'
+p10102
+sS'541956679407898624'
+p10103
+S'Humanitarian Aid Provided'
+p10104
+sS'541560354304573440'
+p10105
+S'Not Informative'
+p10106
+sS'541453159529328640'
+p10107
+S'Not Informative'
+p10108
+sS'541923985097625600'
+p10109
+S'Not Informative'
+p10110
+sS'541866857301409792'
+p10111
+S'Not Informative'
+p10112
+sS'542231410933653505'
+p10113
+S'Other Relevant Information'
+p10114
+sS'541729757411291137'
+p10115
+S'Not Informative'
+p10116
+sS'541494859731705856'
+p10117
+S'Other Relevant Information'
+p10118
+sS'541969043477897217'
+p10119
+S'Not Informative'
+p10120
+sS'541550992899067904'
+p10121
+S'Not Informative'
+p10122
+sS'541437136914759680'
+p10123
+S'Humanitarian Aid Provided'
+p10124
+sS'542167304130535424'
+p10125
+S'Not Informative'
+p10126
+sS'541158155737001986'
+p10127
+S'Other Relevant Information'
+p10128
+sS'541915320068632576'
+p10129
+S'Not Informative'
+p10130
+sS'541784856225517568'
+p10131
+S'Not Informative'
+p10132
+sS'541628130406846465'
+p10133
+S'Not Informative'
+p10134
+sS'541800677924544512'
+p10135
+S'Not Informative'
+p10136
+sS'541536336981667840'
+p10137
+S'Not Informative'
+p10138
+sS'541304036876513281'
+p10139
+S'Humanitarian Aid Provided'
+p10140
+sS'541943069998710784'
+p10141
+S'Not Informative'
+p10142
+sS'541384518951661569'
+p10143
+S'Not Informative'
+p10144
+sS'541228558601842689'
+p10145
+S'Humanitarian Aid Provided'
+p10146
+sS'542453885135093761'
+p10147
+S'Other Relevant Information'
+p10148
+sS'541887186971262976'
+p10149
+S'Not Informative'
+p10150
+sS'541772416825827328'
+p10151
+S'Not Informative'
+p10152
+sS'542338834373935104'
+p10153
+S'Other Relevant Information'
+p10154
+sS'541729396730519552'
+p10155
+S'Not Informative'
+p10156
+sS'541586718898413568'
+p10157
+S'Not Informative'
+p10158
+sS'541482003917336576'
+p10159
+S'Not Informative'
+p10160
+sS'541453833747300352'
+p10161
+S'Not Informative'
+p10162
+sS'541099155817791488'
+p10163
+S'Other Relevant Information'
+p10164
+sS'541993167331926017'
+p10165
+S'Not Informative'
+p10166
+sS'542273162474708992'
+p10167
+S'Other Relevant Information'
+p10168
+sS'541582173233364992'
+p10169
+S'Not Informative'
+p10170
+sS'542011193884286976'
+p10171
+S'Not Informative'
+p10172
+sS'541966018411646977'
+p10173
+S'Not Informative'
+p10174
+sS'541589416959950850'
+p10175
+S'Not Informative'
+p10176
+sS'541831244959334400'
+p10177
+S'Other Relevant Information'
+p10178
+sS'541695901065306112'
+p10179
+S'Not Informative'
+p10180
+sS'541530256553689088'
+p10181
+S'Not Informative'
+p10182
+sS'541465079074807808'
+p10183
+S'Not Informative'
+p10184
+sS'541748465353494528'
+p10185
+S'Not Informative'
+p10186
+sS'542041911927009282'
+p10187
+S'Not Informative'
+p10188
+sS'541506716740091904'
+p10189
+S'Other Relevant Information'
+p10190
+sS'542165983520370688'
+p10191
+S'Other Relevant Information'
+p10192
+sS'541706765692203008'
+p10193
+S'Not Informative'
+p10194
+sS'541313109387124736'
+p10195
+S'Not Informative'
+p10196
+sS'541949933318713344'
+p10197
+S'Not Informative'
+p10198
+sS'541645249534107648'
+p10199
+S'Not Informative'
+p10200
+sS'542312022210125825'
+p10201
+S'Requests for Help/Needs'
+p10202
+sS'541663038366289920'
+p10203
+S'Other Relevant Information'
+p10204
+sS'541592907531419648'
+p10205
+S'Not Informative'
+p10206
+sS'542117713728905216'
+p10207
+S'Not Informative'
+p10208
+sS'541432092161089536'
+p10209
+S'Not Informative'
+p10210
+sS'542360851018035201'
+p10211
+S'Other Relevant Information'
+p10212
+sS'541527567715803136'
+p10213
+S'Other Relevant Information'
+p10214
+sS'541839695127121921'
+p10215
+S'Not Informative'
+p10216
+sS'541957261011079168'
+p10217
+S'Not Informative'
+p10218
+sS'541528857434935296'
+p10219
+S'Other Relevant Information'
+p10220
+sS'541975304911486976'
+p10221
+S'Not Informative'
+p10222
+sS'542212052698140672'
+p10223
+S'Not Informative'
+p10224
+sS'541646751732482050'
+p10225
+S'Other Relevant Information'
+p10226
+sS'542246157095665667'
+p10227
+S'Infrastructure Damage'
+p10228
+sS'541984524134281217'
+p10229
+S'Not Informative'
+p10230
+sS'542240014436802561'
+p10231
+S'Other Relevant Information'
+p10232
+sS'541800696899993600'
+p10233
+S'Other Relevant Information'
+p10234
+sS'541528943082233857'
+p10235
+S'Other Relevant Information'
+p10236
+sS'542374467495010305'
+p10237
+S'Not Informative'
+p10238
+sS'541904208450973696'
+p10239
+S'Other Relevant Information'
+p10240
+sS'541654780901216256'
+p10241
+S'Other Relevant Information'
+p10242
+sS'541537474745749504'
+p10243
+S'Not Informative'
+p10244
+sS'541667670207115264'
+p10245
+S'Not Informative'
+p10246
+sS'541420186578862080'
+p10247
+S'Other Relevant Information'
+p10248
+sS'541991268046237696'
+p10249
+S'Other Relevant Information'
+p10250
+sS'541768604090241025'
+p10251
+S'Not Informative'
+p10252
+sS'541146794873196545'
+p10253
+S'Not Informative'
+p10254
+sS'541909579907338240'
+p10255
+S'Not Informative'
+p10256
+sS'541631039332823040'
+p10257
+S'Not Informative'
+p10258
+sS'541419213118660610'
+p10259
+S'Other Relevant Information'
+p10260
+sS'542331533672333312'
+p10261
+S'Requests for Help/Needs'
+p10262
+sS'542225858157490177'
+p10263
+S'Not Informative'
+p10264
+sS'541588813265399810'
+p10265
+S'Not Informative'
+p10266
+sS'541771805019471872'
+p10267
+S'Not Informative'
+p10268
+sS'541733598551089153'
+p10269
+S'Not Informative'
+p10270
+sS'541974350975729665'
+p10271
+S'Other Relevant Information'
+p10272
+sS'541973201098915841'
+p10273
+S'Not Informative'
+p10274
+sS'542248323332440064'
+p10275
+S'Infrastructure Damage'
+p10276
+sS'542207281438289920'
+p10277
+S'Not Informative'
+p10278
+sS'541597244278181888'
+p10279
+S'Not Informative'
+p10280
+sS'541987138532024320'
+p10281
+S'Not Informative'
+p10282
+sS'541948429195169792'
+p10283
+S'Not Informative'
+p10284
+sS'541426645068820480'
+p10285
+S'Not Informative'
+p10286
+sS'541958423362150400'
+p10287
+S'Other Relevant Information'
+p10288
+sS'541623858407936000'
+p10289
+S'Not Informative'
+p10290
+sS'541522138071457792'
+p10291
+S'Other Relevant Information'
+p10292
+sS'541336953204256768'
+p10293
+S'Humanitarian Aid Provided'
+p10294
+sS'542243070863880192'
+p10295
+S'Infrastructure Damage'
+p10296
+sS'541971861496934400'
+p10297
+S'Not Informative'
+p10298
+sS'541527561600524288'
+p10299
+S'Not Informative'
+p10300
+sS'541847085184610305'
+p10301
+S'Not Informative'
+p10302
+sS'541284601365151744'
+p10303
+S'Other Relevant Information'
+p10304
+sS'541845806782107648'
+p10305
+S'Not Informative'
+p10306
+sS'541478774911414272'
+p10307
+S'Not Informative'
+p10308
+sS'541977019945189376'
+p10309
+S'Not Informative'
+p10310
+sS'541648853473046528'
+p10311
+S'Not Informative'
+p10312
+sS'541685631777120256'
+p10313
+S'Other Relevant Information'
+p10314
+sS'541147272193400834'
+p10315
+S'Not Informative'
+p10316
+sS'542031720078258176'
+p10317
+S'Humanitarian Aid Provided'
+p10318
+sS'542459834507874304'
+p10319
+S'Requests for Help/Needs'
+p10320
+sS'541921048896471040'
+p10321
+S'Not Informative'
+p10322
+sS'541679403441209344'
+p10323
+S'Not Informative'
+p10324
+sS'541617205650010113'
+p10325
+S'Not Informative'
+p10326
+sS'541506201968603139'
+p10327
+S'Not Informative'
+p10328
+sS'541937608721702912'
+p10329
+S'Other Relevant Information'
+p10330
+sS'542182970686455809'
+p10331
+S'Not Informative'
+p10332
+sS'541752485086392320'
+p10333
+S'Not Informative'
+p10334
+sS'541988646652354560'
+p10335
+S'Not Informative'
+p10336
+sS'541473101872001024'
+p10337
+S'Not Informative'
+p10338
+sS'541974022200635393'
+p10339
+S'Not Informative'
+p10340
+sS'541574137098272769'
+p10341
+S'Other Relevant Information'
+p10342
+sS'541324260946739201'
+p10343
+S'Not Informative'
+p10344
+sS'541409455968354304'
+p10345
+S'Other Relevant Information'
+p10346
+sS'542234095560826880'
+p10347
+S'Infrastructure Damage'
+p10348
+sS'541563766358691841'
+p10349
+S'Other Relevant Information'
+p10350
+sS'541367526437822464'
+p10351
+S'Other Relevant Information'
+p10352
+sS'541529348893724673'
+p10353
+S'Not Informative'
+p10354
+sS'542343501174689792'
+p10355
+S'Other Relevant Information'
+p10356
+sS'541863393351585792'
+p10357
+S'Not Informative'
+p10358
+sS'541768712500432896'
+p10359
+S'Not Informative'
+p10360
+sS'541272820710264833'
+p10361
+S'Other Relevant Information'
+p10362
+sS'541439685478727683'
+p10363
+S'Other Relevant Information'
+p10364
+sS'541959865225072640'
+p10365
+S'Other Relevant Information'
+p10366
+sS'541936812264919041'
+p10367
+S'Humanitarian Aid Provided'
+p10368
+sS'541628554111635457'
+p10369
+S'Not Informative'
+p10370
+sS'541817978560319488'
+p10371
+S'Not Informative'
+p10372
+sS'541503253461364737'
+p10373
+S'Not Informative'
+p10374
+sS'541519702623666176'
+p10375
+S'Other Relevant Information'
+p10376
+sS'541401052524711937'
+p10377
+S'Not Informative'
+p10378
+sS'541716867732492288'
+p10379
+S'Not Informative'
+p10380
+sS'541577718815789056'
+p10381
+S'Humanitarian Aid Provided'
+p10382
+sS'542297899464273920'
+p10383
+S'Other Relevant Information'
+p10384
+sS'541950579056979968'
+p10385
+S'Not Informative'
+p10386
+sS'541392673257431042'
+p10387
+S'Not Informative'
+p10388
+sS'541485858272989184'
+p10389
+S'Not Informative'
+p10390
+sS'541979087401521152'
+p10391
+S'Not Informative'
+p10392
+sS'541297321263116288'
+p10393
+S'Other Relevant Information'
+p10394
+sS'541885813777121280'
+p10395
+S'Not Informative'
+p10396
+sS'541978473858756608'
+p10397
+S'Not Informative'
+p10398
+sS'541540342860750848'
+p10399
+S'Other Relevant Information'
+p10400
+sS'541494595167596544'
+p10401
+S'Not Informative'
+p10402
+sS'541986959569485824'
+p10403
+S'Not Informative'
+p10404
+sS'541762187467837440'
+p10405
+S'Not Informative'
+p10406
+sS'541363126575185921'
+p10407
+S'Not Informative'
+p10408
+sS'542039681840324608'
+p10409
+S'Not Informative'
+p10410
+sS'541514414675881985'
+p10411
+S'Infrastructure Damage'
+p10412
+sS'541603340099280896'
+p10413
+S'Not Informative'
+p10414
+sS'541578255736664064'
+p10415
+S'Not Informative'
+p10416
+sS'542024550339584000'
+p10417
+S'Not Informative'
+p10418
+sS'541692597618483200'
+p10419
+S'Not Informative'
+p10420
+sS'541782884760043520'
+p10421
+S'Not Informative'
+p10422
+sS'541700576476545025'
+p10423
+S'Not Informative'
+p10424
+sS'541099561729531904'
+p10425
+S'Other Relevant Information'
+p10426
+sS'541883181805625344'
+p10427
+S'Not Informative'
+p10428
+sS'541410163370885120'
+p10429
+S'Other Relevant Information'
+p10430
+sS'541881511641751552'
+p10431
+S'Not Informative'
+p10432
+sS'541952901954801666'
+p10433
+S'Other Relevant Information'
+p10434
+sS'541393451015618560'
+p10435
+S'Not Informative'
+p10436
+sS'541512114787987456'
+p10437
+S'Not Informative'
+p10438
+sS'541608589266530304'
+p10439
+S'Not Informative'
+p10440
+sS'541387896838959104'
+p10441
+S'Other Relevant Information'
+p10442
+sS'541744536004083712'
+p10443
+S'Not Informative'
+p10444
+sS'541722674805112832'
+p10445
+S'Not Informative'
+p10446
+sS'541959196720123906'
+p10447
+S'Not Informative'
+p10448
+sS'541956153383456769'
+p10449
+S'Not Informative'
+p10450
+sS'542299285547532288'
+p10451
+S'Other Relevant Information'
+p10452
+sS'542033638817136640'
+p10453
+S'Not Informative'
+p10454
+sS'541703664034136064'
+p10455
+S'Not Informative'
+p10456
+sS'541587496619245569'
+p10457
+S'Other Relevant Information'
+p10458
+sS'541458065866764288'
+p10459
+S'Not Informative'
+p10460
+sS'542208136976039936'
+p10461
+S'Not Informative'
+p10462
+sS'542268158392799232'
+p10463
+S'Other Relevant Information'
+p10464
+sS'541635700484227072'
+p10465
+S'Other Relevant Information'
+p10466
+sS'541442192045510656'
+p10467
+S'Not Informative'
+p10468
+sS'542452044552888321'
+p10469
+S'Not Informative'
+p10470
+sS'541609223201632256'
+p10471
+S'Not Informative'
+p10472
+sS'542263001416343552'
+p10473
+S'Not Informative'
+p10474
+sS'541815028173639682'
+p10475
+S'Not Informative'
+p10476
+sS'541251792634257409'
+p10477
+S'Not Informative'
+p10478
+sS'541999319638081537'
+p10479
+S'Not Informative'
+p10480
+sS'541934526390226944'
+p10481
+S'Infrastructure Damage'
+p10482
+sS'541621378160410624'
+p10483
+S'Not Informative'
+p10484
+sS'541522586513833984'
+p10485
+S'Not Informative'
+p10486
+sS'541789472401006592'
+p10487
+S'Other Relevant Information'
+p10488
+sS'541454341723275265'
+p10489
+S'Other Relevant Information'
+p10490
+sS'541410732706119681'
+p10491
+S'Not Informative'
+p10492
+sS'542296340039204864'
+p10493
+S'Not Informative'
+p10494
+sS'541518600368951296'
+p10495
+S'Not Informative'
+p10496
+sS'541513844053377024'
+p10497
+S'Other Relevant Information'
+p10498
+sS'541284933478518784'
+p10499
+S'Not Informative'
+p10500
+sS'541566136915984384'
+p10501
+S'Not Informative'
+p10502
+sS'541145288774131712'
+p10503
+S'Not Informative'
+p10504
+sS'541481580275843073'
+p10505
+S'Not Informative'
+p10506
+sS'541436943033065473'
+p10507
+S'Not Informative'
+p10508
+sS'541587911863320578'
+p10509
+S'Infrastructure Damage'
+p10510
+sS'541384250252341248'
+p10511
+S'Other Relevant Information'
+p10512
+sS'541513912517005312'
+p10513
+S'Not Informative'
+p10514
+sS'542250176149483520'
+p10515
+S'Other Relevant Information'
+p10516
+sS'541465198347829249'
+p10517
+S'Not Informative'
+p10518
+sS'541562248926212096'
+p10519
+S'Not Informative'
+p10520
+sS'542366135341957120'
+p10521
+S'Not Informative'
+p10522
+sS'541642346148794368'
+p10523
+S'Not Informative'
+p10524
+sS'542444636229222402'
+p10525
+S'Other Relevant Information'
+p10526
+sS'541488574055448576'
+p10527
+S'Not Informative'
+p10528
+sS'541887105572425728'
+p10529
+S'Not Informative'
+p10530
+sS'542193597421199360'
+p10531
+S'Not Informative'
+p10532
+sS'541941332780912640'
+p10533
+S'Requests for Help/Needs'
+p10534
+sS'542436415473082369'
+p10535
+S'Other Relevant Information'
+p10536
+sS'542308591907381248'
+p10537
+S'Not Informative'
+p10538
+sS'541740649498697728'
+p10539
+S'Not Informative'
+p10540
+sS'541447091642306560'
+p10541
+S'Humanitarian Aid Provided'
+p10542
+sS'542126019570700288'
+p10543
+S'Other Relevant Information'
+p10544
+sS'541685589696077826'
+p10545
+S'Not Informative'
+p10546
+sS'541611825952198656'
+p10547
+S'Not Informative'
+p10548
+sS'541474832094097408'
+p10549
+S'Not Informative'
+p10550
+sS'541149397778579457'
+p10551
+S'Other Relevant Information'
+p10552
+sS'541754473178480640'
+p10553
+S'Not Informative'
+p10554
+sS'541846031194148864'
+p10555
+S'Not Informative'
+p10556
+sS'542190526934417408'
+p10557
+S'Not Informative'
+p10558
+sS'541385169391734785'
+p10559
+S'Not Informative'
+p10560
+sS'541425498681643008'
+p10561
+S'Not Informative'
+p10562
+sS'541494782032228353'
+p10563
+S'Not Informative'
+p10564
+sS'541169543792435201'
+p10565
+S'Not Informative'
+p10566
+sS'541905341076602880'
+p10567
+S'Not Informative'
+p10568
+sS'541978386369765377'
+p10569
+S'Not Informative'
+p10570
+sS'541577009630302208'
+p10571
+S'Not Informative'
+p10572
+sS'541590880843337728'
+p10573
+S'Not Informative'
+p10574
+sS'541531497170096129'
+p10575
+S'Not Informative'
+p10576
+sS'541512575276818433'
+p10577
+S'Not Informative'
+p10578
+sS'542324061360386048'
+p10579
+S'Other Relevant Information'
+p10580
+sS'541499925872123904'
+p10581
+S'Other Relevant Information'
+p10582
+sS'542444107923079170'
+p10583
+S'Not Informative'
+p10584
+sS'541457979405393920'
+p10585
+S'Not Informative'
+p10586
+sS'541438681785974784'
+p10587
+S'Humanitarian Aid Provided'
+p10588
+sS'542297774516367360'
+p10589
+S'Other Relevant Information'
+p10590
+sS'541927613556465665'
+p10591
+S'Not Informative'
+p10592
+sS'541947862486360064'
+p10593
+S'Not Informative'
+p10594
+sS'542262200560148481'
+p10595
+S'Not Informative'
+p10596
+sS'541936642726965249'
+p10597
+S'Humanitarian Aid Provided'
+p10598
+sS'542387220582518784'
+p10599
+S'Other Relevant Information'
+p10600
+sS'542294395827937280'
+p10601
+S'Not Informative'
+p10602
+sS'541385701456355329'
+p10603
+S'Not Informative'
+p10604
+sS'541532742895149057'
+p10605
+S'Humanitarian Aid Provided'
+p10606
+sS'541390517657808896'
+p10607
+S'Infrastructure Damage'
+p10608
+sS'541981497830281216'
+p10609
+S'Other Relevant Information'
+p10610
+sS'541420879515619328'
+p10611
+S'Not Informative'
+p10612
+sS'541600574190276608'
+p10613
+S'Not Informative'
+p10614
+sS'541938262265577472'
+p10615
+S'Not Informative'
+p10616
+sS'541153713277001728'
+p10617
+S'Not Informative'
+p10618
+sS'541456824726085632'
+p10619
+S'Not Informative'
+p10620
+sS'541730750358245376'
+p10621
+S'Not Informative'
+p10622
+sS'541509840703467520'
+p10623
+S'Other Relevant Information'
+p10624
+sS'542021954639646721'
+p10625
+S'Not Informative'
+p10626
+sS'541750194484682752'
+p10627
+S'Not Informative'
+p10628
+sS'541621967514644480'
+p10629
+S'Not Informative'
+p10630
+sS'541555813849255937'
+p10631
+S'Other Relevant Information'
+p10632
+sS'541243336082739200'
+p10633
+S'Not Informative'
+p10634
+sS'541493742998671360'
+p10635
+S'Not Informative'
+p10636
+sS'541639210256441344'
+p10637
+S'Not Informative'
+p10638
+sS'542153171552845824'
+p10639
+S'Not Informative'
+p10640
+sS'541920342956986368'
+p10641
+S'Not Informative'
+p10642
+sS'541802577680035841'
+p10643
+S'Not Informative'
+p10644
+sS'541460406829473793'
+p10645
+S'Not Informative'
+p10646
+sS'541987053563416576'
+p10647
+S'Not Informative'
+p10648
+sS'541949643127390209'
+p10649
+S'Not Informative'
+p10650
+sS'542222637267968000'
+p10651
+S'Other Relevant Information'
+p10652
+sS'541377422684205056'
+p10653
+S'Not Informative'
+p10654
+sS'541179754053783554'
+p10655
+S'Not Informative'
+p10656
+sS'541321465715765248'
+p10657
+S'Not Informative'
+p10658
+sS'541831568877035520'
+p10659
+S'Not Informative'
+p10660
+sS'541885908308328448'
+p10661
+S'Not Informative'
+p10662
+sS'541465006789783552'
+p10663
+S'Not Informative'
+p10664
+sS'541889686189645824'
+p10665
+S'Not Informative'
+p10666
+sS'541477589416566784'
+p10667
+S'Other Relevant Information'
+p10668
+sS'541947861869395968'
+p10669
+S'Other Relevant Information'
+p10670
+sS'541625750361608192'
+p10671
+S'Other Relevant Information'
+p10672
+sS'541878910758055936'
+p10673
+S'Not Informative'
+p10674
+sS'541865893953691650'
+p10675
+S'Not Informative'
+p10676
+sS'541438413333737473'
+p10677
+S'Humanitarian Aid Provided'
+p10678
+sS'541803579346923520'
+p10679
+S'Other Relevant Information'
+p10680
+sS'541649287503814656'
+p10681
+S'Not Informative'
+p10682
+sS'541827411701030912'
+p10683
+S'Not Informative'
+p10684
+sS'541853407120588800'
+p10685
+S'Not Informative'
+p10686
+sS'541425688994390016'
+p10687
+S'Not Informative'
+p10688
+sS'541417190453288961'
+p10689
+S'Not Informative'
+p10690
+sS'542265302760062976'
+p10691
+S'Not Informative'
+p10692
+sS'541945660048932864'
+p10693
+S'Other Relevant Information'
+p10694
+sS'541522032798609408'
+p10695
+S'Other Relevant Information'
+p10696
+sS'541384514623127552'
+p10697
+S'Other Relevant Information'
+p10698
+sS'541672830669041665'
+p10699
+S'Not Informative'
+p10700
+sS'541483922383962112'
+p10701
+S'Other Relevant Information'
+p10702
+sS'541533856143523841'
+p10703
+S'Other Relevant Information'
+p10704
+sS'542345431598907394'
+p10705
+S'Not Informative'
+p10706
+sS'541795733649629184'
+p10707
+S'Not Informative'
+p10708
+sS'541603003523149825'
+p10709
+S'Not Informative'
+p10710
+sS'541268687542439938'
+p10711
+S'Not Informative'
+p10712
+sS'541944586193498112'
+p10713
+S'Not Informative'
+p10714
+sS'542437330791841792'
+p10715
+S'Other Relevant Information'
+p10716
+sS'541413662951735297'
+p10717
+S'Not Informative'
+p10718
+sS'541941522686418944'
+p10719
+S'Not Informative'
+p10720
+sS'542167900157902848'
+p10721
+S'Not Informative'
+p10722
+sS'541583046437126144'
+p10723
+S'Not Informative'
+p10724
+sS'542121944682745856'
+p10725
+S'Not Informative'
+p10726
+sS'541688206819737600'
+p10727
+S'Not Informative'
+p10728
+sS'541513440981168128'
+p10729
+S'Not Informative'
+p10730
+sS'541761055219662848'
+p10731
+S'Not Informative'
+p10732
+sS'542358455260946432'
+p10733
+S'Not Informative'
+p10734
+sS'541454540713648129'
+p10735
+S'Not Informative'
+p10736
+sS'541380786092376064'
+p10737
+S'Not Informative'
+p10738
+sS'541316340792172544'
+p10739
+S'Not Informative'
+p10740
+sS'541441180005715968'
+p10741
+S'Not Informative'
+p10742
+sS'541705486455017472'
+p10743
+S'Not Informative'
+p10744
+sS'541154371112042496'
+p10745
+S'Not Informative'
+p10746
+sS'541671035293409280'
+p10747
+S'Other Relevant Information'
+p10748
+sS'541352343430635520'
+p10749
+S'Other Relevant Information'
+p10750
+sS'541809565424451584'
+p10751
+S'Not Informative'
+p10752
+sS'542217950619770880'
+p10753
+S'Not Informative'
+p10754
+sS'541426798748110848'
+p10755
+S'Other Relevant Information'
+p10756
+sS'541158374616748034'
+p10757
+S'Other Relevant Information'
+p10758
+sS'541365256589938689'
+p10759
+S'Not Informative'
+p10760
+sS'541578468442775553'
+p10761
+S'Not Informative'
+p10762
+sS'541139314336620544'
+p10763
+S'Other Relevant Information'
+p10764
+sS'541631653081137153'
+p10765
+S'Not Informative'
+p10766
+sS'541766973345247232'
+p10767
+S'Not Informative'
+p10768
+sS'541258496985939968'
+p10769
+S'Not Informative'
+p10770
+sS'541634416015978496'
+p10771
+S'Not Informative'
+p10772
+sS'541954784220024832'
+p10773
+S'Not Informative'
+p10774
+sS'541347854678507520'
+p10775
+S'Not Informative'
+p10776
+sS'541505181372776449'
+p10777
+S'Not Informative'
+p10778
+sS'541306006471704576'
+p10779
+S'Other Relevant Information'
+p10780
+sS'541700715711053824'
+p10781
+S'Not Informative'
+p10782
+sS'541373456806604802'
+p10783
+S'Other Relevant Information'
+p10784
+sS'541144735428001793'
+p10785
+S'Not Informative'
+p10786
+sS'541427035487207424'
+p10787
+S'Not Informative'
+p10788
+sS'541705458562502656'
+p10789
+S'Not Informative'
+p10790
+sS'541946261184589824'
+p10791
+S'Not Informative'
+p10792
+sS'541403456503050240'
+p10793
+S'Other Relevant Information'
+p10794
+sS'541485889075965953'
+p10795
+S'Not Informative'
+p10796
+sS'541507261072277504'
+p10797
+S'Other Relevant Information'
+p10798
+sS'541893581817249792'
+p10799
+S'Not Informative'
+p10800
+sS'541639976274776064'
+p10801
+S'Not Informative'
+p10802
+sS'541839420522266625'
+p10803
+S'Not Informative'
+p10804
+sS'541432782677737473'
+p10805
+S'Not Informative'
+p10806
+sS'541519040561160192'
+p10807
+S'Not Informative'
+p10808
+sS'541705366908596224'
+p10809
+S'Not Informative'
+p10810
+sS'541467742465835008'
+p10811
+S'Not Informative'
+p10812
+sS'542016201983942656'
+p10813
+S'Not Informative'
+p10814
+sS'541996420526772224'
+p10815
+S'Not Informative'
+p10816
+sS'541627658597969920'
+p10817
+S'Not Informative'
+p10818
+sS'542246774141095936'
+p10819
+S'Other Relevant Information'
+p10820
+sS'542196595026956288'
+p10821
+S'Not Informative'
+p10822
+sS'542121652025188352'
+p10823
+S'Other Relevant Information'
+p10824
+sS'541106558118019072'
+p10825
+S'Not Informative'
+p10826
+sS'541580545604349952'
+p10827
+S'Not Informative'
+p10828
+sS'541486821503291392'
+p10829
+S'Not Informative'
+p10830
+sS'541938274827116544'
+p10831
+S'Not Informative'
+p10832
+sS'542319711778652160'
+p10833
+S'Not Informative'
+p10834
+sS'541451738016796672'
+p10835
+S'Not Informative'
+p10836
+sS'541865844171481088'
+p10837
+S'Not Informative'
+p10838
+sS'542319128972132352'
+p10839
+S'Not Informative'
+p10840
+sS'541948238363119616'
+p10841
+S'Infrastructure Damage'
+p10842
+sS'541864523297062913'
+p10843
+S'Not Informative'
+p10844
+sS'541552350935412736'
+p10845
+S'Not Informative'
+p10846
+sS'542017742899933184'
+p10847
+S'Not Informative'
+p10848
+sS'541456110159294464'
+p10849
+S'Not Informative'
+p10850
+sS'541648482126139392'
+p10851
+S'Not Informative'
+p10852
+sS'541947989192093696'
+p10853
+S'Not Informative'
+p10854
+sS'541957144031932419'
+p10855
+S'Not Informative'
+p10856
+sS'541522757591515136'
+p10857
+S'Not Informative'
+p10858
+sS'541360667299962880'
+p10859
+S'Other Relevant Information'
+p10860
+sS'542343152620011520'
+p10861
+S'Other Relevant Information'
+p10862
+sS'541439264852963329'
+p10863
+S'Not Informative'
+p10864
+sS'541435565036810240'
+p10865
+S'Not Informative'
+p10866
+sS'541649562562088961'
+p10867
+S'Other Relevant Information'
+p10868
+sS'541665905168490496'
+p10869
+S'Not Informative'
+p10870
+sS'541495379494465536'
+p10871
+S'Other Relevant Information'
+p10872
+sS'541483446133350401'
+p10873
+S'Other Relevant Information'
+p10874
+sS'541956746239950848'
+p10875
+S'Not Informative'
+p10876
+sS'541574104340783104'
+p10877
+S'Other Relevant Information'
+p10878
+sS'541940569052680192'
+p10879
+S'Not Informative'
+p10880
+sS'541517515260583937'
+p10881
+S'Not Informative'
+p10882
+sS'542223970691338240'
+p10883
+S'Not Informative'
+p10884
+sS'541543247881846784'
+p10885
+S'Not Informative'
+p10886
+sS'542261966325039104'
+p10887
+S'Other Relevant Information'
+p10888
+sS'541973449262911488'
+p10889
+S'Not Informative'
+p10890
+sS'541761751281192961'
+p10891
+S'Not Informative'
+p10892
+sS'541820880490598400'
+p10893
+S'Not Informative'
+p10894
+sS'541472791652884481'
+p10895
+S'Humanitarian Aid Provided'
+p10896
+sS'542274323122507776'
+p10897
+S'Not Informative'
+p10898
+sS'542246624936751104'
+p10899
+S'Other Relevant Information'
+p10900
+sS'541737153902825472'
+p10901
+S'Not Informative'
+p10902
+sS'541296654427512832'
+p10903
+S'Other Relevant Information'
+p10904
+sS'541652936141840384'
+p10905
+S'Not Informative'
+p10906
+sS'541892189664444416'
+p10907
+S'Not Informative'
+p10908
+sS'541815011711008768'
+p10909
+S'Other Relevant Information'
+p10910
+sS'541444561386500096'
+p10911
+S'Other Relevant Information'
+p10912
+sS'541939086466883585'
+p10913
+S'Not Informative'
+p10914
+sS'541509192566075393'
+p10915
+S'Not Informative'
+p10916
+sS'541455781947015168'
+p10917
+S'Other Relevant Information'
+p10918
+sS'541925142184484864'
+p10919
+S'Other Relevant Information'
+p10920
+sS'541980142105419777'
+p10921
+S'Not Informative'
+p10922
+sS'541989195737083905'
+p10923
+S'Humanitarian Aid Provided'
+p10924
+sS'541737528634527746'
+p10925
+S'Not Informative'
+p10926
+sS'542373548921073664'
+p10927
+S'Not Informative'
+p10928
+sS'542376815705063424'
+p10929
+S'Not Informative'
+p10930
+sS'541364530589093888'
+p10931
+S'Not Informative'
+p10932
+sS'541774330309652480'
+p10933
+S'Humanitarian Aid Provided'
+p10934
+sS'541823704557039616'
+p10935
+S'Not Informative'
+p10936
+sS'542374873578745857'
+p10937
+S'Other Relevant Information'
+p10938
+sS'541943176236240896'
+p10939
+S'Other Relevant Information'
+p10940
+sS'541447512947556352'
+p10941
+S'Not Informative'
+p10942
+sS'541937803480023040'
+p10943
+S'Not Informative'
+p10944
+sS'541987035892822017'
+p10945
+S'Infrastructure Damage'
+p10946
+sS'542268047432503296'
+p10947
+S'Not Informative'
+p10948
+sS'541987707837112320'
+p10949
+S'Other Relevant Information'
+p10950
+sS'541593726263361538'
+p10951
+S'Not Informative'
+p10952
+sS'541383913428365313'
+p10953
+S'Not Informative'
+p10954
+sS'541800813874515968'
+p10955
+S'Not Informative'
+p10956
+sS'541800432646234112'
+p10957
+S'Not Informative'
+p10958
+sS'541593622282399746'
+p10959
+S'Not Informative'
+p10960
+sS'541974986664472576'
+p10961
+S'Not Informative'
+p10962
+sS'541916411317075968'
+p10963
+S'Humanitarian Aid Provided'
+p10964
+sS'541431279669891074'
+p10965
+S'Other Relevant Information'
+p10966
+sS'541838539605155840'
+p10967
+S'Not Informative'
+p10968
+sS'542358534839873536'
+p10969
+S'Other Relevant Information'
+p10970
+sS'541945759763951617'
+p10971
+S'Not Informative'
+p10972
+sS'541957805851164672'
+p10973
+S'Not Informative'
+p10974
+sS'541777418407931904'
+p10975
+S'Not Informative'
+p10976
+sS'541583551028658178'
+p10977
+S'Not Informative'
+p10978
+sS'541382213204725760'
+p10979
+S'Other Relevant Information'
+p10980
+sS'541489951964397568'
+p10981
+S'Other Relevant Information'
+p10982
+sS'541520380184113152'
+p10983
+S'Not Informative'
+p10984
+sS'541471984597475328'
+p10985
+S'Other Relevant Information'
+p10986
+sS'541544631432118272'
+p10987
+S'Not Informative'
+p10988
+sS'541845948834410496'
+p10989
+S'Not Informative'
+p10990
+sS'541812961472679936'
+p10991
+S'Not Informative'
+p10992
+sS'541741611961438208'
+p10993
+S'Not Informative'
+p10994
+sS'541771739169296384'
+p10995
+S'Not Informative'
+p10996
+sS'541471210479947776'
+p10997
+S'Not Informative'
+p10998
+sS'541513548309217280'
+p10999
+S'Not Informative'
+p11000
+sS'541970643369996288'
+p11001
+S'Not Informative'
+p11002
+sS'542142480712343552'
+p11003
+S'Not Informative'
+p11004
+sS'541618524506968065'
+p11005
+S'Not Informative'
+p11006
+sS'541285443497914368'
+p11007
+S'Not Informative'
+p11008
+sS'541974199339085825'
+p11009
+S'Not Informative'
+p11010
+sS'542025431021416448'
+p11011
+S'Not Informative'
+p11012
+sS'541471880742322176'
+p11013
+S'Not Informative'
+p11014
+sS'541978434981752833'
+p11015
+S'Not Informative'
+p11016
+sS'542191277484163072'
+p11017
+S'Other Relevant Information'
+p11018
+sS'541425576670527488'
+p11019
+S'Not Informative'
+p11020
+sS'542005428826030080'
+p11021
+S'Not Informative'
+p11022
+sS'541750243000594432'
+p11023
+S'Not Informative'
+p11024
+sS'541535362112552960'
+p11025
+S'Other Relevant Information'
+p11026
+sS'542201484117815296'
+p11027
+S'Not Informative'
+p11028
+sS'542288204192174080'
+p11029
+S'Not Informative'
+p11030
+sS'541821201614508033'
+p11031
+S'Not Informative'
+p11032
+sS'541340106481618944'
+p11033
+S'Other Relevant Information'
+p11034
+sS'541369802464309248'
+p11035
+S'Not Informative'
+p11036
+sS'541358079456342016'
+p11037
+S'Not Informative'
+p11038
+sS'541518540357251074'
+p11039
+S'Other Relevant Information'
+p11040
+sS'541505996745895937'
+p11041
+S'Other Relevant Information'
+p11042
+sS'541286733225029632'
+p11043
+S'Other Relevant Information'
+p11044
+sS'541522672241233920'
+p11045
+S'Not Informative'
+p11046
+sS'541451848549687296'
+p11047
+S'Other Relevant Information'
+p11048
+sS'541794862358859778'
+p11049
+S'Not Informative'
+p11050
+sS'541970897867796480'
+p11051
+S'Not Informative'
+p11052
+sS'542287827850244096'
+p11053
+S'Other Relevant Information'
+p11054
+sS'541936822025478144'
+p11055
+S'Not Informative'
+p11056
+sS'541472477411803138'
+p11057
+S'Not Informative'
+p11058
+sS'542146715021623296'
+p11059
+S'Not Informative'
+p11060
+sS'542428258847821825'
+p11061
+S'Not Informative'
+p11062
+sS'541584869147418625'
+p11063
+S'Not Informative'
+p11064
+sS'541516451949973505'
+p11065
+S'Other Relevant Information'
+p11066
+sS'541806270110375936'
+p11067
+S'Not Informative'
+p11068
+sS'541658601530871808'
+p11069
+S'Not Informative'
+p11070
+sS'541434931491401728'
+p11071
+S'Not Informative'
+p11072
+sS'541825073477193729'
+p11073
+S'Not Informative'
+p11074
+sS'541868320174395392'
+p11075
+S'Not Informative'
+p11076
+sS'541783084203397121'
+p11077
+S'Not Informative'
+p11078
+sS'541696646254321665'
+p11079
+S'Other Relevant Information'
+p11080
+sS'542393754200862720'
+p11081
+S'Humanitarian Aid Provided'
+p11082
+sS'541594271141224448'
+p11083
+S'Not Informative'
+p11084
+sS'541845157025697792'
+p11085
+S'Not Informative'
+p11086
+sS'541289308792320001'
+p11087
+S'Not Informative'
+p11088
+sS'541799004263432192'
+p11089
+S'Other Relevant Information'
+p11090
+sS'542258984451731456'
+p11091
+S'Other Relevant Information'
+p11092
+sS'541949220685885441'
+p11093
+S'Infrastructure Damage'
+p11094
+sS'542322812556304384'
+p11095
+S'Humanitarian Aid Provided'
+p11096
+sS'541769060413763584'
+p11097
+S'Not Informative'
+p11098
+sS'541522827338215424'
+p11099
+S'Not Informative'
+p11100
+sS'541421837196853248'
+p11101
+S'Not Informative'
+p11102
+sS'541403989103767552'
+p11103
+S'Not Informative'
+p11104
+sS'541728835801067520'
+p11105
+S'Not Informative'
+p11106
+sS'541595430552088576'
+p11107
+S'Not Informative'
+p11108
+sS'542292536845299712'
+p11109
+S'Not Informative'
+p11110
+sS'541500659212623872'
+p11111
+S'Not Informative'
+p11112
+sS'541942802046013440'
+p11113
+S'Not Informative'
+p11114
+sS'541483734835294208'
+p11115
+S'Not Informative'
+p11116
+sS'541101420754530304'
+p11117
+S'Other Relevant Information'
+p11118
+sS'541453730617380864'
+p11119
+S'Other Relevant Information'
+p11120
+sS'541156944442957825'
+p11121
+S'Not Informative'
+p11122
+sS'541578356295077888'
+p11123
+S'Other Relevant Information'
+p11124
+sS'541850233517256704'
+p11125
+S'Not Informative'
+p11126
+sS'541506425844166656'
+p11127
+S'Not Informative'
+p11128
+sS'542032162942644225'
+p11129
+S'Not Informative'
+p11130
+sS'541653486950023168'
+p11131
+S'Other Relevant Information'
+p11132
+sS'541844588290244609'
+p11133
+S'Not Informative'
+p11134
+sS'541233229722681344'
+p11135
+S'Other Relevant Information'
+p11136
+sS'541654489129046016'
+p11137
+S'Not Informative'
+p11138
+sS'541985178118135809'
+p11139
+S'Not Informative'
+p11140
+sS'542000714340261888'
+p11141
+S'Not Informative'
+p11142
+sS'542208578111561728'
+p11143
+S'Not Informative'
+p11144
+sS'542028203314126849'
+p11145
+S'Not Informative'
+p11146
+sS'541834222101463040'
+p11147
+S'Not Informative'
+p11148
+sS'541491169155235841'
+p11149
+S'Not Informative'
+p11150
+sS'541507584323104768'
+p11151
+S'Other Relevant Information'
+p11152
+sS'541588063986515968'
+p11153
+S'Not Informative'
+p11154
+sS'541472902093082625'
+p11155
+S'Other Relevant Information'
+p11156
+sS'541974739128836096'
+p11157
+S'Not Informative'
+p11158
+sS'541468287214039040'
+p11159
+S'Not Informative'
+p11160
+sS'542343183246442496'
+p11161
+S'Not Informative'
+p11162
+sS'541974402519162881'
+p11163
+S'Not Informative'
+p11164
+sS'542240132787863552'
+p11165
+S'Other Relevant Information'
+p11166
+sS'541424350801305600'
+p11167
+S'Not Informative'
+p11168
+sS'541645776628101120'
+p11169
+S'Other Relevant Information'
+p11170
+sS'541996055425204224'
+p11171
+S'Not Informative'
+p11172
+sS'541368897677455360'
+p11173
+S'Not Informative'
+p11174
+sS'541888206312984577'
+p11175
+S'Not Informative'
+p11176
+sS'541273047055888385'
+p11177
+S'Other Relevant Information'
+p11178
+sS'541892184778108928'
+p11179
+S'Not Informative'
+p11180
+sS'541924510400671744'
+p11181
+S'Not Informative'
+p11182
+sS'541457778120744960'
+p11183
+S'Not Informative'
+p11184
+sS'541727081311113216'
+p11185
+S'Not Informative'
+p11186
+sS'541778404006039553'
+p11187
+S'Not Informative'
+p11188
+sS'541619033611583488'
+p11189
+S'Not Informative'
+p11190
+sS'541730789101035520'
+p11191
+S'Not Informative'
+p11192
+sS'541987474214764544'
+p11193
+S'Not Informative'
+p11194
+sS'541948650428325888'
+p11195
+S'Not Informative'
+p11196
+sS'541576870454517762'
+p11197
+S'Not Informative'
+p11198
+sS'542270900423245825'
+p11199
+S'Other Relevant Information'
+p11200
+sS'541782641381736448'
+p11201
+S'Other Relevant Information'
+p11202
+sS'542308693015293952'
+p11203
+S'Not Informative'
+p11204
+sS'542226675761946624'
+p11205
+S'Not Informative'
+p11206
+sS'541365524286828544'
+p11207
+S'Other Relevant Information'
+p11208
+sS'541798054547177472'
+p11209
+S'Not Informative'
+p11210
+sS'541766188163145729'
+p11211
+S'Not Informative'
+p11212
+sS'541403516808331264'
+p11213
+S'Not Informative'
+p11214
+sS'541531513666678784'
+p11215
+S'Not Informative'
+p11216
+sS'541752357588324352'
+p11217
+S'Not Informative'
+p11218
+sS'541730800061120512'
+p11219
+S'Not Informative'
+p11220
+sS'541896761426444288'
+p11221
+S'Not Informative'
+p11222
+sS'541939069144408064'
+p11223
+S'Not Informative'
+p11224
+sS'541936135644016640'
+p11225
+S'Not Informative'
+p11226
+sS'541763926443036672'
+p11227
+S'Not Informative'
+p11228
+sS'541441277783334914'
+p11229
+S'Not Informative'
+p11230
+sS'541405756612812800'
+p11231
+S'Not Informative'
+p11232
+sS'542037574437449730'
+p11233
+S'Not Informative'
+p11234
+sS'541806818159128577'
+p11235
+S'Not Informative'
+p11236
+sS'541537805348790272'
+p11237
+S'Not Informative'
+p11238
+sS'541649345381007360'
+p11239
+S'Not Informative'
+p11240
+sS'541912110028967938'
+p11241
+S'Other Relevant Information'
+p11242
+sS'541583442597920768'
+p11243
+S'Not Informative'
+p11244
+sS'541772025774485504'
+p11245
+S'Not Informative'
+p11246
+sS'542355764526866432'
+p11247
+S'Not Informative'
+p11248
+sS'541149070375804929'
+p11249
+S'Other Relevant Information'
+p11250
+sS'541498319051030528'
+p11251
+S'Not Informative'
+p11252
+sS'541660729233797120'
+p11253
+S'Not Informative'
+p11254
+sS'541429133071228929'
+p11255
+S'Not Informative'
+p11256
+sS'541854344375578624'
+p11257
+S'Not Informative'
+p11258
+sS'541581907293519874'
+p11259
+S'Not Informative'
+p11260
+sS'541846438389747712'
+p11261
+S'Not Informative'
+p11262
+sS'541903839012462593'
+p11263
+S'Not Informative'
+p11264
+sS'541574605970755584'
+p11265
+S'Not Informative'
+p11266
+sS'541445412142346241'
+p11267
+S'Not Informative'
+p11268
+sS'542352744661909504'
+p11269
+S'Other Relevant Information'
+p11270
+sS'542143878376091648'
+p11271
+S'Not Informative'
+p11272
+sS'541620183975358465'
+p11273
+S'Not Informative'
+p11274
+sS'541478877642514433'
+p11275
+S'Not Informative'
+p11276
+sS'542418802546184192'
+p11277
+S'Not Informative'
+p11278
+sS'541939056553127937'
+p11279
+S'Other Relevant Information'
+p11280
+sS'541695504816406528'
+p11281
+S'Not Informative'
+p11282
+sS'541947467470606339'
+p11283
+S'Not Informative'
+p11284
+sS'541386180424523776'
+p11285
+S'Other Relevant Information'
+p11286
+sS'541982606204481538'
+p11287
+S'Not Informative'
+p11288
+sS'541586295378571264'
+p11289
+S'Not Informative'
+p11290
+sS'541274887135170561'
+p11291
+S'Other Relevant Information'
+p11292
+sS'541481597015318528'
+p11293
+S'Requests for Help/Needs'
+p11294
+sS'541960749816766465'
+p11295
+S'Other Relevant Information'
+p11296
+sS'541978603064655873'
+p11297
+S'Not Informative'
+p11298
+sS'541875085670223872'
+p11299
+S'Not Informative'
+p11300
+sS'541720101599600640'
+p11301
+S'Not Informative'
+p11302
+sS'541650650573307904'
+p11303
+S'Not Informative'
+p11304
+sS'542452681290170368'
+p11305
+S'Other Relevant Information'
+p11306
+sS'541415260834377729'
+p11307
+S'Not Informative'
+p11308
+sS'541894535111266304'
+p11309
+S'Not Informative'
+p11310
+sS'541598979188740096'
+p11311
+S'Not Informative'
+p11312
+sS'541460891472904193'
+p11313
+S'Not Informative'
+p11314
+sS'541515209463312384'
+p11315
+S'Not Informative'
+p11316
+sS'541621422578098177'
+p11317
+S'Not Informative'
+p11318
+sS'541603769310781440'
+p11319
+S'Not Informative'
+p11320
+sS'541499386954805248'
+p11321
+S'Other Relevant Information'
+p11322
+sS'542023166420197376'
+p11323
+S'Not Informative'
+p11324
+sS'541476440038854656'
+p11325
+S'Not Informative'
+p11326
+sS'541751763221483520'
+p11327
+S'Not Informative'
+p11328
+sS'541453020181979136'
+p11329
+S'Other Relevant Information'
+p11330
+sS'541264106410369025'
+p11331
+S'Not Informative'
+p11332
+sS'541957278845255684'
+p11333
+S'Not Informative'
+p11334
+sS'541516034705199104'
+p11335
+S'Not Informative'
+p11336
+sS'541157901952241664'
+p11337
+S'Not Informative'
+p11338
+sS'541142393555550208'
+p11339
+S'Other Relevant Information'
+p11340
+sS'541288204989894656'
+p11341
+S'Not Informative'
+p11342
+sS'542194274776141824'
+p11343
+S'Not Informative'
+p11344
+sS'541814262281539584'
+p11345
+S'Other Relevant Information'
+p11346
+sS'541486653760479234'
+p11347
+S'Not Informative'
+p11348
+sS'541500033137672192'
+p11349
+S'Other Relevant Information'
+p11350
+sS'541489857793503232'
+p11351
+S'Other Relevant Information'
+p11352
+sS'541462336058310657'
+p11353
+S'Not Informative'
+p11354
+sS'541522484390944768'
+p11355
+S'Not Informative'
+p11356
+sS'541473229567565824'
+p11357
+S'Infrastructure Damage'
+p11358
+sS'541633767366868992'
+p11359
+S'Not Informative'
+p11360
+sS'541419983381602305'
+p11361
+S'Not Informative'
+p11362
+sS'541651001137065984'
+p11363
+S'Not Informative'
+p11364
+sS'541723301983567872'
+p11365
+S'Not Informative'
+p11366
+sS'541466618467848193'
+p11367
+S'Not Informative'
+p11368
+sS'541931816655925250'
+p11369
+S'Not Informative'
+p11370
+sS'541513233471791105'
+p11371
+S'Not Informative'
+p11372
+sS'541874382180974592'
+p11373
+S'Not Informative'
+p11374
+sS'541511256025616384'
+p11375
+S'Infrastructure Damage'
+p11376
+sS'541949035037622272'
+p11377
+S'Not Informative'
+p11378
+sS'541530374187122688'
+p11379
+S'Not Informative'
+p11380
+sS'542312449387405312'
+p11381
+S'Requests for Help/Needs'
+p11382
+sS'541671529558200321'
+p11383
+S'Not Informative'
+p11384
+sS'541905584409174016'
+p11385
+S'Not Informative'
+p11386
+sS'542336124501250051'
+p11387
+S'Other Relevant Information'
+p11388
+sS'541860696091136000'
+p11389
+S'Not Informative'
+p11390
+sS'542241887042560000'
+p11391
+S'Other Relevant Information'
+p11392
+sS'541980644666900480'
+p11393
+S'Not Informative'
+p11394
+sS'541683751894261760'
+p11395
+S'Not Informative'
+p11396
+sS'542138166581288960'
+p11397
+S'Other Relevant Information'
+p11398
+sS'541582506961944576'
+p11399
+S'Other Relevant Information'
+p11400
+sS'541140038030221312'
+p11401
+S'Not Informative'
+p11402
+sS'542015197901492225'
+p11403
+S'Not Informative'
+p11404
+sS'541274915660627968'
+p11405
+S'Humanitarian Aid Provided'
+p11406
+sS'541569278802006016'
+p11407
+S'Other Relevant Information'
+p11408
+sS'541890420121141248'
+p11409
+S'Not Informative'
+p11410
+sS'542270429873057792'
+p11411
+S'Other Relevant Information'
+p11412
+sS'541879272462233600'
+p11413
+S'Not Informative'
+p11414
+sS'541629180849303552'
+p11415
+S'Not Informative'
+p11416
+sS'541738732584308736'
+p11417
+S'Humanitarian Aid Provided'
+p11418
+sS'542322964277239808'
+p11419
+S'Other Relevant Information'
+p11420
+sS'542358445165273088'
+p11421
+S'Not Informative'
+p11422
+sS'541552935990075392'
+p11423
+S'Not Informative'
+p11424
+sS'541415877149609984'
+p11425
+S'Other Relevant Information'
+p11426
+sS'542360895976775680'
+p11427
+S'Other Relevant Information'
+p11428
+sS'542242560736239616'
+p11429
+S'Humanitarian Aid Provided'
+p11430
+sS'541399982038081536'
+p11431
+S'Not Informative'
+p11432
+sS'541750148431626240'
+p11433
+S'Not Informative'
+p11434
+sS'542365469857300481'
+p11435
+S'Not Informative'
+p11436
+sS'541635137406918656'
+p11437
+S'Not Informative'
+p11438
+sS'541264217538826241'
+p11439
+S'Other Relevant Information'
+p11440
+sS'541486423224766464'
+p11441
+S'Not Informative'
+p11442
+sS'541887399135944704'
+p11443
+S'Not Informative'
+p11444
+sS'541406936550232064'
+p11445
+S'Not Informative'
+p11446
+sS'541675172403892225'
+p11447
+S'Not Informative'
+p11448
+sS'541636765279199233'
+p11449
+S'Not Informative'
+p11450
+sS'541640194219581440'
+p11451
+S'Not Informative'
+p11452
+sS'541736507435134978'
+p11453
+S'Not Informative'
+p11454
+sS'542323476019691520'
+p11455
+S'Not Informative'
+p11456
+sS'541327062917599232'
+p11457
+S'Other Relevant Information'
+p11458
+sS'542363633595211777'
+p11459
+S'Not Informative'
+p11460
+sS'541610839732527104'
+p11461
+S'Not Informative'
+p11462
+sS'541138400724910080'
+p11463
+S'Other Relevant Information'
+p11464
+sS'541189193687244800'
+p11465
+S'Not Informative'
+p11466
+sS'541620607511588864'
+p11467
+S'Not Informative'
+p11468
+sS'541396586748579841'
+p11469
+S'Not Informative'
+p11470
+sS'541293487635709952'
+p11471
+S'Other Relevant Information'
+p11472
+sS'541482981378912256'
+p11473
+S'Not Informative'
+p11474
+sS'541790153904492544'
+p11475
+S'Other Relevant Information'
+p11476
+sS'541146691068370944'
+p11477
+S'Other Relevant Information'
+p11478
+sS'541142155989770242'
+p11479
+S'Other Relevant Information'
+p11480
+sS'541656074982813697'
+p11481
+S'Not Informative'
+p11482
+sS'542253620700274688'
+p11483
+S'Humanitarian Aid Provided'
+p11484
+sS'541456111505649664'
+p11485
+S'Not Informative'
+p11486
+sS'541461914954395648'
+p11487
+S'Other Relevant Information'
+p11488
+sS'541699060194103298'
+p11489
+S'Other Relevant Information'
+p11490
+sS'542224395721117696'
+p11491
+S'Not Informative'
+p11492
+sS'541528853483892736'
+p11493
+S'Other Relevant Information'
+p11494
+sS'541605987715518464'
+p11495
+S'Other Relevant Information'
+p11496
+sS'542415053891198978'
+p11497
+S'Other Relevant Information'
+p11498
+sS'541923140449107968'
+p11499
+S'Not Informative'
+p11500
+sS'541413414178799616'
+p11501
+S'Humanitarian Aid Provided'
+p11502
+sS'541751736147640321'
+p11503
+S'Not Informative'
+p11504
+sS'541939246219943938'
+p11505
+S'Not Informative'
+p11506
+sS'541967319766159360'
+p11507
+S'Not Informative'
+p11508
+sS'542016001710501890'
+p11509
+S'Not Informative'
+p11510
+sS'541947677609431040'
+p11511
+S'Other Relevant Information'
+p11512
+sS'541541575617048576'
+p11513
+S'Not Informative'
+p11514
+sS'541463950345662464'
+p11515
+S'Not Informative'
+p11516
+sS'541907163489120256'
+p11517
+S'Not Informative'
+p11518
+sS'541973965225197568'
+p11519
+S'Not Informative'
+p11520
+sS'541948777234305024'
+p11521
+S'Not Informative'
+p11522
+sS'541975873641926656'
+p11523
+S'Not Informative'
+p11524
+sS'541986918041280513'
+p11525
+S'Not Informative'
+p11526
+sS'541366471583363072'
+p11527
+S'Other Relevant Information'
+p11528
+sS'542271596212539392'
+p11529
+S'Other Relevant Information'
+p11530
+sS'541425877834137600'
+p11531
+S'Not Informative'
+p11532
+sS'541143889437290496'
+p11533
+S'Other Relevant Information'
+p11534
+sS'541312798350131200'
+p11535
+S'Not Informative'
+p11536
+sS'541142747768311808'
+p11537
+S'Not Informative'
+p11538
+sS'541986277659140096'
+p11539
+S'Not Informative'
+p11540
+sS'541964695977340929'
+p11541
+S'Other Relevant Information'
+p11542
+sS'541922419230126081'
+p11543
+S'Not Informative'
+p11544
+sS'541411360450838528'
+p11545
+S'Not Informative'
+p11546
+sS'541477215687299073'
+p11547
+S'Not Informative'
+p11548
+sS'541990587373588480'
+p11549
+S'Other Relevant Information'
+p11550
+sS'542254286705418240'
+p11551
+S'Humanitarian Aid Provided'
+p11552
+sS'542013855258247168'
+p11553
+S'Not Informative'
+p11554
+sS'541449807630303233'
+p11555
+S'Not Informative'
+p11556
+sS'542390767730184192'
+p11557
+S'Other Relevant Information'
+p11558
+sS'541801196709617664'
+p11559
+S'Not Informative'
+p11560
+sS'541261943345270785'
+p11561
+S'Other Relevant Information'
+p11562
+sS'541941877873061890'
+p11563
+S'Not Informative'
+p11564
+sS'541295097963237376'
+p11565
+S'Not Informative'
+p11566
+sS'541575425017667584'
+p11567
+S'Not Informative'
+p11568
+sS'541476149759451136'
+p11569
+S'Not Informative'
+p11570
+sS'542317470233919488'
+p11571
+S'Other Relevant Information'
+p11572
+sS'541468723349950464'
+p11573
+S'Not Informative'
+p11574
+sS'541436345680658432'
+p11575
+S'Not Informative'
+p11576
+sS'541422651143512064'
+p11577
+S'Not Informative'
+p11578
+sS'542137512525713408'
+p11579
+S'Not Informative'
+p11580
+sS'541537182641426433'
+p11581
+S'Other Relevant Information'
+p11582
+sS'541795505819242497'
+p11583
+S'Other Relevant Information'
+p11584
+sS'541449426921717760'
+p11585
+S'Not Informative'
+p11586
+sS'541223708526800896'
+p11587
+S'Other Relevant Information'
+p11588
+sS'541286301119438849'
+p11589
+S'Other Relevant Information'
+p11590
+sS'541782245183193088'
+p11591
+S'Not Informative'
+p11592
+sS'541360043782705152'
+p11593
+S'Other Relevant Information'
+p11594
+sS'541797005513592832'
+p11595
+S'Not Informative'
+p11596
+sS'541874630751821824'
+p11597
+S'Not Informative'
+p11598
+sS'541846900387753984'
+p11599
+S'Other Relevant Information'
+p11600
+sS'541944013092184064'
+p11601
+S'Not Informative'
+p11602
+sS'541497320731201536'
+p11603
+S'Other Relevant Information'
+p11604
+sS'542390292658536448'
+p11605
+S'Not Informative'
+p11606
+sS'541531090758819840'
+p11607
+S'Other Relevant Information'
+p11608
+sS'541783160988512256'
+p11609
+S'Not Informative'
+p11610
+sS'541376603667050496'
+p11611
+S'Not Informative'
+p11612
+sS'541950396273410050'
+p11613
+S'Not Informative'
+p11614
+sS'541501149447086081'
+p11615
+S'Not Informative'
+p11616
+sS'541880301689901057'
+p11617
+S'Not Informative'
+p11618
+sS'542020440227467265'
+p11619
+S'Infrastructure Damage'
+p11620
+sS'541166285715812352'
+p11621
+S'Not Informative'
+p11622
+sS'541560852718317569'
+p11623
+S'Not Informative'
+p11624
+sS'541335329148383233'
+p11625
+S'Not Informative'
+p11626
+sS'541999339741380608'
+p11627
+S'Not Informative'
+p11628
+sS'541777040299393025'
+p11629
+S'Not Informative'
+p11630
+sS'541819323359035392'
+p11631
+S'Not Informative'
+p11632
+sS'541932954285789184'
+p11633
+S'Not Informative'
+p11634
+sS'541145852299845632'
+p11635
+S'Other Relevant Information'
+p11636
+sS'541292404201226240'
+p11637
+S'Other Relevant Information'
+p11638
+sS'541298171565973504'
+p11639
+S'Other Relevant Information'
+p11640
+sS'541465507673559040'
+p11641
+S'Other Relevant Information'
+p11642
+sS'541717834980524032'
+p11643
+S'Other Relevant Information'
+p11644
+sS'542147903062417408'
+p11645
+S'Not Informative'
+p11646
+sS'541705332356296704'
+p11647
+S'Not Informative'
+p11648
+sS'542000277704814592'
+p11649
+S'Not Informative'
+p11650
+sS'541830179413192705'
+p11651
+S'Not Informative'
+p11652
+sS'541482139405910018'
+p11653
+S'Other Relevant Information'
+p11654
+sS'541521507327815682'
+p11655
+S'Humanitarian Aid Provided'
+p11656
+sS'541595904512655360'
+p11657
+S'Not Informative'
+p11658
+sS'541591497397661696'
+p11659
+S'Not Informative'
+p11660
+sS'541939764992028672'
+p11661
+S'Not Informative'
+p11662
+sS'541719687445233664'
+p11663
+S'Not Informative'
+p11664
+sS'541857808925220865'
+p11665
+S'Not Informative'
+p11666
+sS'541260764032401408'
+p11667
+S'Not Informative'
+p11668
+sS'541626998511394816'
+p11669
+S'Not Informative'
+p11670
+sS'541532629430845440'
+p11671
+S'Other Relevant Information'
+p11672
+sS'542286034160328704'
+p11673
+S'Other Relevant Information'
+p11674
+sS'541594508350078978'
+p11675
+S'Not Informative'
+p11676
+sS'541957362496438273'
+p11677
+S'Not Informative'
+p11678
+sS'541700007121145856'
+p11679
+S'Not Informative'
+p11680
+sS'541760741028536320'
+p11681
+S'Not Informative'
+p11682
+sS'541589246964805633'
+p11683
+S'Other Relevant Information'
+p11684
+sS'541512599490150400'
+p11685
+S'Not Informative'
+p11686
+sS'541378988937977859'
+p11687
+S'Not Informative'
+p11688
+sS'541704403346944000'
+p11689
+S'Not Informative'
+p11690
+sS'541731846292533248'
+p11691
+S'Not Informative'
+p11692
+sS'541855051396825089'
+p11693
+S'Not Informative'
+p11694
+sS'542183066626584576'
+p11695
+S'Not Informative'
+p11696
+sS'541426333440806912'
+p11697
+S'Other Relevant Information'
+p11698
+sS'541365439214141441'
+p11699
+S'Other Relevant Information'
+p11700
+sS'541763044016013313'
+p11701
+S'Not Informative'
+p11702
+sS'542305217929555968'
+p11703
+S'Other Relevant Information'
+p11704
+sS'541260578422284288'
+p11705
+S'Not Informative'
+p11706
+sS'541660931697041408'
+p11707
+S'Not Informative'
+p11708
+sS'541672198411677696'
+p11709
+S'Not Informative'
+p11710
+sS'541922303114637312'
+p11711
+S'Not Informative'
+p11712
+sS'541986340792193024'
+p11713
+S'Humanitarian Aid Provided'
+p11714
+sS'541227515168038912'
+p11715
+S'Other Relevant Information'
+p11716
+sS'542321843097464832'
+p11717
+S'Other Relevant Information'
+p11718
+sS'541537092699185152'
+p11719
+S'Not Informative'
+p11720
+sS'541107621772525569'
+p11721
+S'Other Relevant Information'
+p11722
+sS'541280857932058624'
+p11723
+S'Other Relevant Information'
+p11724
+sS'541519526060249088'
+p11725
+S'Not Informative'
+p11726
+sS'542289083037270018'
+p11727
+S'Other Relevant Information'
+p11728
+sS'541138632032010241'
+p11729
+S'Not Informative'
+p11730
+sS'541848358235557888'
+p11731
+S'Not Informative'
+p11732
+sS'542151747649556481'
+p11733
+S'Not Informative'
+p11734
+sS'541703798839074816'
+p11735
+S'Not Informative'
+p11736
+sS'541393303443238912'
+p11737
+S'Not Informative'
+p11738
+sS'541400769358880768'
+p11739
+S'Not Informative'
+p11740
+sS'541620184746692608'
+p11741
+S'Not Informative'
+p11742
+sS'541912520458395648'
+p11743
+S'Not Informative'
+p11744
+sS'541742627033341953'
+p11745
+S'Other Relevant Information'
+p11746
+sS'541459753940316160'
+p11747
+S'Other Relevant Information'
+p11748
+sS'541475986744029186'
+p11749
+S'Other Relevant Information'
+p11750
+sS'541911081908989952'
+p11751
+S'Other Relevant Information'
+p11752
+sS'541434925359325185'
+p11753
+S'Other Relevant Information'
+p11754
+sS'541255743253409792'
+p11755
+S'Not Informative'
+p11756
+sS'541485388469370880'
+p11757
+S'Not Informative'
+p11758
+sS'541825615452987392'
+p11759
+S'Not Informative'
+p11760
+sS'541530491262738433'
+p11761
+S'Not Informative'
+p11762
+sS'541807679615012865'
+p11763
+S'Other Relevant Information'
+p11764
+sS'541427383333441537'
+p11765
+S'Not Informative'
+p11766
+sS'541272668008611840'
+p11767
+S'Not Informative'
+p11768
+sS'541607785276772354'
+p11769
+S'Not Informative'
+p11770
+sS'542305382883143680'
+p11771
+S'Not Informative'
+p11772
+sS'541729766173184000'
+p11773
+S'Not Informative'
+p11774
+sS'541824394570395648'
+p11775
+S'Not Informative'
+p11776
+sS'541265848975908864'
+p11777
+S'Not Informative'
+p11778
+sS'542282620164272129'
+p11779
+S'Not Informative'
+p11780
+sS'541403738020143104'
+p11781
+S'Other Relevant Information'
+p11782
+sS'541970682775490560'
+p11783
+S'Not Informative'
+p11784
+sS'541283704148996098'
+p11785
+S'Not Informative'
+p11786
+sS'542289055153942528'
+p11787
+S'Humanitarian Aid Provided'
+p11788
+sS'541396593514000384'
+p11789
+S'Not Informative'
+p11790
+sS'542312741935927297'
+p11791
+S'Other Relevant Information'
+p11792
+sS'541465053166182400'
+p11793
+S'Not Informative'
+p11794
+sS'541516199352205312'
+p11795
+S'Not Informative'
+p11796
+sS'542332926172483585'
+p11797
+S'Infrastructure Damage'
+p11798
+sS'541158038171025408'
+p11799
+S'Other Relevant Information'
+p11800
+sS'541463609826496512'
+p11801
+S'Not Informative'
+p11802
+sS'542204159412273152'
+p11803
+S'Not Informative'
+p11804
+sS'541680196634828800'
+p11805
+S'Other Relevant Information'
+p11806
+sS'541716456828706816'
+p11807
+S'Not Informative'
+p11808
+sS'541492229412364288'
+p11809
+S'Other Relevant Information'
+p11810
+sS'541419478090002433'
+p11811
+S'Humanitarian Aid Provided'
+p11812
+sS'541664256903483392'
+p11813
+S'Not Informative'
+p11814
+sS'541606184151572480'
+p11815
+S'Not Informative'
+p11816
+sS'541756067454402560'
+p11817
+S'Not Informative'
+p11818
+sS'541477309799079936'
+p11819
+S'Not Informative'
+p11820
+sS'541923101429100545'
+p11821
+S'Not Informative'
+p11822
+sS'541356501995364352'
+p11823
+S'Not Informative'
+p11824
+sS'542301366056529921'
+p11825
+S'Not Informative'
+p11826
+sS'541654529633447936'
+p11827
+S'Not Informative'
+p11828
+sS'541527523751104513'
+p11829
+S'Infrastructure Damage'
+p11830
+sS'541977423315603456'
+p11831
+S'Not Informative'
+p11832
+sS'541783123524984832'
+p11833
+S'Not Informative'
+p11834
+sS'541655464010723329'
+p11835
+S'Not Informative'
+p11836
+sS'541550021506646017'
+p11837
+S'Not Informative'
+p11838
+sS'541826152755499008'
+p11839
+S'Not Informative'
+p11840
+sS'541927643596472320'
+p11841
+S'Not Informative'
+p11842
+sS'541503270095953920'
+p11843
+S'Not Informative'
+p11844
+sS'541139354177904640'
+p11845
+S'Not Informative'
+p11846
+sS'541608547939647488'
+p11847
+S'Not Informative'
+p11848
+sS'541394222465552384'
+p11849
+S'Not Informative'
+p11850
+sS'542337672161656832'
+p11851
+S'Other Relevant Information'
+p11852
+sS'541609407269064706'
+p11853
+S'Not Informative'
+p11854
+sS'541388133179219968'
+p11855
+S'Other Relevant Information'
+p11856
+sS'541273924592357377'
+p11857
+S'Not Informative'
+p11858
+sS'542014842677121026'
+p11859
+S'Not Informative'
+p11860
+sS'542185510492332032'
+p11861
+S'Not Informative'
+p11862
+sS'541915464377458688'
+p11863
+S'Not Informative'
+p11864
+sS'541476941681803264'
+p11865
+S'Not Informative'
+p11866
+sS'541983352941604864'
+p11867
+S'Not Informative'
+p11868
+sS'541488127408222208'
+p11869
+S'Other Relevant Information'
+p11870
+sS'541585694229934084'
+p11871
+S'Not Informative'
+p11872
+sS'541941906221969408'
+p11873
+S'Not Informative'
+p11874
+sS'541719940378525696'
+p11875
+S'Infrastructure Damage'
+p11876
+sS'541739845911982081'
+p11877
+S'Not Informative'
+p11878
+sS'542237858287734784'
+p11879
+S'Other Relevant Information'
+p11880
+sS'541463086675152897'
+p11881
+S'Not Informative'
+p11882
+sS'541444026663071747'
+p11883
+S'Not Informative'
+p11884
+sS'541579140952891394'
+p11885
+S'Other Relevant Information'
+p11886
+sS'541801542798430208'
+p11887
+S'Not Informative'
+p11888
+sS'541544402129518592'
+p11889
+S'Not Informative'
+p11890
+sS'541617433849503745'
+p11891
+S'Not Informative'
+p11892
+sS'541537909254660096'
+p11893
+S'Not Informative'
+p11894
+sS'541144989212745728'
+p11895
+S'Not Informative'
+p11896
+sS'541647441183789057'
+p11897
+S'Not Informative'
+p11898
+sS'541658813930422273'
+p11899
+S'Not Informative'
+p11900
+sS'541654485358346240'
+p11901
+S'Infrastructure Damage'
+p11902
+sS'541918750769831936'
+p11903
+S'Other Relevant Information'
+p11904
+sS'541468523994697728'
+p11905
+S'Other Relevant Information'
+p11906
+sS'541826012359581696'
+p11907
+S'Not Informative'
+p11908
+sS'541806960446672896'
+p11909
+S'Not Informative'
+p11910
+sS'541139228042620928'
+p11911
+S'Not Informative'
+p11912
+sS'541270404396896256'
+p11913
+S'Not Informative'
+p11914
+sS'542296584307109888'
+p11915
+S'Other Relevant Information'
+p11916
+sS'541359149024423936'
+p11917
+S'Other Relevant Information'
+p11918
+sS'541690092176158720'
+p11919
+S'Not Informative'
+p11920
+sS'541619188381409280'
+p11921
+S'Not Informative'
+p11922
+sS'541544407749505024'
+p11923
+S'Not Informative'
+p11924
+sS'542153152791728128'
+p11925
+S'Not Informative'
+p11926
+sS'541362789441220608'
+p11927
+S'Not Informative'
+p11928
+sS'542195479052705792'
+p11929
+S'Not Informative'
+p11930
+sS'541626779816173568'
+p11931
+S'Not Informative'
+p11932
+sS'541541290811219969'
+p11933
+S'Not Informative'
+p11934
+sS'541920013410500609'
+p11935
+S'Not Informative'
+p11936
+sS'541979384299941889'
+p11937
+S'Not Informative'
+p11938
+sS'541829148012863488'
+p11939
+S'Not Informative'
+p11940
+sS'541576179065442304'
+p11941
+S'Not Informative'
+p11942
+sS'541762814499495936'
+p11943
+S'Not Informative'
+p11944
+sS'541420355085017088'
+p11945
+S'Other Relevant Information'
+p11946
+sS'541747384766590976'
+p11947
+S'Not Informative'
+p11948
+sS'541514333084082176'
+p11949
+S'Not Informative'
+p11950
+sS'542377596990681090'
+p11951
+S'Humanitarian Aid Provided'
+p11952
+sS'541563035827965952'
+p11953
+S'Not Informative'
+p11954
+sS'542188674197118976'
+p11955
+S'Not Informative'
+p11956
+sS'541617160187936768'
+p11957
+S'Not Informative'
+p11958
+sS'542269519666761729'
+p11959
+S'Not Informative'
+p11960
+sS'542403501331341312'
+p11961
+S'Other Relevant Information'
+p11962
+sS'541813417871306752'
+p11963
+S'Not Informative'
+p11964
+sS'541716943921627138'
+p11965
+S'Not Informative'
+p11966
+sS'541603051438477313'
+p11967
+S'Not Informative'
+p11968
+sS'541745164872450048'
+p11969
+S'Not Informative'
+p11970
+sS'542182093137383426'
+p11971
+S'Not Informative'
+p11972
+sS'541940602070265858'
+p11973
+S'Not Informative'
+p11974
+sS'542014584035368961'
+p11975
+S'Not Informative'
+p11976
+sS'541847010647625728'
+p11977
+S'Not Informative'
+p11978
+sS'541969400979812353'
+p11979
+S'Not Informative'
+p11980
+sS'541305111163994112'
+p11981
+S'Not Informative'
+p11982
+sS'541518191155900416'
+p11983
+S'Not Informative'
+p11984
+sS'542387278228631552'
+p11985
+S'Other Relevant Information'
+p11986
+sS'541693269680201728'
+p11987
+S'Not Informative'
+p11988
+sS'541784558614491136'
+p11989
+S'Not Informative'
+p11990
+sS'541148853773156352'
+p11991
+S'Not Informative'
+p11992
+sS'542200115553775617'
+p11993
+S'Not Informative'
+p11994
+sS'542019359351504896'
+p11995
+S'Not Informative'
+p11996
+sS'541533503708737537'
+p11997
+S'Not Informative'
+p11998
+sS'541553895261368320'
+p11999
+S'Other Relevant Information'
+p12000
+sS'541709328131293184'
+p12001
+S'Other Relevant Information'
+p12002
+sS'541427601659928576'
+p12003
+S'Humanitarian Aid Provided'
+p12004
+sS'541563309153996801'
+p12005
+S'Infrastructure Damage'
+p12006
+sS'541280057491460096'
+p12007
+S'Not Informative'
+p12008
+sS'542014111983607810'
+p12009
+S'Other Relevant Information'
+p12010
+sS'541759071142297601'
+p12011
+S'Not Informative'
+p12012
+sS'541956231834132480'
+p12013
+S'Not Informative'
+p12014
+sS'541737471411634177'
+p12015
+S'Other Relevant Information'
+p12016
+sS'541616743425138688'
+p12017
+S'Not Informative'
+p12018
+sS'541499060083912705'
+p12019
+S'Not Informative'
+p12020
+sS'541210029559255041'
+p12021
+S'Not Informative'
+p12022
+sS'541773971147214848'
+p12023
+S'Not Informative'
+p12024
+sS'541427178496593920'
+p12025
+S'Not Informative'
+p12026
+sS'541949456627683328'
+p12027
+S'Not Informative'
+p12028
+sS'542260727180824576'
+p12029
+S'Other Relevant Information'
+p12030
+sS'541489588133298177'
+p12031
+S'Not Informative'
+p12032
+sS'542309239033561089'
+p12033
+S'Other Relevant Information'
+p12034
+sS'542294824523534336'
+p12035
+S'Other Relevant Information'
+p12036
+sS'542005381572993024'
+p12037
+S'Not Informative'
+p12038
+sS'541583448625123328'
+p12039
+S'Not Informative'
+p12040
+sS'541501036213846016'
+p12041
+S'Requests for Help/Needs'
+p12042
+sS'541565264215547904'
+p12043
+S'Other Relevant Information'
+p12044
+sS'541866255024529408'
+p12045
+S'Not Informative'
+p12046
+sS'541950425184731136'
+p12047
+S'Not Informative'
+p12048
+sS'541486732516921344'
+p12049
+S'Not Informative'
+p12050
+sS'541539927263948801'
+p12051
+S'Not Informative'
+p12052
+sS'541940677475446785'
+p12053
+S'Not Informative'
+p12054
+sS'542262637967339520'
+p12055
+S'Other Relevant Information'
+p12056
+sS'541749914028347392'
+p12057
+S'Not Informative'
+p12058
+sS'541979018346897408'
+p12059
+S'Not Informative'
+p12060
+sS'541552716535709697'
+p12061
+S'Not Informative'
+p12062
+sS'541975351006466048'
+p12063
+S'Not Informative'
+p12064
+sS'541646482361692162'
+p12065
+S'Not Informative'
+p12066
+sS'541977592610689024'
+p12067
+S'Not Informative'
+p12068
+sS'541828114255339521'
+p12069
+S'Not Informative'
+p12070
+sS'541568257141252096'
+p12071
+S'Not Informative'
+p12072
+sS'541720194331475968'
+p12073
+S'Not Informative'
+p12074
+sS'541535033836584960'
+p12075
+S'Not Informative'
+p12076
+sS'541218157634256896'
+p12077
+S'Other Relevant Information'
+p12078
+sS'541455841220521984'
+p12079
+S'Not Informative'
+p12080
+sS'541656880393625600'
+p12081
+S'Not Informative'
+p12082
+sS'541616140858822656'
+p12083
+S'Not Informative'
+p12084
+sS'541999567156162561'
+p12085
+S'Not Informative'
+p12086
+sS'541850580021694464'
+p12087
+S'Not Informative'
+p12088
+sS'541530649002532864'
+p12089
+S'Not Informative'
+p12090
+sS'541456119906844672'
+p12091
+S'Not Informative'
+p12092
+sS'541768813189283840'
+p12093
+S'Not Informative'
+p12094
+sS'541724921370783745'
+p12095
+S'Not Informative'
+p12096
+sS'542268842089517056'
+p12097
+S'Not Informative'
+p12098
+sS'541517936075079680'
+p12099
+S'Humanitarian Aid Provided'
+p12100
+sS'541903734523969537'
+p12101
+S'Not Informative'
+p12102
+sS'541968950666346496'
+p12103
+S'Not Informative'
+p12104
+sS'542351111307665408'
+p12105
+S'Other Relevant Information'
+p12106
+sS'541949751948619777'
+p12107
+S'Not Informative'
+p12108
+sS'541660757096931328'
+p12109
+S'Other Relevant Information'
+p12110
+sS'541432576192544768'
+p12111
+S'Not Informative'
+p12112
+sS'541618794288787456'
+p12113
+S'Not Informative'
+p12114
+sS'541539923766288384'
+p12115
+S'Not Informative'
+p12116
+sS'541398229225840641'
+p12117
+S'Other Relevant Information'
+p12118
+sS'542146972409667585'
+p12119
+S'Humanitarian Aid Provided'
+p12120
+sS'541940878160297985'
+p12121
+S'Not Informative'
+p12122
+sS'541621283986079744'
+p12123
+S'Not Informative'
+p12124
+sS'541819943973441537'
+p12125
+S'Not Informative'
+p12126
+sS'541545922979577856'
+p12127
+S'Not Informative'
+p12128
+sS'541559881602703360'
+p12129
+S'Not Informative'
+p12130
+sS'542413952685051905'
+p12131
+S'Other Relevant Information'
+p12132
+sS'542151698869780480'
+p12133
+S'Not Informative'
+p12134
+sS'541736187187052544'
+p12135
+S'Not Informative'
+p12136
+sS'542122523110813696'
+p12137
+S'Not Informative'
+p12138
+sS'541148588328620032'
+p12139
+S'Other Relevant Information'
+p12140
+sS'541950724650049538'
+p12141
+S'Not Informative'
+p12142
+sS'541802511628107776'
+p12143
+S'Not Informative'
+p12144
+sS'541945789657149440'
+p12145
+S'Not Informative'
+p12146
+sS'541816649062821888'
+p12147
+S'Not Informative'
+p12148
+sS'542008762236534784'
+p12149
+S'Not Informative'
+p12150
+sS'541345380198526977'
+p12151
+S'Other Relevant Information'
+p12152
+sS'541427672375492608'
+p12153
+S'Not Informative'
+p12154
+sS'541706859246133248'
+p12155
+S'Not Informative'
+p12156
+sS'541260902155055104'
+p12157
+S'Other Relevant Information'
+p12158
+sS'541645887533875200'
+p12159
+S'Not Informative'
+p12160
+sS'542232008777142272'
+p12161
+S'Not Informative'
+p12162
+sS'541987938259574785'
+p12163
+S'Not Informative'
+p12164
+sS'541457725066977280'
+p12165
+S'Other Relevant Information'
+p12166
+sS'541363372588290048'
+p12167
+S'Not Informative'
+p12168
+sS'541472772161945600'
+p12169
+S'Not Informative'
+p12170
+sS'541492672267943936'
+p12171
+S'Not Informative'
+p12172
+sS'541934482962407427'
+p12173
+S'Other Relevant Information'
+p12174
+sS'541598811936665601'
+p12175
+S'Humanitarian Aid Provided'
+p12176
+sS'541866268127928320'
+p12177
+S'Not Informative'
+p12178
+sS'541468645671452672'
+p12179
+S'Other Relevant Information'
+p12180
+sS'542419930872676356'
+p12181
+S'Not Informative'
+p12182
+sS'541755272776417280'
+p12183
+S'Not Informative'
+p12184
+sS'541452773074554882'
+p12185
+S'Other Relevant Information'
+p12186
+sS'542030882857435136'
+p12187
+S'Other Relevant Information'
+p12188
+sS'541630094398472193'
+p12189
+S'Other Relevant Information'
+p12190
+sS'541652019954860033'
+p12191
+S'Other Relevant Information'
+p12192
+sS'541807822829543424'
+p12193
+S'Not Informative'
+p12194
+sS'541833643895713792'
+p12195
+S'Not Informative'
+p12196
+sS'541307128636379136'
+p12197
+S'Not Informative'
+p12198
+sS'541595766448328704'
+p12199
+S'Not Informative'
+p12200
+sS'542003553272094720'
+p12201
+S'Not Informative'
+p12202
+sS'541534711081095168'
+p12203
+S'Not Informative'
+p12204
+sS'541736872171429890'
+p12205
+S'Not Informative'
+p12206
+sS'542268194401316864'
+p12207
+S'Requests for Help/Needs'
+p12208
+sS'541409295636512768'
+p12209
+S'Not Informative'
+p12210
+sS'541142644106080256'
+p12211
+S'Other Relevant Information'
+p12212
+sS'542185352778100736'
+p12213
+S'Not Informative'
+p12214
+sS'541492001225465856'
+p12215
+S'Infrastructure Damage'
+p12216
+sS'541554384333570048'
+p12217
+S'Not Informative'
+p12218
+sS'541453034098663424'
+p12219
+S'Other Relevant Information'
+p12220
+sS'541473097459568640'
+p12221
+S'Other Relevant Information'
+p12222
+sS'541363467241127937'
+p12223
+S'Other Relevant Information'
+p12224
+sS'542239313506086912'
+p12225
+S'Not Informative'
+p12226
+sS'541276732695650304'
+p12227
+S'Not Informative'
+p12228
+sS'541869361418350594'
+p12229
+S'Not Informative'
+p12230
+sS'541605309261705216'
+p12231
+S'Not Informative'
+p12232
+sS'541525430079979521'
+p12233
+S'Infrastructure Damage'
+p12234
+sS'541490137167691776'
+p12235
+S'Other Relevant Information'
+p12236
+sS'542398201265803264'
+p12237
+S'Not Informative'
+p12238
+sS'541381741374496770'
+p12239
+S'Not Informative'
+p12240
+sS'541888306896576513'
+p12241
+S'Not Informative'
+p12242
+sS'541865244273164288'
+p12243
+S'Other Relevant Information'
+p12244
+sS'542206728176422912'
+p12245
+S'Not Informative'
+p12246
+sS'542117541926035457'
+p12247
+S'Other Relevant Information'
+p12248
+sS'541257221443571712'
+p12249
+S'Infrastructure Damage'
+p12250
+sS'541710410890883072'
+p12251
+S'Not Informative'
+p12252
+sS'541392081134952448'
+p12253
+S'Not Informative'
+p12254
+sS'542227551196692480'
+p12255
+S'Not Informative'
+p12256
+sS'541570276983865344'
+p12257
+S'Other Relevant Information'
+p12258
+sS'541201192982806528'
+p12259
+S'Other Relevant Information'
+p12260
+sS'541474698312175618'
+p12261
+S'Not Informative'
+p12262
+sS'541352660448710656'
+p12263
+S'Other Relevant Information'
+p12264
+sS'541621729852813312'
+p12265
+S'Not Informative'
+p12266
+sS'541579865380503553'
+p12267
+S'Not Informative'
+p12268
+sS'542267576127352833'
+p12269
+S'Other Relevant Information'
+p12270
+sS'541818772563050496'
+p12271
+S'Infrastructure Damage'
+p12272
+sS'541185337436143616'
+p12273
+S'Not Informative'
+p12274
+sS'541689046352035840'
+p12275
+S'Not Informative'
+p12276
+sS'541509521332375552'
+p12277
+S'Other Relevant Information'
+p12278
+sS'541838090851979264'
+p12279
+S'Not Informative'
+p12280
+sS'541169949570772992'
+p12281
+S'Not Informative'
+p12282
+sS'541337647739076609'
+p12283
+S'Other Relevant Information'
+p12284
+sS'541432078651232257'
+p12285
+S'Not Informative'
+p12286
+sS'541595349656162305'
+p12287
+S'Not Informative'
+p12288
+sS'541260479969394688'
+p12289
+S'Humanitarian Aid Provided'
+p12290
+sS'541830832143335424'
+p12291
+S'Not Informative'
+p12292
+sS'542426289458524161'
+p12293
+S'Other Relevant Information'
+p12294
+sS'542372534042513408'
+p12295
+S'Not Informative'
+p12296
+sS'541146277049008128'
+p12297
+S'Not Informative'
+p12298
+sS'541357981603225601'
+p12299
+S'Not Informative'
+p12300
+sS'541481719229337600'
+p12301
+S'Not Informative'
+p12302
+sS'541223164970147840'
+p12303
+S'Humanitarian Aid Provided'
+p12304
+sS'541853254217244672'
+p12305
+S'Not Informative'
+p12306
+sS'541624399044935680'
+p12307
+S'Not Informative'
+p12308
+sS'541569289371676672'
+p12309
+S'Not Informative'
+p12310
+sS'541602722127294464'
+p12311
+S'Other Relevant Information'
+p12312
+sS'541965337344757760'
+p12313
+S'Not Informative'
+p12314
+sS'542254594525368320'
+p12315
+S'Other Relevant Information'
+p12316
+sS'541783106022559744'
+p12317
+S'Other Relevant Information'
+p12318
+sS'541493140436156416'
+p12319
+S'Not Informative'
+p12320
+sS'542010405267066880'
+p12321
+S'Not Informative'
+p12322
+sS'541473503195574273'
+p12323
+S'Other Relevant Information'
+p12324
+sS'542000088449810432'
+p12325
+S'Not Informative'
+p12326
+sS'541297695219265537'
+p12327
+S'Other Relevant Information'
+p12328
+sS'541954412923850752'
+p12329
+S'Not Informative'
+p12330
+sS'541417826443997184'
+p12331
+S'Not Informative'
+p12332
+sS'541552601498521600'
+p12333
+S'Not Informative'
+p12334
+sS'542213924104732673'
+p12335
+S'Not Informative'
+p12336
+sS'541449533746462721'
+p12337
+S'Other Relevant Information'
+p12338
+sS'541605454938251264'
+p12339
+S'Other Relevant Information'
+p12340
+sS'541702542430724096'
+p12341
+S'Not Informative'
+p12342
+sS'541286141391958016'
+p12343
+S'Humanitarian Aid Provided'
+p12344
+sS'541986139624964097'
+p12345
+S'Not Informative'
+p12346
+sS'541445782269079552'
+p12347
+S'Not Informative'
+p12348
+sS'541846835816431616'
+p12349
+S'Not Informative'
+p12350
+sS'541577328598319105'
+p12351
+S'Not Informative'
+p12352
+sS'541704254717579264'
+p12353
+S'Not Informative'
+p12354
+sS'541784768723968000'
+p12355
+S'Not Informative'
+p12356
+sS'541329979301445632'
+p12357
+S'Not Informative'
+p12358
+sS'541640696504266752'
+p12359
+S'Not Informative'
+p12360
+sS'542310414973825024'
+p12361
+S'Not Informative'
+p12362
+sS'542309456818606081'
+p12363
+S'Other Relevant Information'
+p12364
+sS'541821005384396801'
+p12365
+S'Not Informative'
+p12366
+sS'542269303362306050'
+p12367
+S'Not Informative'
+p12368
+sS'541826910792081409'
+p12369
+S'Not Informative'
+p12370
+sS'541931043784110080'
+p12371
+S'Not Informative'
+p12372
+sS'541435496711208960'
+p12373
+S'Not Informative'
+p12374
+sS'541565103506587650'
+p12375
+S'Not Informative'
+p12376
+sS'541891571457998848'
+p12377
+S'Not Informative'
+p12378
+sS'541785154415382528'
+p12379
+S'Not Informative'
+p12380
+sS'541950274764812288'
+p12381
+S'Other Relevant Information'
+p12382
+sS'541212274203951105'
+p12383
+S'Not Informative'
+p12384
+sS'541552702623191040'
+p12385
+S'Not Informative'
+p12386
+sS'541971289439629313'
+p12387
+S'Not Informative'
+p12388
+sS'541530395095732224'
+p12389
+S'Not Informative'
+p12390
+sS'542436290323419136'
+p12391
+S'Not Informative'
+p12392
+sS'541380323573903361'
+p12393
+S'Not Informative'
+p12394
+sS'541645352785707008'
+p12395
+S'Not Informative'
+p12396
+sS'541976135920517121'
+p12397
+S'Other Relevant Information'
+p12398
+sS'542430599227535360'
+p12399
+S'Not Informative'
+p12400
+sS'541412315040456704'
+p12401
+S'Not Informative'
+p12402
+sS'541850143025164288'
+p12403
+S'Not Informative'
+p12404
+sS'541955149845889024'
+p12405
+S'Not Informative'
+p12406
+sS'541442089146277888'
+p12407
+S'Not Informative'
+p12408
+sS'541489110355951616'
+p12409
+S'Not Informative'
+p12410
+sS'541618418282414080'
+p12411
+S'Other Relevant Information'
+p12412
+sS'541818365221031936'
+p12413
+S'Not Informative'
+p12414
+sS'541530567121330176'
+p12415
+S'Other Relevant Information'
+p12416
+sS'541928836527448065'
+p12417
+S'Not Informative'
+p12418
+sS'541265316467048448'
+p12419
+S'Not Informative'
+p12420
+sS'541154297090932736'
+p12421
+S'Other Relevant Information'
+p12422
+sS'541822379530661888'
+p12423
+S'Not Informative'
+p12424
+sS'541456404385890306'
+p12425
+S'Not Informative'
+p12426
+sS'541893515727601664'
+p12427
+S'Not Informative'
+p12428
+sS'541593976848281601'
+p12429
+S'Not Informative'
+p12430
+sS'541718914200109056'
+p12431
+S'Other Relevant Information'
+p12432
+sS'541503583443619841'
+p12433
+S'Other Relevant Information'
+p12434
+sS'541675002928431105'
+p12435
+S'Not Informative'
+p12436
+sS'541479428484636672'
+p12437
+S'Not Informative'
+p12438
+sS'541627549932347392'
+p12439
+S'Not Informative'
+p12440
+sS'542404091150749696'
+p12441
+S'Not Informative'
+p12442
+sS'541143451748675584'
+p12443
+S'Not Informative'
+p12444
+sS'541650370489880576'
+p12445
+S'Not Informative'
+p12446
+sS'542376964909043712'
+p12447
+S'Not Informative'
+p12448
+sS'541145186760663040'
+p12449
+S'Not Informative'
+p12450
+sS'541495235453657088'
+p12451
+S'Not Informative'
+p12452
+sS'541625564571115521'
+p12453
+S'Not Informative'
+p12454
+sS'541523829139329025'
+p12455
+S'Other Relevant Information'
+p12456
+sS'541861302985977856'
+p12457
+S'Not Informative'
+p12458
+sS'541991100970725376'
+p12459
+S'Humanitarian Aid Provided'
+p12460
+sS'541459854909792256'
+p12461
+S'Not Informative'
+p12462
+sS'542376068221370368'
+p12463
+S'Other Relevant Information'
+p12464
+sS'541491439092662272'
+p12465
+S'Not Informative'
+p12466
+sS'541783819225808896'
+p12467
+S'Not Informative'
+p12468
+sS'541749933645131776'
+p12469
+S'Not Informative'
+p12470
+sS'541755535695949825'
+p12471
+S'Not Informative'
+p12472
+sS'541483518434361344'
+p12473
+S'Infrastructure Damage'
+p12474
+sS'541401280963289088'
+p12475
+S'Not Informative'
+p12476
+sS'541528039914344448'
+p12477
+S'Not Informative'
+p12478
+sS'542357610583031809'
+p12479
+S'Not Informative'
+p12480
+sS'541983228698308608'
+p12481
+S'Not Informative'
+p12482
+sS'541896431875813376'
+p12483
+S'Not Informative'
+p12484
+sS'541790881360388096'
+p12485
+S'Other Relevant Information'
+p12486
+sS'541554588277420032'
+p12487
+S'Not Informative'
+p12488
+sS'541925768930938880'
+p12489
+S'Not Informative'
+p12490
+sS'541780760894509056'
+p12491
+S'Not Informative'
+p12492
+sS'541466328436342784'
+p12493
+S'Other Relevant Information'
+p12494
+sS'541983487448711171'
+p12495
+S'Not Informative'
+p12496
+sS'541417291125387264'
+p12497
+S'Not Informative'
+p12498
+sS'541719522114150400'
+p12499
+S'Not Informative'
+p12500
+sS'542008001159127041'
+p12501
+S'Not Informative'
+p12502
+sS'541511840656662528'
+p12503
+S'Other Relevant Information'
+p12504
+sS'541799877357740032'
+p12505
+S'Not Informative'
+p12506
+sS'541943756576919555'
+p12507
+S'Not Informative'
+p12508
+sS'541736835991355392'
+p12509
+S'Not Informative'
+p12510
+sS'542136344462372864'
+p12511
+S'Humanitarian Aid Provided'
+p12512
+sS'541463234780225537'
+p12513
+S'Other Relevant Information'
+p12514
+sS'542021033138475008'
+p12515
+S'Not Informative'
+p12516
+sS'541140584849997824'
+p12517
+S'Other Relevant Information'
+p12518
+sS'542326744318238720'
+p12519
+S'Not Informative'
+p12520
+sS'542165941266546688'
+p12521
+S'Not Informative'
+p12522
+sS'541591540150181889'
+p12523
+S'Not Informative'
+p12524
+sS'541591957416722432'
+p12525
+S'Not Informative'
+p12526
+sS'541877726445961216'
+p12527
+S'Not Informative'
+p12528
+sS'541463759982559232'
+p12529
+S'Not Informative'
+p12530
+sS'541437470705856512'
+p12531
+S'Other Relevant Information'
+p12532
+sS'541590072995233792'
+p12533
+S'Not Informative'
+p12534
+sS'541142318447734784'
+p12535
+S'Not Informative'
+p12536
+sS'541190374879162368'
+p12537
+S'Not Informative'
+p12538
+sS'541972825246941185'
+p12539
+S'Not Informative'
+p12540
+sS'541504998354341889'
+p12541
+S'Not Informative'
+p12542
+sS'541897511409946624'
+p12543
+S'Not Informative'
+p12544
+sS'541885067963138048'
+p12545
+S'Not Informative'
+p12546
+sS'541837574239559680'
+p12547
+S'Not Informative'
+p12548
+sS'541429919851376640'
+p12549
+S'Not Informative'
+p12550
+sS'541400572013072386'
+p12551
+S'Other Relevant Information'
+p12552
+sS'542225364949274625'
+p12553
+S'Not Informative'
+p12554
+sS'541546336290496513'
+p12555
+S'Not Informative'
+p12556
+sS'541486725973827584'
+p12557
+S'Not Informative'
+p12558
+sS'541445886426222593'
+p12559
+S'Other Relevant Information'
+p12560
+sS'542256639186055168'
+p12561
+S'Other Relevant Information'
+p12562
+sS'542228269236756480'
+p12563
+S'Not Informative'
+p12564
+sS'541802285601259524'
+p12565
+S'Not Informative'
+p12566
+sS'542224848517222402'
+p12567
+S'Not Informative'
+p12568
+sS'541979660330876930'
+p12569
+S'Not Informative'
+p12570
+sS'541468594908196864'
+p12571
+S'Not Informative'
+p12572
+sS'541886273439285248'
+p12573
+S'Not Informative'
+p12574
+sS'541475140882550785'
+p12575
+S'Other Relevant Information'
+p12576
+sS'541849301643575296'
+p12577
+S'Not Informative'
+p12578
+sS'541916984707776513'
+p12579
+S'Not Informative'
+p12580
+sS'541550394845843456'
+p12581
+S'Not Informative'
+p12582
+sS'541395145258590208'
+p12583
+S'Other Relevant Information'
+p12584
+sS'541143081123205121'
+p12585
+S'Other Relevant Information'
+p12586
+sS'541947296951189504'
+p12587
+S'Not Informative'
+p12588
+sS'542322698341609472'
+p12589
+S'Not Informative'
+p12590
+sS'542167262593949696'
+p12591
+S'Not Informative'
+p12592
+sS'541660440431177728'
+p12593
+S'Not Informative'
+p12594
+sS'541974503438286848'
+p12595
+S'Not Informative'
+p12596
+sS'541558068320813056'
+p12597
+S'Not Informative'
+p12598
+sS'541543155758166016'
+p12599
+S'Not Informative'
+p12600
+sS'541454331631779840'
+p12601
+S'Other Relevant Information'
+p12602
+sS'541946720293109763'
+p12603
+S'Requests for Help/Needs'
+p12604
+sS'541559244349136897'
+p12605
+S'Other Relevant Information'
+p12606
+sS'542039765517082624'
+p12607
+S'Not Informative'
+p12608
+sS'541594106842320896'
+p12609
+S'Not Informative'
+p12610
+sS'541951145552261120'
+p12611
+S'Not Informative'
+p12612
+sS'542350163248152576'
+p12613
+S'Other Relevant Information'
+p12614
+sS'541424756159819778'
+p12615
+S'Other Relevant Information'
+p12616
+sS'541873821427331072'
+p12617
+S'Not Informative'
+p12618
+sS'542274562331639808'
+p12619
+S'Not Informative'
+p12620
+sS'541408378057003008'
+p12621
+S'Not Informative'
+p12622
+sS'541967617519808512'
+p12623
+S'Other Relevant Information'
+p12624
+sS'541793830194782208'
+p12625
+S'Not Informative'
+p12626
+sS'541558513491656705'
+p12627
+S'Not Informative'
+p12628
+sS'541872944394547202'
+p12629
+S'Not Informative'
+p12630
+sS'541484184624041986'
+p12631
+S'Other Relevant Information'
+p12632
+sS'541145250295603200'
+p12633
+S'Other Relevant Information'
+p12634
+sS'542021419161624576'
+p12635
+S'Not Informative'
+p12636
+sS'541435421285023744'
+p12637
+S'Other Relevant Information'
+p12638
+sS'541407441615740929'
+p12639
+S'Other Relevant Information'
+p12640
+sS'542117404248403968'
+p12641
+S'Infrastructure Damage'
+p12642
+sS'541905413713567745'
+p12643
+S'Not Informative'
+p12644
+sS'541746263616528384'
+p12645
+S'Not Informative'
+p12646
+sS'541681863870263296'
+p12647
+S'Not Informative'
+p12648
+sS'541434221676343297'
+p12649
+S'Not Informative'
+p12650
+sS'542024088035000320'
+p12651
+S'Not Informative'
+p12652
+sS'542398117010604033'
+p12653
+S'Humanitarian Aid Provided'
+p12654
+sS'541945324336451585'
+p12655
+S'Not Informative'
+p12656
+sS'541587547579629568'
+p12657
+S'Not Informative'
+p12658
+sS'541645015198363648'
+p12659
+S'Not Informative'
+p12660
+sS'541636805138075648'
+p12661
+S'Other Relevant Information'
+p12662
+sS'541507911730860032'
+p12663
+S'Not Informative'
+p12664
+sS'542409655859691520'
+p12665
+S'Humanitarian Aid Provided'
+p12666
+sS'541696758175133696'
+p12667
+S'Not Informative'
+p12668
+sS'541585082872778752'
+p12669
+S'Other Relevant Information'
+p12670
+sS'542236414185078784'
+p12671
+S'Other Relevant Information'
+p12672
+sS'541830817266167808'
+p12673
+S'Not Informative'
+p12674
+sS'541648363176083456'
+p12675
+S'Not Informative'
+p12676
+sS'541895026171969536'
+p12677
+S'Not Informative'
+p12678
+sS'541532464297279488'
+p12679
+S'Not Informative'
+p12680
+sS'541500324540719104'
+p12681
+S'Not Informative'
+p12682
+sS'541984740614877184'
+p12683
+S'Not Informative'
+p12684
+sS'541603858804244480'
+p12685
+S'Not Informative'
+p12686
+sS'541477963057745920'
+p12687
+S'Not Informative'
+p12688
+sS'541532910265061376'
+p12689
+S'Not Informative'
+p12690
+sS'541939245217087489'
+p12691
+S'Not Informative'
+p12692
+sS'541759200280707073'
+p12693
+S'Not Informative'
+p12694
+sS'542459315798282240'
+p12695
+S'Other Relevant Information'
+p12696
+sS'541266319648104448'
+p12697
+S'Not Informative'
+p12698
+sS'541871185655382017'
+p12699
+S'Not Informative'
+p12700
+sS'541909462131703808'
+p12701
+S'Humanitarian Aid Provided'
+p12702
+sS'541152333103898625'
+p12703
+S'Other Relevant Information'
+p12704
+sS'542378365143883776'
+p12705
+S'Requests for Help/Needs'
+p12706
+sS'541539538254831617'
+p12707
+S'Not Informative'
+p12708
+sS'541851400527826944'
+p12709
+S'Not Informative'
+p12710
+sS'541331364961087488'
+p12711
+S'Other Relevant Information'
+p12712
+sS'542129765600096257'
+p12713
+S'Other Relevant Information'
+p12714
+sS'541939622503518210'
+p12715
+S'Not Informative'
+p12716
+sS'541491023793246208'
+p12717
+S'Not Informative'
+p12718
+sS'541630473257361408'
+p12719
+S'Not Informative'
+p12720
+sS'541722736327135233'
+p12721
+S'Other Relevant Information'
+p12722
+sS'541950520316166144'
+p12723
+S'Not Informative'
+p12724
+sS'541631321236197376'
+p12725
+S'Not Informative'
+p12726
+sS'542039457612836864'
+p12727
+S'Not Informative'
+p12728
+sS'541950155310657536'
+p12729
+S'Not Informative'
+p12730
+sS'541241543282401280'
+p12731
+S'Not Informative'
+p12732
+sS'541147315713884160'
+p12733
+S'Not Informative'
+p12734
+sS'541867460970835969'
+p12735
+S'Not Informative'
+p12736
+sS'541610342884065282'
+p12737
+S'Not Informative'
+p12738
+sS'541273685035077633'
+p12739
+S'Not Informative'
+p12740
+sS'541478328415576064'
+p12741
+S'Not Informative'
+p12742
+sS'541259764227768320'
+p12743
+S'Not Informative'
+p12744
+sS'541580587941625856'
+p12745
+S'Not Informative'
+p12746
+sS'541139306371637249'
+p12747
+S'Other Relevant Information'
+p12748
+sS'541405938880888834'
+p12749
+S'Other Relevant Information'
+p12750
+sS'541502759053168640'
+p12751
+S'Not Informative'
+p12752
+sS'541935171713650688'
+p12753
+S'Not Informative'
+p12754
+sS'541888714872344576'
+p12755
+S'Not Informative'
+p12756
+sS'541749934412668928'
+p12757
+S'Not Informative'
+p12758
+sS'541912683394527232'
+p12759
+S'Not Informative'
+p12760
+sS'541480392054673409'
+p12761
+S'Other Relevant Information'
+p12762
+sS'541871896225411072'
+p12763
+S'Not Informative'
+p12764
+sS'541470367097700353'
+p12765
+S'Other Relevant Information'
+p12766
+sS'541455628787806208'
+p12767
+S'Not Informative'
+p12768
+sS'541839700219027456'
+p12769
+S'Not Informative'
+p12770
+sS'541980992685498370'
+p12771
+S'Not Informative'
+p12772
+sS'542427801597378561'
+p12773
+S'Not Informative'
+p12774
+sS'541395173016875008'
+p12775
+S'Not Informative'
+p12776
+sS'541805904052486144'
+p12777
+S'Not Informative'
+p12778
+sS'541544819944742912'
+p12779
+S'Not Informative'
+p12780
+sS'541984728128040960'
+p12781
+S'Not Informative'
+p12782
+sS'541556550205046784'
+p12783
+S'Not Informative'
+p12784
+sS'541524281893879808'
+p12785
+S'Other Relevant Information'
+p12786
+sS'541274103681138688'
+p12787
+S'Other Relevant Information'
+p12788
+sS'541698866115264513'
+p12789
+S'Infrastructure Damage'
+p12790
+sS'541606598045868034'
+p12791
+S'Not Informative'
+p12792
+sS'541978073151717377'
+p12793
+S'Not Informative'
+p12794
+sS'541480710876315648'
+p12795
+S'Not Informative'
+p12796
+sS'541833703736246272'
+p12797
+S'Not Informative'
+p12798
+sS'542252222797451265'
+p12799
+S'Infrastructure Damage'
+p12800
+sS'541520618030518272'
+p12801
+S'Not Informative'
+p12802
+sS'541956540006031361'
+p12803
+S'Not Informative'
+p12804
+sS'542200423466029058'
+p12805
+S'Not Informative'
+p12806
+sS'542306336764346368'
+p12807
+S'Other Relevant Information'
+p12808
+sS'541686601558945793'
+p12809
+S'Not Informative'
+p12810
+sS'542119055529115648'
+p12811
+S'Not Informative'
+p12812
+sS'541391378279059457'
+p12813
+S'Other Relevant Information'
+p12814
+sS'541605646815092737'
+p12815
+S'Not Informative'
+p12816
+sS'541425714478587904'
+p12817
+S'Not Informative'
+p12818
+sS'541277143393894402'
+p12819
+S'Not Informative'
+p12820
+sS'541488820118487040'
+p12821
+S'Not Informative'
+p12822
+sS'541521586302750720'
+p12823
+S'Not Informative'
+p12824
+sS'541628976113135616'
+p12825
+S'Infrastructure Damage'
+p12826
+sS'541887515477549057'
+p12827
+S'Not Informative'
+p12828
+sS'541772602847424513'
+p12829
+S'Not Informative'
+p12830
+sS'541154651585146880'
+p12831
+S'Other Relevant Information'
+p12832
+sS'541419164468908032'
+p12833
+S'Not Informative'
+p12834
+sS'542370696568250369'
+p12835
+S'Requests for Help/Needs'
+p12836
+sS'541401445098991616'
+p12837
+S'Other Relevant Information'
+p12838
+sS'541714960024207360'
+p12839
+S'Not Informative'
+p12840
+sS'541856347759730688'
+p12841
+S'Not Informative'
+p12842
+sS'541260615957086208'
+p12843
+S'Not Informative'
+p12844
+sS'542332472126484480'
+p12845
+S'Requests for Help/Needs'
+p12846
+sS'541427170107592704'
+p12847
+S'Not Informative'
+p12848
+sS'541635019085602817'
+p12849
+S'Not Informative'
+p12850
+sS'542236162249613312'
+p12851
+S'Other Relevant Information'
+p12852
+sS'541450006302298112'
+p12853
+S'Other Relevant Information'
+p12854
+sS'541480418726248448'
+p12855
+S'Not Informative'
+p12856
+sS'541155350884257792'
+p12857
+S'Other Relevant Information'
+p12858
+sS'541382375943712768'
+p12859
+S'Other Relevant Information'
+p12860
+sS'541852271915462657'
+p12861
+S'Not Informative'
+p12862
+sS'542288179890380800'
+p12863
+S'Other Relevant Information'
+p12864
+sS'541903400074768384'
+p12865
+S'Not Informative'
+p12866
+sS'541733622328610816'
+p12867
+S'Not Informative'
+p12868
+sS'541982653407195138'
+p12869
+S'Not Informative'
+p12870
+sS'541978028138434560'
+p12871
+S'Not Informative'
+p12872
+sS'541984655709569025'
+p12873
+S'Not Informative'
+p12874
+sS'541368641426427904'
+p12875
+S'Not Informative'
+p12876
+sS'542365381361270784'
+p12877
+S'Other Relevant Information'
+p12878
+sS'542296869486231552'
+p12879
+S'Other Relevant Information'
+p12880
+sS'541532107219009536'
+p12881
+S'Not Informative'
+p12882
+sS'541483512516603905'
+p12883
+S'Other Relevant Information'
+p12884
+sS'541692066858688512'
+p12885
+S'Other Relevant Information'
+p12886
+sS'541964354862596099'
+p12887
+S'Not Informative'
+p12888
+sS'541928189056909313'
+p12889
+S'Not Informative'
+p12890
+sS'541445855929049088'
+p12891
+S'Not Informative'
+p12892
+sS'542281272291115008'
+p12893
+S'Not Informative'
+p12894
+sS'541744101075329024'
+p12895
+S'Not Informative'
+p12896
+sS'541956476428759040'
+p12897
+S'Not Informative'
+p12898
+sS'542118400861151233'
+p12899
+S'Not Informative'
+p12900
+sS'541513699350302720'
+p12901
+S'Other Relevant Information'
+p12902
+sS'542196263161061376'
+p12903
+S'Other Relevant Information'
+p12904
+sS'542117127482658818'
+p12905
+S'Other Relevant Information'
+p12906
+sS'541401134460436480'
+p12907
+S'Not Informative'
+p12908
+sS'541658531959566336'
+p12909
+S'Other Relevant Information'
+p12910
+sS'541254540058578944'
+p12911
+S'Not Informative'
+p12912
+sS'541453214583754752'
+p12913
+S'Other Relevant Information'
+p12914
+sS'541792638404292608'
+p12915
+S'Not Informative'
+p12916
+sS'542154781020532736'
+p12917
+S'Not Informative'
+p12918
+sS'541699388062453760'
+p12919
+S'Not Informative'
+p12920
+sS'541584205897945089'
+p12921
+S'Not Informative'
+p12922
+sS'542000944876388352'
+p12923
+S'Not Informative'
+p12924
+sS'541394404041162752'
+p12925
+S'Not Informative'
+p12926
+sS'541996894981869569'
+p12927
+S'Not Informative'
+p12928
+sS'541400966277246977'
+p12929
+S'Not Informative'
+p12930
+sS'541504526834884608'
+p12931
+S'Not Informative'
+p12932
+sS'541316626331607040'
+p12933
+S'Not Informative'
+p12934
+sS'541416204988973056'
+p12935
+S'Not Informative'
+p12936
+sS'541524489616379904'
+p12937
+S'Not Informative'
+p12938
+sS'541845540653105152'
+p12939
+S'Not Informative'
+p12940
+sS'541257277626265600'
+p12941
+S'Other Relevant Information'
+p12942
+sS'541458669477445634'
+p12943
+S'Not Informative'
+p12944
+sS'541604920504242176'
+p12945
+S'Not Informative'
+p12946
+sS'541622924311273472'
+p12947
+S'Not Informative'
+p12948
+sS'541918511761588224'
+p12949
+S'Not Informative'
+p12950
+sS'542284558155010048'
+p12951
+S'Not Informative'
+p12952
+sS'541653727262670848'
+p12953
+S'Not Informative'
+p12954
+sS'541406491786641408'
+p12955
+S'Not Informative'
+p12956
+sS'541846018136887296'
+p12957
+S'Not Informative'
+p12958
+sS'541752503813931009'
+p12959
+S'Not Informative'
+p12960
+sS'542283509378088960'
+p12961
+S'Not Informative'
+p12962
+sS'542448696651026432'
+p12963
+S'Other Relevant Information'
+p12964
+sS'541741082015326208'
+p12965
+S'Not Informative'
+p12966
+sS'541853051246477313'
+p12967
+S'Not Informative'
+p12968
+sS'542216451911086080'
+p12969
+S'Not Informative'
+p12970
+sS'541959388349882368'
+p12971
+S'Not Informative'
+p12972
+sS'542252914475945984'
+p12973
+S'Not Informative'
+p12974
+sS'541445938502324224'
+p12975
+S'Other Relevant Information'
+p12976
+sS'541293445273636864'
+p12977
+S'Not Informative'
+p12978
+sS'541330742794784768'
+p12979
+S'Other Relevant Information'
+p12980
+sS'541738638673838082'
+p12981
+S'Other Relevant Information'
+p12982
+sS'541918038535061504'
+p12983
+S'Not Informative'
+p12984
+sS'541531926532603906'
+p12985
+S'Other Relevant Information'
+p12986
+sS'541655828227305473'
+p12987
+S'Not Informative'
+p12988
+sS'541598933932593152'
+p12989
+S'Not Informative'
+p12990
+sS'541632400044728320'
+p12991
+S'Not Informative'
+p12992
+sS'541676583602233346'
+p12993
+S'Other Relevant Information'
+p12994
+sS'542353000618917888'
+p12995
+S'Not Informative'
+p12996
+sS'541321812185849856'
+p12997
+S'Not Informative'
+p12998
+sS'541536266282872832'
+p12999
+S'Not Informative'
+p13000
+sS'541103479586963457'
+p13001
+S'Not Informative'
+p13002
+sS'541665958817837056'
+p13003
+S'Not Informative'
+p13004
+sS'541615212181196801'
+p13005
+S'Not Informative'
+p13006
+sS'541564478828314624'
+p13007
+S'Not Informative'
+p13008
+sS'542227113672065024'
+p13009
+S'Other Relevant Information'
+p13010
+sS'541154981290590208'
+p13011
+S'Other Relevant Information'
+p13012
+sS'541917293488635904'
+p13013
+S'Not Informative'
+p13014
+sS'541933098724630528'
+p13015
+S'Not Informative'
+p13016
+sS'542226438036783104'
+p13017
+S'Not Informative'
+p13018
+sS'541981933253971968'
+p13019
+S'Not Informative'
+p13020
+sS'541455523791380480'
+p13021
+S'Other Relevant Information'
+p13022
+sS'541973714800111616'
+p13023
+S'Not Informative'
+p13024
+sS'541619708093403136'
+p13025
+S'Not Informative'
+p13026
+sS'541407286984331264'
+p13027
+S'Not Informative'
+p13028
+sS'541776054910603264'
+p13029
+S'Not Informative'
+p13030
+sS'541621654019772418'
+p13031
+S'Other Relevant Information'
+p13032
+sS'541526993255157760'
+p13033
+S'Other Relevant Information'
+p13034
+sS'542248548637876224'
+p13035
+S'Not Informative'
+p13036
+sS'541817954367578112'
+p13037
+S'Not Informative'
+p13038
+sS'542276654131728385'
+p13039
+S'Not Informative'
+p13040
+sS'541939350272229376'
+p13041
+S'Other Relevant Information'
+p13042
+sS'541720305131986944'
+p13043
+S'Other Relevant Information'
+p13044
+sS'541470509003583488'
+p13045
+S'Not Informative'
+p13046
+sS'541936671596363778'
+p13047
+S'Not Informative'
+p13048
+sS'541278244167618560'
+p13049
+S'Other Relevant Information'
+p13050
+sS'541526377930162176'
+p13051
+S'Not Informative'
+p13052
+sS'541889419435712512'
+p13053
+S'Not Informative'
+p13054
+sS'541973931226173441'
+p13055
+S'Not Informative'
+p13056
+sS'541410197454204928'
+p13057
+S'Not Informative'
+p13058
+sS'542229712513544193'
+p13059
+S'Not Informative'
+p13060
+sS'541604403682099202'
+p13061
+S'Other Relevant Information'
+p13062
+sS'542003353106923520'
+p13063
+S'Not Informative'
+p13064
+sS'541649019135483904'
+p13065
+S'Not Informative'
+p13066
+sS'541504266536357888'
+p13067
+S'Other Relevant Information'
+p13068
+sS'541845363913523202'
+p13069
+S'Other Relevant Information'
+p13070
+sS'541804679110209536'
+p13071
+S'Not Informative'
+p13072
+sS'541582693897478144'
+p13073
+S'Not Informative'
+p13074
+sS'542325754415960065'
+p13075
+S'Other Relevant Information'
+p13076
+sS'541721007510138881'
+p13077
+S'Not Informative'
+p13078
+sS'541956162476724230'
+p13079
+S'Not Informative'
+p13080
+sS'541522042802024448'
+p13081
+S'Not Informative'
+p13082
+sS'542177047183761408'
+p13083
+S'Not Informative'
+p13084
+sS'541765767700557824'
+p13085
+S'Not Informative'
+p13086
+sS'541335504071847936'
+p13087
+S'Not Informative'
+p13088
+sS'541314518564225026'
+p13089
+S'Other Relevant Information'
+p13090
+sS'541837958903783424'
+p13091
+S'Other Relevant Information'
+p13092
+sS'541916934615228417'
+p13093
+S'Not Informative'
+p13094
+sS'541515401373315073'
+p13095
+S'Not Informative'
+p13096
+sS'541604983855001600'
+p13097
+S'Not Informative'
+p13098
+sS'541917634069938176'
+p13099
+S'Not Informative'
+p13100
+sS'541643164516614144'
+p13101
+S'Not Informative'
+p13102
+sS'542258141585350656'
+p13103
+S'Other Relevant Information'
+p13104
+sS'541970885381341184'
+p13105
+S'Not Informative'
+p13106
+sS'541448380891680768'
+p13107
+S'Not Informative'
+p13108
+sS'541553161790447620'
+p13109
+S'Other Relevant Information'
+p13110
+sS'541954770634690563'
+p13111
+S'Not Informative'
+p13112
+sS'541457069191081985'
+p13113
+S'Not Informative'
+p13114
+sS'541389913405394944'
+p13115
+S'Not Informative'
+p13116
+sS'541937281221681152'
+p13117
+S'Not Informative'
+p13118
+sS'541488625649610753'
+p13119
+S'Not Informative'
+p13120
+sS'541762311934185472'
+p13121
+S'Not Informative'
+p13122
+sS'541822341500502016'
+p13123
+S'Humanitarian Aid Provided'
+p13124
+sS'541415429185753088'
+p13125
+S'Other Relevant Information'
+p13126
+sS'541637752409059328'
+p13127
+S'Not Informative'
+p13128
+sS'542348230772539392'
+p13129
+S'Other Relevant Information'
+p13130
+sS'541528382442192896'
+p13131
+S'Not Informative'
+p13132
+sS'541948208952668160'
+p13133
+S'Humanitarian Aid Provided'
+p13134
+sS'541162193488605184'
+p13135
+S'Not Informative'
+p13136
+sS'541840640133591040'
+p13137
+S'Other Relevant Information'
+p13138
+sS'541842660609126403'
+p13139
+S'Not Informative'
+p13140
+sS'541833578581987328'
+p13141
+S'Not Informative'
+p13142
+sS'542016175568601088'
+p13143
+S'Not Informative'
+p13144
+sS'542251307403210752'
+p13145
+S'Not Informative'
+p13146
+sS'541545081128644609'
+p13147
+S'Not Informative'
+p13148
+sS'541141532292972544'
+p13149
+S'Other Relevant Information'
+p13150
+sS'541795549973073920'
+p13151
+S'Not Informative'
+p13152
+sS'542002278392008705'
+p13153
+S'Not Informative'
+p13154
+sS'541645264805576705'
+p13155
+S'Not Informative'
+p13156
+sS'541850471107813377'
+p13157
+S'Not Informative'
+p13158
+sS'541540382484361216'
+p13159
+S'Not Informative'
+p13160
+sS'541711476327972864'
+p13161
+S'Not Informative'
+p13162
+sS'541633867825053696'
+p13163
+S'Not Informative'
+p13164
+sS'541143901885976578'
+p13165
+S'Other Relevant Information'
+p13166
+sS'541459701092081664'
+p13167
+S'Not Informative'
+p13168
+sS'541648018202562560'
+p13169
+S'Not Informative'
+p13170
+sS'541749494165929984'
+p13171
+S'Not Informative'
+p13172
+sS'541769424869392384'
+p13173
+S'Not Informative'
+p13174
+sS'541745084174446594'
+p13175
+S'Not Informative'
+p13176
+sS'541821084345982977'
+p13177
+S'Not Informative'
+p13178
+sS'541734455342137344'
+p13179
+S'Not Informative'
+p13180
+sS'541632936278106112'
+p13181
+S'Not Informative'
+p13182
+sS'542003511215394816'
+p13183
+S'Other Relevant Information'
+p13184
+sS'541610121680257024'
+p13185
+S'Not Informative'
+p13186
+sS'542323565065150464'
+p13187
+S'Humanitarian Aid Provided'
+p13188
+sS'541581734492372994'
+p13189
+S'Not Informative'
+p13190
+sS'541530269061500929'
+p13191
+S'Other Relevant Information'
+p13192
+sS'541141540312059905'
+p13193
+S'Other Relevant Information'
+p13194
+sS'541473709937004544'
+p13195
+S'Not Informative'
+p13196
+sS'541609876452286465'
+p13197
+S'Not Informative'
+p13198
+sS'541533597912412161'
+p13199
+S'Not Informative'
+p13200
+sS'541476310963326976'
+p13201
+S'Not Informative'
+p13202
+sS'542304825912725505'
+p13203
+S'Infrastructure Damage'
+p13204
+sS'541903031990644738'
+p13205
+S'Not Informative'
+p13206
+sS'541562580804722688'
+p13207
+S'Not Informative'
+p13208
+sS'541470562741002240'
+p13209
+S'Not Informative'
+p13210
+sS'541541612850257920'
+p13211
+S'Not Informative'
+p13212
+sS'542462446783299585'
+p13213
+S'Not Informative'
+p13214
+sS'541340824940707841'
+p13215
+S'Other Relevant Information'
+p13216
+sS'541467334892724225'
+p13217
+S'Not Informative'
+p13218
+sS'541636036040749057'
+p13219
+S'Not Informative'
+p13220
+sS'542424740950851584'
+p13221
+S'Not Informative'
+p13222
+sS'541890810329849856'
+p13223
+S'Not Informative'
+p13224
+sS'541638434994266113'
+p13225
+S'Not Informative'
+p13226
+sS'542209104274415616'
+p13227
+S'Not Informative'
+p13228
+sS'542401593090379778'
+p13229
+S'Not Informative'
+p13230
+sS'541471077407264768'
+p13231
+S'Not Informative'
+p13232
+sS'541938421296422912'
+p13233
+S'Other Relevant Information'
+p13234
+sS'542017323503079425'
+p13235
+S'Not Informative'
+p13236
+sS'541748846896771073'
+p13237
+S'Not Informative'
+p13238
+sS'541721813533745152'
+p13239
+S'Not Informative'
+p13240
+sS'542282483472281601'
+p13241
+S'Other Relevant Information'
+p13242
+sS'541171571755614209'
+p13243
+S'Not Informative'
+p13244
+sS'541630338687324161'
+p13245
+S'Not Informative'
+p13246
+sS'541975697775140864'
+p13247
+S'Not Informative'
+p13248
+sS'541777220490911745'
+p13249
+S'Not Informative'
+p13250
+sS'541554744158720001'
+p13251
+S'Humanitarian Aid Provided'
+p13252
+sS'541593951661068289'
+p13253
+S'Not Informative'
+p13254
+sS'541487298852827137'
+p13255
+S'Not Informative'
+p13256
+sS'541457559366803457'
+p13257
+S'Not Informative'
+p13258
+sS'541983310982160385'
+p13259
+S'Not Informative'
+p13260
+sS'542239720030613504'
+p13261
+S'Other Relevant Information'
+p13262
+sS'541971872099749889'
+p13263
+S'Not Informative'
+p13264
+sS'542299332167606272'
+p13265
+S'Other Relevant Information'
+p13266
+sS'541987006914785280'
+p13267
+S'Not Informative'
+p13268
+sS'541978310092537856'
+p13269
+S'Not Informative'
+p13270
+sS'541883456859303936'
+p13271
+S'Other Relevant Information'
+p13272
+sS'542231189939957761'
+p13273
+S'Other Relevant Information'
+p13274
+sS'541431139265560576'
+p13275
+S'Not Informative'
+p13276
+sS'541617710992351232'
+p13277
+S'Other Relevant Information'
+p13278
+sS'541809095754653696'
+p13279
+S'Not Informative'
+p13280
+sS'541716151596621825'
+p13281
+S'Humanitarian Aid Provided'
+p13282
+sS'541615326728028161'
+p13283
+S'Not Informative'
+p13284
+sS'541440635496960000'
+p13285
+S'Not Informative'
+p13286
+sS'542032937672523776'
+p13287
+S'Not Informative'
+p13288
+sS'541860430096789504'
+p13289
+S'Not Informative'
+p13290
+sS'541979628257017856'
+p13291
+S'Not Informative'
+p13292
+sS'541799561170141185'
+p13293
+S'Other Relevant Information'
+p13294
+sS'542303181041328128'
+p13295
+S'Other Relevant Information'
+p13296
+sS'541869827405914113'
+p13297
+S'Not Informative'
+p13298
+sS'541961554153840641'
+p13299
+S'Not Informative'
+p13300
+sS'541398852876529665'
+p13301
+S'Not Informative'
+p13302
+sS'541764859608567808'
+p13303
+S'Not Informative'
+p13304
+sS'541830086966509568'
+p13305
+S'Not Informative'
+p13306
+sS'542294112490102784'
+p13307
+S'Not Informative'
+p13308
+sS'541936552721403904'
+p13309
+S'Not Informative'
+p13310
+sS'541851371411345408'
+p13311
+S'Not Informative'
+p13312
+sS'541631000061562880'
+p13313
+S'Not Informative'
+p13314
+sS'541618728459567104'
+p13315
+S'Not Informative'
+p13316
+sS'541599952128847873'
+p13317
+S'Not Informative'
+p13318
+sS'541480960504516608'
+p13319
+S'Not Informative'
+p13320
+sS'541754081564319744'
+p13321
+S'Not Informative'
+p13322
+sS'542309657570594816'
+p13323
+S'Not Informative'
+p13324
+sS'541518445377236992'
+p13325
+S'Other Relevant Information'
+p13326
+sS'541489413268983808'
+p13327
+S'Other Relevant Information'
+p13328
+sS'542376763364364288'
+p13329
+S'Other Relevant Information'
+p13330
+sS'541417653336686593'
+p13331
+S'Not Informative'
+p13332
+sS'541594196914618369'
+p13333
+S'Other Relevant Information'
+p13334
+sS'541430911301349377'
+p13335
+S'Other Relevant Information'
+p13336
+sS'541435812089319425'
+p13337
+S'Not Informative'
+p13338
+sS'541853483335311360'
+p13339
+S'Not Informative'
+p13340
+sS'541529975770611712'
+p13341
+S'Other Relevant Information'
+p13342
+sS'542271730086342656'
+p13343
+S'Other Relevant Information'
+p13344
+sS'541472867762704384'
+p13345
+S'Not Informative'
+p13346
+sS'541500357403095040'
+p13347
+S'Other Relevant Information'
+p13348
+sS'541918390969843713'
+p13349
+S'Not Informative'
+p13350
+sS'542201155900547072'
+p13351
+S'Not Informative'
+p13352
+sS'541650894589550592'
+p13353
+S'Other Relevant Information'
+p13354
+sS'541614131787231233'
+p13355
+S'Other Relevant Information'
+p13356
+sS'541487876760801281'
+p13357
+S'Not Informative'
+p13358
+sS'541617681901031424'
+p13359
+S'Not Informative'
+p13360
+sS'541365321517375488'
+p13361
+S'Other Relevant Information'
+p13362
+sS'542304847463059456'
+p13363
+S'Infrastructure Damage'
+p13364
+sS'542025199424901120'
+p13365
+S'Not Informative'
+p13366
+sS'541520003523035137'
+p13367
+S'Not Informative'
+p13368
+sS'541886542730387456'
+p13369
+S'Not Informative'
+p13370
+sS'541975272526860289'
+p13371
+S'Not Informative'
+p13372
+sS'541446339230326785'
+p13373
+S'Not Informative'
+p13374
+sS'542285205579776001'
+p13375
+S'Other Relevant Information'
+p13376
+sS'541793623105220610'
+p13377
+S'Not Informative'
+p13378
+sS'541937382925168640'
+p13379
+S'Not Informative'
+p13380
+sS'541590677109235713'
+p13381
+S'Not Informative'
+p13382
+sS'542141445457461249'
+p13383
+S'Not Informative'
+p13384
+sS'541855412052447232'
+p13385
+S'Not Informative'
+p13386
+sS'541584697919160322'
+p13387
+S'Not Informative'
+p13388
+sS'541529707808706560'
+p13389
+S'Not Informative'
+p13390
+sS'541917250799034368'
+p13391
+S'Not Informative'
+p13392
+sS'542407156343902208'
+p13393
+S'Humanitarian Aid Provided'
+p13394
+sS'541485396509470720'
+p13395
+S'Not Informative'
+p13396
+sS'541103383286153216'
+p13397
+S'Other Relevant Information'
+p13398
+sS'542228703582097408'
+p13399
+S'Infrastructure Damage'
+p13400
+sS'541804375874621442'
+p13401
+S'Not Informative'
+p13402
+sS'541831818920861696'
+p13403
+S'Not Informative'
+p13404
+sS'541637584212856833'
+p13405
+S'Not Informative'
+p13406
+sS'541544735291490304'
+p13407
+S'Other Relevant Information'
+p13408
+sS'541453573033189376'
+p13409
+S'Not Informative'
+p13410
+sS'542006704247173120'
+p13411
+S'Not Informative'
+p13412
+sS'541829371858661376'
+p13413
+S'Not Informative'
+p13414
+sS'542339649902215168'
+p13415
+S'Not Informative'
+p13416
+sS'541920901990584321'
+p13417
+S'Other Relevant Information'
+p13418
+sS'542026385728888832'
+p13419
+S'Other Relevant Information'
+p13420
+sS'542451550925250561'
+p13421
+S'Other Relevant Information'
+p13422
+sS'541958017915183106'
+p13423
+S'Not Informative'
+p13424
+sS'541561218574856192'
+p13425
+S'Not Informative'
+p13426
+sS'541513530969968640'
+p13427
+S'Other Relevant Information'
+p13428
+sS'542122330022223872'
+p13429
+S'Not Informative'
+p13430
+sS'541542881593274370'
+p13431
+S'Not Informative'
+p13432
+sS'541381262296879104'
+p13433
+S'Infrastructure Damage'
+p13434
+sS'541626995927687168'
+p13435
+S'Not Informative'
+p13436
+sS'541584734761918464'
+p13437
+S'Not Informative'
+p13438
+sS'541949863135436802'
+p13439
+S'Not Informative'
+p13440
+sS'541568213826277376'
+p13441
+S'Other Relevant Information'
+p13442
+sS'541465275154329600'
+p13443
+S'Not Informative'
+p13444
+sS'541486851949731843'
+p13445
+S'Not Informative'
+p13446
+sS'542228891666898945'
+p13447
+S'Humanitarian Aid Provided'
+p13448
+sS'542003493293133824'
+p13449
+S'Not Informative'
+p13450
+sS'542378744883605506'
+p13451
+S'Not Informative'
+p13452
+sS'542229293049602048'
+p13453
+S'Humanitarian Aid Provided'
+p13454
+sS'542311328187023361'
+p13455
+S'Other Relevant Information'
+p13456
+sS'541973113869975552'
+p13457
+S'Not Informative'
+p13458
+sS'541435597559066625'
+p13459
+S'Humanitarian Aid Provided'
+p13460
+sS'542312790430846978'
+p13461
+S'Other Relevant Information'
+p13462
+sS'541980375728156672'
+p13463
+S'Not Informative'
+p13464
+sS'541683668276625408'
+p13465
+S'Other Relevant Information'
+p13466
+sS'541731258808934400'
+p13467
+S'Not Informative'
+p13468
+sS'541375923358949376'
+p13469
+S'Not Informative'
+p13470
+sS'541249531703087105'
+p13471
+S'Other Relevant Information'
+p13472
+sS'541677661878501376'
+p13473
+S'Not Informative'
+p13474
+sS'541289484789108737'
+p13475
+S'Other Relevant Information'
+p13476
+sS'541455053102383104'
+p13477
+S'Not Informative'
+p13478
+sS'542355715096985600'
+p13479
+S'Not Informative'
+p13480
+sS'542299305780842497'
+p13481
+S'Not Informative'
+p13482
+sS'541516597538463746'
+p13483
+S'Not Informative'
+p13484
+sS'541266848759959552'
+p13485
+S'Not Informative'
+p13486
+sS'541531456627957760'
+p13487
+S'Other Relevant Information'
+p13488
+sS'542261264135634945'
+p13489
+S'Humanitarian Aid Provided'
+p13490
+sS'542433681680265219'
+p13491
+S'Other Relevant Information'
+p13492
+sS'541720661391994880'
+p13493
+S'Not Informative'
+p13494
+sS'541805208930902017'
+p13495
+S'Not Informative'
+p13496
+sS'542314368982347777'
+p13497
+S'Other Relevant Information'
+p13498
+sS'541921486726897664'
+p13499
+S'Not Informative'
+p13500
+sS'541712747625320448'
+p13501
+S'Other Relevant Information'
+p13502
+sS'541958115436924928'
+p13503
+S'Not Informative'
+p13504
+sS'541532549726871552'
+p13505
+S'Other Relevant Information'
+p13506
+sS'541382020258340864'
+p13507
+S'Other Relevant Information'
+p13508
+sS'541557850997137410'
+p13509
+S'Not Informative'
+p13510
+sS'541298927509962752'
+p13511
+S'Other Relevant Information'
+p13512
+sS'542130713987121152'
+p13513
+S'Other Relevant Information'
+p13514
+sS'542284420238299137'
+p13515
+S'Not Informative'
+p13516
+sS'541640544431005697'
+p13517
+S'Not Informative'
+p13518
+sS'541439548279255040'
+p13519
+S'Not Informative'
+p13520
+sS'541376758268715008'
+p13521
+S'Not Informative'
+p13522
+sS'542021324500004864'
+p13523
+S'Not Informative'
+p13524
+sS'541514861599940608'
+p13525
+S'Not Informative'
+p13526
+sS'541739617930977280'
+p13527
+S'Not Informative'
+p13528
+sS'541847506863136768'
+p13529
+S'Not Informative'
+p13530
+sS'541893106988105728'
+p13531
+S'Not Informative'
+p13532
+sS'541958455947689984'
+p13533
+S'Not Informative'
+p13534
+sS'541468205663801344'
+p13535
+S'Not Informative'
+p13536
+sS'541583359538135040'
+p13537
+S'Not Informative'
+p13538
+sS'541538003609346048'
+p13539
+S'Not Informative'
+p13540
+sS'541703079830122496'
+p13541
+S'Not Informative'
+p13542
+sS'541713820876808193'
+p13543
+S'Other Relevant Information'
+p13544
+sS'541614141652213763'
+p13545
+S'Infrastructure Damage'
+p13546
+sS'541775803357618176'
+p13547
+S'Not Informative'
+p13548
+sS'541484842807226368'
+p13549
+S'Not Informative'
+p13550
+sS'542173597716844544'
+p13551
+S'Other Relevant Information'
+p13552
+sS'542215997025828864'
+p13553
+S'Not Informative'
+p13554
+sS'541854272137089024'
+p13555
+S'Not Informative'
+p13556
+sS'541710842170204160'
+p13557
+S'Not Informative'
+p13558
+sS'542146897381982208'
+p13559
+S'Not Informative'
+p13560
+sS'541691483146186752'
+p13561
+S'Humanitarian Aid Provided'
+p13562
+sS'541743829515132928'
+p13563
+S'Not Informative'
+p13564
+sS'542458998327218177'
+p13565
+S'Not Informative'
+p13566
+sS'541538232035315712'
+p13567
+S'Not Informative'
+p13568
+sS'541533347021725696'
+p13569
+S'Other Relevant Information'
+p13570
+sS'541974830015184896'
+p13571
+S'Humanitarian Aid Provided'
+p13572
+sS'541811555462299648'
+p13573
+S'Requests for Help/Needs'
+p13574
+sS'541809183473938432'
+p13575
+S'Not Informative'
+p13576
+sS'542334117002506240'
+p13577
+S'Other Relevant Information'
+p13578
+sS'541847312016760832'
+p13579
+S'Not Informative'
+p13580
+sS'541339864646815745'
+p13581
+S'Other Relevant Information'
+p13582
+sS'541630805764603904'
+p13583
+S'Not Informative'
+p13584
+sS'541419532301402112'
+p13585
+S'Not Informative'
+p13586
+sS'542359491787120640'
+p13587
+S'Infrastructure Damage'
+p13588
+sS'541939538558337024'
+p13589
+S'Not Informative'
+p13590
+sS'541254274663981058'
+p13591
+S'Not Informative'
+p13592
+sS'541561594920960000'
+p13593
+S'Not Informative'
+p13594
+sS'542028573121339394'
+p13595
+S'Other Relevant Information'
+p13596
+sS'541158937492336640'
+p13597
+S'Not Informative'
+p13598
+sS'541385817084952577'
+p13599
+S'Other Relevant Information'
+p13600
+sS'541521022227202050'
+p13601
+S'Not Informative'
+p13602
+sS'541986974655975425'
+p13603
+S'Not Informative'
+p13604
+sS'541425079414833152'
+p13605
+S'Not Informative'
+p13606
+sS'541794966440513536'
+p13607
+S'Other Relevant Information'
+p13608
+sS'541386935982637057'
+p13609
+S'Not Informative'
+p13610
+sS'541527847400009728'
+p13611
+S'Not Informative'
+p13612
+sS'541892928306946048'
+p13613
+S'Not Informative'
+p13614
+sS'542184392232554497'
+p13615
+S'Other Relevant Information'
+p13616
+sS'541548578863210498'
+p13617
+S'Infrastructure Damage'
+p13618
+sS'542284886430998528'
+p13619
+S'Not Informative'
+p13620
+sS'542122520326176768'
+p13621
+S'Other Relevant Information'
+p13622
+sS'542278928367230978'
+p13623
+S'Humanitarian Aid Provided'
+p13624
+sS'541761428521496578'
+p13625
+S'Not Informative'
+p13626
+sS'541937063512539136'
+p13627
+S'Not Informative'
+p13628
+sS'542319692673998848'
+p13629
+S'Other Relevant Information'
+p13630
+sS'541440539745587201'
+p13631
+S'Humanitarian Aid Provided'
+p13632
+sS'541623730624286720'
+p13633
+S'Other Relevant Information'
+p13634
+sS'541551881873416194'
+p13635
+S'Not Informative'
+p13636
+sS'541393351669334016'
+p13637
+S'Not Informative'
+p13638
+sS'541720806582009856'
+p13639
+S'Other Relevant Information'
+p13640
+sS'541593867334582272'
+p13641
+S'Not Informative'
+p13642
+sS'541773529474019328'
+p13643
+S'Not Informative'
+p13644
+sS'542453022052216832'
+p13645
+S'Not Informative'
+p13646
+sS'541146664954638336'
+p13647
+S'Other Relevant Information'
+p13648
+sS'541285377974095872'
+p13649
+S'Not Informative'
+p13650
+sS'541875081526259712'
+p13651
+S'Not Informative'
+p13652
+sS'541498607967281152'
+p13653
+S'Not Informative'
+p13654
+sS'541489144762236928'
+p13655
+S'Infrastructure Damage'
+p13656
+sS'542258616841957376'
+p13657
+S'Other Relevant Information'
+p13658
+sS'541970778355286016'
+p13659
+S'Infrastructure Damage'
+p13660
+sS'541711836408602624'
+p13661
+S'Not Informative'
+p13662
+sS'542352237419188224'
+p13663
+S'Other Relevant Information'
+p13664
+sS'541845065870479360'
+p13665
+S'Not Informative'
+p13666
+sS'541741916845801473'
+p13667
+S'Not Informative'
+p13668
+sS'541841293442551808'
+p13669
+S'Not Informative'
+p13670
+sS'542321647709982721'
+p13671
+S'Not Informative'
+p13672
+sS'541920210995773440'
+p13673
+S'Other Relevant Information'
+p13674
+sS'541409037401595904'
+p13675
+S'Not Informative'
+p13676
+sS'541182230639300608'
+p13677
+S'Other Relevant Information'
+p13678
+sS'541497204783849472'
+p13679
+S'Other Relevant Information'
+p13680
+sS'541658202161426432'
+p13681
+S'Not Informative'
+p13682
+sS'541492097300180992'
+p13683
+S'Not Informative'
+p13684
+sS'541978902424330240'
+p13685
+S'Not Informative'
+p13686
+sS'541591069570260993'
+p13687
+S'Not Informative'
+p13688
+sS'541759101860990976'
+p13689
+S'Not Informative'
+p13690
+sS'541950130073513985'
+p13691
+S'Not Informative'
+p13692
+sS'542040771151413249'
+p13693
+S'Not Informative'
+p13694
+sS'541213602884378625'
+p13695
+S'Humanitarian Aid Provided'
+p13696
+sS'541805399779713027'
+p13697
+S'Not Informative'
+p13698
+sS'541498981797613568'
+p13699
+S'Infrastructure Damage'
+p13700
+sS'541470957508886528'
+p13701
+S'Not Informative'
+p13702
+sS'541903060117647360'
+p13703
+S'Not Informative'
+p13704
+sS'542182298653700096'
+p13705
+S'Not Informative'
+p13706
+sS'541484443450343425'
+p13707
+S'Not Informative'
+p13708
+sS'541148585107013632'
+p13709
+S'Other Relevant Information'
+p13710
+sS'541801707374931968'
+p13711
+S'Not Informative'
+p13712
+sS'541152577232990208'
+p13713
+S'Not Informative'
+p13714
+sS'541612225341816832'
+p13715
+S'Not Informative'
+p13716
+sS'541988404620058625'
+p13717
+S'Not Informative'
+p13718
+sS'541799379737145346'
+p13719
+S'Not Informative'
+p13720
+sS'542332862846861313'
+p13721
+S'Other Relevant Information'
+p13722
+sS'542241484305494016'
+p13723
+S'Not Informative'
+p13724
+sS'541560148385628160'
+p13725
+S'Not Informative'
+p13726
+sS'541455918198960128'
+p13727
+S'Not Informative'
+p13728
+sS'541957379785367552'
+p13729
+S'Not Informative'
+p13730
+sS'542251846048296961'
+p13731
+S'Other Relevant Information'
+p13732
+sS'541600416186630144'
+p13733
+S'Not Informative'
+p13734
+sS'541774691807932416'
+p13735
+S'Other Relevant Information'
+p13736
+sS'541560295060013056'
+p13737
+S'Not Informative'
+p13738
+sS'542180074175627264'
+p13739
+S'Other Relevant Information'
+p13740
+sS'542213378974814208'
+p13741
+S'Not Informative'
+p13742
+sS'541560677156913152'
+p13743
+S'Not Informative'
+p13744
+sS'542298026329399296'
+p13745
+S'Requests for Help/Needs'
+p13746
+sS'542227351543631873'
+p13747
+S'Not Informative'
+p13748
+sS'542329116226502657'
+p13749
+S'Other Relevant Information'
+p13750
+sS'541600533165785089'
+p13751
+S'Not Informative'
+p13752
+sS'541497969208332292'
+p13753
+S'Not Informative'
+p13754
+sS'542198445939769345'
+p13755
+S'Not Informative'
+p13756
+sS'542206150096064512'
+p13757
+S'Other Relevant Information'
+p13758
+sS'541597578182152192'
+p13759
+S'Other Relevant Information'
+p13760
+sS'541854733963898881'
+p13761
+S'Other Relevant Information'
+p13762
+sS'541379889396346880'
+p13763
+S'Other Relevant Information'
+p13764
+sS'541526084240822272'
+p13765
+S'Humanitarian Aid Provided'
+p13766
+sS'541470912151691264'
+p13767
+S'Other Relevant Information'
+p13768
+sS'541587996416692226'
+p13769
+S'Not Informative'
+p13770
+sS'541675410677710848'
+p13771
+S'Not Informative'
+p13772
+sS'541538727731146752'
+p13773
+S'Not Informative'
+p13774
+sS'541144924620484609'
+p13775
+S'Humanitarian Aid Provided'
+p13776
+sS'541959470197514241'
+p13777
+S'Not Informative'
+p13778
+sS'542042466405199873'
+p13779
+S'Other Relevant Information'
+p13780
+sS'541625826865721344'
+p13781
+S'Not Informative'
+p13782
+sS'542191954591617024'
+p13783
+S'Other Relevant Information'
+p13784
+sS'541951678346309632'
+p13785
+S'Not Informative'
+p13786
+sS'541471779621838848'
+p13787
+S'Not Informative'
+p13788
+sS'541387878111010819'
+p13789
+S'Not Informative'
+p13790
+sS'541615918938198016'
+p13791
+S'Not Informative'
+p13792
+sS'541428628228034560'
+p13793
+S'Not Informative'
+p13794
+sS'541521279141281792'
+p13795
+S'Other Relevant Information'
+p13796
+sS'542027071392714752'
+p13797
+S'Not Informative'
+p13798
+sS'541595060631257088'
+p13799
+S'Not Informative'
+p13800
+sS'542029355715932160'
+p13801
+S'Not Informative'
+p13802
+sS'541732352469131264'
+p13803
+S'Not Informative'
+p13804
+sS'541953170063101952'
+p13805
+S'Not Informative'
+p13806
+sS'541377496839495680'
+p13807
+S'Other Relevant Information'
+p13808
+sS'541634143885328384'
+p13809
+S'Not Informative'
+p13810
+sS'541944466416730113'
+p13811
+S'Other Relevant Information'
+p13812
+sS'541461485419900930'
+p13813
+S'Not Informative'
+p13814
+sS'542173468297404416'
+p13815
+S'Not Informative'
+p13816
+sS'542275282732724224'
+p13817
+S'Not Informative'
+p13818
+sS'541802605400174592'
+p13819
+S'Not Informative'
+p13820
+sS'541599511907291136'
+p13821
+S'Not Informative'
+p13822
+sS'541468950916124674'
+p13823
+S'Other Relevant Information'
+p13824
+sS'541523360190967808'
+p13825
+S'Not Informative'
+p13826
+sS'541879185179148288'
+p13827
+S'Not Informative'
+p13828
+sS'541395253865885696'
+p13829
+S'Not Informative'
+p13830
+sS'541722815783661568'
+p13831
+S'Not Informative'
+p13832
+sS'541970765973704704'
+p13833
+S'Not Informative'
+p13834
+sS'541716125676212224'
+p13835
+S'Not Informative'
+p13836
+sS'542328491530657792'
+p13837
+S'Not Informative'
+p13838
+sS'542308396998066176'
+p13839
+S'Other Relevant Information'
+p13840
+sS'542295820310044675'
+p13841
+S'Other Relevant Information'
+p13842
+sS'541694352570216449'
+p13843
+S'Not Informative'
+p13844
+sS'541494601472049153'
+p13845
+S'Other Relevant Information'
+p13846
+sS'541895632500174848'
+p13847
+S'Not Informative'
+p13848
+sS'541779895622197249'
+p13849
+S'Not Informative'
+p13850
+sS'541472650342592512'
+p13851
+S'Other Relevant Information'
+p13852
+sS'541451628784922625'
+p13853
+S'Not Informative'
+p13854
+sS'541804465188114432'
+p13855
+S'Not Informative'
+p13856
+sS'541950953399017472'
+p13857
+S'Not Informative'
+p13858
+sS'541460777077452800'
+p13859
+S'Not Informative'
+p13860
+sS'541922589187121152'
+p13861
+S'Not Informative'
+p13862
+sS'541895435195916289'
+p13863
+S'Not Informative'
+p13864
+sS'541644366591164416'
+p13865
+S'Not Informative'
+p13866
+sS'541598060938133505'
+p13867
+S'Not Informative'
+p13868
+sS'541513820598853634'
+p13869
+S'Not Informative'
+p13870
+sS'541412451082719233'
+p13871
+S'Not Informative'
+p13872
+sS'541767578549370880'
+p13873
+S'Not Informative'
+p13874
+sS'541637132474130433'
+p13875
+S'Not Informative'
+p13876
+sS'541267504115757056'
+p13877
+S'Other Relevant Information'
+p13878
+sS'541723409948749824'
+p13879
+S'Not Informative'
+p13880
+sS'541655270040932352'
+p13881
+S'Not Informative'
+p13882
+sS'541671428110970880'
+p13883
+S'Not Informative'
+p13884
+sS'541381040481136640'
+p13885
+S'Other Relevant Information'
+p13886
+sS'541523223196622848'
+p13887
+S'Not Informative'
+p13888
+sS'541522492071112704'
+p13889
+S'Humanitarian Aid Provided'
+p13890
+sS'541612263019671552'
+p13891
+S'Not Informative'
+p13892
+sS'541415201656958976'
+p13893
+S'Not Informative'
+p13894
+sS'541556069743349761'
+p13895
+S'Not Informative'
+p13896
+sS'541970987756298243'
+p13897
+S'Not Informative'
+p13898
+sS'542267858797883392'
+p13899
+S'Not Informative'
+p13900
+sS'541257764714975232'
+p13901
+S'Other Relevant Information'
+p13902
+sS'541473364389294080'
+p13903
+S'Not Informative'
+p13904
+sS'541854576186388480'
+p13905
+S'Not Informative'
+p13906
+sS'542222078531743744'
+p13907
+S'Not Informative'
+p13908
+sS'541616145410048001'
+p13909
+S'Not Informative'
+p13910
+sS'541795634110402561'
+p13911
+S'Not Informative'
+p13912
+sS'542036826236936192'
+p13913
+S'Not Informative'
+p13914
+sS'542439456150536194'
+p13915
+S'Other Relevant Information'
+p13916
+sS'541557453247086592'
+p13917
+S'Not Informative'
+p13918
+sS'541925377728610304'
+p13919
+S'Not Informative'
+p13920
+sS'542139175114256384'
+p13921
+S'Not Informative'
+p13922
+sS'541942024107474945'
+p13923
+S'Not Informative'
+p13924
+sS'541472646659993600'
+p13925
+S'Other Relevant Information'
+p13926
+sS'541140803012530176'
+p13927
+S'Other Relevant Information'
+p13928
+sS'541850933122977792'
+p13929
+S'Not Informative'
+p13930
+sS'542370473275711488'
+p13931
+S'Not Informative'
+p13932
+sS'541743692231348224'
+p13933
+S'Not Informative'
+p13934
+sS'542251608487108608'
+p13935
+S'Not Informative'
+p13936
+sS'541871331159969792'
+p13937
+S'Not Informative'
+p13938
+sS'541534987829276672'
+p13939
+S'Not Informative'
+p13940
+sS'541944428760662017'
+p13941
+S'Not Informative'
+p13942
+sS'541989906860355584'
+p13943
+S'Not Informative'
+p13944
+sS'542355539909697536'
+p13945
+S'Other Relevant Information'
+p13946
+sS'541301590376730624'
+p13947
+S'Infrastructure Damage'
+p13948
+sS'542280083747397632'
+p13949
+S'Not Informative'
+p13950
+sS'541867775119994880'
+p13951
+S'Not Informative'
+p13952
+sS'541729565358321664'
+p13953
+S'Not Informative'
+p13954
+sS'541817700670902273'
+p13955
+S'Not Informative'
+p13956
+sS'542315766230827008'
+p13957
+S'Other Relevant Information'
+p13958
+sS'541676026196008960'
+p13959
+S'Not Informative'
+p13960
+sS'541363294746193920'
+p13961
+S'Not Informative'
+p13962
+sS'542227264365015040'
+p13963
+S'Not Informative'
+p13964
+sS'541390335272710145'
+p13965
+S'Other Relevant Information'
+p13966
+sS'542317818914435073'
+p13967
+S'Other Relevant Information'
+p13968
+sS'541995358566359040'
+p13969
+S'Not Informative'
+p13970
+sS'541636418913988608'
+p13971
+S'Not Informative'
+p13972
+sS'541875357486297088'
+p13973
+S'Not Informative'
+p13974
+sS'541770474200395777'
+p13975
+S'Not Informative'
+p13976
+sS'542002001169498112'
+p13977
+S'Not Informative'
+p13978
+sS'541236253073870849'
+p13979
+S'Other Relevant Information'
+p13980
+sS'541755094601961473'
+p13981
+S'Not Informative'
+p13982
+sS'541873928621547520'
+p13983
+S'Not Informative'
+p13984
+sS'541620121660559360'
+p13985
+S'Not Informative'
+p13986
+sS'542034383180292096'
+p13987
+S'Infrastructure Damage'
+p13988
+sS'542236060416487424'
+p13989
+S'Not Informative'
+p13990
+sS'541264605431881729'
+p13991
+S'Not Informative'
+p13992
+sS'541517305138524161'
+p13993
+S'Not Informative'
+p13994
+sS'541866746433372161'
+p13995
+S'Not Informative'
+p13996
+sS'541456699500937216'
+p13997
+S'Not Informative'
+p13998
+sS'541939307242459136'
+p13999
+S'Not Informative'
+p14000
+sS'541631349522571264'
+p14001
+S'Not Informative'
+p14002
+sS'541465328572956673'
+p14003
+S'Not Informative'
+p14004
+sS'541253381575438336'
+p14005
+S'Other Relevant Information'
+p14006
+sS'542444083411570688'
+p14007
+S'Not Informative'
+p14008
+sS'541934406450311168'
+p14009
+S'Not Informative'
+p14010
+sS'541888907260854273'
+p14011
+S'Not Informative'
+p14012
+sS'541517763484069888'
+p14013
+S'Not Informative'
+p14014
+sS'541522690956218368'
+p14015
+S'Not Informative'
+p14016
+sS'541656783916236800'
+p14017
+S'Other Relevant Information'
+p14018
+sS'542348034387238912'
+p14019
+S'Other Relevant Information'
+p14020
+sS'541618811305078784'
+p14021
+S'Not Informative'
+p14022
+sS'542320770379423744'
+p14023
+S'Not Informative'
+p14024
+sS'542212123640602624'
+p14025
+S'Other Relevant Information'
+p14026
+sS'541621237014097921'
+p14027
+S'Not Informative'
+p14028
+sS'541880624479346688'
+p14029
+S'Not Informative'
+p14030
+sS'542230408117903360'
+p14031
+S'Not Informative'
+p14032
+sS'541822442063142912'
+p14033
+S'Not Informative'
+p14034
+sS'541978438613999616'
+p14035
+S'Not Informative'
+p14036
+sS'542302447147163648'
+p14037
+S'Other Relevant Information'
+p14038
+sS'541869037501030400'
+p14039
+S'Not Informative'
+p14040
+sS'541811676928942080'
+p14041
+S'Not Informative'
+p14042
+sS'541899891702648832'
+p14043
+S'Not Informative'
+p14044
+sS'541947825601253376'
+p14045
+S'Not Informative'
+p14046
+sS'541431928201564160'
+p14047
+S'Not Informative'
+p14048
+sS'541965253349617664'
+p14049
+S'Other Relevant Information'
+p14050
+sS'541399556161011712'
+p14051
+S'Other Relevant Information'
+p14052
+sS'542295520405123072'
+p14053
+S'Other Relevant Information'
+p14054
+sS'541287086532218880'
+p14055
+S'Other Relevant Information'
+p14056
+sS'541950815431577600'
+p14057
+S'Not Informative'
+p14058
+sS'541293802976464896'
+p14059
+S'Other Relevant Information'
+p14060
+sS'541425691405717506'
+p14061
+S'Other Relevant Information'
+p14062
+sS'541295998409375744'
+p14063
+S'Not Informative'
+p14064
+sS'541462749042069504'
+p14065
+S'Not Informative'
+p14066
+sS'541960256272596993'
+p14067
+S'Not Informative'
+p14068
+sS'541507350205845504'
+p14069
+S'Other Relevant Information'
+p14070
+sS'541489326480437248'
+p14071
+S'Not Informative'
+p14072
+sS'542120501490221056'
+p14073
+S'Not Informative'
+p14074
+sS'542371349625180162'
+p14075
+S'Humanitarian Aid Provided'
+p14076
+sS'541427777010798592'
+p14077
+S'Not Informative'
+p14078
+sS'541457554673369088'
+p14079
+S'Not Informative'
+p14080
+sS'541529489524924416'
+p14081
+S'Not Informative'
+p14082
+sS'541955920381476865'
+p14083
+S'Not Informative'
+p14084
+sS'542389970044874752'
+p14085
+S'Humanitarian Aid Provided'
+p14086
+sS'541629323598651392'
+p14087
+S'Not Informative'
+p14088
+sS'541656461416226816'
+p14089
+S'Not Informative'
+p14090
+sS'541485341622820866'
+p14091
+S'Other Relevant Information'
+p14092
+sS'541946286522384385'
+p14093
+S'Not Informative'
+p14094
+sS'541517638908665857'
+p14095
+S'Not Informative'
+p14096
+sS'541458521372368896'
+p14097
+S'Not Informative'
+p14098
+sS'541463636443549696'
+p14099
+S'Not Informative'
+p14100
+sS'541660220833816576'
+p14101
+S'Not Informative'
+p14102
+sS'541468977281892352'
+p14103
+S'Not Informative'
+p14104
+sS'541158562055987201'
+p14105
+S'Other Relevant Information'
+p14106
+sS'541740221428416512'
+p14107
+S'Humanitarian Aid Provided'
+p14108
+sS'541831336579706880'
+p14109
+S'Not Informative'
+p14110
+sS'541855706572279809'
+p14111
+S'Not Informative'
+p14112
+sS'541989884706041856'
+p14113
+S'Not Informative'
+p14114
+sS'541936883987513344'
+p14115
+S'Not Informative'
+p14116
+sS'542212563178885120'
+p14117
+S'Not Informative'
+p14118
+sS'541402290574217217'
+p14119
+S'Not Informative'
+p14120
+sS'541580845811634176'
+p14121
+S'Not Informative'
+p14122
+sS'541775032125382656'
+p14123
+S'Not Informative'
+p14124
+sS'541737737720967169'
+p14125
+S'Not Informative'
+p14126
+sS'541301458126114816'
+p14127
+S'Infrastructure Damage'
+p14128
+sS'541632489576353794'
+p14129
+S'Not Informative'
+p14130
+sS'541625059316465666'
+p14131
+S'Not Informative'
+p14132
+sS'542127214330773505'
+p14133
+S'Not Informative'
+p14134
+sS'541790322712264706'
+p14135
+S'Not Informative'
+p14136
+sS'541895016533082112'
+p14137
+S'Not Informative'
+p14138
+sS'542008971461423106'
+p14139
+S'Not Informative'
+p14140
+sS'541511884751376385'
+p14141
+S'Other Relevant Information'
+p14142
+sS'541541087177740288'
+p14143
+S'Not Informative'
+p14144
+sS'542031591305142275'
+p14145
+S'Not Informative'
+p14146
+sS'541828905720877057'
+p14147
+S'Not Informative'
+p14148
+sS'541609504342044672'
+p14149
+S'Other Relevant Information'
+p14150
+sS'541724046204076032'
+p14151
+S'Not Informative'
+p14152
+sS'542146719757004800'
+p14153
+S'Not Informative'
+p14154
+sS'541877668594331648'
+p14155
+S'Other Relevant Information'
+p14156
+sS'541414643953307648'
+p14157
+S'Not Informative'
+p14158
+sS'541813170965594112'
+p14159
+S'Not Informative'
+p14160
+sS'542041223411027969'
+p14161
+S'Other Relevant Information'
+p14162
+sS'541975998900625409'
+p14163
+S'Other Relevant Information'
+p14164
+sS'541148408992391168'
+p14165
+S'Humanitarian Aid Provided'
+p14166
+sS'541436157762871296'
+p14167
+S'Not Informative'
+p14168
+sS'542339081829879808'
+p14169
+S'Not Informative'
+p14170
+sS'541489414728597504'
+p14171
+S'Other Relevant Information'
+p14172
+sS'541702135541690368'
+p14173
+S'Not Informative'
+p14174
+sS'541565060070801408'
+p14175
+S'Not Informative'
+p14176
+sS'541766344870342656'
+p14177
+S'Not Informative'
+p14178
+sS'541725172953133057'
+p14179
+S'Not Informative'
+p14180
+sS'541413963615846400'
+p14181
+S'Not Informative'
+p14182
+sS'541444881730650112'
+p14183
+S'Other Relevant Information'
+p14184
+sS'541146317573984256'
+p14185
+S'Not Informative'
+p14186
+sS'541554405171290112'
+p14187
+S'Not Informative'
+p14188
+sS'541807158191337474'
+p14189
+S'Other Relevant Information'
+p14190
+sS'541483112845172736'
+p14191
+S'Not Informative'
+p14192
+sS'541899161864400896'
+p14193
+S'Not Informative'
+p14194
+sS'541755002142728192'
+p14195
+S'Not Informative'
+p14196
+sS'541261005209075712'
+p14197
+S'Not Informative'
+p14198
+sS'541428244960927744'
+p14199
+S'Not Informative'
+p14200
+sS'541403211370754048'
+p14201
+S'Not Informative'
+p14202
+sS'542280055754211328'
+p14203
+S'Not Informative'
+p14204
+sS'542364563509755905'
+p14205
+S'Other Relevant Information'
+p14206
+sS'541635973805641729'
+p14207
+S'Not Informative'
+p14208
+sS'541887681438179328'
+p14209
+S'Not Informative'
+p14210
+sS'541483293401960448'
+p14211
+S'Other Relevant Information'
+p14212
+sS'541653410412376065'
+p14213
+S'Not Informative'
+p14214
+sS'541510441751412736'
+p14215
+S'Other Relevant Information'
+p14216
+sS'542432293969620992'
+p14217
+S'Other Relevant Information'
+p14218
+sS'541650226461696000'
+p14219
+S'Not Informative'
+p14220
+sS'542154241343631360'
+p14221
+S'Not Informative'
+p14222
+sS'541636848159039488'
+p14223
+S'Not Informative'
+p14224
+sS'541585054288183297'
+p14225
+S'Not Informative'
+p14226
+sS'542231597294952448'
+p14227
+S'Infrastructure Damage'
+p14228
+sS'541537312375447552'
+p14229
+S'Not Informative'
+p14230
+sS'541226817147777025'
+p14231
+S'Other Relevant Information'
+p14232
+sS'541521383881048064'
+p14233
+S'Other Relevant Information'
+p14234
+sS'541932715881148416'
+p14235
+S'Not Informative'
+p14236
+sS'542251137148395520'
+p14237
+S'Not Informative'
+p14238
+sS'541801731844104192'
+p14239
+S'Not Informative'
+p14240
+sS'541321867647135744'
+p14241
+S'Other Relevant Information'
+p14242
+sS'541959645586137088'
+p14243
+S'Not Informative'
+p14244
+sS'542114015682387968'
+p14245
+S'Not Informative'
+p14246
+sS'541903608128614403'
+p14247
+S'Not Informative'
+p14248
+sS'542237073814466562'
+p14249
+S'Infrastructure Damage'
+p14250
+sS'541148721149652992'
+p14251
+S'Other Relevant Information'
+p14252
+sS'541280322516553729'
+p14253
+S'Not Informative'
+p14254
+sS'541494436509650945'
+p14255
+S'Not Informative'
+p14256
+sS'541174013783846912'
+p14257
+S'Not Informative'
+p14258
+sS'541683465113337857'
+p14259
+S'Not Informative'
+p14260
+sS'541717714062934017'
+p14261
+S'Other Relevant Information'
+p14262
+sS'542264799006961664'
+p14263
+S'Not Informative'
+p14264
+sS'541542006011346944'
+p14265
+S'Not Informative'
+p14266
+sS'541738851849367552'
+p14267
+S'Not Informative'
+p14268
+sS'541442751489785856'
+p14269
+S'Other Relevant Information'
+p14270
+sS'541608707356762112'
+p14271
+S'Not Informative'
+p14272
+sS'541598409438679043'
+p14273
+S'Not Informative'
+p14274
+sS'542441762791227392'
+p14275
+S'Other Relevant Information'
+p14276
+sS'541817734192168960'
+p14277
+S'Not Informative'
+p14278
+sS'541429810883342336'
+p14279
+S'Not Informative'
+p14280
+sS'542315242693210113'
+p14281
+S'Not Informative'
+p14282
+sS'541975260984143872'
+p14283
+S'Not Informative'
+p14284
+sS'541870623899664384'
+p14285
+S'Not Informative'
+p14286
+sS'542429113575686144'
+p14287
+S'Other Relevant Information'
+p14288
+sS'541510037449883649'
+p14289
+S'Not Informative'
+p14290
+sS'541749865600929792'
+p14291
+S'Not Informative'
+p14292
+sS'541623833112088576'
+p14293
+S'Not Informative'
+p14294
+sS'541943531363790848'
+p14295
+S'Humanitarian Aid Provided'
+p14296
+sS'542450647967084544'
+p14297
+S'Requests for Help/Needs'
+p14298
+sS'541743902244352001'
+p14299
+S'Not Informative'
+p14300
+sS'541379627139485697'
+p14301
+S'Not Informative'
+p14302
+sS'541824525856702464'
+p14303
+S'Not Informative'
+p14304
+sS'542162996420558850'
+p14305
+S'Other Relevant Information'
+p14306
+sS'541972708104216580'
+p14307
+S'Not Informative'
+p14308
+sS'541584819365228544'
+p14309
+S'Not Informative'
+p14310
+sS'541704967455662080'
+p14311
+S'Not Informative'
+p14312
+sS'541375044404785154'
+p14313
+S'Not Informative'
+p14314
+sS'541539078484021249'
+p14315
+S'Humanitarian Aid Provided'
+p14316
+sS'542271202819969026'
+p14317
+S'Humanitarian Aid Provided'
+p14318
+sS'541629081008091136'
+p14319
+S'Not Informative'
+p14320
+sS'541489960550146048'
+p14321
+S'Not Informative'
+p14322
+sS'541497433461493761'
+p14323
+S'Not Informative'
+p14324
+sS'541802182341689344'
+p14325
+S'Not Informative'
+p14326
+sS'541798905927573504'
+p14327
+S'Not Informative'
+p14328
+sS'541930172958908417'
+p14329
+S'Not Informative'
+p14330
+sS'542365092164022273'
+p14331
+S'Not Informative'
+p14332
+sS'541970883913322496'
+p14333
+S'Not Informative'
+p14334
+sS'541854412105195521'
+p14335
+S'Not Informative'
+p14336
+sS'541446429013590017'
+p14337
+S'Not Informative'
+p14338
+sS'541951591071629313'
+p14339
+S'Humanitarian Aid Provided'
+p14340
+sS'541715337016668160'
+p14341
+S'Not Informative'
+p14342
+sS'541579066810195969'
+p14343
+S'Other Relevant Information'
+p14344
+sS'541946899817705472'
+p14345
+S'Not Informative'
+p14346
+sS'541752041576886273'
+p14347
+S'Not Informative'
+p14348
+sS'541880080642097152'
+p14349
+S'Not Informative'
+p14350
+sS'541973443361923074'
+p14351
+S'Requests for Help/Needs'
+p14352
+sS'542450588307304449'
+p14353
+S'Not Informative'
+p14354
+sS'541958770473988097'
+p14355
+S'Not Informative'
+p14356
+sS'542224882432352257'
+p14357
+S'Not Informative'
+p14358
+sS'541582158767222785'
+p14359
+S'Not Informative'
+p14360
+sS'541508119591796736'
+p14361
+S'Other Relevant Information'
+p14362
+sS'541696328531980288'
+p14363
+S'Not Informative'
+p14364
+sS'541853569142779904'
+p14365
+S'Not Informative'
+p14366
+sS'541614127693582337'
+p14367
+S'Not Informative'
+p14368
+sS'541966109436424192'
+p14369
+S'Not Informative'
+p14370
+sS'541635918973513728'
+p14371
+S'Not Informative'
+p14372
+sS'541872652369944576'
+p14373
+S'Not Informative'
+p14374
+sS'541605683926269952'
+p14375
+S'Infrastructure Damage'
+p14376
+sS'541924432768274433'
+p14377
+S'Not Informative'
+p14378
+sS'541577883656134656'
+p14379
+S'Not Informative'
+p14380
+sS'541534597839069184'
+p14381
+S'Other Relevant Information'
+p14382
+sS'541587780606771200'
+p14383
+S'Not Informative'
+p14384
+sS'542436479834656769'
+p14385
+S'Not Informative'
+p14386
+sS'541344361917599744'
+p14387
+S'Other Relevant Information'
+p14388
+sS'541855692160638976'
+p14389
+S'Other Relevant Information'
+p14390
+sS'541977351006216192'
+p14391
+S'Not Informative'
+p14392
+sS'541275203855073280'
+p14393
+S'Not Informative'
+p14394
+sS'541578680448061440'
+p14395
+S'Not Informative'
+p14396
+sS'541564411857489920'
+p14397
+S'Not Informative'
+p14398
+sS'541462119967780864'
+p14399
+S'Not Informative'
+p14400
+sS'541981851598868481'
+p14401
+S'Not Informative'
+p14402
+sS'541441056860946435'
+p14403
+S'Not Informative'
+p14404
+sS'541494457380511744'
+p14405
+S'Not Informative'
+p14406
+sS'541579687298736130'
+p14407
+S'Not Informative'
+p14408
+sS'541951800577122304'
+p14409
+S'Not Informative'
+p14410
+sS'541291280165122048'
+p14411
+S'Other Relevant Information'
+p14412
+sS'541811320085938176'
+p14413
+S'Not Informative'
+p14414
+sS'541454114220015617'
+p14415
+S'Not Informative'
+p14416
+sS'542180860963725312'
+p14417
+S'Not Informative'
+p14418
+sS'541544351654891522'
+p14419
+S'Not Informative'
+p14420
+sS'541955404159131648'
+p14421
+S'Not Informative'
+p14422
+sS'541769016419708928'
+p14423
+S'Not Informative'
+p14424
+sS'541531988264353792'
+p14425
+S'Other Relevant Information'
+p14426
+sS'541414055919894528'
+p14427
+S'Other Relevant Information'
+p14428
+sS'541924419736584192'
+p14429
+S'Not Informative'
+p14430
+sS'541849931955200000'
+p14431
+S'Not Informative'
+p14432
+sS'541775482270670848'
+p14433
+S'Not Informative'
+p14434
+sS'541532607062634497'
+p14435
+S'Not Informative'
+p14436
+sS'541768684495446016'
+p14437
+S'Not Informative'
+p14438
+sS'541802120928718848'
+p14439
+S'Not Informative'
+p14440
+sS'542034197532000256'
+p14441
+S'Other Relevant Information'
+p14442
+sS'541639395791478784'
+p14443
+S'Not Informative'
+p14444
+sS'542297297913016320'
+p14445
+S'Requests for Help/Needs'
+p14446
+sS'541877961616396288'
+p14447
+S'Not Informative'
+p14448
+sS'541622917717426177'
+p14449
+S'Not Informative'
+p14450
+sS'541803409842515968'
+p14451
+S'Not Informative'
+p14452
+sS'542248804657815553'
+p14453
+S'Not Informative'
+p14454
+sS'541473448405786624'
+p14455
+S'Not Informative'
+p14456
+sS'541814609645031424'
+p14457
+S'Not Informative'
+p14458
+sS'541635087658274816'
+p14459
+S'Not Informative'
+p14460
+sS'541291261215670272'
+p14461
+S'Humanitarian Aid Provided'
+p14462
+sS'541339606059601920'
+p14463
+S'Other Relevant Information'
+p14464
+sS'541883243499249665'
+p14465
+S'Not Informative'
+p14466
+sS'541553805251198977'
+p14467
+S'Not Informative'
+p14468
+sS'541268916635312128'
+p14469
+S'Not Informative'
+p14470
+sS'541479107360333824'
+p14471
+S'Not Informative'
+p14472
+sS'541417133364609024'
+p14473
+S'Not Informative'
+p14474
+sS'541777574360522753'
+p14475
+S'Not Informative'
+p14476
+sS'541871948775837696'
+p14477
+S'Not Informative'
+p14478
+sS'541610893201530882'
+p14479
+S'Not Informative'
+p14480
+sS'541715855264858113'
+p14481
+S'Not Informative'
+p14482
+sS'542213671636590592'
+p14483
+S'Not Informative'
+p14484
+sS'541468351239712768'
+p14485
+S'Other Relevant Information'
+p14486
+sS'541821225303941120'
+p14487
+S'Not Informative'
+p14488
+sS'542170160807698432'
+p14489
+S'Not Informative'
+p14490
+sS'541381996769841152'
+p14491
+S'Other Relevant Information'
+p14492
+sS'541139117183336448'
+p14493
+S'Not Informative'
+p14494
+sS'541313804806926336'
+p14495
+S'Other Relevant Information'
+p14496
+sS'541160919016169473'
+p14497
+S'Not Informative'
+p14498
+sS'541734579426852865'
+p14499
+S'Not Informative'
+p14500
+sS'542171878366801920'
+p14501
+S'Other Relevant Information'
+p14502
+sS'541586681019658241'
+p14503
+S'Other Relevant Information'
+p14504
+sS'541502709455544320'
+p14505
+S'Not Informative'
+p14506
+sS'541497036814569472'
+p14507
+S'Not Informative'
+p14508
+sS'541553898394095616'
+p14509
+S'Not Informative'
+p14510
+sS'541674622769725441'
+p14511
+S'Not Informative'
+p14512
+sS'542274464583393280'
+p14513
+S'Other Relevant Information'
+p14514
+sS'541295036285980673'
+p14515
+S'Not Informative'
+p14516
+sS'541462559182700544'
+p14517
+S'Not Informative'
+p14518
+sS'541425527886974977'
+p14519
+S'Not Informative'
+p14520
+sS'541475298995232769'
+p14521
+S'Not Informative'
+p14522
+sS'541898089070460928'
+p14523
+S'Not Informative'
+p14524
+sS'541516549954093056'
+p14525
+S'Other Relevant Information'
+p14526
+sS'541600314155999232'
+p14527
+S'Not Informative'
+p14528
+sS'542404025669263360'
+p14529
+S'Not Informative'
+p14530
+sS'541838261480460288'
+p14531
+S'Not Informative'
+p14532
+sS'541461010788671488'
+p14533
+S'Not Informative'
+p14534
+sS'542292841305604097'
+p14535
+S'Not Informative'
+p14536
+sS'541595218811031552'
+p14537
+S'Humanitarian Aid Provided'
+p14538
+sS'541802459362914306'
+p14539
+S'Not Informative'
+p14540
+sS'542012476888330240'
+p14541
+S'Not Informative'
+p14542
+sS'541853417120235520'
+p14543
+S'Not Informative'
+p14544
+sS'541582173224972288'
+p14545
+S'Not Informative'
+p14546
+sS'542343057438281728'
+p14547
+S'Other Relevant Information'
+p14548
+sS'541462998166949888'
+p14549
+S'Not Informative'
+p14550
+sS'542447774164193280'
+p14551
+S'Not Informative'
+p14552
+sS'541508662435409921'
+p14553
+S'Not Informative'
+p14554
+sS'541845322352181248'
+p14555
+S'Not Informative'
+p14556
+sS'541570352749355009'
+p14557
+S'Not Informative'
+p14558
+sS'541982984404869121'
+p14559
+S'Not Informative'
+p14560
+sS'541254222545555457'
+p14561
+S'Not Informative'
+p14562
+sS'541714763617558529'
+p14563
+S'Not Informative'
+p14564
+sS'541896872269332480'
+p14565
+S'Not Informative'
+p14566
+sS'541731013781880832'
+p14567
+S'Not Informative'
+p14568
+sS'541779423054155776'
+p14569
+S'Not Informative'
+p14570
+sS'541420335132733440'
+p14571
+S'Other Relevant Information'
+p14572
+sS'541545947868581888'
+p14573
+S'Not Informative'
+p14574
+sS'541970601846796291'
+p14575
+S'Other Relevant Information'
+p14576
+sS'541577760980758528'
+p14577
+S'Not Informative'
+p14578
+sS'541296300403093505'
+p14579
+S'Other Relevant Information'
+p14580
+sS'541530504801955841'
+p14581
+S'Other Relevant Information'
+p14582
+sS'541586478812241920'
+p14583
+S'Not Informative'
+p14584
+sS'541255804481855489'
+p14585
+S'Not Informative'
+p14586
+sS'541138602248245248'
+p14587
+S'Other Relevant Information'
+p14588
+sS'541529314089390080'
+p14589
+S'Humanitarian Aid Provided'
+p14590
+sS'541537958419910657'
+p14591
+S'Not Informative'
+p14592
+sS'541815268159127553'
+p14593
+S'Not Informative'
+p14594
+sS'542320901048377344'
+p14595
+S'Other Relevant Information'
+p14596
+sS'541621376302333952'
+p14597
+S'Not Informative'
+p14598
+sS'542405561896013824'
+p14599
+S'Other Relevant Information'
+p14600
+sS'541813610335313921'
+p14601
+S'Not Informative'
+p14602
+sS'541846460048748545'
+p14603
+S'Not Informative'
+p14604
+sS'541601305551073280'
+p14605
+S'Other Relevant Information'
+p14606
+sS'541760736389636096'
+p14607
+S'Not Informative'
+p14608
+sS'541937928130146305'
+p14609
+S'Not Informative'
+p14610
+sS'541377372235132928'
+p14611
+S'Other Relevant Information'
+p14612
+sS'541526158970720256'
+p14613
+S'Infrastructure Damage'
+p14614
+sS'541704959059058689'
+p14615
+S'Not Informative'
+p14616
+sS'541875119019552768'
+p14617
+S'Not Informative'
+p14618
+sS'541451476434833408'
+p14619
+S'Not Informative'
+p14620
+sS'541484381484101632'
+p14621
+S'Not Informative'
+p14622
+sS'541816234522603520'
+p14623
+S'Not Informative'
+p14624
+sS'541974230930165760'
+p14625
+S'Not Informative'
+p14626
+sS'541960544794972161'
+p14627
+S'Not Informative'
+p14628
+sS'542318278857613312'
+p14629
+S'Other Relevant Information'
+p14630
+sS'541461970956713984'
+p14631
+S'Humanitarian Aid Provided'
+p14632
+sS'542012467996401664'
+p14633
+S'Not Informative'
+p14634
+sS'541955032006922240'
+p14635
+S'Not Informative'
+p14636
+sS'541936161787113472'
+p14637
+S'Not Informative'
+p14638
+sS'541600019967516672'
+p14639
+S'Not Informative'
+p14640
+sS'541916413586583553'
+p14641
+S'Not Informative'
+p14642
+sS'541139384158801920'
+p14643
+S'Other Relevant Information'
+p14644
+sS'541395885796491265'
+p14645
+S'Other Relevant Information'
+p14646
+sS'541719653500719105'
+p14647
+S'Humanitarian Aid Provided'
+p14648
+sS'541525534161633281'
+p14649
+S'Not Informative'
+p14650
+sS'541987291544027136'
+p14651
+S'Not Informative'
+p14652
+sS'541585693076508674'
+p14653
+S'Not Informative'
+p14654
+sS'541488919892983808'
+p14655
+S'Not Informative'
+p14656
+sS'542135232615297024'
+p14657
+S'Not Informative'
+p14658
+sS'541525072062595073'
+p14659
+S'Not Informative'
+p14660
+sS'541653563445739520'
+p14661
+S'Not Informative'
+p14662
+sS'541889334165508096'
+p14663
+S'Not Informative'
+p14664
+sS'541296746354466816'
+p14665
+S'Humanitarian Aid Provided'
+p14666
+sS'541761431352258560'
+p14667
+S'Not Informative'
+p14668
+sS'541419831338500097'
+p14669
+S'Not Informative'
+p14670
+sS'541797310259142656'
+p14671
+S'Not Informative'
+p14672
+sS'541284329280663557'
+p14673
+S'Other Relevant Information'
+p14674
+sS'541172347688861697'
+p14675
+S'Not Informative'
+p14676
+sS'541633167250055169'
+p14677
+S'Not Informative'
+p14678
+sS'541863788773793792'
+p14679
+S'Not Informative'
+p14680
+sS'541977873691586560'
+p14681
+S'Not Informative'
+p14682
+sS'541603289151062019'
+p14683
+S'Not Informative'
+p14684
+sS'541201007930507264'
+p14685
+S'Other Relevant Information'
+p14686
+sS'541950175036456960'
+p14687
+S'Not Informative'
+p14688
+sS'541879396463042561'
+p14689
+S'Not Informative'
+p14690
+sS'541397815394435073'
+p14691
+S'Not Informative'
+p14692
+sS'541590516144828416'
+p14693
+S'Other Relevant Information'
+p14694
+sS'541968463657725952'
+p14695
+S'Not Informative'
+p14696
+sS'541660572215803905'
+p14697
+S'Not Informative'
+p14698
+sS'541321461525270528'
+p14699
+S'Not Informative'
+p14700
+sS'541107524259545088'
+p14701
+S'Other Relevant Information'
+p14702
+sS'542288553053814785'
+p14703
+S'Other Relevant Information'
+p14704
+sS'541631420574076928'
+p14705
+S'Not Informative'
+p14706
+sS'541507441096019969'
+p14707
+S'Other Relevant Information'
+p14708
+sS'541186590333095939'
+p14709
+S'Other Relevant Information'
+p14710
+sS'541953702152921088'
+p14711
+S'Other Relevant Information'
+p14712
+sS'541518623571841024'
+p14713
+S'Not Informative'
+p14714
+sS'541843193034067968'
+p14715
+S'Not Informative'
+p14716
+sS'541828683376259072'
+p14717
+S'Not Informative'
+p14718
+sS'541918790502465537'
+p14719
+S'Not Informative'
+p14720
+sS'541603266593714176'
+p14721
+S'Not Informative'
+p14722
+sS'541883486689169408'
+p14723
+S'Not Informative'
+p14724
+sS'541296623104430080'
+p14725
+S'Other Relevant Information'
+p14726
+sS'541901578505297920'
+p14727
+S'Not Informative'
+p14728
+sS'541574481446445056'
+p14729
+S'Infrastructure Damage'
+p14730
+sS'541542427589238786'
+p14731
+S'Not Informative'
+p14732
+sS'542229889974145024'
+p14733
+S'Not Informative'
+p14734
+sS'541374964952080384'
+p14735
+S'Infrastructure Damage'
+p14736
+sS'541772484714831872'
+p14737
+S'Not Informative'
+p14738
+sS'541681433119424512'
+p14739
+S'Other Relevant Information'
+p14740
+sS'542337171320213504'
+p14741
+S'Not Informative'
+p14742
+sS'541886868498178050'
+p14743
+S'Not Informative'
+p14744
+sS'541841927986241536'
+p14745
+S'Not Informative'
+p14746
+sS'541526380240838656'
+p14747
+S'Not Informative'
+p14748
+sS'541396151690215424'
+p14749
+S'Not Informative'
+p14750
+sS'541678822936961024'
+p14751
+S'Not Informative'
+p14752
+sS'542270583573344256'
+p14753
+S'Other Relevant Information'
+p14754
+sS'541338075457388544'
+p14755
+S'Not Informative'
+p14756
+sS'541480794858860544'
+p14757
+S'Not Informative'
+p14758
+sS'541145396261572608'
+p14759
+S'Not Informative'
+p14760
+sS'541599167181619203'
+p14761
+S'Not Informative'
+p14762
+sS'541450868604674048'
+p14763
+S'Not Informative'
+p14764
+sS'541638316588666880'
+p14765
+S'Not Informative'
+p14766
+sS'541869736704081920'
+p14767
+S'Not Informative'
+p14768
+sS'541460076641284096'
+p14769
+S'Not Informative'
+p14770
+sS'541651886055514112'
+p14771
+S'Infrastructure Damage'
+p14772
+sS'541357481222361091'
+p14773
+S'Infrastructure Damage'
+p14774
+sS'541472035147243520'
+p14775
+S'Not Informative'
+p14776
+sS'541436730381852672'
+p14777
+S'Other Relevant Information'
+p14778
+sS'542193769374703616'
+p14779
+S'Not Informative'
+p14780
+sS'541657271626133507'
+p14781
+S'Other Relevant Information'
+p14782
+sS'541844659593412612'
+p14783
+S'Not Informative'
+p14784
+sS'541777921468166144'
+p14785
+S'Not Informative'
+p14786
+sS'541926497058308096'
+p14787
+S'Not Informative'
+p14788
+sS'541694012155895809'
+p14789
+S'Other Relevant Information'
+p14790
+sS'541798990312787968'
+p14791
+S'Not Informative'
+p14792
+sS'541515033793269761'
+p14793
+S'Infrastructure Damage'
+p14794
+sS'541519824241692672'
+p14795
+S'Other Relevant Information'
+p14796
+sS'541587422497087488'
+p14797
+S'Other Relevant Information'
+p14798
+sS'541889803818528769'
+p14799
+S'Not Informative'
+p14800
+sS'542206564115836928'
+p14801
+S'Not Informative'
+p14802
+sS'541503908812578816'
+p14803
+S'Not Informative'
+p14804
+sS'541868435748028416'
+p14805
+S'Not Informative'
+p14806
+sS'542350567700725760'
+p14807
+S'Other Relevant Information'
+p14808
+sS'541448778050318337'
+p14809
+S'Not Informative'
+p14810
+sS'541541716637925378'
+p14811
+S'Not Informative'
+p14812
+sS'541581023377510400'
+p14813
+S'Not Informative'
+p14814
+sS'541524070534090753'
+p14815
+S'Other Relevant Information'
+p14816
+sS'541811862203928576'
+p14817
+S'Other Relevant Information'
+p14818
+sS'541922898806452224'
+p14819
+S'Not Informative'
+p14820
+sS'541468323364757506'
+p14821
+S'Not Informative'
+p14822
+sS'541938161480257536'
+p14823
+S'Other Relevant Information'
+p14824
+sS'541949801131036673'
+p14825
+S'Not Informative'
+p14826
+sS'541938519715762176'
+p14827
+S'Not Informative'
+p14828
+sS'541671233746501632'
+p14829
+S'Other Relevant Information'
+p14830
+sS'541820226732453889'
+p14831
+S'Not Informative'
+p14832
+sS'541495199789502464'
+p14833
+S'Other Relevant Information'
+p14834
+sS'541406227691876352'
+p14835
+S'Not Informative'
+p14836
+sS'541179517406945280'
+p14837
+S'Not Informative'
+p14838
+sS'542020785171214336'
+p14839
+S'Not Informative'
+p14840
+sS'541538435673362432'
+p14841
+S'Not Informative'
+p14842
+sS'541872294637760513'
+p14843
+S'Not Informative'
+p14844
+sS'541541093264068608'
+p14845
+S'Not Informative'
+p14846
+sS'541866047561670656'
+p14847
+S'Not Informative'
+p14848
+sS'541894660872863746'
+p14849
+S'Not Informative'
+p14850
+sS'541465420146823168'
+p14851
+S'Not Informative'
+p14852
+sS'541703552289091584'
+p14853
+S'Not Informative'
+p14854
+sS'542388134747451392'
+p14855
+S'Other Relevant Information'
+p14856
+sS'541858743646838784'
+p14857
+S'Not Informative'
+p14858
+sS'541806923767492608'
+p14859
+S'Other Relevant Information'
+p14860
+sS'541627985640431618'
+p14861
+S'Not Informative'
+p14862
+sS'541625279559389187'
+p14863
+S'Not Informative'
+p14864
+sS'541938105251409921'
+p14865
+S'Other Relevant Information'
+p14866
+sS'541936146997977088'
+p14867
+S'Other Relevant Information'
+p14868
+sS'542335211477147648'
+p14869
+S'Humanitarian Aid Provided'
+p14870
+sS'542323828974944256'
+p14871
+S'Not Informative'
+p14872
+sS'541826110905126912'
+p14873
+S'Not Informative'
+p14874
+sS'541656919765561345'
+p14875
+S'Not Informative'
+p14876
+sS'541669447891578882'
+p14877
+S'Not Informative'
+p14878
+sS'541579510924464128'
+p14879
+S'Other Relevant Information'
+p14880
+sS'541988311095447552'
+p14881
+S'Not Informative'
+p14882
+sS'542009569010925568'
+p14883
+S'Not Informative'
+p14884
+sS'542035680986406913'
+p14885
+S'Not Informative'
+p14886
+sS'541146910862499840'
+p14887
+S'Not Informative'
+p14888
+sS'541854117249839106'
+p14889
+S'Not Informative'
+p14890
+sS'541807231251935232'
+p14891
+S'Not Informative'
+p14892
+sS'541615831143419905'
+p14893
+S'Requests for Help/Needs'
+p14894
+sS'541146156764758017'
+p14895
+S'Humanitarian Aid Provided'
+p14896
+sS'542376839315226624'
+p14897
+S'Other Relevant Information'
+p14898
+sS'541654134374797313'
+p14899
+S'Not Informative'
+p14900
+sS'541950716387291137'
+p14901
+S'Not Informative'
+p14902
+sS'541958040274997248'
+p14903
+S'Not Informative'
+p14904
+sS'541794727998152704'
+p14905
+S'Not Informative'
+p14906
+sS'541475614461403136'
+p14907
+S'Not Informative'
+p14908
+sS'541145352041410560'
+p14909
+S'Other Relevant Information'
+p14910
+sS'541679889510719488'
+p14911
+S'Not Informative'
+p14912
+sS'541851376548990976'
+p14913
+S'Not Informative'
+p14914
+sS'541526257138421760'
+p14915
+S'Other Relevant Information'
+p14916
+sS'541611176451661824'
+p14917
+S'Not Informative'
+p14918
+sS'541599290401906688'
+p14919
+S'Not Informative'
+p14920
+sS'541900331597058048'
+p14921
+S'Not Informative'
+p14922
+sS'541324098702303232'
+p14923
+S'Other Relevant Information'
+p14924
+sS'542148922752245760'
+p14925
+S'Other Relevant Information'
+p14926
+sS'541503581099012096'
+p14927
+S'Not Informative'
+p14928
+sS'541140762079948800'
+p14929
+S'Not Informative'
+p14930
+sS'541852192555425792'
+p14931
+S'Not Informative'
+p14932
+sS'541811274167107584'
+p14933
+S'Not Informative'
+p14934
+sS'541772407275393024'
+p14935
+S'Not Informative'
+p14936
+sS'541934399303200769'
+p14937
+S'Other Relevant Information'
+p14938
+sS'541519830898061314'
+p14939
+S'Not Informative'
+p14940
+sS'541799139164434433'
+p14941
+S'Not Informative'
+p14942
+sS'541663882889031680'
+p14943
+S'Not Informative'
+p14944
+sS'541548523599052802'
+p14945
+S'Not Informative'
+p14946
+sS'541934896986353667'
+p14947
+S'Not Informative'
+p14948
+sS'541264589946904576'
+p14949
+S'Not Informative'
+p14950
+sS'541417834631688192'
+p14951
+S'Other Relevant Information'
+p14952
+sS'541975163311783936'
+p14953
+S'Not Informative'
+p14954
+sS'541474413531918337'
+p14955
+S'Not Informative'
+p14956
+sS'542001037620420609'
+p14957
+S'Not Informative'
+p14958
+sS'541536352823566337'
+p14959
+S'Not Informative'
+p14960
+sS'541982446083137536'
+p14961
+S'Not Informative'
+p14962
+sS'542279092171595776'
+p14963
+S'Infrastructure Damage'
+p14964
+sS'541387046649352192'
+p14965
+S'Not Informative'
+p14966
+sS'541501860738129921'
+p14967
+S'Other Relevant Information'
+p14968
+sS'541401741225254914'
+p14969
+S'Requests for Help/Needs'
+p14970
+sS'541977181258121216'
+p14971
+S'Not Informative'
+p14972
+sS'541492558745317376'
+p14973
+S'Other Relevant Information'
+p14974
+sS'541291414487715840'
+p14975
+S'Other Relevant Information'
+p14976
+sS'541881610748964864'
+p14977
+S'Not Informative'
+p14978
+sS'542180010698616833'
+p14979
+S'Not Informative'
+p14980
+sS'542126826408402945'
+p14981
+S'Infrastructure Damage'
+p14982
+sS'542436732264673280'
+p14983
+S'Not Informative'
+p14984
+sS'541941172726296576'
+p14985
+S'Not Informative'
+p14986
+sS'542312582527213569'
+p14987
+S'Other Relevant Information'
+p14988
+sS'541455558838996992'
+p14989
+S'Not Informative'
+p14990
+sS'542284482917986304'
+p14991
+S'Other Relevant Information'
+p14992
+sS'542427184703348737'
+p14993
+S'Not Informative'
+p14994
+sS'542353717862072321'
+p14995
+S'Not Informative'
+p14996
+sS'542029191043371008'
+p14997
+S'Other Relevant Information'
+p14998
+sS'541099261123784705'
+p14999
+S'Infrastructure Damage'
+p15000
+sS'542341212397895680'
+p15001
+S'Other Relevant Information'
+p15002
+sS'542207879776698368'
+p15003
+S'Not Informative'
+p15004
+sS'541259506097733633'
+p15005
+S'Not Informative'
+p15006
+sS'541790757980348416'
+p15007
+S'Other Relevant Information'
+p15008
+sS'541807822192013312'
+p15009
+S'Not Informative'
+p15010
+sS'541819577529692160'
+p15011
+S'Not Informative'
+p15012
+sS'541472528892305408'
+p15013
+S'Not Informative'
+p15014
+sS'541962096733208576'
+p15015
+S'Humanitarian Aid Provided'
+p15016
+sS'541362304248324096'
+p15017
+S'Not Informative'
+p15018
+sS'541736426132738049'
+p15019
+S'Other Relevant Information'
+p15020
+sS'541518609735249921'
+p15021
+S'Not Informative'
+p15022
+sS'541786412627279872'
+p15023
+S'Not Informative'
+p15024
+sS'541499401332469760'
+p15025
+S'Other Relevant Information'
+p15026
+sS'541822534149087233'
+p15027
+S'Not Informative'
+p15028
+sS'541868310770368512'
+p15029
+S'Not Informative'
+p15030
+sS'541316538712616961'
+p15031
+S'Not Informative'
+p15032
+sS'541974465584713729'
+p15033
+S'Not Informative'
+p15034
+sS'541791721601134592'
+p15035
+S'Not Informative'
+p15036
+sS'541900096276021248'
+p15037
+S'Not Informative'
+p15038
+sS'541439259241357312'
+p15039
+S'Not Informative'
+p15040
+sS'541896348199448576'
+p15041
+S'Not Informative'
+p15042
+sS'541565928618467328'
+p15043
+S'Not Informative'
+p15044
+sS'541437637748224002'
+p15045
+S'Other Relevant Information'
+p15046
+sS'541574745519435776'
+p15047
+S'Not Informative'
+p15048
+sS'541906737889308672'
+p15049
+S'Not Informative'
+p15050
+sS'541405384976506880'
+p15051
+S'Other Relevant Information'
+p15052
+sS'541933566167646208'
+p15053
+S'Not Informative'
+p15054
+sS'541786218233462786'
+p15055
+S'Not Informative'
+p15056
+sS'541440610779938817'
+p15057
+S'Not Informative'
+p15058
+sS'541616908265459712'
+p15059
+S'Not Informative'
+p15060
+sS'541750898058596352'
+p15061
+S'Not Informative'
+p15062
+sS'541376743463219200'
+p15063
+S'Not Informative'
+p15064
+sS'542000449524891648'
+p15065
+S'Infrastructure Damage'
+p15066
+sS'541734134192697344'
+p15067
+S'Not Informative'
+p15068
+sS'541501828563615745'
+p15069
+S'Not Informative'
+p15070
+sS'541149030810546176'
+p15071
+S'Other Relevant Information'
+p15072
+sS'541404512137646080'
+p15073
+S'Not Informative'
+p15074
+sS'541996030523240448'
+p15075
+S'Not Informative'
+p15076
+sS'541954950129926145'
+p15077
+S'Not Informative'
+p15078
+sS'541419932529860608'
+p15079
+S'Not Informative'
+p15080
+sS'542018143300755456'
+p15081
+S'Not Informative'
+p15082
+sS'541844656607076353'
+p15083
+S'Other Relevant Information'
+p15084
+sS'541958883942494208'
+p15085
+S'Infrastructure Damage'
+p15086
+sS'541862035198578688'
+p15087
+S'Not Informative'
+p15088
+sS'541447468618375168'
+p15089
+S'Not Informative'
+p15090
+sS'541971105636839426'
+p15091
+S'Other Relevant Information'
+p15092
+sS'542115476055146496'
+p15093
+S'Not Informative'
+p15094
+sS'541419329221591041'
+p15095
+S'Not Informative'
+p15096
+sS'541571217396744192'
+p15097
+S'Not Informative'
+p15098
+sS'542201685909594112'
+p15099
+S'Other Relevant Information'
+p15100
+sS'541672041154215936'
+p15101
+S'Not Informative'
+p15102
+sS'541469994060890112'
+p15103
+S'Other Relevant Information'
+p15104
+sS'541723617512263680'
+p15105
+S'Not Informative'
+p15106
+sS'541939974656909312'
+p15107
+S'Not Informative'
+p15108
+sS'541720722679144448'
+p15109
+S'Not Informative'
+p15110
+sS'541300720385794048'
+p15111
+S'Other Relevant Information'
+p15112
+sS'541896097640099841'
+p15113
+S'Not Informative'
+p15114
+sS'541839119312109568'
+p15115
+S'Not Informative'
+p15116
+sS'541569387468042241'
+p15117
+S'Not Informative'
+p15118
+sS'541664350990127105'
+p15119
+S'Not Informative'
+p15120
+sS'541523028681576448'
+p15121
+S'Other Relevant Information'
+p15122
+sS'541812510328754177'
+p15123
+S'Not Informative'
+p15124
+sS'541520560392380416'
+p15125
+S'Not Informative'
+p15126
+sS'541998587127660544'
+p15127
+S'Not Informative'
+p15128
+sS'541622379814744064'
+p15129
+S'Other Relevant Information'
+p15130
+sS'541545932324474880'
+p15131
+S'Not Informative'
+p15132
+sS'541947955054641152'
+p15133
+S'Not Informative'
+p15134
+sS'542201701311471616'
+p15135
+S'Not Informative'
+p15136
+sS'541732772419624961'
+p15137
+S'Not Informative'
+p15138
+sS'541923867678081024'
+p15139
+S'Not Informative'
+p15140
+sS'541550520721104896'
+p15141
+S'Not Informative'
+p15142
+sS'541909460470726656'
+p15143
+S'Not Informative'
+p15144
+sS'542313409304223744'
+p15145
+S'Other Relevant Information'
+p15146
+sS'541632430247915520'
+p15147
+S'Not Informative'
+p15148
+sS'541295408656310273'
+p15149
+S'Other Relevant Information'
+p15150
+sS'541141251077443584'
+p15151
+S'Other Relevant Information'
+p15152
+sS'541837804880146433'
+p15153
+S'Not Informative'
+p15154
+sS'541964635298340865'
+p15155
+S'Other Relevant Information'
+p15156
+sS'542121237796098048'
+p15157
+S'Not Informative'
+p15158
+sS'541867402250567681'
+p15159
+S'Not Informative'
+p15160
+sS'542326019240513536'
+p15161
+S'Humanitarian Aid Provided'
+p15162
+sS'541374476349620224'
+p15163
+S'Not Informative'
+p15164
+sS'541598387528015872'
+p15165
+S'Not Informative'
+p15166
+sS'541430947510767616'
+p15167
+S'Not Informative'
+p15168
+sS'542299834003107841'
+p15169
+S'Other Relevant Information'
+p15170
+sS'541464994508849153'
+p15171
+S'Not Informative'
+p15172
+sS'541852529571954690'
+p15173
+S'Not Informative'
+p15174
+sS'541896818137645056'
+p15175
+S'Not Informative'
+p15176
+sS'541541995349438464'
+p15177
+S'Not Informative'
+p15178
+sS'541511968201261056'
+p15179
+S'Other Relevant Information'
+p15180
+sS'542235739337916416'
+p15181
+S'Other Relevant Information'
+p15182
+sS'541396480058081281'
+p15183
+S'Not Informative'
+p15184
+sS'541528969774788608'
+p15185
+S'Not Informative'
+p15186
+sS'541793646325301249'
+p15187
+S'Not Informative'
+p15188
+sS'541703064906764290'
+p15189
+S'Not Informative'
+p15190
+sS'541517142814752768'
+p15191
+S'Not Informative'
+p15192
+sS'541632142283780096'
+p15193
+S'Not Informative'
+p15194
+sS'541633107355791360'
+p15195
+S'Not Informative'
+p15196
+sS'541609057291739136'
+p15197
+S'Not Informative'
+p15198
+sS'542269264174915584'
+p15199
+S'Not Informative'
+p15200
+sS'541588400831082496'
+p15201
+S'Not Informative'
+p15202
+sS'542009128734818305'
+p15203
+S'Not Informative'
+p15204
+sS'542244696173445120'
+p15205
+S'Other Relevant Information'
+p15206
+sS'541794689100177408'
+p15207
+S'Not Informative'
+p15208
+sS'541869488530915329'
+p15209
+S'Not Informative'
+p15210
+sS'541574485510336515'
+p15211
+S'Not Informative'
+p15212
+sS'541778670105288704'
+p15213
+S'Not Informative'
+p15214
+sS'541909711507824641'
+p15215
+S'Not Informative'
+p15216
+sS'541933144505470977'
+p15217
+S'Other Relevant Information'
+p15218
+sS'541272449917407232'
+p15219
+S'Not Informative'
+p15220
+sS'541581949584670722'
+p15221
+S'Humanitarian Aid Provided'
+p15222
+sS'541512036220293120'
+p15223
+S'Not Informative'
+p15224
+sS'541733434263994368'
+p15225
+S'Not Informative'
+p15226
+sS'541508229042552832'
+p15227
+S'Other Relevant Information'
+p15228
+sS'541448696211050496'
+p15229
+S'Other Relevant Information'
+p15230
+sS'541583119959072769'
+p15231
+S'Not Informative'
+p15232
+sS'541729049023119361'
+p15233
+S'Not Informative'
+p15234
+sS'542264708330684416'
+p15235
+S'Other Relevant Information'
+p15236
+sS'541535880633016320'
+p15237
+S'Not Informative'
+p15238
+sS'541635141483782144'
+p15239
+S'Not Informative'
+p15240
+sS'541604000936644608'
+p15241
+S'Not Informative'
+p15242
+sS'541557386813509632'
+p15243
+S'Not Informative'
+p15244
+sS'541629956292235265'
+p15245
+S'Not Informative'
+p15246
+sS'541491083742814208'
+p15247
+S'Not Informative'
+p15248
+sS'542326996592627712'
+p15249
+S'Other Relevant Information'
+p15250
+sS'541466843530022913'
+p15251
+S'Other Relevant Information'
+p15252
+sS'541146283634081792'
+p15253
+S'Other Relevant Information'
+p15254
+sS'541955765440098304'
+p15255
+S'Not Informative'
+p15256
+sS'541960208525053952'
+p15257
+S'Infrastructure Damage'
+p15258
+sS'542226343052582914'
+p15259
+S'Other Relevant Information'
+p15260
+sS'541584862096793600'
+p15261
+S'Not Informative'
+p15262
+sS'541853824785215488'
+p15263
+S'Not Informative'
+p15264
+sS'541589238241034240'
+p15265
+S'Not Informative'
+p15266
+sS'541807757142528000'
+p15267
+S'Other Relevant Information'
+p15268
+sS'541516181601931265'
+p15269
+S'Not Informative'
+p15270
+sS'541139774568808448'
+p15271
+S'Not Informative'
+p15272
+sS'541524836967661568'
+p15273
+S'Not Informative'
+p15274
+sS'541478904465076224'
+p15275
+S'Not Informative'
+p15276
+sS'541972104359321600'
+p15277
+S'Not Informative'
+p15278
+sS'542311469707034624'
+p15279
+S'Not Informative'
+p15280
+sS'541356925263548416'
+p15281
+S'Infrastructure Damage'
+p15282
+sS'542268502963265536'
+p15283
+S'Other Relevant Information'
+p15284
+sS'541255297013014528'
+p15285
+S'Not Informative'
+p15286
+sS'541814614481444865'
+p15287
+S'Other Relevant Information'
+p15288
+sS'541620081893982208'
+p15289
+S'Not Informative'
+p15290
+sS'541420358046199808'
+p15291
+S'Not Informative'
+p15292
+sS'541534825832648704'
+p15293
+S'Other Relevant Information'
+p15294
+sS'541977355867013121'
+p15295
+S'Not Informative'
+p15296
+sS'541368872151318528'
+p15297
+S'Other Relevant Information'
+p15298
+sS'541448163526057985'
+p15299
+S'Not Informative'
+p15300
+sS'541392108331208704'
+p15301
+S'Other Relevant Information'
+p15302
+sS'541520384710160384'
+p15303
+S'Not Informative'
+p15304
+sS'541503031334821888'
+p15305
+S'Other Relevant Information'
+p15306
+sS'541362007610380289'
+p15307
+S'Other Relevant Information'
+p15308
+sS'542152868615041024'
+p15309
+S'Not Informative'
+p15310
+sS'542254722686922752'
+p15311
+S'Other Relevant Information'
+p15312
+sS'541409892813524992'
+p15313
+S'Not Informative'
+p15314
+sS'541139141917147137'
+p15315
+S'Other Relevant Information'
+p15316
+sS'542119329764880384'
+p15317
+S'Other Relevant Information'
+p15318
+sS'541462050635927553'
+p15319
+S'Other Relevant Information'
+p15320
+sS'541555112804487169'
+p15321
+S'Not Informative'
+p15322
+sS'542251846409011200'
+p15323
+S'Other Relevant Information'
+p15324
+sS'541855819512688640'
+p15325
+S'Not Informative'
+p15326
+sS'541585295221592064'
+p15327
+S'Other Relevant Information'
+p15328
+sS'541843450673389570'
+p15329
+S'Other Relevant Information'
+p15330
+sS'541775608611872768'
+p15331
+S'Not Informative'
+p15332
+sS'541821023902261248'
+p15333
+S'Not Informative'
+p15334
+sS'541649617516265472'
+p15335
+S'Not Informative'
+p15336
+sS'541715185845551104'
+p15337
+S'Not Informative'
+p15338
+sS'541238188723822593'
+p15339
+S'Humanitarian Aid Provided'
+p15340
+sS'542206917863428096'
+p15341
+S'Not Informative'
+p15342
+sS'541647926486126593'
+p15343
+S'Not Informative'
+p15344
+sS'541154550548160512'
+p15345
+S'Other Relevant Information'
+p15346
+sS'541553847781449728'
+p15347
+S'Not Informative'
+p15348
+sS'541604200824586240'
+p15349
+S'Not Informative'
+p15350
+sS'541546051807608833'
+p15351
+S'Other Relevant Information'
+p15352
+sS'541421351966613505'
+p15353
+S'Not Informative'
+p15354
+sS'542309092942159872'
+p15355
+S'Other Relevant Information'
+p15356
+sS'541537348471640064'
+p15357
+S'Other Relevant Information'
+p15358
+sS'541960403337506816'
+p15359
+S'Not Informative'
+p15360
+sS'541434829330718720'
+p15361
+S'Not Informative'
+p15362
+sS'541703457669791745'
+p15363
+S'Not Informative'
+p15364
+sS'541535681924063232'
+p15365
+S'Not Informative'
+p15366
+sS'541458326505013248'
+p15367
+S'Not Informative'
+p15368
+sS'541865935456329728'
+p15369
+S'Not Informative'
+p15370
+sS'541873553650352128'
+p15371
+S'Not Informative'
+p15372
+sS'541761023514914816'
+p15373
+S'Not Informative'
+p15374
+sS'541476578559946753'
+p15375
+S'Not Informative'
+p15376
+sS'541446854320205824'
+p15377
+S'Not Informative'
+p15378
+sS'541271021483859969'
+p15379
+S'Other Relevant Information'
+p15380
+sS'541467260636758016'
+p15381
+S'Not Informative'
+p15382
+sS'541361213721313280'
+p15383
+S'Other Relevant Information'
+p15384
+sS'541507675822235648'
+p15385
+S'Other Relevant Information'
+p15386
+sS'541585580191412224'
+p15387
+S'Other Relevant Information'
+p15388
+sS'541382013362503680'
+p15389
+S'Not Informative'
+p15390
+sS'541994506468352000'
+p15391
+S'Not Informative'
+p15392
+sS'541368936101445632'
+p15393
+S'Not Informative'
+p15394
+sS'542341139823878144'
+p15395
+S'Not Informative'
+p15396
+sS'541455570532708352'
+p15397
+S'Not Informative'
+p15398
+sS'541530423730249728'
+p15399
+S'Other Relevant Information'
+p15400
+sS'542282775395852288'
+p15401
+S'Other Relevant Information'
+p15402
+sS'541448474911592449'
+p15403
+S'Not Informative'
+p15404
+sS'541298676174712832'
+p15405
+S'Other Relevant Information'
+p15406
+sS'541490451488854016'
+p15407
+S'Infrastructure Damage'
+p15408
+sS'541885901899448321'
+p15409
+S'Not Informative'
+p15410
+sS'541512098316967936'
+p15411
+S'Not Informative'
+p15412
+sS'541851874987503616'
+p15413
+S'Not Informative'
+p15414
+sS'541668586536710144'
+p15415
+S'Other Relevant Information'
+p15416
+sS'541159842199908352'
+p15417
+S'Other Relevant Information'
+p15418
+sS'541942159113326592'
+p15419
+S'Infrastructure Damage'
+p15420
+sS'541209623211298816'
+p15421
+S'Not Informative'
+p15422
+sS'541658053066518528'
+p15423
+S'Not Informative'
+p15424
+sS'541832706787532800'
+p15425
+S'Not Informative'
+p15426
+sS'541371925981712387'
+p15427
+S'Not Informative'
+p15428
+sS'541973955767050240'
+p15429
+S'Not Informative'
+p15430
+sS'541563441539198976'
+p15431
+S'Other Relevant Information'
+p15432
+sS'541464975353446401'
+p15433
+S'Other Relevant Information'
+p15434
+sS'541608101279850498'
+p15435
+S'Not Informative'
+p15436
+sS'541364925764235264'
+p15437
+S'Not Informative'
+p15438
+sS'541142684061024256'
+p15439
+S'Not Informative'
+p15440
+sS'541768061674483713'
+p15441
+S'Not Informative'
+p15442
+sS'541148250716135425'
+p15443
+S'Not Informative'
+p15444
+sS'541506691934593025'
+p15445
+S'Other Relevant Information'
+p15446
+sS'541415184980787202'
+p15447
+S'Other Relevant Information'
+p15448
+sS'542024073870458880'
+p15449
+S'Not Informative'
+p15450
+sS'541434086913347585'
+p15451
+S'Other Relevant Information'
+p15452
+sS'541856465745485824'
+p15453
+S'Not Informative'
+p15454
+sS'541500377959759873'
+p15455
+S'Other Relevant Information'
+p15456
+sS'541437005763051520'
+p15457
+S'Not Informative'
+p15458
+sS'541389840945016833'
+p15459
+S'Humanitarian Aid Provided'
+p15460
+sS'541975970849095680'
+p15461
+S'Not Informative'
+p15462
+sS'541742650055876609'
+p15463
+S'Not Informative'
+p15464
+sS'541526516296069120'
+p15465
+S'Not Informative'
+p15466
+sS'541377818316136448'
+p15467
+S'Infrastructure Damage'
+p15468
+sS'541287006697820160'
+p15469
+S'Not Informative'
+p15470
+sS'541584613768830976'
+p15471
+S'Infrastructure Damage'
+p15472
+sS'542017223259217921'
+p15473
+S'Not Informative'
+p15474
+sS'542041083468083200'
+p15475
+S'Not Informative'
+p15476
+sS'541958305963585536'
+p15477
+S'Not Informative'
+p15478
+sS'541854640598286336'
+p15479
+S'Not Informative'
+p15480
+sS'541860852937129984'
+p15481
+S'Not Informative'
+p15482
+sS'541419273491464192'
+p15483
+S'Other Relevant Information'
+p15484
+sS'541141817081614337'
+p15485
+S'Other Relevant Information'
+p15486
+sS'542344773302882305'
+p15487
+S'Not Informative'
+p15488
+sS'541370931071823873'
+p15489
+S'Other Relevant Information'
+p15490
+sS'541765759035531264'
+p15491
+S'Other Relevant Information'
+p15492
+sS'541491227909451776'
+p15493
+S'Not Informative'
+p15494
+sS'541892126317879296'
+p15495
+S'Not Informative'
+p15496
+sS'541535759237275650'
+p15497
+S'Other Relevant Information'
+p15498
+sS'541444845311889409'
+p15499
+S'Other Relevant Information'
+p15500
+sS'542320668071571457'
+p15501
+S'Other Relevant Information'
+p15502
+sS'541941747098468353'
+p15503
+S'Not Informative'
+p15504
+sS'541156786464501760'
+p15505
+S'Not Informative'
+p15506
+sS'541609527708495872'
+p15507
+S'Other Relevant Information'
+p15508
+sS'541579595854938112'
+p15509
+S'Not Informative'
+p15510
+sS'541566922546888706'
+p15511
+S'Not Informative'
+p15512
+sS'541902301506453504'
+p15513
+S'Humanitarian Aid Provided'
+p15514
+sS'542014619460444160'
+p15515
+S'Not Informative'
+p15516
+sS'541891035140337664'
+p15517
+S'Not Informative'
+p15518
+sS'541580855756718080'
+p15519
+S'Not Informative'
+p15520
+sS'541488479210065920'
+p15521
+S'Not Informative'
+p15522
+sS'541749631361613824'
+p15523
+S'Not Informative'
+p15524
+sS'541920354135191552'
+p15525
+S'Not Informative'
+p15526
+sS'541395198744752129'
+p15527
+S'Other Relevant Information'
+p15528
+sS'541436172136742913'
+p15529
+S'Other Relevant Information'
+p15530
+sS'541718794125594625'
+p15531
+S'Not Informative'
+p15532
+sS'541298330224328705'
+p15533
+S'Infrastructure Damage'
+p15534
+sS'541353370024706048'
+p15535
+S'Other Relevant Information'
+p15536
+sS'541740763139158018'
+p15537
+S'Not Informative'
+p15538
+sS'541376762534313984'
+p15539
+S'Not Informative'
+p15540
+sS'542267567466115072'
+p15541
+S'Other Relevant Information'
+p15542
+sS'541967038986481664'
+p15543
+S'Not Informative'
+p15544
+sS'541866973135507456'
+p15545
+S'Not Informative'
+p15546
+sS'541474776099717122'
+p15547
+S'Not Informative'
+p15548
+sS'542270243821735936'
+p15549
+S'Not Informative'
+p15550
+sS'541679655154372608'
+p15551
+S'Not Informative'
+p15552
+sS'541149428334092288'
+p15553
+S'Not Informative'
+p15554
+sS'541495288507031552'
+p15555
+S'Other Relevant Information'
+p15556
+sS'541714233436938240'
+p15557
+S'Not Informative'
+p15558
+sS'541140874529619968'
+p15559
+S'Other Relevant Information'
+p15560
+sS'541978173047865344'
+p15561
+S'Not Informative'
+p15562
+sS'541908082758934528'
+p15563
+S'Not Informative'
+p15564
+sS'541728560264667136'
+p15565
+S'Not Informative'
+p15566
+sS'541630618426040320'
+p15567
+S'Not Informative'
+p15568
+sS'542031520786317312'
+p15569
+S'Not Informative'
+p15570
+sS'542118897885794304'
+p15571
+S'Not Informative'
+p15572
+sS'541284828331524096'
+p15573
+S'Not Informative'
+p15574
+sS'541899738925133825'
+p15575
+S'Not Informative'
+p15576
+sS'542220786409279488'
+p15577
+S'Not Informative'
+p15578
+sS'541570755381567489'
+p15579
+S'Not Informative'
+p15580
+sS'541617057440100353'
+p15581
+S'Other Relevant Information'
+p15582
+sS'542297530214531072'
+p15583
+S'Not Informative'
+p15584
+sS'541935112162529280'
+p15585
+S'Not Informative'
+p15586
+sS'541952223270277122'
+p15587
+S'Not Informative'
+p15588
+sS'541703359938707458'
+p15589
+S'Infrastructure Damage'
+p15590
+sS'541447262597959680'
+p15591
+S'Not Informative'
+p15592
+sS'541772734821195777'
+p15593
+S'Not Informative'
+p15594
+sS'541146092016922624'
+p15595
+S'Not Informative'
+p15596
+sS'541611511387402240'
+p15597
+S'Not Informative'
+p15598
+sS'541254261300936705'
+p15599
+S'Not Informative'
+p15600
+sS'541189405269315585'
+p15601
+S'Not Informative'
+p15602
+sS'541829752789557248'
+p15603
+S'Other Relevant Information'
+p15604
+sS'541498462961819648'
+p15605
+S'Other Relevant Information'
+p15606
+sS'541687855127347200'
+p15607
+S'Other Relevant Information'
+p15608
+sS'541570419732783104'
+p15609
+S'Other Relevant Information'
+p15610
+sS'541790214595682305'
+p15611
+S'Not Informative'
+p15612
+sS'541699056028770304'
+p15613
+S'Not Informative'
+p15614
+sS'541492696536215552'
+p15615
+S'Not Informative'
+p15616
+sS'541719175010717696'
+p15617
+S'Other Relevant Information'
+p15618
+sS'541505288982249472'
+p15619
+S'Other Relevant Information'
+p15620
+sS'541458973669752832'
+p15621
+S'Not Informative'
+p15622
+sS'542019201309736960'
+p15623
+S'Not Informative'
+p15624
+sS'541907884339363840'
+p15625
+S'Not Informative'
+p15626
+sS'541582267894624258'
+p15627
+S'Not Informative'
+p15628
+sS'541350967053021185'
+p15629
+S'Other Relevant Information'
+p15630
+sS'541448544960274432'
+p15631
+S'Not Informative'
+p15632
+sS'541420529538695168'
+p15633
+S'Other Relevant Information'
+p15634
+sS'542247575634444288'
+p15635
+S'Not Informative'
+p15636
+sS'542207226816258049'
+p15637
+S'Not Informative'
+p15638
+sS'541483495789297665'
+p15639
+S'Not Informative'
+p15640
+sS'541938036200591361'
+p15641
+S'Not Informative'
+p15642
+sS'542437889091461124'
+p15643
+S'Other Relevant Information'
+p15644
+sS'541466614634262528'
+p15645
+S'Not Informative'
+p15646
+sS'541541512593428481'
+p15647
+S'Not Informative'
+p15648
+sS'541756946328862720'
+p15649
+S'Infrastructure Damage'
+p15650
+sS'541933373493886976'
+p15651
+S'Other Relevant Information'
+p15652
+sS'541604710525177856'
+p15653
+S'Not Informative'
+p15654
+sS'541596391446159360'
+p15655
+S'Not Informative'
+p15656
+sS'541919334038126593'
+p15657
+S'Not Informative'
+p15658
+sS'541887481423994880'
+p15659
+S'Not Informative'
+p15660
+sS'541763289584132096'
+p15661
+S'Not Informative'
+p15662
+sS'541369478496673793'
+p15663
+S'Other Relevant Information'
+p15664
+sS'541984462985101312'
+p15665
+S'Not Informative'
+p15666
+sS'541397510464348161'
+p15667
+S'Not Informative'
+p15668
+sS'541838924708974592'
+p15669
+S'Not Informative'
+p15670
+sS'541462706943844353'
+p15671
+S'Not Informative'
+p15672
+sS'541781680206254080'
+p15673
+S'Not Informative'
+p15674
+sS'541505365595000832'
+p15675
+S'Not Informative'
+p15676
+sS'542317497035137024'
+p15677
+S'Humanitarian Aid Provided'
+p15678
+sS'541554151529123840'
+p15679
+S'Other Relevant Information'
+p15680
+sS'541950704990953474'
+p15681
+S'Other Relevant Information'
+p15682
+sS'542457739180380161'
+p15683
+S'Other Relevant Information'
+p15684
+sS'541469717853376513'
+p15685
+S'Humanitarian Aid Provided'
+p15686
+sS'542347468554645504'
+p15687
+S'Infrastructure Damage'
+p15688
+sS'541890719854514177'
+p15689
+S'Not Informative'
+p15690
+sS'541620666986795008'
+p15691
+S'Not Informative'
+p15692
+sS'541896431821279233'
+p15693
+S'Not Informative'
+p15694
+sS'541661404080513025'
+p15695
+S'Other Relevant Information'
+p15696
+sS'541998237259812864'
+p15697
+S'Other Relevant Information'
+p15698
+sS'541646794338230273'
+p15699
+S'Other Relevant Information'
+p15700
+sS'541811946384003074'
+p15701
+S'Not Informative'
+p15702
+sS'541839024017514496'
+p15703
+S'Not Informative'
+p15704
+sS'541631108883156992'
+p15705
+S'Not Informative'
+p15706
+sS'541271070008147969'
+p15707
+S'Other Relevant Information'
+p15708
+sS'541665077149958144'
+p15709
+S'Not Informative'
+p15710
+sS'541849153949548545'
+p15711
+S'Not Informative'
+p15712
+sS'541764865900429312'
+p15713
+S'Not Informative'
+p15714
+sS'541492114463268864'
+p15715
+S'Not Informative'
+p15716
+sS'541745703693725696'
+p15717
+S'Not Informative'
+p15718
+sS'541818265241018368'
+p15719
+S'Not Informative'
+p15720
+sS'541507375660687360'
+p15721
+S'Other Relevant Information'
+p15722
+sS'541396811307421698'
+p15723
+S'Not Informative'
+p15724
+sS'541412952570478592'
+p15725
+S'Other Relevant Information'
+p15726
+sS'541373913083543552'
+p15727
+S'Not Informative'
+p15728
+sS'541633472352485376'
+p15729
+S'Not Informative'
+p15730
+sS'541942189711171585'
+p15731
+S'Not Informative'
+p15732
+sS'541527032820027392'
+p15733
+S'Not Informative'
+p15734
+sS'542321651036454912'
+p15735
+S'Other Relevant Information'
+p15736
+sS'541731945550319616'
+p15737
+S'Not Informative'
+p15738
+sS'541321971410038784'
+p15739
+S'Other Relevant Information'
+p15740
+sS'541786115544326145'
+p15741
+S'Not Informative'
+p15742
+sS'541939953224007681'
+p15743
+S'Infrastructure Damage'
+p15744
+sS'541720670942818304'
+p15745
+S'Not Informative'
+p15746
+sS'541537317769322497'
+p15747
+S'Not Informative'
+p15748
+sS'541969738805420033'
+p15749
+S'Not Informative'
+p15750
+sS'541719608718524416'
+p15751
+S'Other Relevant Information'
+p15752
+sS'541160206143852546'
+p15753
+S'Other Relevant Information'
+p15754
+sS'542247354493968385'
+p15755
+S'Not Informative'
+p15756
+sS'541287369388089344'
+p15757
+S'Not Informative'
+p15758
+sS'541308305134469120'
+p15759
+S'Other Relevant Information'
+p15760
+sS'541819197806764032'
+p15761
+S'Not Informative'
+p15762
+sS'541473244876783617'
+p15763
+S'Not Informative'
+p15764
+sS'541614254017638400'
+p15765
+S'Not Informative'
+p15766
+sS'541550490526285824'
+p15767
+S'Not Informative'
+p15768
+sS'542141726191026176'
+p15769
+S'Other Relevant Information'
+p15770
+sS'541779703867006976'
+p15771
+S'Not Informative'
+p15772
+sS'541765429471899648'
+p15773
+S'Not Informative'
+p15774
+sS'541686284302188546'
+p15775
+S'Not Informative'
+p15776
+sS'541640012874678272'
+p15777
+S'Not Informative'
+p15778
+sS'541977480458805248'
+p15779
+S'Not Informative'
+p15780
+sS'541288121015336960'
+p15781
+S'Not Informative'
+p15782
+sS'541648484093267969'
+p15783
+S'Not Informative'
+p15784
+sS'541904934061350912'
+p15785
+S'Not Informative'
+p15786
+sS'541725607290503168'
+p15787
+S'Not Informative'
+p15788
+sS'541737893069193216'
+p15789
+S'Not Informative'
+p15790
+sS'541376663947595776'
+p15791
+S'Not Informative'
+p15792
+sS'541477141515214850'
+p15793
+S'Not Informative'
+p15794
+sS'541457729819127808'
+p15795
+S'Not Informative'
+p15796
+sS'541888285740519424'
+p15797
+S'Not Informative'
+p15798
+sS'541731385665282048'
+p15799
+S'Other Relevant Information'
+p15800
+sS'541523203290443776'
+p15801
+S'Not Informative'
+p15802
+sS'541283716899672065'
+p15803
+S'Not Informative'
+p15804
+sS'541950776571363328'
+p15805
+S'Infrastructure Damage'
+p15806
+sS'542189773423915008'
+p15807
+S'Not Informative'
+p15808
+sS'541837517092577280'
+p15809
+S'Not Informative'
+p15810
+sS'541426061016596480'
+p15811
+S'Not Informative'
+p15812
+sS'542341441536544768'
+p15813
+S'Humanitarian Aid Provided'
+p15814
+sS'541498756244307969'
+p15815
+S'Not Informative'
+p15816
+sS'542307731232014336'
+p15817
+S'Not Informative'
+p15818
+sS'541476363287289856'
+p15819
+S'Not Informative'
+p15820
+sS'541460855301611520'
+p15821
+S'Not Informative'
+p15822
+sS'541470202341232640'
+p15823
+S'Other Relevant Information'
+p15824
+sS'541647058709381120'
+p15825
+S'Not Informative'
+p15826
+sS'541966424374140929'
+p15827
+S'Not Informative'
+p15828
+sS'541578487270633472'
+p15829
+S'Not Informative'
+p15830
+sS'541503748564983808'
+p15831
+S'Other Relevant Information'
+p15832
+sS'542224979341746177'
+p15833
+S'Not Informative'
+p15834
+sS'541926290333634560'
+p15835
+S'Not Informative'
+p15836
+sS'541233760771903488'
+p15837
+S'Other Relevant Information'
+p15838
+sS'541614665088778241'
+p15839
+S'Not Informative'
+p15840
+sS'541349575400095744'
+p15841
+S'Infrastructure Damage'
+p15842
+sS'541915116824842240'
+p15843
+S'Not Informative'
+p15844
+sS'541849898337849344'
+p15845
+S'Not Informative'
+p15846
+sS'541936329534500864'
+p15847
+S'Other Relevant Information'
+p15848
+sS'541560907747184640'
+p15849
+S'Not Informative'
+p15850
+sS'541379901723791360'
+p15851
+S'Other Relevant Information'
+p15852
+sS'541441429696815104'
+p15853
+S'Other Relevant Information'
+p15854
+sS'541429466334265344'
+p15855
+S'Infrastructure Damage'
+p15856
+sS'541867372798550016'
+p15857
+S'Other Relevant Information'
+p15858
+sS'541631244069400576'
+p15859
+S'Not Informative'
+p15860
+sS'541939537971146753'
+p15861
+S'Not Informative'
+p15862
+sS'542279838120165376'
+p15863
+S'Other Relevant Information'
+p15864
+sS'541798885966876673'
+p15865
+S'Not Informative'
+p15866
+sS'541947312889552896'
+p15867
+S'Infrastructure Damage'
+p15868
+sS'542260100119814144'
+p15869
+S'Other Relevant Information'
+p15870
+sS'541367215035924481'
+p15871
+S'Not Informative'
+p15872
+sS'541854907741904898'
+p15873
+S'Not Informative'
+p15874
+sS'541639074360983552'
+p15875
+S'Not Informative'
+p15876
+sS'541369382291898368'
+p15877
+S'Not Informative'
+p15878
+sS'541453722132299776'
+p15879
+S'Not Informative'
+p15880
+sS'541467038989164544'
+p15881
+S'Infrastructure Damage'
+p15882
+sS'541532162097299456'
+p15883
+S'Infrastructure Damage'
+p15884
+sS'541433928762945536'
+p15885
+S'Infrastructure Damage'
+p15886
+sS'541423839427964928'
+p15887
+S'Not Informative'
+p15888
+sS'541621834353893377'
+p15889
+S'Not Informative'
+p15890
+sS'541621266331865088'
+p15891
+S'Not Informative'
+p15892
+sS'541538379696185344'
+p15893
+S'Not Informative'
+p15894
+sS'542175388403642370'
+p15895
+S'Not Informative'
+p15896
+sS'541283448346796032'
+p15897
+S'Other Relevant Information'
+p15898
+sS'541141263668748288'
+p15899
+S'Infrastructure Damage'
+p15900
+sS'542402785560788992'
+p15901
+S'Not Informative'
+p15902
+sS'541460890584117248'
+p15903
+S'Not Informative'
+p15904
+sS'541896093739393024'
+p15905
+S'Not Informative'
+p15906
+sS'541970162694782976'
+p15907
+S'Not Informative'
+p15908
+sS'541138686964822017'
+p15909
+S'Not Informative'
+p15910
+sS'541594773333635072'
+p15911
+S'Not Informative'
+p15912
+sS'541437759903109120'
+p15913
+S'Not Informative'
+p15914
+sS'541600971940306944'
+p15915
+S'Not Informative'
+p15916
+sS'541278175305535488'
+p15917
+S'Requests for Help/Needs'
+p15918
+sS'542306868098781185'
+p15919
+S'Not Informative'
+p15920
+sS'541895684975501314'
+p15921
+S'Not Informative'
+p15922
+sS'541500171977510912'
+p15923
+S'Other Relevant Information'
+p15924
+sS'541176792040869888'
+p15925
+S'Not Informative'
+p15926
+sS'541504071803219969'
+p15927
+S'Not Informative'
+p15928
+sS'542119435482312705'
+p15929
+S'Not Informative'
+p15930
+sS'541352860060250113'
+p15931
+S'Other Relevant Information'
+p15932
+sS'542330096653070336'
+p15933
+S'Other Relevant Information'
+p15934
+sS'541456331316555776'
+p15935
+S'Other Relevant Information'
+p15936
+sS'542250201965420544'
+p15937
+S'Other Relevant Information'
+p15938
+sS'541462091727519744'
+p15939
+S'Not Informative'
+p15940
+sS'542227303506264064'
+p15941
+S'Not Informative'
+p15942
+sS'541974824151576576'
+p15943
+S'Not Informative'
+p15944
+sS'542412291044438018'
+p15945
+S'Not Informative'
+p15946
+sS'541622157718347776'
+p15947
+S'Other Relevant Information'
+p15948
+sS'541726528606703616'
+p15949
+S'Not Informative'
+p15950
+sS'541539219852648448'
+p15951
+S'Not Informative'
+p15952
+sS'541879491459444739'
+p15953
+S'Not Informative'
+p15954
+sS'542240120548909056'
+p15955
+S'Humanitarian Aid Provided'
+p15956
+sS'541412682570940417'
+p15957
+S'Not Informative'
+p15958
+sS'541960288891723777'
+p15959
+S'Not Informative'
+p15960
+sS'541956041957576704'
+p15961
+S'Not Informative'
+p15962
+sS'542295803554193408'
+p15963
+S'Not Informative'
+p15964
+sS'541275109034430464'
+p15965
+S'Infrastructure Damage'
+p15966
+sS'541100235510927360'
+p15967
+S'Other Relevant Information'
+p15968
+sS'541749803122565120'
+p15969
+S'Not Informative'
+p15970
+sS'542341901341700096'
+p15971
+S'Not Informative'
+p15972
+sS'541587695399493632'
+p15973
+S'Not Informative'
+p15974
+sS'541471112266129408'
+p15975
+S'Other Relevant Information'
+p15976
+sS'542438009354735617'
+p15977
+S'Other Relevant Information'
+p15978
+sS'541483442069045249'
+p15979
+S'Not Informative'
+p15980
+sS'541822570010800128'
+p15981
+S'Not Informative'
+p15982
+sS'541385945988497409'
+p15983
+S'Other Relevant Information'
+p15984
+sS'541459805547020288'
+p15985
+S'Not Informative'
+p15986
+sS'541683742277107714'
+p15987
+S'Not Informative'
+p15988
+sS'542017228355682304'
+p15989
+S'Not Informative'
+p15990
+sS'541516216641138688'
+p15991
+S'Not Informative'
+p15992
+sS'541485513468043264'
+p15993
+S'Not Informative'
+p15994
+sS'541904731371630593'
+p15995
+S'Not Informative'
+p15996
+sS'542228972344721408'
+p15997
+S'Not Informative'
+p15998
+sS'542149472701386752'
+p15999
+S'Other Relevant Information'
+p16000
+sS'541960287008481281'
+p16001
+S'Not Informative'
+p16002
+sS'541294018244911104'
+p16003
+S'Other Relevant Information'
+p16004
+sS'541368442842918912'
+p16005
+S'Not Informative'
+p16006
+sS'541999419789295616'
+p16007
+S'Not Informative'
+p16008
+sS'541945441001029633'
+p16009
+S'Not Informative'
+p16010
+sS'541595760135917568'
+p16011
+S'Other Relevant Information'
+p16012
+sS'541417105984204800'
+p16013
+S'Not Informative'
+p16014
+sS'541974315072110593'
+p16015
+S'Not Informative'
+p16016
+sS'541839131165224962'
+p16017
+S'Other Relevant Information'
+p16018
+sS'541512665676652544'
+p16019
+S'Not Informative'
+p16020
+sS'541226342818123777'
+p16021
+S'Other Relevant Information'
+p16022
+sS'541287068434186240'
+p16023
+S'Not Informative'
+p16024
+sS'541470098276757505'
+p16025
+S'Not Informative'
+p16026
+sS'541924544693682176'
+p16027
+S'Not Informative'
+p16028
+sS'541770203026448384'
+p16029
+S'Other Relevant Information'
+p16030
+sS'541446250495614976'
+p16031
+S'Not Informative'
+p16032
+sS'541483865630470144'
+p16033
+S'Not Informative'
+p16034
+sS'541543882438082560'
+p16035
+S'Not Informative'
+p16036
+sS'542203536742686720'
+p16037
+S'Not Informative'
+p16038
+sS'541302650260561920'
+p16039
+S'Other Relevant Information'
+p16040
+sS'541807538392420353'
+p16041
+S'Not Informative'
+p16042
+sS'541419520376995841'
+p16043
+S'Not Informative'
+p16044
+sS'541728281699971072'
+p16045
+S'Not Informative'
+p16046
+sS'541349530570997760'
+p16047
+S'Not Informative'
+p16048
+sS'541473201277378560'
+p16049
+S'Not Informative'
+p16050
+sS'541929039980941312'
+p16051
+S'Not Informative'
+p16052
+sS'542438678274912256'
+p16053
+S'Other Relevant Information'
+p16054
+sS'541472227833552898'
+p16055
+S'Not Informative'
+p16056
+sS'541819971316092929'
+p16057
+S'Not Informative'
+p16058
+sS'541350013050183680'
+p16059
+S'Other Relevant Information'
+p16060
+sS'541362021460377600'
+p16061
+S'Not Informative'
+p16062
+sS'541901413991714817'
+p16063
+S'Not Informative'
+p16064
+sS'541607771830247424'
+p16065
+S'Not Informative'
+p16066
+sS'542007338744709120'
+p16067
+S'Not Informative'
+p16068
+sS'541380045608992768'
+p16069
+S'Not Informative'
+p16070
+sS'541922952220901376'
+p16071
+S'Not Informative'
+p16072
+sS'541486568402206722'
+p16073
+S'Not Informative'
+p16074
+sS'541166131919458304'
+p16075
+S'Not Informative'
+p16076
+sS'541710719322820608'
+p16077
+S'Not Informative'
+p16078
+sS'541634677245628416'
+p16079
+S'Not Informative'
+p16080
+sS'542222067345526784'
+p16081
+S'Not Informative'
+p16082
+sS'542325276047577088'
+p16083
+S'Humanitarian Aid Provided'
+p16084
+sS'541940805577871360'
+p16085
+S'Not Informative'
+p16086
+sS'541810949024272384'
+p16087
+S'Other Relevant Information'
+p16088
+sS'541974038994636800'
+p16089
+S'Not Informative'
+p16090
+sS'542114249053859840'
+p16091
+S'Not Informative'
+p16092
+sS'541370931860365312'
+p16093
+S'Not Informative'
+p16094
+sS'541601466889142274'
+p16095
+S'Not Informative'
+p16096
+sS'541468447255719936'
+p16097
+S'Other Relevant Information'
+p16098
+sS'542137545153200128'
+p16099
+S'Not Informative'
+p16100
+sS'541564830755221504'
+p16101
+S'Not Informative'
+p16102
+sS'541476395839287296'
+p16103
+S'Not Informative'
+p16104
+sS'541920841068318720'
+p16105
+S'Not Informative'
+p16106
+sS'541631268618649600'
+p16107
+S'Not Informative'
+p16108
+sS'541498006587973632'
+p16109
+S'Not Informative'
+p16110
+sS'541847823738630144'
+p16111
+S'Other Relevant Information'
+p16112
+sS'541470084028715008'
+p16113
+S'Other Relevant Information'
+p16114
+sS'542237853535571969'
+p16115
+S'Infrastructure Damage'
+p16116
+sS'541717751208087553'
+p16117
+S'Not Informative'
+p16118
+sS'541360881108410368'
+p16119
+S'Not Informative'
+p16120
+sS'541412021976432640'
+p16121
+S'Not Informative'
+p16122
+sS'541508019809316864'
+p16123
+S'Not Informative'
+p16124
+sS'541649308089462784'
+p16125
+S'Not Informative'
+p16126
+sS'541671004854968320'
+p16127
+S'Not Informative'
+p16128
+sS'541999095720587264'
+p16129
+S'Other Relevant Information'
+p16130
+sS'541564858509307904'
+p16131
+S'Not Informative'
+p16132
+sS'541777398111301632'
+p16133
+S'Not Informative'
+p16134
+sS'542341622126497794'
+p16135
+S'Other Relevant Information'
+p16136
+sS'542009515374563328'
+p16137
+S'Not Informative'
+p16138
+sS'541296772685905920'
+p16139
+S'Other Relevant Information'
+p16140
+sS'541419715462057984'
+p16141
+S'Not Informative'
+p16142
+sS'542118485200236545'
+p16143
+S'Not Informative'
+p16144
+sS'541982122144051200'
+p16145
+S'Not Informative'
+p16146
+sS'541396560450301954'
+p16147
+S'Other Relevant Information'
+p16148
+sS'541674550748921856'
+p16149
+S'Not Informative'
+p16150
+sS'541964176722124800'
+p16151
+S'Other Relevant Information'
+p16152
+sS'541799523735982080'
+p16153
+S'Other Relevant Information'
+p16154
+sS'542168266483826688'
+p16155
+S'Not Informative'
+p16156
+sS'542019535914532864'
+p16157
+S'Requests for Help/Needs'
+p16158
+sS'541474444443516928'
+p16159
+S'Not Informative'
+p16160
+sS'541845683435999232'
+p16161
+S'Humanitarian Aid Provided'
+p16162
+sS'541608807671930882'
+p16163
+S'Not Informative'
+p16164
+sS'541853476368564225'
+p16165
+S'Not Informative'
+p16166
+sS'541558153943334912'
+p16167
+S'Other Relevant Information'
+p16168
+sS'541867468969349120'
+p16169
+S'Not Informative'
+p16170
+sS'541870387416412160'
+p16171
+S'Not Informative'
+p16172
+sS'541985986511908864'
+p16173
+S'Not Informative'
+p16174
+sS'541742062027038721'
+p16175
+S'Other Relevant Information'
+p16176
+sS'541773710378541056'
+p16177
+S'Not Informative'
+p16178
+sS'542379237836328961'
+p16179
+S'Other Relevant Information'
+p16180
+sS'541429549855039488'
+p16181
+S'Not Informative'
+p16182
+sS'541557957599969280'
+p16183
+S'Not Informative'
+p16184
+sS'541455246711459841'
+p16185
+S'Not Informative'
+p16186
+sS'541841949305483265'
+p16187
+S'Not Informative'
+p16188
+sS'541941337658884097'
+p16189
+S'Other Relevant Information'
+p16190
+sS'541939146948739074'
+p16191
+S'Not Informative'
+p16192
+sS'541584394972983296'
+p16193
+S'Not Informative'
+p16194
+sS'541796102593589248'
+p16195
+S'Not Informative'
+p16196
+sS'541510209819402240'
+p16197
+S'Other Relevant Information'
+p16198
+sS'541979765251395585'
+p16199
+S'Not Informative'
+p16200
+sS'541589028747751424'
+p16201
+S'Not Informative'
+p16202
+sS'541441337808015360'
+p16203
+S'Humanitarian Aid Provided'
+p16204
+sS'541479050175209472'
+p16205
+S'Other Relevant Information'
+p16206
+sS'541298571039875073'
+p16207
+S'Other Relevant Information'
+p16208
+sS'541544909497303040'
+p16209
+S'Not Informative'
+p16210
+sS'542261228316684288'
+p16211
+S'Humanitarian Aid Provided'
+p16212
+sS'541483267753779200'
+p16213
+S'Other Relevant Information'
+p16214
+sS'542004999879159810'
+p16215
+S'Not Informative'
+p16216
+sS'541463260516470786'
+p16217
+S'Not Informative'
+p16218
+sS'541185885992005633'
+p16219
+S'Other Relevant Information'
+p16220
+sS'542332922397601793'
+p16221
+S'Infrastructure Damage'
+p16222
+sS'541492511777099776'
+p16223
+S'Other Relevant Information'
+p16224
+sS'541775038152581120'
+p16225
+S'Not Informative'
+p16226
+sS'541897748547903488'
+p16227
+S'Not Informative'
+p16228
+sS'541869995697766401'
+p16229
+S'Not Informative'
+p16230
+sS'541802697264222209'
+p16231
+S'Other Relevant Information'
+p16232
+sS'542330636028354561'
+p16233
+S'Other Relevant Information'
+p16234
+sS'542175785868476417'
+p16235
+S'Not Informative'
+p16236
+sS'541500536332111872'
+p16237
+S'Not Informative'
+p16238
+sS'541487231320334336'
+p16239
+S'Not Informative'
+p16240
+sS'542287840705384448'
+p16241
+S'Other Relevant Information'
+p16242
+sS'541542420333469698'
+p16243
+S'Other Relevant Information'
+p16244
+sS'542136282810290176'
+p16245
+S'Not Informative'
+p16246
+sS'541602987483742208'
+p16247
+S'Not Informative'
+p16248
+sS'541851821275222016'
+p16249
+S'Not Informative'
+p16250
+sS'541988120816652288'
+p16251
+S'Not Informative'
+p16252
+sS'541634193520738305'
+p16253
+S'Infrastructure Damage'
+p16254
+sS'541531573619679232'
+p16255
+S'Infrastructure Damage'
+p16256
+sS'542425438635556867'
+p16257
+S'Not Informative'
+p16258
+sS'541757274729897985'
+p16259
+S'Not Informative'
+p16260
+sS'541816279191920640'
+p16261
+S'Not Informative'
+p16262
+sS'542264026349465600'
+p16263
+S'Infrastructure Damage'
+p16264
+sS'542287033117331456'
+p16265
+S'Other Relevant Information'
+p16266
+sS'541475345476898816'
+p16267
+S'Other Relevant Information'
+p16268
+sS'541823417280774144'
+p16269
+S'Not Informative'
+p16270
+sS'541627740273655808'
+p16271
+S'Not Informative'
+p16272
+sS'541482672455823360'
+p16273
+S'Not Informative'
+p16274
+sS'542019132825559040'
+p16275
+S'Not Informative'
+p16276
+sS'541879972055355392'
+p16277
+S'Not Informative'
+p16278
+sS'542191640635793408'
+p16279
+S'Not Informative'
+p16280
+sS'541521189420953600'
+p16281
+S'Other Relevant Information'
+p16282
+sS'542272766355853312'
+p16283
+S'Other Relevant Information'
+p16284
+sS'542235784703922176'
+p16285
+S'Other Relevant Information'
+p16286
+sS'541550574429560832'
+p16287
+S'Not Informative'
+p16288
+sS'541446427545583616'
+p16289
+S'Not Informative'
+p16290
+sS'542034154813415424'
+p16291
+S'Not Informative'
+p16292
+sS'541593976369709057'
+p16293
+S'Not Informative'
+p16294
+sS'542305565045575680'
+p16295
+S'Other Relevant Information'
+p16296
+sS'541725724126625792'
+p16297
+S'Not Informative'
+p16298
+sS'541575298492289024'
+p16299
+S'Not Informative'
+p16300
+sS'541549608418037761'
+p16301
+S'Not Informative'
+p16302
+sS'541524636945489921'
+p16303
+S'Other Relevant Information'
+p16304
+sS'541625694921302016'
+p16305
+S'Not Informative'
+p16306
+sS'541596635562643457'
+p16307
+S'Infrastructure Damage'
+p16308
+sS'542221831852535808'
+p16309
+S'Not Informative'
+p16310
+sS'541978366606204928'
+p16311
+S'Other Relevant Information'
+p16312
+sS'542133692479856641'
+p16313
+S'Not Informative'
+p16314
+sS'541489095424225280'
+p16315
+S'Not Informative'
+p16316
+sS'541613863364337664'
+p16317
+S'Not Informative'
+p16318
+sS'541529055518945280'
+p16319
+S'Not Informative'
+p16320
+sS'541692676098117632'
+p16321
+S'Not Informative'
+p16322
+sS'541956491792498689'
+p16323
+S'Not Informative'
+p16324
+sS'541674668554326016'
+p16325
+S'Not Informative'
+p16326
+sS'541153952176148480'
+p16327
+S'Other Relevant Information'
+p16328
+sS'541479390191038465'
+p16329
+S'Not Informative'
+p16330
+sS'541311108498604032'
+p16331
+S'Other Relevant Information'
+p16332
+sS'541598205943631873'
+p16333
+S'Not Informative'
+p16334
+sS'541366626575478786'
+p16335
+S'Other Relevant Information'
+p16336
+sS'541646787853811712'
+p16337
+S'Not Informative'
+p16338
+sS'541531884577382400'
+p16339
+S'Other Relevant Information'
+p16340
+sS'541986119697833985'
+p16341
+S'Other Relevant Information'
+p16342
+sS'542445789310509057'
+p16343
+S'Other Relevant Information'
+p16344
+sS'541865482853179392'
+p16345
+S'Not Informative'
+p16346
+sS'541552916579229696'
+p16347
+S'Humanitarian Aid Provided'
+p16348
+sS'541933678901735425'
+p16349
+S'Other Relevant Information'
+p16350
+sS'542252733512699905'
+p16351
+S'Other Relevant Information'
+p16352
+sS'541526836660801536'
+p16353
+S'Not Informative'
+p16354
+sS'541499130783076354'
+p16355
+S'Other Relevant Information'
+p16356
+sS'541550914717241344'
+p16357
+S'Not Informative'
+p16358
+sS'541816873348628481'
+p16359
+S'Not Informative'
+p16360
+sS'542280390874918913'
+p16361
+S'Not Informative'
+p16362
+sS'541767602012319744'
+p16363
+S'Not Informative'
+p16364
+sS'541498746341961728'
+p16365
+S'Not Informative'
+p16366
+sS'541399828463222784'
+p16367
+S'Not Informative'
+p16368
+sS'541149483749634048'
+p16369
+S'Other Relevant Information'
+p16370
+sS'541762300253069312'
+p16371
+S'Not Informative'
+p16372
+sS'541611741705027585'
+p16373
+S'Not Informative'
+p16374
+sS'541781182619197440'
+p16375
+S'Not Informative'
+p16376
+sS'541920722356936704'
+p16377
+S'Not Informative'
+p16378
+sS'541835643202981890'
+p16379
+S'Not Informative'
+p16380
+sS'541139225744125953'
+p16381
+S'Not Informative'
+p16382
+sS'541738659922182144'
+p16383
+S'Not Informative'
+p16384
+sS'541968571648061440'
+p16385
+S'Not Informative'
+p16386
+sS'541529452929249280'
+p16387
+S'Other Relevant Information'
+p16388
+sS'541561670372306944'
+p16389
+S'Not Informative'
+p16390
+sS'541434381806481408'
+p16391
+S'Not Informative'
+p16392
+sS'541869600967630848'
+p16393
+S'Not Informative'
+p16394
+sS'541473693264646144'
+p16395
+S'Not Informative'
+p16396
+sS'542421692849475585'
+p16397
+S'Other Relevant Information'
+p16398
+sS'542130660778201088'
+p16399
+S'Other Relevant Information'
+p16400
+sS'541849862996631554'
+p16401
+S'Not Informative'
+p16402
+sS'541972611027054592'
+p16403
+S'Not Informative'
+p16404
+sS'541560708027015171'
+p16405
+S'Not Informative'
+p16406
+sS'541422025474973697'
+p16407
+S'Not Informative'
+p16408
+sS'541879679460720640'
+p16409
+S'Other Relevant Information'
+p16410
+sS'542337244908892160'
+p16411
+S'Humanitarian Aid Provided'
+p16412
+sS'541479586907713536'
+p16413
+S'Not Informative'
+p16414
+sS'541457563179810816'
+p16415
+S'Requests for Help/Needs'
+p16416
+sS'542240447347716096'
+p16417
+S'Not Informative'
+p16418
+sS'541364024512765952'
+p16419
+S'Other Relevant Information'
+p16420
+sS'541582233052516352'
+p16421
+S'Not Informative'
+p16422
+sS'541608942208434176'
+p16423
+S'Not Informative'
+p16424
+sS'542244305541156864'
+p16425
+S'Not Informative'
+p16426
+sS'541341276759535616'
+p16427
+S'Not Informative'
+p16428
+sS'541262881556541440'
+p16429
+S'Other Relevant Information'
+p16430
+sS'541521735749615616'
+p16431
+S'Not Informative'
+p16432
+sS'541383021988175872'
+p16433
+S'Not Informative'
+p16434
+sS'541680107446747136'
+p16435
+S'Not Informative'
+p16436
+sS'541262117211742209'
+p16437
+S'Other Relevant Information'
+p16438
+sS'541802652590280705'
+p16439
+S'Not Informative'
+p16440
+sS'541836021533401088'
+p16441
+S'Not Informative'
+p16442
+sS'541725098063851521'
+p16443
+S'Not Informative'
+p16444
+sS'541636671964327936'
+p16445
+S'Infrastructure Damage'
+p16446
+sS'541628069761400833'
+p16447
+S'Other Relevant Information'
+p16448
+sS'541309329866235904'
+p16449
+S'Not Informative'
+p16450
+sS'541375077116555264'
+p16451
+S'Not Informative'
+p16452
+sS'541885056755585024'
+p16453
+S'Not Informative'
+p16454
+sS'541459153198149634'
+p16455
+S'Not Informative'
+p16456
+sS'541917808121368576'
+p16457
+S'Not Informative'
+p16458
+sS'541747230151958528'
+p16459
+S'Not Informative'
+p16460
+sS'542317528748273664'
+p16461
+S'Not Informative'
+p16462
+sS'542371126492422144'
+p16463
+S'Other Relevant Information'
+p16464
+sS'542199780902858752'
+p16465
+S'Not Informative'
+p16466
+sS'542333653972316160'
+p16467
+S'Other Relevant Information'
+p16468
+sS'541462841082273792'
+p16469
+S'Requests for Help/Needs'
+p16470
+sS'541594912148307968'
+p16471
+S'Not Informative'
+p16472
+sS'542320548114874368'
+p16473
+S'Infrastructure Damage'
+p16474
+sS'541733816688058368'
+p16475
+S'Not Informative'
+p16476
+sS'541936906016006144'
+p16477
+S'Not Informative'
+p16478
+sS'541790837127270400'
+p16479
+S'Not Informative'
+p16480
+sS'541914716457562113'
+p16481
+S'Not Informative'
+p16482
+sS'541686130203033603'
+p16483
+S'Not Informative'
+p16484
+sS'541552841647616000'
+p16485
+S'Not Informative'
+p16486
+sS'541983375775387649'
+p16487
+S'Not Informative'
+p16488
+sS'541417086992777218'
+p16489
+S'Not Informative'
+p16490
+sS'541532146360664064'
+p16491
+S'Other Relevant Information'
+p16492
+sS'541845716801310720'
+p16493
+S'Not Informative'
+p16494
+sS'541938186738745344'
+p16495
+S'Not Informative'
+p16496
+sS'541541342250164225'
+p16497
+S'Not Informative'
+p16498
+sS'542311661512560640'
+p16499
+S'Humanitarian Aid Provided'
+p16500
+sS'541992308963418113'
+p16501
+S'Not Informative'
+p16502
+sS'541770485823201280'
+p16503
+S'Not Informative'
+p16504
+sS'541670031726092288'
+p16505
+S'Other Relevant Information'
+p16506
+sS'541635130692231168'
+p16507
+S'Not Informative'
+p16508
+sS'541648088805691392'
+p16509
+S'Other Relevant Information'
+p16510
+sS'541432592952594432'
+p16511
+S'Not Informative'
+p16512
+sS'542323513374150656'
+p16513
+S'Other Relevant Information'
+p16514
+sS'542004973668548609'
+p16515
+S'Not Informative'
+p16516
+sS'541525120599461888'
+p16517
+S'Other Relevant Information'
+p16518
+sS'541988109060022272'
+p16519
+S'Not Informative'
+p16520
+sS'541440223696011264'
+p16521
+S'Not Informative'
+p16522
+sS'541868520963723264'
+p16523
+S'Not Informative'
+p16524
+sS'541937779622420481'
+p16525
+S'Other Relevant Information'
+p16526
+sS'541548572097802240'
+p16527
+S'Not Informative'
+p16528
+sS'541661136555220993'
+p16529
+S'Not Informative'
+p16530
+sS'541463584749137920'
+p16531
+S'Not Informative'
+p16532
+sS'541477361267380225'
+p16533
+S'Not Informative'
+p16534
+sS'542156704398721024'
+p16535
+S'Other Relevant Information'
+p16536
+sS'541634427743248384'
+p16537
+S'Not Informative'
+p16538
+sS'541646857299300352'
+p16539
+S'Not Informative'
+p16540
+sS'541283054891716608'
+p16541
+S'Other Relevant Information'
+p16542
+sS'541766008722038784'
+p16543
+S'Not Informative'
+p16544
+sS'542348341489991680'
+p16545
+S'Other Relevant Information'
+p16546
+sS'542016539478618112'
+p16547
+S'Not Informative'
+p16548
+sS'542115871712239616'
+p16549
+S'Not Informative'
+p16550
+sS'541468252292276225'
+p16551
+S'Other Relevant Information'
+p16552
+sS'541451129037414400'
+p16553
+S'Infrastructure Damage'
+p16554
+sS'541466588898426880'
+p16555
+S'Not Informative'
+p16556
+sS'541787944756215809'
+p16557
+S'Not Informative'
+p16558
+sS'541266078072979456'
+p16559
+S'Not Informative'
+p16560
+sS'541240706560720896'
+p16561
+S'Not Informative'
+p16562
+sS'541863884802756608'
+p16563
+S'Not Informative'
+p16564
+sS'541382850566979584'
+p16565
+S'Not Informative'
+p16566
+sS'541481751512506368'
+p16567
+S'Not Informative'
+p16568
+sS'541710448286920705'
+p16569
+S'Not Informative'
+p16570
+sS'541772932628758528'
+p16571
+S'Other Relevant Information'
+p16572
+sS'541487688646262784'
+p16573
+S'Humanitarian Aid Provided'
+p16574
+sS'541887353250652160'
+p16575
+S'Not Informative'
+p16576
+sS'541459128414400512'
+p16577
+S'Not Informative'
+p16578
+sS'541520648430833664'
+p16579
+S'Not Informative'
+p16580
+sS'541491122766221312'
+p16581
+S'Other Relevant Information'
+p16582
+sS'541144444586577920'
+p16583
+S'Not Informative'
+p16584
+sS'541493665462374400'
+p16585
+S'Humanitarian Aid Provided'
+p16586
+sS'541513530647003136'
+p16587
+S'Not Informative'
+p16588
+sS'541152945576755200'
+p16589
+S'Not Informative'
+p16590
+sS'541867321170853888'
+p16591
+S'Not Informative'
+p16592
+sS'541402124014583808'
+p16593
+S'Not Informative'
+p16594
+sS'541275595749867520'
+p16595
+S'Not Informative'
+p16596
+sS'541458355340849153'
+p16597
+S'Not Informative'
+p16598
+sS'541503752629260288'
+p16599
+S'Not Informative'
+p16600
+sS'542276249226604544'
+p16601
+S'Other Relevant Information'
+p16602
+sS'541976254841643008'
+p16603
+S'Other Relevant Information'
+p16604
+sS'541495425484607488'
+p16605
+S'Not Informative'
+p16606
+sS'542167180918272001'
+p16607
+S'Not Informative'
+p16608
+sS'541419935637852162'
+p16609
+S'Not Informative'
+p16610
+sS'541781571028537345'
+p16611
+S'Not Informative'
+p16612
+sS'542215075747348480'
+p16613
+S'Not Informative'
+p16614
+sS'541625593708965889'
+p16615
+S'Not Informative'
+p16616
+sS'541753958146928640'
+p16617
+S'Not Informative'
+p16618
+sS'541451783273324546'
+p16619
+S'Humanitarian Aid Provided'
+p16620
+sS'541871703832268800'
+p16621
+S'Not Informative'
+p16622
+sS'542377173030821889'
+p16623
+S'Other Relevant Information'
+p16624
+sS'541233490419662848'
+p16625
+S'Other Relevant Information'
+p16626
+sS'541529729594306560'
+p16627
+S'Other Relevant Information'
+p16628
+sS'541873894823440386'
+p16629
+S'Not Informative'
+p16630
+sS'541412455491313664'
+p16631
+S'Not Informative'
+p16632
+sS'541389763966550017'
+p16633
+S'Not Informative'
+p16634
+sS'541978076767195136'
+p16635
+S'Other Relevant Information'
+p16636
+sS'541715908696473600'
+p16637
+S'Not Informative'
+p16638
+sS'541694732808646656'
+p16639
+S'Not Informative'
+p16640
+sS'541606600515915777'
+p16641
+S'Not Informative'
+p16642
+sS'541470433393274880'
+p16643
+S'Other Relevant Information'
+p16644
+sS'542004501511536640'
+p16645
+S'Not Informative'
+p16646
+sS'542136594803601409'
+p16647
+S'Not Informative'
+p16648
+sS'541549615858720769'
+p16649
+S'Not Informative'
+p16650
+sS'541457746076651520'
+p16651
+S'Not Informative'
+p16652
+sS'541687744058380289'
+p16653
+S'Not Informative'
+p16654
+sS'541554730434969600'
+p16655
+S'Not Informative'
+p16656
+sS'541166140547141632'
+p16657
+S'Not Informative'
+p16658
+sS'541781068232142848'
+p16659
+S'Not Informative'
+p16660
+sS'541545605017772032'
+p16661
+S'Other Relevant Information'
+p16662
+sS'542432505089892353'
+p16663
+S'Not Informative'
+p16664
+sS'541885055669256192'
+p16665
+S'Not Informative'
+p16666
+sS'541842721947000832'
+p16667
+S'Not Informative'
+p16668
+sS'542277887890833408'
+p16669
+S'Other Relevant Information'
+p16670
+sS'541937053190340608'
+p16671
+S'Not Informative'
+p16672
+sS'541414468086157312'
+p16673
+S'Other Relevant Information'
+p16674
+sS'541212571043233792'
+p16675
+S'Other Relevant Information'
+p16676
+sS'541413182288310272'
+p16677
+S'Not Informative'
+p16678
+sS'541699410527539201'
+p16679
+S'Other Relevant Information'
+p16680
+sS'541613539019210752'
+p16681
+S'Other Relevant Information'
+p16682
+sS'541765941764558848'
+p16683
+S'Not Informative'
+p16684
+sS'541936159853510656'
+p16685
+S'Not Informative'
+p16686
+sS'541593659586527232'
+p16687
+S'Not Informative'
+p16688
+sS'541382770505707520'
+p16689
+S'Not Informative'
+p16690
+sS'541577655468834816'
+p16691
+S'Not Informative'
+p16692
+sS'541421193681989632'
+p16693
+S'Not Informative'
+p16694
+sS'541889971380969472'
+p16695
+S'Not Informative'
+p16696
+sS'541794424296976385'
+p16697
+S'Not Informative'
+p16698
+sS'541377245756280832'
+p16699
+S'Not Informative'
+p16700
+sS'541863146843947009'
+p16701
+S'Not Informative'
+p16702
+sS'541151168999997440'
+p16703
+S'Other Relevant Information'
+p16704
+sS'542025208425492480'
+p16705
+S'Not Informative'
+p16706
+sS'541959144442302464'
+p16707
+S'Not Informative'
+p16708
+sS'541371841764667393'
+p16709
+S'Not Informative'
+p16710
+sS'541148775772082176'
+p16711
+S'Other Relevant Information'
+p16712
+sS'541602160522170369'
+p16713
+S'Other Relevant Information'
+p16714
+sS'541170253615472640'
+p16715
+S'Other Relevant Information'
+p16716
+sS'542120528043986944'
+p16717
+S'Other Relevant Information'
+p16718
+sS'541476226658238464'
+p16719
+S'Other Relevant Information'
+p16720
+sS'541773871137837056'
+p16721
+S'Other Relevant Information'
+p16722
+sS'541261137409368065'
+p16723
+S'Other Relevant Information'
+p16724
+sS'541691345958477824'
+p16725
+S'Not Informative'
+p16726
+sS'541308696634986496'
+p16727
+S'Other Relevant Information'
+p16728
+sS'541954855770656768'
+p16729
+S'Not Informative'
+p16730
+sS'541824527223619585'
+p16731
+S'Not Informative'
+p16732
+sS'541947351254831104'
+p16733
+S'Not Informative'
+p16734
+sS'541795901895749632'
+p16735
+S'Not Informative'
+p16736
+sS'541425353051217920'
+p16737
+S'Not Informative'
+p16738
+sS'541487763661414400'
+p16739
+S'Other Relevant Information'
+p16740
+sS'541475723694067712'
+p16741
+S'Other Relevant Information'
+p16742
+sS'541211315210289152'
+p16743
+S'Other Relevant Information'
+p16744
+sS'542429619467472897'
+p16745
+S'Not Informative'
+p16746
+sS'541265597984550916'
+p16747
+S'Not Informative'
+p16748
+sS'541532687983316992'
+p16749
+S'Other Relevant Information'
+p16750
+sS'541617629278924800'
+p16751
+S'Not Informative'
+p16752
+sS'541500279384850433'
+p16753
+S'Not Informative'
+p16754
+sS'541393849923284992'
+p16755
+S'Not Informative'
+p16756
+sS'541797449577156608'
+p16757
+S'Not Informative'
+p16758
+sS'541264591309651968'
+p16759
+S'Other Relevant Information'
+p16760
+sS'541954456217071618'
+p16761
+S'Not Informative'
+p16762
+sS'541507697221189632'
+p16763
+S'Other Relevant Information'
+p16764
+sS'542320586651742209'
+p16765
+S'Not Informative'
+p16766
+sS'541531000996904960'
+p16767
+S'Not Informative'
+p16768
+sS'541438665843810304'
+p16769
+S'Not Informative'
+p16770
+sS'541567875496939520'
+p16771
+S'Not Informative'
+p16772
+sS'542283634044973056'
+p16773
+S'Other Relevant Information'
+p16774
+sS'541513266149605377'
+p16775
+S'Not Informative'
+p16776
+sS'541751653611737088'
+p16777
+S'Not Informative'
+p16778
+sS'541690246950580225'
+p16779
+S'Humanitarian Aid Provided'
+p16780
+sS'541341967322738689'
+p16781
+S'Not Informative'
+p16782
+sS'541428239990661120'
+p16783
+S'Not Informative'
+p16784
+sS'541683354291011585'
+p16785
+S'Not Informative'
+p16786
+sS'541477816307838976'
+p16787
+S'Other Relevant Information'
+p16788
+sS'541359640064188417'
+p16789
+S'Other Relevant Information'
+p16790
+sS'541367510483103744'
+p16791
+S'Not Informative'
+p16792
+sS'541652448671043584'
+p16793
+S'Not Informative'
+p16794
+sS'542124761497628672'
+p16795
+S'Not Informative'
+p16796
+sS'541468582165491712'
+p16797
+S'Not Informative'
+p16798
+sS'541286110673248257'
+p16799
+S'Not Informative'
+p16800
+sS'541528248169951232'
+p16801
+S'Not Informative'
+p16802
+sS'541517235106643968'
+p16803
+S'Not Informative'
+p16804
+sS'541502159993335809'
+p16805
+S'Other Relevant Information'
+p16806
+sS'541864243235422208'
+p16807
+S'Not Informative'
+p16808
+sS'541548168396029952'
+p16809
+S'Not Informative'
+p16810
+sS'541926708627382272'
+p16811
+S'Other Relevant Information'
+p16812
+sS'541557904038309888'
+p16813
+S'Not Informative'
+p16814
+sS'541794883980115969'
+p16815
+S'Not Informative'
+p16816
+sS'541602924259180546'
+p16817
+S'Not Informative'
+p16818
+sS'541812123366465536'
+p16819
+S'Not Informative'
+p16820
+sS'541845344141582336'
+p16821
+S'Not Informative'
+p16822
+sS'541366984563118080'
+p16823
+S'Other Relevant Information'
+p16824
+sS'541183606010679296'
+p16825
+S'Not Informative'
+p16826
+sS'541385826949955584'
+p16827
+S'Not Informative'
+p16828
+sS'541489292950765568'
+p16829
+S'Other Relevant Information'
+p16830
+sS'541937692263858176'
+p16831
+S'Not Informative'
+p16832
+sS'541585417447809024'
+p16833
+S'Not Informative'
+p16834
+sS'541961924070473728'
+p16835
+S'Not Informative'
+p16836
+sS'542282760316915713'
+p16837
+S'Not Informative'
+p16838
+sS'541556652504137729'
+p16839
+S'Not Informative'
+p16840
+sS'541894374234132480'
+p16841
+S'Not Informative'
+p16842
+sS'541402845589680128'
+p16843
+S'Not Informative'
+p16844
+sS'542447929173102593'
+p16845
+S'Other Relevant Information'
+p16846
+sS'541550139253329920'
+p16847
+S'Other Relevant Information'
+p16848
+sS'541766179803512833'
+p16849
+S'Not Informative'
+p16850
+sS'541960969111351297'
+p16851
+S'Not Informative'
+p16852
+sS'542292897685454850'
+p16853
+S'Other Relevant Information'
+p16854
+sS'542189280500523008'
+p16855
+S'Not Informative'
+p16856
+sS'541624451809300481'
+p16857
+S'Not Informative'
+p16858
+sS'541591550635950081'
+p16859
+S'Other Relevant Information'
+p16860
+sS'541983233265917953'
+p16861
+S'Not Informative'
+p16862
+sS'541938390908665857'
+p16863
+S'Other Relevant Information'
+p16864
+sS'541298831770394624'
+p16865
+S'Other Relevant Information'
+p16866
+sS'541919309878931456'
+p16867
+S'Not Informative'
+p16868
+sS'541473961150664704'
+p16869
+S'Not Informative'
+p16870
+sS'542282616703959041'
+p16871
+S'Not Informative'
+p16872
+sS'542028687190032385'
+p16873
+S'Not Informative'
+p16874
+sS'541147195592806400'
+p16875
+S'Not Informative'
+p16876
+sS'541767895286431744'
+p16877
+S'Other Relevant Information'
+p16878
+sS'541419009799770112'
+p16879
+S'Not Informative'
+p16880
+sS'542004087416291328'
+p16881
+S'Not Informative'
+p16882
+sS'541950499776659456'
+p16883
+S'Not Informative'
+p16884
+sS'541701656510210048'
+p16885
+S'Not Informative'
+p16886
+sS'541543287891324928'
+p16887
+S'Not Informative'
+p16888
+sS'541928228466618369'
+p16889
+S'Not Informative'
+p16890
+sS'541800280346472448'
+p16891
+S'Not Informative'
+p16892
+sS'541544666446180352'
+p16893
+S'Not Informative'
+p16894
+sS'541697766347374592'
+p16895
+S'Not Informative'
+p16896
+sS'541809344744914944'
+p16897
+S'Not Informative'
+p16898
+sS'541730409675886592'
+p16899
+S'Not Informative'
+p16900
+sS'541640417461039106'
+p16901
+S'Other Relevant Information'
+p16902
+sS'541629882564751360'
+p16903
+S'Not Informative'
+p16904
+sS'541750395911938049'
+p16905
+S'Not Informative'
+p16906
+sS'542354114169282560'
+p16907
+S'Not Informative'
+p16908
+sS'541398514509422593'
+p16909
+S'Not Informative'
+p16910
+sS'542158157314027520'
+p16911
+S'Other Relevant Information'
+p16912
+sS'541632001473007616'
+p16913
+S'Not Informative'
+p16914
+sS'541939725884334082'
+p16915
+S'Not Informative'
+p16916
+sS'541588131007692800'
+p16917
+S'Not Informative'
+p16918
+sS'541586245747367938'
+p16919
+S'Not Informative'
+p16920
+sS'542165727155736576'
+p16921
+S'Not Informative'
+p16922
+sS'541435315118809089'
+p16923
+S'Other Relevant Information'
+p16924
+sS'541835073071243264'
+p16925
+S'Not Informative'
+p16926
+sS'541528225449398272'
+p16927
+S'Not Informative'
+p16928
+sS'541531760052695040'
+p16929
+S'Not Informative'
+p16930
+sS'541574027551047680'
+p16931
+S'Not Informative'
+p16932
+sS'541939290943787008'
+p16933
+S'Not Informative'
+p16934
+sS'541395365518643200'
+p16935
+S'Not Informative'
+p16936
+sS'541998101272076288'
+p16937
+S'Not Informative'
+p16938
+sS'541616565591220226'
+p16939
+S'Humanitarian Aid Provided'
+p16940
+sS'542035648253685760'
+p16941
+S'Other Relevant Information'
+p16942
+sS'541862901523308544'
+p16943
+S'Not Informative'
+p16944
+sS'542432698518601728'
+p16945
+S'Other Relevant Information'
+p16946
+sS'541477721944358912'
+p16947
+S'Not Informative'
+p16948
+sS'542400362804572161'
+p16949
+S'Requests for Help/Needs'
+p16950
+sS'541955336408559616'
+p16951
+S'Not Informative'
+p16952
+sS'541391581098430464'
+p16953
+S'Not Informative'
+p16954
+sS'541926554834448384'
+p16955
+S'Not Informative'
+p16956
+sS'542445491347148800'
+p16957
+S'Not Informative'
+p16958
+sS'542355521119215616'
+p16959
+S'Other Relevant Information'
+p16960
+sS'541548766650957824'
+p16961
+S'Not Informative'
+p16962
+sS'541474026665697280'
+p16963
+S'Other Relevant Information'
+p16964
+sS'541558675307909120'
+p16965
+S'Not Informative'
+p16966
+sS'541668612365225984'
+p16967
+S'Other Relevant Information'
+p16968
+sS'541842566782541824'
+p16969
+S'Not Informative'
+p16970
+sS'541558383107526656'
+p16971
+S'Not Informative'
+p16972
+sS'542399934561935360'
+p16973
+S'Not Informative'
+p16974
+sS'542284624387244032'
+p16975
+S'Not Informative'
+p16976
+sS'542158774971006979'
+p16977
+S'Not Informative'
+p16978
+sS'541621126921605120'
+p16979
+S'Requests for Help/Needs'
+p16980
+sS'541404655310610432'
+p16981
+S'Other Relevant Information'
+p16982
+sS'541962065552736259'
+p16983
+S'Other Relevant Information'
+p16984
+sS'541891151213510656'
+p16985
+S'Not Informative'
+p16986
+sS'541271592056004608'
+p16987
+S'Not Informative'
+p16988
+sS'542339251917307904'
+p16989
+S'Infrastructure Damage'
+p16990
+sS'542000741775187969'
+p16991
+S'Not Informative'
+p16992
+sS'541551427366047745'
+p16993
+S'Not Informative'
+p16994
+sS'542166763618959360'
+p16995
+S'Not Informative'
+p16996
+sS'541776545467990017'
+p16997
+S'Not Informative'
+p16998
+sS'542395027880546305'
+p16999
+S'Infrastructure Damage'
+p17000
+sS'541844837457072128'
+p17001
+S'Other Relevant Information'
+p17002
+sS'542035094349680640'
+p17003
+S'Not Informative'
+p17004
+sS'541560837857505280'
+p17005
+S'Not Informative'
+p17006
+sS'541715204266938368'
+p17007
+S'Not Informative'
+p17008
+sS'541459505213493248'
+p17009
+S'Other Relevant Information'
+p17010
+sS'542036952770699264'
+p17011
+S'Other Relevant Information'
+p17012
+sS'541272170102784000'
+p17013
+S'Other Relevant Information'
+p17014
+sS'541520054953603072'
+p17015
+S'Requests for Help/Needs'
+p17016
+sS'541927941555245056'
+p17017
+S'Not Informative'
+p17018
+sS'541148960811806720'
+p17019
+S'Not Informative'
+p17020
+sS'542001551855071232'
+p17021
+S'Not Informative'
+p17022
+sS'542043157060268033'
+p17023
+S'Other Relevant Information'
+p17024
+sS'541937634101444609'
+p17025
+S'Not Informative'
+p17026
+sS'541497854796513280'
+p17027
+S'Not Informative'
+p17028
+sS'541430343228604416'
+p17029
+S'Not Informative'
+p17030
+sS'542441801018130435'
+p17031
+S'Infrastructure Damage'
+p17032
+sS'541663441816416256'
+p17033
+S'Other Relevant Information'
+p17034
+sS'541694169253564417'
+p17035
+S'Other Relevant Information'
+p17036
+sS'541637616194445312'
+p17037
+S'Other Relevant Information'
+p17038
+sS'541596519283961856'
+p17039
+S'Humanitarian Aid Provided'
+p17040
+sS'541349515023101953'
+p17041
+S'Not Informative'
+p17042
+sS'541734647730671616'
+p17043
+S'Not Informative'
+p17044
+sS'541853849988784128'
+p17045
+S'Other Relevant Information'
+p17046
+sS'541515641086169088'
+p17047
+S'Not Informative'
+p17048
+sS'541388670004375552'
+p17049
+S'Other Relevant Information'
+p17050
+sS'542378780770463744'
+p17051
+S'Other Relevant Information'
+p17052
+sS'541495537778700288'
+p17053
+S'Not Informative'
+p17054
+sS'541945860070711296'
+p17055
+S'Not Informative'
+p17056
+sS'541507240578920448'
+p17057
+S'Not Informative'
+p17058
+sS'541673594174984192'
+p17059
+S'Not Informative'
+p17060
+sS'541476254487031808'
+p17061
+S'Not Informative'
+p17062
+sS'541557267942752256'
+p17063
+S'Not Informative'
+p17064
+sS'541659813147459584'
+p17065
+S'Not Informative'
+p17066
+sS'541924398593081344'
+p17067
+S'Other Relevant Information'
+p17068
+sS'541266110419439618'
+p17069
+S'Not Informative'
+p17070
+sS'541404073288028160'
+p17071
+S'Other Relevant Information'
+p17072
+sS'541407375609978880'
+p17073
+S'Not Informative'
+p17074
+sS'541463146808885248'
+p17075
+S'Not Informative'
+p17076
+sS'541849841546952704'
+p17077
+S'Not Informative'
+p17078
+sS'541528537845358592'
+p17079
+S'Not Informative'
+p17080
+sS'541386874569240578'
+p17081
+S'Other Relevant Information'
+p17082
+sS'541835412642488321'
+p17083
+S'Not Informative'
+p17084
+sS'541786751916720128'
+p17085
+S'Not Informative'
+p17086
+sS'541704791915630592'
+p17087
+S'Not Informative'
+p17088
+sS'541482813539639296'
+p17089
+S'Not Informative'
+p17090
+sS'541555277737525249'
+p17091
+S'Not Informative'
+p17092
+sS'541843493828587520'
+p17093
+S'Not Informative'
+p17094
+sS'541344251494551554'
+p17095
+S'Humanitarian Aid Provided'
+p17096
+sS'541145853340434432'
+p17097
+S'Not Informative'
+p17098
+sS'542405877710327808'
+p17099
+S'Not Informative'
+p17100
+sS'541592304667328512'
+p17101
+S'Not Informative'
+p17102
+sS'541535865269665792'
+p17103
+S'Not Informative'
+p17104
+sS'541583671820423170'
+p17105
+S'Not Informative'
+p17106
+sS'542126105243570177'
+p17107
+S'Not Informative'
+p17108
+sS'541953944847536128'
+p17109
+S'Other Relevant Information'
+p17110
+sS'541627786859794432'
+p17111
+S'Not Informative'
+p17112
+sS'541835811461685249'
+p17113
+S'Not Informative'
+p17114
+sS'541513075296575488'
+p17115
+S'Not Informative'
+p17116
+sS'541480192879767552'
+p17117
+S'Not Informative'
+p17118
+sS'541491318669987840'
+p17119
+S'Other Relevant Information'
+p17120
+sS'541736441064071168'
+p17121
+S'Not Informative'
+p17122
+sS'541441275136729088'
+p17123
+S'Other Relevant Information'
+p17124
+sS'541399949305741313'
+p17125
+S'Not Informative'
+p17126
+sS'541589911573254144'
+p17127
+S'Not Informative'
+p17128
+sS'541485457603690497'
+p17129
+S'Not Informative'
+p17130
+sS'541526523241435136'
+p17131
+S'Not Informative'
+p17132
+sS'541786790877593601'
+p17133
+S'Not Informative'
+p17134
+sS'541596588033200128'
+p17135
+S'Not Informative'
+p17136
+sS'541263142978744320'
+p17137
+S'Other Relevant Information'
+p17138
+sS'541887828414582784'
+p17139
+S'Not Informative'
+p17140
+sS'542196631504838657'
+p17141
+S'Not Informative'
+p17142
+sS'541532247795314690'
+p17143
+S'Other Relevant Information'
+p17144
+sS'541419763025469440'
+p17145
+S'Not Informative'
+p17146
+sS'541476343204954112'
+p17147
+S'Not Informative'
+p17148
+sS'541518489597390848'
+p17149
+S'Not Informative'
+p17150
+sS'541437295014850560'
+p17151
+S'Not Informative'
+p17152
+sS'541653572350263296'
+p17153
+S'Not Informative'
+p17154
+sS'541278075980226560'
+p17155
+S'Other Relevant Information'
+p17156
+sS'541626921055158272'
+p17157
+S'Other Relevant Information'
+p17158
+sS'541533793841344512'
+p17159
+S'Not Informative'
+p17160
+sS'541256904123494400'
+p17161
+S'Not Informative'
+p17162
+sS'541497888636170240'
+p17163
+S'Infrastructure Damage'
+p17164
+sS'541156868618731520'
+p17165
+S'Other Relevant Information'
+p17166
+sS'541437846251257857'
+p17167
+S'Not Informative'
+p17168
+sS'541642996458868736'
+p17169
+S'Other Relevant Information'
+p17170
+sS'541506974655856641'
+p17171
+S'Not Informative'
+p17172
+sS'542334284091379713'
+p17173
+S'Not Informative'
+p17174
+sS'541798011894890496'
+p17175
+S'Other Relevant Information'
+p17176
+sS'541432897471651840'
+p17177
+S'Not Informative'
+p17178
+sS'541719761504047104'
+p17179
+S'Not Informative'
+p17180
+sS'541355209063026689'
+p17181
+S'Other Relevant Information'
+p17182
+sS'542321802920603648'
+p17183
+S'Not Informative'
+p17184
+sS'541157252959186944'
+p17185
+S'Other Relevant Information'
+p17186
+sS'541730605340172288'
+p17187
+S'Not Informative'
+p17188
+sS'541835266202169344'
+p17189
+S'Not Informative'
+p17190
+sS'541460249111060481'
+p17191
+S'Not Informative'
+p17192
+sS'541505916613304321'
+p17193
+S'Not Informative'
+p17194
+sS'541920601821024257'
+p17195
+S'Not Informative'
+p17196
+sS'541278497734275073'
+p17197
+S'Not Informative'
+p17198
+sS'542332850721521664'
+p17199
+S'Other Relevant Information'
+p17200
+sS'541505345450176512'
+p17201
+S'Not Informative'
+p17202
+sS'541368378943098880'
+p17203
+S'Not Informative'
+p17204
+sS'541414437635497984'
+p17205
+S'Not Informative'
+p17206
+sS'541632723127787520'
+p17207
+S'Not Informative'
+p17208
+sS'541781522483650561'
+p17209
+S'Not Informative'
+p17210
+sS'541608489177849856'
+p17211
+S'Infrastructure Damage'
+p17212
+sS'541835573707550722'
+p17213
+S'Not Informative'
+p17214
+sS'541634807097069568'
+p17215
+S'Not Informative'
+p17216
+sS'541476803165310976'
+p17217
+S'Not Informative'
+p17218
+sS'541514038912356352'
+p17219
+S'Not Informative'
+p17220
+sS'541353858224488448'
+p17221
+S'Not Informative'
+p17222
+sS'542338981728251904'
+p17223
+S'Other Relevant Information'
+p17224
+sS'541533589561561089'
+p17225
+S'Other Relevant Information'
+p17226
+sS'541778209898266625'
+p17227
+S'Not Informative'
+p17228
+sS'541537296781426690'
+p17229
+S'Not Informative'
+p17230
+sS'542030410192941056'
+p17231
+S'Not Informative'
+p17232
+sS'541965497235820546'
+p17233
+S'Not Informative'
+p17234
+sS'542174334861586434'
+p17235
+S'Not Informative'
+p17236
+sS'541389328585216000'
+p17237
+S'Not Informative'
+p17238
+sS'541769131918258177'
+p17239
+S'Not Informative'
+p17240
+sS'541606785904566272'
+p17241
+S'Other Relevant Information'
+p17242
+sS'541710676360970240'
+p17243
+S'Not Informative'
+p17244
+sS'541542319762046977'
+p17245
+S'Not Informative'
+p17246
+sS'541415399502274560'
+p17247
+S'Not Informative'
+p17248
+sS'541425272902664192'
+p17249
+S'Other Relevant Information'
+p17250
+sS'542288225008484352'
+p17251
+S'Other Relevant Information'
+p17252
+sS'541394039577120769'
+p17253
+S'Not Informative'
+p17254
+sS'541940636002156544'
+p17255
+S'Not Informative'
+p17256
+sS'542131663783084032'
+p17257
+S'Not Informative'
+p17258
+sS'541628085682982913'
+p17259
+S'Not Informative'
+p17260
+sS'541420003774316544'
+p17261
+S'Not Informative'
+p17262
+sS'542402064618250240'
+p17263
+S'Not Informative'
+p17264
+sS'541246092093169664'
+p17265
+S'Not Informative'
+p17266
+sS'541958293451583489'
+p17267
+S'Not Informative'
+p17268
+sS'542147647713599489'
+p17269
+S'Other Relevant Information'
+p17270
+sS'541559509412376578'
+p17271
+S'Not Informative'
+p17272
+sS'541837355607265282'
+p17273
+S'Not Informative'
+p17274
+sS'541413269978632192'
+p17275
+S'Other Relevant Information'
+p17276
+sS'541544294578786305'
+p17277
+S'Not Informative'
+p17278
+sS'541620538221686784'
+p17279
+S'Not Informative'
+p17280
+sS'541711668930048001'
+p17281
+S'Not Informative'
+p17282
+sS'541145324199616512'
+p17283
+S'Not Informative'
+p17284
+sS'541381908182368256'
+p17285
+S'Infrastructure Damage'
+p17286
+sS'541850706295001088'
+p17287
+S'Not Informative'
+p17288
+sS'541100370286878720'
+p17289
+S'Other Relevant Information'
+p17290
+sS'541940326882344960'
+p17291
+S'Other Relevant Information'
+p17292
+sS'542023111231553536'
+p17293
+S'Other Relevant Information'
+p17294
+sS'542366398417076224'
+p17295
+S'Humanitarian Aid Provided'
+p17296
+sS'541737108562391040'
+p17297
+S'Humanitarian Aid Provided'
+p17298
+sS'541977965240655872'
+p17299
+S'Not Informative'
+p17300
+sS'541897630801223680'
+p17301
+S'Not Informative'
+p17302
+sS'541272290760327168'
+p17303
+S'Humanitarian Aid Provided'
+p17304
+sS'541786068912443393'
+p17305
+S'Not Informative'
+p17306
+sS'541751420546842624'
+p17307
+S'Not Informative'
+p17308
+sS'541155093022654465'
+p17309
+S'Other Relevant Information'
+p17310
+sS'541580636721397760'
+p17311
+S'Not Informative'
+p17312
+sS'541475211674005504'
+p17313
+S'Not Informative'
+p17314
+sS'541536977481240576'
+p17315
+S'Not Informative'
+p17316
+sS'541433010608799745'
+p17317
+S'Infrastructure Damage'
+p17318
+sS'542257871094677504'
+p17319
+S'Other Relevant Information'
+p17320
+sS'541434203540185089'
+p17321
+S'Not Informative'
+p17322
+sS'541559887663079425'
+p17323
+S'Not Informative'
+p17324
+sS'541482159643443200'
+p17325
+S'Not Informative'
+p17326
+sS'542030460860133376'
+p17327
+S'Other Relevant Information'
+p17328
+sS'541499825427324928'
+p17329
+S'Not Informative'
+p17330
+sS'542360028636655616'
+p17331
+S'Other Relevant Information'
+p17332
+sS'541612557165809664'
+p17333
+S'Not Informative'
+p17334
+sS'541944743459295232'
+p17335
+S'Not Informative'
+p17336
+sS'541797536793886721'
+p17337
+S'Not Informative'
+p17338
+sS'541518610426916864'
+p17339
+S'Humanitarian Aid Provided'
+p17340
+sS'542246529005010944'
+p17341
+S'Other Relevant Information'
+p17342
+sS'541828828796960768'
+p17343
+S'Not Informative'
+p17344
+sS'541099112477622275'
+p17345
+S'Not Informative'
+p17346
+sS'541947254500630528'
+p17347
+S'Other Relevant Information'
+p17348
+sS'541555785906409472'
+p17349
+S'Not Informative'
+p17350
+sS'541724870875570176'
+p17351
+S'Not Informative'
+p17352
+sS'541466791612907520'
+p17353
+S'Other Relevant Information'
+p17354
+sS'541995087949881344'
+p17355
+S'Not Informative'
+p17356
+sS'541369907896532993'
+p17357
+S'Not Informative'
+p17358
+sS'541609945205321729'
+p17359
+S'Infrastructure Damage'
+p17360
+sS'541883201862782976'
+p17361
+S'Not Informative'
+p17362
+sS'541854515566108672'
+p17363
+S'Not Informative'
+p17364
+sS'541467905204830208'
+p17365
+S'Humanitarian Aid Provided'
+p17366
+sS'541223055259750400'
+p17367
+S'Humanitarian Aid Provided'
+p17368
+sS'541496639915970560'
+p17369
+S'Not Informative'
+p17370
+sS'541793163103318016'
+p17371
+S'Not Informative'
+p17372
+sS'541565418725322752'
+p17373
+S'Not Informative'
+p17374
+sS'541607393806012417'
+p17375
+S'Not Informative'
+p17376
+sS'542373718132273152'
+p17377
+S'Other Relevant Information'
+p17378
+sS'541974778111070208'
+p17379
+S'Not Informative'
+p17380
+sS'541404680216399873'
+p17381
+S'Not Informative'
+p17382
+sS'542334801689464833'
+p17383
+S'Other Relevant Information'
+p17384
+sS'541978295915384832'
+p17385
+S'Not Informative'
+p17386
+sS'541851630711607296'
+p17387
+S'Not Informative'
+p17388
+sS'541333591813152769'
+p17389
+S'Other Relevant Information'
+p17390
+sS'542274532984119298'
+p17391
+S'Not Informative'
+p17392
+sS'542269387982774274'
+p17393
+S'Other Relevant Information'
+p17394
+sS'541288473257578496'
+p17395
+S'Other Relevant Information'
+p17396
+sS'541896200627036160'
+p17397
+S'Not Informative'
+p17398
+sS'542311825304715266'
+p17399
+S'Humanitarian Aid Provided'
+p17400
+sS'541569179623505920'
+p17401
+S'Not Informative'
+p17402
+sS'542009408494923776'
+p17403
+S'Not Informative'
+p17404
+sS'541352918180298752'
+p17405
+S'Other Relevant Information'
+p17406
+sS'541588051583967235'
+p17407
+S'Not Informative'
+p17408
+sS'541529517949718529'
+p17409
+S'Not Informative'
+p17410
+sS'541921244825006081'
+p17411
+S'Not Informative'
+p17412
+sS'541621270782029825'
+p17413
+S'Not Informative'
+p17414
+sS'541733755166011393'
+p17415
+S'Not Informative'
+p17416
+sS'541618522321719296'
+p17417
+S'Not Informative'
+p17418
+sS'541412996317470720'
+p17419
+S'Not Informative'
+p17420
+sS'541936451316101120'
+p17421
+S'Not Informative'
+p17422
+sS'541491949543227392'
+p17423
+S'Other Relevant Information'
+p17424
+sS'541575206318260225'
+p17425
+S'Not Informative'
+p17426
+sS'541894848895148032'
+p17427
+S'Not Informative'
+p17428
+sS'541638898116333568'
+p17429
+S'Other Relevant Information'
+p17430
+sS'541627845038968832'
+p17431
+S'Not Informative'
+p17432
+sS'542277479243583488'
+p17433
+S'Not Informative'
+p17434
+sS'541919232062025729'
+p17435
+S'Not Informative'
+p17436
+sS'541689940694691840'
+p17437
+S'Not Informative'
+p17438
+sS'542209627790643200'
+p17439
+S'Not Informative'
+p17440
+sS'541973390911746048'
+p17441
+S'Not Informative'
+p17442
+sS'541769825966497792'
+p17443
+S'Not Informative'
+p17444
+sS'541724013026746368'
+p17445
+S'Not Informative'
+p17446
+sS'542172638030745601'
+p17447
+S'Other Relevant Information'
+p17448
+sS'541867015288258560'
+p17449
+S'Not Informative'
+p17450
+sS'541845695385182210'
+p17451
+S'Not Informative'
+p17452
+sS'541613787455840256'
+p17453
+S'Not Informative'
+p17454
+sS'541490197867675648'
+p17455
+S'Other Relevant Information'
+p17456
+sS'541555856962105344'
+p17457
+S'Not Informative'
+p17458
+sS'541534115594395648'
+p17459
+S'Other Relevant Information'
+p17460
+sS'541539017838166016'
+p17461
+S'Not Informative'
+p17462
+sS'541153247655116800'
+p17463
+S'Not Informative'
+p17464
+sS'541958200560349184'
+p17465
+S'Not Informative'
+p17466
+sS'541438323206545408'
+p17467
+S'Not Informative'
+p17468
+sS'541874829435998211'
+p17469
+S'Not Informative'
+p17470
+sS'541741762008469504'
+p17471
+S'Not Informative'
+p17472
+sS'542313221118763008'
+p17473
+S'Not Informative'
+p17474
+sS'541505909294235649'
+p17475
+S'Not Informative'
+p17476
+sS'541273248386670592'
+p17477
+S'Not Informative'
+p17478
+sS'541713729214107648'
+p17479
+S'Not Informative'
+p17480
+sS'541976712896999425'
+p17481
+S'Not Informative'
+p17482
+sS'542295497944608768'
+p17483
+S'Not Informative'
+p17484
+sS'541357238267297793'
+p17485
+S'Not Informative'
+p17486
+sS'541429558566604800'
+p17487
+S'Not Informative'
+p17488
+sS'542242910708576257'
+p17489
+S'Humanitarian Aid Provided'
+p17490
+sS'542233397024657409'
+p17491
+S'Not Informative'
+p17492
+sS'541521979228958720'
+p17493
+S'Other Relevant Information'
+p17494
+sS'541474218903228416'
+p17495
+S'Other Relevant Information'
+p17496
+sS'541869589286903808'
+p17497
+S'Not Informative'
+p17498
+sS'541555043648819202'
+p17499
+S'Humanitarian Aid Provided'
+p17500
+sS'541766125160517632'
+p17501
+S'Not Informative'
+p17502
+sS'541940669086830597'
+p17503
+S'Not Informative'
+p17504
+sS'541668332249051136'
+p17505
+S'Not Informative'
+p17506
+sS'541691632907587584'
+p17507
+S'Other Relevant Information'
+p17508
+sS'541525761887186944'
+p17509
+S'Not Informative'
+p17510
+sS'541506479899951105'
+p17511
+S'Other Relevant Information'
+p17512
+sS'541788559313612801'
+p17513
+S'Not Informative'
+p17514
+sS'541726315448401923'
+p17515
+S'Not Informative'
+p17516
+sS'541407604606787584'
+p17517
+S'Other Relevant Information'
+p17518
+sS'541428051339264002'
+p17519
+S'Not Informative'
+p17520
+sS'541980805648510976'
+p17521
+S'Not Informative'
+p17522
+sS'541503144484552704'
+p17523
+S'Other Relevant Information'
+p17524
+sS'541381733535330305'
+p17525
+S'Other Relevant Information'
+p17526
+sS'541374942072143872'
+p17527
+S'Other Relevant Information'
+p17528
+sS'541316404847591424'
+p17529
+S'Not Informative'
+p17530
+sS'542407993359208449'
+p17531
+S'Other Relevant Information'
+p17532
+sS'541589623198461952'
+p17533
+S'Other Relevant Information'
+p17534
+sS'541860340682985472'
+p17535
+S'Not Informative'
+p17536
+sS'542188170201153537'
+p17537
+S'Not Informative'
+p17538
+sS'541528509303492608'
+p17539
+S'Other Relevant Information'
+p17540
+sS'541519695971487744'
+p17541
+S'Not Informative'
+p17542
+sS'541944503456641025'
+p17543
+S'Not Informative'
+p17544
+sS'541589687811313665'
+p17545
+S'Not Informative'
+p17546
+sS'542283846352658432'
+p17547
+S'Other Relevant Information'
+p17548
+sS'541995622329376768'
+p17549
+S'Other Relevant Information'
+p17550
+sS'541486280765210626'
+p17551
+S'Humanitarian Aid Provided'
+p17552
+sS'541948342243057664'
+p17553
+S'Not Informative'
+p17554
+sS'541787146370043904'
+p17555
+S'Other Relevant Information'
+p17556
+sS'541719789841182721'
+p17557
+S'Not Informative'
+p17558
+sS'541335288698527745'
+p17559
+S'Not Informative'
+p17560
+sS'541362317716238337'
+p17561
+S'Not Informative'
+p17562
+sS'542410577474109441'
+p17563
+S'Humanitarian Aid Provided'
+p17564
+sS'542137878118412288'
+p17565
+S'Not Informative'
+p17566
+sS'541523534388797441'
+p17567
+S'Other Relevant Information'
+p17568
+sS'541576465238597633'
+p17569
+S'Not Informative'
+p17570
+sS'541850060523192321'
+p17571
+S'Not Informative'
+p17572
+sS'541547407897395200'
+p17573
+S'Not Informative'
+p17574
+sS'541607314361307136'
+p17575
+S'Other Relevant Information'
+p17576
+sS'541595643077066752'
+p17577
+S'Not Informative'
+p17578
+sS'541471440705687552'
+p17579
+S'Not Informative'
+p17580
+sS'542028175711432705'
+p17581
+S'Other Relevant Information'
+p17582
+sS'542389470545596416'
+p17583
+S'Humanitarian Aid Provided'
+p17584
+sS'541459124081283072'
+p17585
+S'Other Relevant Information'
+p17586
+sS'542319711698952194'
+p17587
+S'Not Informative'
+p17588
+sS'541229716363960320'
+p17589
+S'Humanitarian Aid Provided'
+p17590
+sS'541530610884308994'
+p17591
+S'Other Relevant Information'
+p17592
+sS'541394508567805952'
+p17593
+S'Not Informative'
+p17594
+sS'541528707555266560'
+p17595
+S'Not Informative'
+p17596
+sS'541425625186054144'
+p17597
+S'Other Relevant Information'
+p17598
+sS'541598476623032320'
+p17599
+S'Not Informative'
+p17600
+sS'541532931420725249'
+p17601
+S'Not Informative'
+p17602
+sS'541777933900066816'
+p17603
+S'Not Informative'
+p17604
+sS'541384503961198592'
+p17605
+S'Not Informative'
+p17606
+sS'541364386414465024'
+p17607
+S'Other Relevant Information'
+p17608
+sS'542312807350697984'
+p17609
+S'Not Informative'
+p17610
+sS'541942681656520704'
+p17611
+S'Not Informative'
+p17612
+sS'541425446995648512'
+p17613
+S'Not Informative'
+p17614
+sS'541384979973169152'
+p17615
+S'Not Informative'
+p17616
+sS'541391131280285696'
+p17617
+S'Other Relevant Information'
+p17618
+sS'541533604015128576'
+p17619
+S'Not Informative'
+p17620
+sS'541632728941481985'
+p17621
+S'Not Informative'
+p17622
+sS'542178119504130049'
+p17623
+S'Not Informative'
+p17624
+sS'541538125684555776'
+p17625
+S'Other Relevant Information'
+p17626
+sS'541268167361064961'
+p17627
+S'Not Informative'
+p17628
+sS'541725245405540352'
+p17629
+S'Not Informative'
+p17630
+sS'541448035054534658'
+p17631
+S'Other Relevant Information'
+p17632
+sS'541948699975245824'
+p17633
+S'Not Informative'
+p17634
+sS'541863035485175808'
+p17635
+S'Other Relevant Information'
+p17636
+sS'541945970565464067'
+p17637
+S'Not Informative'
+p17638
+sS'541746833291087873'
+p17639
+S'Not Informative'
+p17640
+sS'541614766179876864'
+p17641
+S'Not Informative'
+p17642
+sS'541168750506946561'
+p17643
+S'Not Informative'
+p17644
+sS'541493624014266369'
+p17645
+S'Not Informative'
+p17646
+sS'541867334093504512'
+p17647
+S'Not Informative'
+p17648
+sS'541564323886534656'
+p17649
+S'Other Relevant Information'
+p17650
+sS'542332591508959232'
+p17651
+S'Other Relevant Information'
+p17652
+sS'541308306535366656'
+p17653
+S'Not Informative'
+p17654
+sS'541800656240009216'
+p17655
+S'Not Informative'
+p17656
+sS'541539963909996544'
+p17657
+S'Not Informative'
+p17658
+sS'542357466139598850'
+p17659
+S'Not Informative'
+p17660
+sS'541621443885166593'
+p17661
+S'Not Informative'
+p17662
+sS'542302042664882176'
+p17663
+S'Other Relevant Information'
+p17664
+sS'541459718678405120'
+p17665
+S'Other Relevant Information'
+p17666
+sS'541980823864369154'
+p17667
+S'Not Informative'
+p17668
+sS'541527434341122049'
+p17669
+S'Other Relevant Information'
+p17670
+sS'542173300202278912'
+p17671
+S'Not Informative'
+p17672
+sS'541472662389022720'
+p17673
+S'Not Informative'
+p17674
+sS'541456025228824576'
+p17675
+S'Not Informative'
+p17676
+sS'541617714515554304'
+p17677
+S'Not Informative'
+p17678
+sS'541242361389400064'
+p17679
+S'Not Informative'
+p17680
+sS'541149343806283776'
+p17681
+S'Not Informative'
+p17682
+sS'541624064062652419'
+p17683
+S'Not Informative'
+p17684
+sS'542189198548410368'
+p17685
+S'Not Informative'
+p17686
+sS'541989464638521345'
+p17687
+S'Other Relevant Information'
+p17688
+sS'541834208482975745'
+p17689
+S'Not Informative'
+p17690
+sS'541797664715587585'
+p17691
+S'Not Informative'
+p17692
+sS'541719084476665857'
+p17693
+S'Not Informative'
+p17694
+sS'542397723991736320'
+p17695
+S'Other Relevant Information'
+p17696
+sS'541518680685674497'
+p17697
+S'Not Informative'
+p17698
+sS'541462093203898369'
+p17699
+S'Other Relevant Information'
+p17700
+sS'541487639007100928'
+p17701
+S'Other Relevant Information'
+p17702
+sS'541139034852958208'
+p17703
+S'Other Relevant Information'
+p17704
+sS'542421423197671424'
+p17705
+S'Other Relevant Information'
+p17706
+sS'541916049612886016'
+p17707
+S'Not Informative'
+p17708
+sS'541972884868980736'
+p17709
+S'Not Informative'
+p17710
+sS'541654474465366018'
+p17711
+S'Humanitarian Aid Provided'
+p17712
+sS'541498164222496770'
+p17713
+S'Not Informative'
+p17714
+sS'541962004278161408'
+p17715
+S'Not Informative'
+p17716
+sS'541466105173118977'
+p17717
+S'Other Relevant Information'
+p17718
+sS'541820587233267712'
+p17719
+S'Not Informative'
+p17720
+sS'541248312410914816'
+p17721
+S'Not Informative'
+p17722
+sS'542025000103190528'
+p17723
+S'Not Informative'
+p17724
+sS'541436329360244737'
+p17725
+S'Not Informative'
+p17726
+sS'542367098249281536'
+p17727
+S'Not Informative'
+p17728
+sS'541517627688906753'
+p17729
+S'Not Informative'
+p17730
+sS'542244962969350145'
+p17731
+S'Not Informative'
+p17732
+sS'541262736358113280'
+p17733
+S'Not Informative'
+p17734
+sS'542391063223074816'
+p17735
+S'Other Relevant Information'
+p17736
+sS'541954337241460737'
+p17737
+S'Other Relevant Information'
+p17738
+sS'541610302488334336'
+p17739
+S'Not Informative'
+p17740
+sS'542322534624923648'
+p17741
+S'Not Informative'
+p17742
+sS'541463152248901632'
+p17743
+S'Other Relevant Information'
+p17744
+sS'541921078814076929'
+p17745
+S'Not Informative'
+p17746
+sS'541515727598272512'
+p17747
+S'Not Informative'
+p17748
+sS'541465209785696256'
+p17749
+S'Infrastructure Damage'
+p17750
+sS'541851579729461249'
+p17751
+S'Other Relevant Information'
+p17752
+sS'542004291645349888'
+p17753
+S'Not Informative'
+p17754
+sS'541295168817610753'
+p17755
+S'Not Informative'
+p17756
+sS'541717263620276225'
+p17757
+S'Not Informative'
+p17758
+sS'541858416528871424'
+p17759
+S'Not Informative'
+p17760
+sS'541649948161638400'
+p17761
+S'Not Informative'
+p17762
+sS'542036014567407616'
+p17763
+S'Other Relevant Information'
+p17764
+sS'542380614498783232'
+p17765
+S'Not Informative'
+p17766
+sS'541629946871808002'
+p17767
+S'Not Informative'
+p17768
+sS'542311127246716928'
+p17769
+S'Humanitarian Aid Provided'
+p17770
+sS'541463387310280704'
+p17771
+S'Other Relevant Information'
+p17772
+sS'541800857612726272'
+p17773
+S'Not Informative'
+p17774
+sS'542310909683576833'
+p17775
+S'Other Relevant Information'
+p17776
+sS'541726715068706817'
+p17777
+S'Not Informative'
+p17778
+sS'542452404008939520'
+p17779
+S'Other Relevant Information'
+p17780
+sS'541556927667654657'
+p17781
+S'Not Informative'
+p17782
+sS'541994488449605633'
+p17783
+S'Not Informative'
+p17784
+sS'541342850433052672'
+p17785
+S'Not Informative'
+p17786
+sS'542319458891890688'
+p17787
+S'Not Informative'
+p17788
+sS'541599811745480705'
+p17789
+S'Not Informative'
+p17790
+sS'542309428880740352'
+p17791
+S'Not Informative'
+p17792
+sS'541547390587523072'
+p17793
+S'Not Informative'
+p17794
+sS'541946185053790208'
+p17795
+S'Not Informative'
+p17796
+sS'541504315265789953'
+p17797
+S'Other Relevant Information'
+p17798
+sS'542011035470016512'
+p17799
+S'Not Informative'
+p17800
+sS'541904488894713857'
+p17801
+S'Not Informative'
+p17802
+sS'541640074652164097'
+p17803
+S'Other Relevant Information'
+p17804
+sS'541913148270198784'
+p17805
+S'Not Informative'
+p17806
+sS'541976769394266112'
+p17807
+S'Not Informative'
+p17808
+sS'541824843575214082'
+p17809
+S'Not Informative'
+p17810
+sS'541138931144589312'
+p17811
+S'Other Relevant Information'
+p17812
+sS'541533533483696128'
+p17813
+S'Not Informative'
+p17814
+sS'542461317664079872'
+p17815
+S'Other Relevant Information'
+p17816
+sS'541628810009911297'
+p17817
+S'Not Informative'
+p17818
+sS'541396394032914432'
+p17819
+S'Other Relevant Information'
+p17820
+sS'542451076100653056'
+p17821
+S'Other Relevant Information'
+p17822
+sS'541760852479586305'
+p17823
+S'Not Informative'
+p17824
+sS'541814077857611777'
+p17825
+S'Other Relevant Information'
+p17826
+sS'541868285147746304'
+p17827
+S'Not Informative'
+p17828
+sS'541833992425594880'
+p17829
+S'Not Informative'
+p17830
+sS'541919835400458240'
+p17831
+S'Not Informative'
+p17832
+sS'541756029420052480'
+p17833
+S'Not Informative'
+p17834
+sS'541315679597510656'
+p17835
+S'Other Relevant Information'
+p17836
+sS'541932968118591488'
+p17837
+S'Not Informative'
+p17838
+sS'541603092441997313'
+p17839
+S'Not Informative'
+p17840
+sS'541571046940221440'
+p17841
+S'Other Relevant Information'
+p17842
+sS'541394027850244097'
+p17843
+S'Other Relevant Information'
+p17844
+sS'541916785750966272'
+p17845
+S'Not Informative'
+p17846
+sS'541436013672153088'
+p17847
+S'Not Informative'
+p17848
+sS'541789119685214208'
+p17849
+S'Not Informative'
+p17850
+sS'542237817401651200'
+p17851
+S'Not Informative'
+p17852
+sS'541754497115373568'
+p17853
+S'Not Informative'
+p17854
+sS'542012393451442176'
+p17855
+S'Not Informative'
+p17856
+sS'541938400412975105'
+p17857
+S'Not Informative'
+p17858
+sS'541995462057025537'
+p17859
+S'Humanitarian Aid Provided'
+p17860
+sS'541547353858011137'
+p17861
+S'Not Informative'
+p17862
+sS'541486184854061056'
+p17863
+S'Not Informative'
+p17864
+sS'541418747823521792'
+p17865
+S'Other Relevant Information'
+p17866
+sS'541521319247241217'
+p17867
+S'Not Informative'
+p17868
+sS'542264858318610432'
+p17869
+S'Humanitarian Aid Provided'
+p17870
+sS'542434119263600641'
+p17871
+S'Other Relevant Information'
+p17872
+sS'541653483502698496'
+p17873
+S'Other Relevant Information'
+p17874
+sS'541534749034962944'
+p17875
+S'Not Informative'
+p17876
+sS'541615685072613378'
+p17877
+S'Not Informative'
+p17878
+sS'541794183598460928'
+p17879
+S'Other Relevant Information'
+p17880
+sS'541800608282337280'
+p17881
+S'Not Informative'
+p17882
+sS'542254954820681728'
+p17883
+S'Other Relevant Information'
+p17884
+sS'541484384562323456'
+p17885
+S'Not Informative'
+p17886
+sS'542247666517032960'
+p17887
+S'Not Informative'
+p17888
+sS'541468200920428544'
+p17889
+S'Not Informative'
+p17890
+sS'541872686159237121'
+p17891
+S'Not Informative'
+p17892
+sS'541649345318506496'
+p17893
+S'Other Relevant Information'
+p17894
+sS'541627196595388418'
+p17895
+S'Not Informative'
+p17896
+sS'541422983609196545'
+p17897
+S'Other Relevant Information'
+p17898
+sS'541917197602258944'
+p17899
+S'Not Informative'
+p17900
+sS'541393699872055298'
+p17901
+S'Not Informative'
+p17902
+sS'541468706216222720'
+p17903
+S'Other Relevant Information'
+p17904
+sS'541539401893830657'
+p17905
+S'Not Informative'
+p17906
+sS'541278529778769920'
+p17907
+S'Other Relevant Information'
+p17908
+sS'542356908636508160'
+p17909
+S'Other Relevant Information'
+p17910
+sS'541808331027795968'
+p17911
+S'Not Informative'
+p17912
+sS'541922424594247680'
+p17913
+S'Not Informative'
+p17914
+sS'541520432055078912'
+p17915
+S'Other Relevant Information'
+p17916
+sS'541639484828168193'
+p17917
+S'Not Informative'
+p17918
+sS'541961137718583296'
+p17919
+S'Infrastructure Damage'
+p17920
+sS'541140108398055424'
+p17921
+S'Other Relevant Information'
+p17922
+sS'541437731537444865'
+p17923
+S'Humanitarian Aid Provided'
+p17924
+sS'541599302561169408'
+p17925
+S'Not Informative'
+p17926
+sS'541740724342226947'
+p17927
+S'Not Informative'
+p17928
+sS'541501717284548608'
+p17929
+S'Not Informative'
+p17930
+sS'541575907631443968'
+p17931
+S'Not Informative'
+p17932
+sS'541709397051719680'
+p17933
+S'Not Informative'
+p17934
+sS'541532918355857408'
+p17935
+S'Other Relevant Information'
+p17936
+sS'541892279620087809'
+p17937
+S'Not Informative'
+p17938
+sS'541557795804311553'
+p17939
+S'Not Informative'
+p17940
+sS'541689550406311936'
+p17941
+S'Not Informative'
+p17942
+sS'541385450854690816'
+p17943
+S'Other Relevant Information'
+p17944
+sS'542369478160691200'
+p17945
+S'Other Relevant Information'
+p17946
+sS'541107419971989504'
+p17947
+S'Other Relevant Information'
+p17948
+sS'541524568025092097'
+p17949
+S'Other Relevant Information'
+p17950
+sS'541382074637090817'
+p17951
+S'Other Relevant Information'
+p17952
+sS'541577797676724224'
+p17953
+S'Not Informative'
+p17954
+sS'542297582953701376'
+p17955
+S'Not Informative'
+p17956
+sS'541600995621363712'
+p17957
+S'Not Informative'
+p17958
+sS'542309199032487941'
+p17959
+S'Other Relevant Information'
+p17960
+sS'541669699159736320'
+p17961
+S'Other Relevant Information'
+p17962
+sS'542206133935419394'
+p17963
+S'Not Informative'
+p17964
+sS'541905559566295040'
+p17965
+S'Not Informative'
+p17966
+sS'541508274713931776'
+p17967
+S'Not Informative'
+p17968
+sS'541476424465395712'
+p17969
+S'Not Informative'
+p17970
+sS'541451305214935040'
+p17971
+S'Not Informative'
+p17972
+sS'541417364764360705'
+p17973
+S'Not Informative'
+p17974
+sS'541495285814267904'
+p17975
+S'Other Relevant Information'
+p17976
+sS'541463401420320768'
+p17977
+S'Humanitarian Aid Provided'
+p17978
+sS'541507459546746881'
+p17979
+S'Other Relevant Information'
+p17980
+sS'541267575553138689'
+p17981
+S'Humanitarian Aid Provided'
+p17982
+sS'541294868526415872'
+p17983
+S'Not Informative'
+p17984
+sS'541379844441796608'
+p17985
+S'Not Informative'
+p17986
+sS'541868117941448705'
+p17987
+S'Not Informative'
+p17988
+sS'542382124662153216'
+p17989
+S'Infrastructure Damage'
+p17990
+sS'541897170593382400'
+p17991
+S'Not Informative'
+p17992
+sS'542361519183630336'
+p17993
+S'Humanitarian Aid Provided'
+p17994
+sS'541160171347517442'
+p17995
+S'Infrastructure Damage'
+p17996
+sS'541520254954782720'
+p17997
+S'Not Informative'
+p17998
+sS'541600951015309312'
+p17999
+S'Not Informative'
+p18000
+sS'541778679911546880'
+p18001
+S'Not Informative'
+p18002
+sS'541535183611396097'
+p18003
+S'Not Informative'
+p18004
+sS'542283121165492225'
+p18005
+S'Other Relevant Information'
+p18006
+sS'541962085668626432'
+p18007
+S'Not Informative'
+p18008
+sS'541493916785065986'
+p18009
+S'Other Relevant Information'
+p18010
+sS'541686589600985088'
+p18011
+S'Infrastructure Damage'
+p18012
+sS'541787112958210048'
+p18013
+S'Not Informative'
+p18014
+sS'541979493846360064'
+p18015
+S'Other Relevant Information'
+p18016
+sS'541609405163126784'
+p18017
+S'Not Informative'
+p18018
+sS'541531938482184193'
+p18019
+S'Not Informative'
+p18020
+sS'541661403707215872'
+p18021
+S'Not Informative'
+p18022
+sS'541537406332055554'
+p18023
+S'Not Informative'
+p18024
+sS'542168378085879810'
+p18025
+S'Not Informative'
+p18026
+sS'541556741373059072'
+p18027
+S'Not Informative'
+p18028
+sS'541227226843578369'
+p18029
+S'Infrastructure Damage'
+p18030
+sS'541419411144310784'
+p18031
+S'Not Informative'
+p18032
+sS'541629586383990784'
+p18033
+S'Not Informative'
+p18034
+sS'541398518351790081'
+p18035
+S'Humanitarian Aid Provided'
+p18036
+sS'541932947658375170'
+p18037
+S'Not Informative'
+p18038
+sS'541941566961893376'
+p18039
+S'Not Informative'
+p18040
+sS'541946699183165440'
+p18041
+S'Not Informative'
+p18042
+sS'541844305703231488'
+p18043
+S'Not Informative'
+p18044
+sS'542182208107474944'
+p18045
+S'Not Informative'
+p18046
+sS'542231270122475520'
+p18047
+S'Other Relevant Information'
+p18048
+sS'542028885538258944'
+p18049
+S'Humanitarian Aid Provided'
+p18050
+sS'541815853965004800'
+p18051
+S'Not Informative'
+p18052
+sS'541398525594976256'
+p18053
+S'Other Relevant Information'
+p18054
+sS'541599669684797440'
+p18055
+S'Not Informative'
+p18056
+sS'541282517303959552'
+p18057
+S'Not Informative'
+p18058
+sS'541433559391551488'
+p18059
+S'Other Relevant Information'
+p18060
+sS'541353472910983169'
+p18061
+S'Other Relevant Information'
+p18062
+sS'541839040236904449'
+p18063
+S'Not Informative'
+p18064
+sS'541533011225743360'
+p18065
+S'Other Relevant Information'
+p18066
+sS'542325344565338112'
+p18067
+S'Infrastructure Damage'
+p18068
+sS'541486519207206912'
+p18069
+S'Not Informative'
+p18070
+sS'541464449480400896'
+p18071
+S'Not Informative'
+p18072
+sS'541294738264326146'
+p18073
+S'Not Informative'
+p18074
+sS'542130848435171328'
+p18075
+S'Not Informative'
+p18076
+sS'541922502378000385'
+p18077
+S'Other Relevant Information'
+p18078
+sS'541494085639356416'
+p18079
+S'Not Informative'
+p18080
+sS'541533703558926336'
+p18081
+S'Not Informative'
+p18082
+sS'541290479757692928'
+p18083
+S'Not Informative'
+p18084
+sS'542229962514640896'
+p18085
+S'Other Relevant Information'
+p18086
+sS'542454948496015360'
+p18087
+S'Other Relevant Information'
+p18088
+sS'542004110669529088'
+p18089
+S'Requests for Help/Needs'
+p18090
+sS'541972153579479040'
+p18091
+S'Not Informative'
+p18092
+sS'541642902221225985'
+p18093
+S'Other Relevant Information'
+p18094
+sS'541704651750375424'
+p18095
+S'Not Informative'
+p18096
+sS'541898545339830272'
+p18097
+S'Not Informative'
+p18098
+sS'541966640955789312'
+p18099
+S'Not Informative'
+p18100
+sS'542296568653570048'
+p18101
+S'Other Relevant Information'
+p18102
+sS'541752552371400704'
+p18103
+S'Not Informative'
+p18104
+sS'541563592810958848'
+p18105
+S'Not Informative'
+p18106
+sS'542007078772936704'
+p18107
+S'Not Informative'
+p18108
+sS'541875998753435648'
+p18109
+S'Not Informative'
+p18110
+sS'541422901631537152'
+p18111
+S'Not Informative'
+p18112
+sS'541669476496728064'
+p18113
+S'Other Relevant Information'
+p18114
+sS'541605694118449154'
+p18115
+S'Not Informative'
+p18116
+sS'541950666722529280'
+p18117
+S'Infrastructure Damage'
+p18118
+sS'541651406525317120'
+p18119
+S'Not Informative'
+p18120
+sS'541971094228303874'
+p18121
+S'Humanitarian Aid Provided'
+p18122
+sS'541566724391575552'
+p18123
+S'Other Relevant Information'
+p18124
+sS'541773604652716032'
+p18125
+S'Not Informative'
+p18126
+sS'541993298043207680'
+p18127
+S'Not Informative'
+p18128
+sS'541830611078361088'
+p18129
+S'Not Informative'
+p18130
+sS'541739974270676992'
+p18131
+S'Not Informative'
+p18132
+sS'541648415017275392'
+p18133
+S'Other Relevant Information'
+p18134
+sS'541505481554944001'
+p18135
+S'Not Informative'
+p18136
+sS'541996280768380928'
+p18137
+S'Not Informative'
+p18138
+sS'541148605919141888'
+p18139
+S'Other Relevant Information'
+p18140
+sS'541880781157576704'
+p18141
+S'Not Informative'
+p18142
+sS'541474255200731136'
+p18143
+S'Other Relevant Information'
+p18144
+sS'541662308859015168'
+p18145
+S'Not Informative'
+p18146
+sS'542382125173837825'
+p18147
+S'Other Relevant Information'
+p18148
+sS'541499975835070465'
+p18149
+S'Other Relevant Information'
+p18150
+sS'541897816465891329'
+p18151
+S'Not Informative'
+p18152
+sS'542241243091066880'
+p18153
+S'Not Informative'
+p18154
+sS'541518926446751746'
+p18155
+S'Humanitarian Aid Provided'
+p18156
+sS'541930223131189248'
+p18157
+S'Infrastructure Damage'
+p18158
+sS'541894514248409088'
+p18159
+S'Not Informative'
+p18160
+sS'541629968002719744'
+p18161
+S'Not Informative'
+p18162
+sS'541977658507005952'
+p18163
+S'Not Informative'
+p18164
+sS'541359354784403456'
+p18165
+S'Not Informative'
+p18166
+sS'541924936672362497'
+p18167
+S'Not Informative'
+p18168
+sS'541765585776816128'
+p18169
+S'Not Informative'
+p18170
+sS'541413967600840704'
+p18171
+S'Not Informative'
+p18172
+sS'541935927762124800'
+p18173
+S'Not Informative'
+p18174
+sS'541957261283696640'
+p18175
+S'Not Informative'
+p18176
+sS'541856007421325312'
+p18177
+S'Not Informative'
+p18178
+sS'541484687995072512'
+p18179
+S'Not Informative'
+p18180
+sS'541756308253192193'
+p18181
+S'Not Informative'
+p18182
+sS'541719484902699008'
+p18183
+S'Not Informative'
+p18184
+sS'541653743721132032'
+p18185
+S'Not Informative'
+p18186
+sS'542426179756507137'
+p18187
+S'Other Relevant Information'
+p18188
+sS'541796405791457282'
+p18189
+S'Not Informative'
+p18190
+sS'541851183669710849'
+p18191
+S'Not Informative'
+p18192
+sS'541539710082904064'
+p18193
+S'Not Informative'
+p18194
+sS'541384307978555392'
+p18195
+S'Not Informative'
+p18196
+sS'541601996411658240'
+p18197
+S'Not Informative'
+p18198
+sS'541374110530416641'
+p18199
+S'Humanitarian Aid Provided'
+p18200
+sS'541656234412507137'
+p18201
+S'Not Informative'
+p18202
+sS'541531908359077890'
+p18203
+S'Other Relevant Information'
+p18204
+sS'541885139773444096'
+p18205
+S'Not Informative'
+p18206
+sS'542249639743746048'
+p18207
+S'Other Relevant Information'
+p18208
+sS'542373806686617600'
+p18209
+S'Not Informative'
+p18210
+sS'541492923011846145'
+p18211
+S'Other Relevant Information'
+p18212
+sS'542315955339022336'
+p18213
+S'Not Informative'
+p18214
+sS'541449481753874432'
+p18215
+S'Not Informative'
+p18216
+sS'541536162410946560'
+p18217
+S'Other Relevant Information'
+p18218
+sS'541630098944696323'
+p18219
+S'Other Relevant Information'
+p18220
+sS'541488976805519361'
+p18221
+S'Not Informative'
+p18222
+sS'541805271211716608'
+p18223
+S'Not Informative'
+p18224
+sS'541249661932425216'
+p18225
+S'Other Relevant Information'
+p18226
+sS'541893025555697664'
+p18227
+S'Not Informative'
+p18228
+sS'541978811139518464'
+p18229
+S'Not Informative'
+p18230
+sS'541636096170283008'
+p18231
+S'Not Informative'
+p18232
+sS'541939895346814976'
+p18233
+S'Not Informative'
+p18234
+sS'541558096452386816'
+p18235
+S'Not Informative'
+p18236
+sS'541407865005953025'
+p18237
+S'Not Informative'
+p18238
+sS'541454669953126400'
+p18239
+S'Other Relevant Information'
+p18240
+sS'541423360584851456'
+p18241
+S'Not Informative'
+p18242
+sS'541300738757255168'
+p18243
+S'Other Relevant Information'
+p18244
+sS'541159240933441536'
+p18245
+S'Not Informative'
+p18246
+sS'541744201801932800'
+p18247
+S'Not Informative'
+p18248
+sS'541727389177237505'
+p18249
+S'Not Informative'
+p18250
+sS'542303130806132736'
+p18251
+S'Not Informative'
+p18252
+sS'541466102539112448'
+p18253
+S'Humanitarian Aid Provided'
+p18254
+sS'541360147671425024'
+p18255
+S'Other Relevant Information'
+p18256
+sS'542164308923543553'
+p18257
+S'Not Informative'
+p18258
+sS'541853654840401921'
+p18259
+S'Not Informative'
+p18260
+sS'541633012102750208'
+p18261
+S'Not Informative'
+p18262
+sS'541703457305296897'
+p18263
+S'Not Informative'
+p18264
+sS'541570750377754625'
+p18265
+S'Not Informative'
+p18266
+sS'541726551209816066'
+p18267
+S'Not Informative'
+p18268
+sS'541141988205408256'
+p18269
+S'Other Relevant Information'
+p18270
+sS'541742757661122563'
+p18271
+S'Not Informative'
+p18272
+sS'541485168771338240'
+p18273
+S'Not Informative'
+p18274
+sS'542321805109649410'
+p18275
+S'Infrastructure Damage'
+p18276
+sS'541978158996520961'
+p18277
+S'Not Informative'
+p18278
+sS'541447341606051840'
+p18279
+S'Other Relevant Information'
+p18280
+sS'541395761288577024'
+p18281
+S'Not Informative'
+p18282
+sS'541936232235008000'
+p18283
+S'Not Informative'
+p18284
+sS'541407807044464641'
+p18285
+S'Other Relevant Information'
+p18286
+sS'541876168496926720'
+p18287
+S'Not Informative'
+p18288
+sS'541515612850520064'
+p18289
+S'Humanitarian Aid Provided'
+p18290
+sS'541977142427271169'
+p18291
+S'Not Informative'
+p18292
+sS'541901137926832129'
+p18293
+S'Not Informative'
+p18294
+sS'541599283179302913'
+p18295
+S'Not Informative'
+p18296
+sS'541944170194038784'
+p18297
+S'Not Informative'
+p18298
+sS'541841003733217281'
+p18299
+S'Not Informative'
+p18300
+sS'541255665478426624'
+p18301
+S'Not Informative'
+p18302
+sS'541568354234806275'
+p18303
+S'Not Informative'
+p18304
+sS'541722661965926400'
+p18305
+S'Not Informative'
+p18306
+sS'541159142787125249'
+p18307
+S'Other Relevant Information'
+p18308
+sS'541676861936631808'
+p18309
+S'Not Informative'
+p18310
+sS'542393729630232577'
+p18311
+S'Not Informative'
+p18312
+sS'541394770979860480'
+p18313
+S'Not Informative'
+p18314
+sS'541526544447832064'
+p18315
+S'Other Relevant Information'
+p18316
+sS'541926810988998656'
+p18317
+S'Other Relevant Information'
+p18318
+sS'541988143059439616'
+p18319
+S'Not Informative'
+p18320
+sS'541375728197976064'
+p18321
+S'Not Informative'
+p18322
+sS'541843157361508352'
+p18323
+S'Not Informative'
+p18324
+sS'541890240344907778'
+p18325
+S'Other Relevant Information'
+p18326
+sS'542270680687841281'
+p18327
+S'Not Informative'
+p18328
+sS'541953809438609410'
+p18329
+S'Not Informative'
+p18330
+sS'541755259303915520'
+p18331
+S'Not Informative'
+p18332
+sS'541587234252529667'
+p18333
+S'Not Informative'
+p18334
+sS'541712348386295808'
+p18335
+S'Not Informative'
+p18336
+sS'541869402384527360'
+p18337
+S'Not Informative'
+p18338
+sS'541919003136913408'
+p18339
+S'Not Informative'
+p18340
+sS'541151688862621697'
+p18341
+S'Other Relevant Information'
+p18342
+sS'541156862767276033'
+p18343
+S'Other Relevant Information'
+p18344
+sS'542128036410576896'
+p18345
+S'Not Informative'
+p18346
+sS'541634428112338945'
+p18347
+S'Not Informative'
+p18348
+sS'541517452526370816'
+p18349
+S'Not Informative'
+p18350
+sS'541842825675960320'
+p18351
+S'Not Informative'
+p18352
+sS'542276333678907392'
+p18353
+S'Humanitarian Aid Provided'
+p18354
+sS'541279290118004736'
+p18355
+S'Not Informative'
+p18356
+sS'542015034562338817'
+p18357
+S'Not Informative'
+p18358
+sS'542013670906023936'
+p18359
+S'Not Informative'
+p18360
+sS'541884530835984384'
+p18361
+S'Not Informative'
+p18362
+sS'541802908207951872'
+p18363
+S'Not Informative'
+p18364
+sS'541872018581639168'
+p18365
+S'Not Informative'
+p18366
+sS'541407051994238976'
+p18367
+S'Not Informative'
+p18368
+sS'541214443535753217'
+p18369
+S'Other Relevant Information'
+p18370
+sS'541936642445946882'
+p18371
+S'Not Informative'
+p18372
+sS'541640088266883073'
+p18373
+S'Not Informative'
+p18374
+sS'542438793643425792'
+p18375
+S'Other Relevant Information'
+p18376
+sS'541820722662735872'
+p18377
+S'Not Informative'
+p18378
+sS'541412314164252673'
+p18379
+S'Not Informative'
+p18380
+sS'541921984616361984'
+p18381
+S'Other Relevant Information'
+p18382
+sS'542152578411155458'
+p18383
+S'Not Informative'
+p18384
+sS'541534626431651840'
+p18385
+S'Other Relevant Information'
+p18386
+sS'541820699099553792'
+p18387
+S'Not Informative'
+p18388
+sS'541458318795866113'
+p18389
+S'Not Informative'
+p18390
+sS'541478857170120704'
+p18391
+S'Not Informative'
+p18392
+sS'541550878512001024'
+p18393
+S'Not Informative'
+p18394
+sS'541379347890720769'
+p18395
+S'Not Informative'
+p18396
+sS'541460343587737600'
+p18397
+S'Other Relevant Information'
+p18398
+sS'541946887780048897'
+p18399
+S'Not Informative'
+p18400
+sS'541240389890355201'
+p18401
+S'Other Relevant Information'
+p18402
+sS'541434919344279552'
+p18403
+S'Not Informative'
+p18404
+sS'542151750182903808'
+p18405
+S'Other Relevant Information'
+p18406
+sS'542254170380988416'
+p18407
+S'Other Relevant Information'
+p18408
+sS'541601085123596288'
+p18409
+S'Not Informative'
+p18410
+sS'541145362765848576'
+p18411
+S'Not Informative'
+p18412
+sS'541683889199403008'
+p18413
+S'Other Relevant Information'
+p18414
+sS'541861082424295424'
+p18415
+S'Not Informative'
+p18416
+sS'541737884005310465'
+p18417
+S'Other Relevant Information'
+p18418
+sS'541272252503687168'
+p18419
+S'Not Informative'
+p18420
+sS'541292095844020224'
+p18421
+S'Other Relevant Information'
+p18422
+sS'541797995688120320'
+p18423
+S'Other Relevant Information'
+p18424
+sS'542156860824887296'
+p18425
+S'Not Informative'
+p18426
+sS'541639848969646080'
+p18427
+S'Not Informative'
+p18428
+sS'541443296212447233'
+p18429
+S'Humanitarian Aid Provided'
+p18430
+sS'541864340156985344'
+p18431
+S'Not Informative'
+p18432
+sS'541729531426390020'
+p18433
+S'Not Informative'
+p18434
+sS'541645645472595968'
+p18435
+S'Not Informative'
+p18436
+sS'541550960133165057'
+p18437
+S'Not Informative'
+p18438
+sS'541589330955735040'
+p18439
+S'Not Informative'
+p18440
+sS'541767039853936640'
+p18441
+S'Not Informative'
+p18442
+sS'541718611132297216'
+p18443
+S'Not Informative'
+p18444
+sS'542405534041653248'
+p18445
+S'Other Relevant Information'
+p18446
+sS'541459711711645696'
+p18447
+S'Not Informative'
+p18448
+sS'541412392081440770'
+p18449
+S'Not Informative'
+p18450
+sS'541805274571362304'
+p18451
+S'Not Informative'
+p18452
+sS'541940239951224832'
+p18453
+S'Not Informative'
+p18454
+sS'541574481043808256'
+p18455
+S'Not Informative'
+p18456
+sS'541943837803831297'
+p18457
+S'Other Relevant Information'
+p18458
+sS'542440797182763008'
+p18459
+S'Other Relevant Information'
+p18460
+sS'542199368967659520'
+p18461
+S'Not Informative'
+p18462
+sS'541535643281920000'
+p18463
+S'Other Relevant Information'
+p18464
+sS'541687512109178880'
+p18465
+S'Not Informative'
+p18466
+sS'542182930227818497'
+p18467
+S'Not Informative'
+p18468
+sS'541942484075425792'
+p18469
+S'Not Informative'
+p18470
+sS'541357269594959872'
+p18471
+S'Not Informative'
+p18472
+sS'542182581153038337'
+p18473
+S'Not Informative'
+p18474
+sS'541368371582074880'
+p18475
+S'Not Informative'
+p18476
+sS'541807268832890880'
+p18477
+S'Not Informative'
+p18478
+sS'541788163077701633'
+p18479
+S'Not Informative'
+p18480
+sS'541974817113505792'
+p18481
+S'Not Informative'
+p18482
+sS'542043137808793601'
+p18483
+S'Other Relevant Information'
+p18484
+sS'541525799791116288'
+p18485
+S'Not Informative'
+p18486
+sS'541665719252172800'
+p18487
+S'Not Informative'
+p18488
+sS'541724203318538241'
+p18489
+S'Not Informative'
+p18490
+sS'541754232194342912'
+p18491
+S'Other Relevant Information'
+p18492
+sS'542241598986137600'
+p18493
+S'Other Relevant Information'
+p18494
+sS'541495043312201728'
+p18495
+S'Not Informative'
+p18496
+sS'542428952547950592'
+p18497
+S'Not Informative'
+p18498
+sS'542227182521552896'
+p18499
+S'Other Relevant Information'
+p18500
+sS'541458231957004289'
+p18501
+S'Not Informative'
+p18502
+sS'541746114861346816'
+p18503
+S'Not Informative'
+p18504
+sS'541453644940320769'
+p18505
+S'Not Informative'
+p18506
+sS'541543361044180993'
+p18507
+S'Not Informative'
+p18508
+sS'541492153638084608'
+p18509
+S'Other Relevant Information'
+p18510
+sS'541922401282306048'
+p18511
+S'Not Informative'
+p18512
+sS'541754132151812096'
+p18513
+S'Not Informative'
+p18514
+sS'541622515911520258'
+p18515
+S'Not Informative'
+p18516
+sS'541506146230468608'
+p18517
+S'Not Informative'
+p18518
+sS'541499602017337344'
+p18519
+S'Other Relevant Information'
+p18520
+sS'541741823295643648'
+p18521
+S'Not Informative'
+p18522
+sS'541532013438967808'
+p18523
+S'Other Relevant Information'
+p18524
+sS'541419166050168832'
+p18525
+S'Not Informative'
+p18526
+sS'541942476378873856'
+p18527
+S'Not Informative'
+p18528
+sS'542343924111933441'
+p18529
+S'Not Informative'
+p18530
+sS'541391344623550464'
+p18531
+S'Not Informative'
+p18532
+sS'541960614269046784'
+p18533
+S'Not Informative'
+p18534
+sS'541873907569922048'
+p18535
+S'Not Informative'
+p18536
+sS'541911745640415232'
+p18537
+S'Not Informative'
+p18538
+sS'541521133078458368'
+p18539
+S'Other Relevant Information'
+p18540
+sS'542280531149201408'
+p18541
+S'Other Relevant Information'
+p18542
+sS'541613566319943681'
+p18543
+S'Not Informative'
+p18544
+sS'541944485530591232'
+p18545
+S'Not Informative'
+p18546
+sS'541577425348722688'
+p18547
+S'Other Relevant Information'
+p18548
+sS'541834626478510080'
+p18549
+S'Not Informative'
+p18550
+sS'541725486515515392'
+p18551
+S'Not Informative'
+p18552
+sS'541502654820933632'
+p18553
+S'Not Informative'
+p18554
+sS'541535670444236800'
+p18555
+S'Not Informative'
+p18556
+sS'542248948216643584'
+p18557
+S'Other Relevant Information'
+p18558
+sS'541974651279523840'
+p18559
+S'Not Informative'
+p18560
+sS'541482020455870464'
+p18561
+S'Not Informative'
+p18562
+sS'541100803902414849'
+p18563
+S'Other Relevant Information'
+p18564
+sS'541517948134117376'
+p18565
+S'Other Relevant Information'
+p18566
+sS'541486780533321729'
+p18567
+S'Infrastructure Damage'
+p18568
+sS'541459496623538176'
+p18569
+S'Not Informative'
+p18570
+sS'541439409367703552'
+p18571
+S'Other Relevant Information'
+p18572
+sS'541821032005246978'
+p18573
+S'Not Informative'
+p18574
+sS'542371110814515201'
+p18575
+S'Other Relevant Information'
+p18576
+sS'541275240794685440'
+p18577
+S'Humanitarian Aid Provided'
+p18578
+sS'541642834583891969'
+p18579
+S'Not Informative'
+p18580
+sS'541462027303387136'
+p18581
+S'Not Informative'
+p18582
+sS'541866517600538625'
+p18583
+S'Not Informative'
+p18584
+sS'541919591325110272'
+p18585
+S'Not Informative'
+p18586
+sS'541401108204093442'
+p18587
+S'Other Relevant Information'
+p18588
+sS'541616451161841665'
+p18589
+S'Not Informative'
+p18590
+sS'542033058514608130'
+p18591
+S'Other Relevant Information'
+p18592
+sS'541404772524638208'
+p18593
+S'Not Informative'
+p18594
+sS'542285528398184448'
+p18595
+S'Other Relevant Information'
+p18596
+sS'541270323253891072'
+p18597
+S'Other Relevant Information'
+p18598
+sS'541941101452488705'
+p18599
+S'Not Informative'
+p18600
+sS'542028730924027904'
+p18601
+S'Not Informative'
+p18602
+sS'541301697059254273'
+p18603
+S'Humanitarian Aid Provided'
+p18604
+sS'541835613213691904'
+p18605
+S'Not Informative'
+p18606
+sS'542233817612689408'
+p18607
+S'Not Informative'
+p18608
+sS'541850411372916736'
+p18609
+S'Other Relevant Information'
+p18610
+sS'541656519024988160'
+p18611
+S'Not Informative'
+p18612
+sS'541531936519651328'
+p18613
+S'Not Informative'
+p18614
+sS'541839171443097600'
+p18615
+S'Not Informative'
+p18616
+sS'541609270534352897'
+p18617
+S'Infrastructure Damage'
+p18618
+sS'541959888897708032'
+p18619
+S'Requests for Help/Needs'
+p18620
+sS'541596424216276992'
+p18621
+S'Not Informative'
+p18622
+sS'542321019659100160'
+p18623
+S'Other Relevant Information'
+p18624
+sS'541833465050587136'
+p18625
+S'Not Informative'
+p18626
+sS'541930832902905858'
+p18627
+S'Not Informative'
+p18628
+sS'541596126722265088'
+p18629
+S'Not Informative'
+p18630
+sS'541517865409871872'
+p18631
+S'Other Relevant Information'
+p18632
+sS'541439526510403585'
+p18633
+S'Not Informative'
+p18634
+sS'541985498231623682'
+p18635
+S'Not Informative'
+p18636
+sS'542299184817528833'
+p18637
+S'Other Relevant Information'
+p18638
+sS'541444979827425280'
+p18639
+S'Not Informative'
+p18640
+sS'541146114020634624'
+p18641
+S'Other Relevant Information'
+p18642
+sS'541488940251742209'
+p18643
+S'Not Informative'
+p18644
+sS'541607640598863872'
+p18645
+S'Other Relevant Information'
+p18646
+sS'541745041106956289'
+p18647
+S'Not Informative'
+p18648
+sS'541899464894455809'
+p18649
+S'Not Informative'
+p18650
+sS'542033424060796928'
+p18651
+S'Humanitarian Aid Provided'
+p18652
+sS'542257842506309632'
+p18653
+S'Other Relevant Information'
+p18654
+sS'541491180073385984'
+p18655
+S'Not Informative'
+p18656
+sS'541960981954322432'
+p18657
+S'Not Informative'
+p18658
+sS'541472157784489984'
+p18659
+S'Not Informative'
+p18660
+sS'541672240144596992'
+p18661
+S'Not Informative'
+p18662
+sS'542226213499326464'
+p18663
+S'Not Informative'
+p18664
+sS'541400774320742401'
+p18665
+S'Not Informative'
+p18666
+sS'541712733264412673'
+p18667
+S'Not Informative'
+p18668
+sS'542313500534509568'
+p18669
+S'Other Relevant Information'
+p18670
+sS'541719267587391488'
+p18671
+S'Not Informative'
+p18672
+sS'541511682129141761'
+p18673
+S'Other Relevant Information'
+p18674
+sS'541370432708829184'
+p18675
+S'Other Relevant Information'
+p18676
+sS'541855117385822208'
+p18677
+S'Not Informative'
+p18678
+sS'541822388858404864'
+p18679
+S'Not Informative'
+p18680
+sS'541631802775842817'
+p18681
+S'Not Informative'
+p18682
+sS'541753841956290562'
+p18683
+S'Not Informative'
+p18684
+sS'541965050827636739'
+p18685
+S'Not Informative'
+p18686
+sS'541638907683540992'
+p18687
+S'Not Informative'
+p18688
+sS'541919925879963649'
+p18689
+S'Not Informative'
+p18690
+sS'541440276900761600'
+p18691
+S'Other Relevant Information'
+p18692
+sS'541380244502872064'
+p18693
+S'Not Informative'
+p18694
+sS'541667723067936768'
+p18695
+S'Infrastructure Damage'
+p18696
+sS'541718902317645825'
+p18697
+S'Other Relevant Information'
+p18698
+sS'542403371265576960'
+p18699
+S'Not Informative'
+p18700
+sS'541633544393461760'
+p18701
+S'Not Informative'
+p18702
+sS'541828343008460801'
+p18703
+S'Not Informative'
+p18704
+sS'541943894015889409'
+p18705
+S'Not Informative'
+p18706
+sS'541445868705288192'
+p18707
+S'Not Informative'
+p18708
+sS'541682967266201600'
+p18709
+S'Not Informative'
+p18710
+sS'541978029774229506'
+p18711
+S'Not Informative'
+p18712
+sS'542457130414923776'
+p18713
+S'Infrastructure Damage'
+p18714
+sS'541525860118196224'
+p18715
+S'Not Informative'
+p18716
+sS'541254663115264002'
+p18717
+S'Other Relevant Information'
+p18718
+sS'541846600255938561'
+p18719
+S'Not Informative'
+p18720
+sS'541965937901961216'
+p18721
+S'Not Informative'
+p18722
+sS'542308353016594433'
+p18723
+S'Other Relevant Information'
+p18724
+sS'541744760118317057'
+p18725
+S'Not Informative'
+p18726
+sS'541521270144499713'
+p18727
+S'Other Relevant Information'
+p18728
+sS'541143223263952897'
+p18729
+S'Other Relevant Information'
+p18730
+sS'541971017610981377'
+p18731
+S'Not Informative'
+p18732
+sS'541812227255586816'
+p18733
+S'Other Relevant Information'
+p18734
+sS'541279959218937856'
+p18735
+S'Not Informative'
+p18736
+sS'541936439571660800'
+p18737
+S'Not Informative'
+p18738
+sS'541931412338016256'
+p18739
+S'Not Informative'
+p18740
+sS'541920003021234176'
+p18741
+S'Not Informative'
+p18742
+sS'541536348826767360'
+p18743
+S'Not Informative'
+p18744
+sS'541494957148618752'
+p18745
+S'Other Relevant Information'
+p18746
+sS'541169279417454592'
+p18747
+S'Not Informative'
+p18748
+sS'542204373150236672'
+p18749
+S'Not Informative'
+p18750
+sS'541937746751676417'
+p18751
+S'Not Informative'
+p18752
+sS'541547051578712065'
+p18753
+S'Other Relevant Information'
+p18754
+sS'542287320288727040'
+p18755
+S'Not Informative'
+p18756
+sS'541764874083119104'
+p18757
+S'Not Informative'
+p18758
+sS'541991356462137344'
+p18759
+S'Not Informative'
+p18760
+sS'541550494510878720'
+p18761
+S'Not Informative'
+p18762
+sS'541571859863449600'
+p18763
+S'Not Informative'
+p18764
+sS'541939400251154432'
+p18765
+S'Not Informative'
+p18766
+sS'542024213083598848'
+p18767
+S'Not Informative'
+p18768
+sS'542014626482114560'
+p18769
+S'Not Informative'
+p18770
+sS'542122789981794306'
+p18771
+S'Not Informative'
+p18772
+sS'541536753572913152'
+p18773
+S'Not Informative'
+p18774
+sS'541747357877293056'
+p18775
+S'Not Informative'
+p18776
+sS'541733364659523584'
+p18777
+S'Not Informative'
+p18778
+sS'542408457924513792'
+p18779
+S'Not Informative'
+p18780
+sS'541248909373616128'
+p18781
+S'Other Relevant Information'
+p18782
+sS'541549004283064321'
+p18783
+S'Not Informative'
+p18784
+sS'541775677968482304'
+p18785
+S'Other Relevant Information'
+p18786
+sS'541598147143663616'
+p18787
+S'Not Informative'
+p18788
+sS'541535798953119744'
+p18789
+S'Not Informative'
+p18790
+sS'542030902822305792'
+p18791
+S'Not Informative'
+p18792
+sS'541465819314929665'
+p18793
+S'Not Informative'
+p18794
+sS'541453751005884416'
+p18795
+S'Not Informative'
+p18796
+sS'541455987543379968'
+p18797
+S'Not Informative'
+p18798
+sS'542001791991566338'
+p18799
+S'Other Relevant Information'
+p18800
+sS'541697701566369792'
+p18801
+S'Not Informative'
+p18802
+sS'542284690628308992'
+p18803
+S'Other Relevant Information'
+p18804
+sS'541591988043141122'
+p18805
+S'Not Informative'
+p18806
+sS'542375693758504960'
+p18807
+S'Other Relevant Information'
+p18808
+sS'541924455396954112'
+p18809
+S'Not Informative'
+p18810
+sS'541541677748338689'
+p18811
+S'Not Informative'
+p18812
+sS'542332045918502913'
+p18813
+S'Other Relevant Information'
+p18814
+sS'541767162122104832'
+p18815
+S'Not Informative'
+p18816
+sS'541682090161340417'
+p18817
+S'Not Informative'
+p18818
+sS'541501992846499840'
+p18819
+S'Other Relevant Information'
+p18820
+sS'541533467277008896'
+p18821
+S'Not Informative'
+p18822
+sS'541657631421915136'
+p18823
+S'Not Informative'
+p18824
+sS'542272814888521728'
+p18825
+S'Other Relevant Information'
+p18826
+sS'541429690926239744'
+p18827
+S'Not Informative'
+p18828
+sS'541407777973739520'
+p18829
+S'Not Informative'
+p18830
+sS'541663993228558336'
+p18831
+S'Other Relevant Information'
+p18832
+sS'541979516663390208'
+p18833
+S'Not Informative'
+p18834
+sS'541620393379774464'
+p18835
+S'Not Informative'
+p18836
+sS'541792996547919874'
+p18837
+S'Not Informative'
+p18838
+sS'541348380262535168'
+p18839
+S'Not Informative'
+p18840
+sS'541648379089264640'
+p18841
+S'Other Relevant Information'
+p18842
+sS'541303246602928129'
+p18843
+S'Infrastructure Damage'
+p18844
+sS'541493382657216512'
+p18845
+S'Not Informative'
+p18846
+sS'541660005846380544'
+p18847
+S'Not Informative'
+p18848
+sS'542446235047563264'
+p18849
+S'Other Relevant Information'
+p18850
+sS'541594185535864832'
+p18851
+S'Not Informative'
+p18852
+sS'541450581781389312'
+p18853
+S'Not Informative'
+p18854
+sS'541686000208986112'
+p18855
+S'Other Relevant Information'
+p18856
+sS'542314012151930881'
+p18857
+S'Not Informative'
+p18858
+sS'542275940731338752'
+p18859
+S'Requests for Help/Needs'
+p18860
+sS'542284290382233603'
+p18861
+S'Not Informative'
+p18862
+sS'541721079807361024'
+p18863
+S'Not Informative'
+p18864
+sS'541264852790939648'
+p18865
+S'Other Relevant Information'
+p18866
+sS'541864502958911488'
+p18867
+S'Not Informative'
+p18868
+sS'542283285687046144'
+p18869
+S'Not Informative'
+p18870
+sS'541473136915775488'
+p18871
+S'Other Relevant Information'
+p18872
+sS'541790726829252608'
+p18873
+S'Not Informative'
+p18874
+sS'541451286823333888'
+p18875
+S'Not Informative'
+p18876
+sS'542000777964056577'
+p18877
+S'Not Informative'
+p18878
+sS'541310366920093696'
+p18879
+S'Infrastructure Damage'
+p18880
+sS'541668701012242432'
+p18881
+S'Not Informative'
+p18882
+sS'541569439775211520'
+p18883
+S'Not Informative'
+p18884
+sS'541639859807330305'
+p18885
+S'Other Relevant Information'
+p18886
+sS'541522901627719680'
+p18887
+S'Other Relevant Information'
+p18888
+sS'541140757609197569'
+p18889
+S'Other Relevant Information'
+p18890
+sS'542029022960443393'
+p18891
+S'Not Informative'
+p18892
+sS'541525891633795073'
+p18893
+S'Other Relevant Information'
+p18894
+sS'541776062066069504'
+p18895
+S'Not Informative'
+p18896
+sS'541951058465918976'
+p18897
+S'Infrastructure Damage'
+p18898
+sS'541475382034444289'
+p18899
+S'Not Informative'
+p18900
+sS'541446636980158464'
+p18901
+S'Not Informative'
+p18902
+sS'541979275927093248'
+p18903
+S'Not Informative'
+p18904
+sS'541514034999095297'
+p18905
+S'Not Informative'
+p18906
+sS'541383893933629440'
+p18907
+S'Not Informative'
+p18908
+sS'541937360540565505'
+p18909
+S'Infrastructure Damage'
+p18910
+sS'541792477641203712'
+p18911
+S'Not Informative'
+p18912
+sS'541707147273601025'
+p18913
+S'Not Informative'
+p18914
+sS'541239427960676352'
+p18915
+S'Other Relevant Information'
+p18916
+sS'541594953948745728'
+p18917
+S'Infrastructure Damage'
+p18918
+sS'541466014685229056'
+p18919
+S'Not Informative'
+p18920
+sS'542296105892184064'
+p18921
+S'Other Relevant Information'
+p18922
+sS'541670181966069761'
+p18923
+S'Not Informative'
+p18924
+sS'541611929861906433'
+p18925
+S'Not Informative'
+p18926
+sS'542286311801880582'
+p18927
+S'Requests for Help/Needs'
+p18928
+sS'541854185751203840'
+p18929
+S'Not Informative'
+p18930
+sS'541454838047846401'
+p18931
+S'Not Informative'
+p18932
+sS'541744218591723520'
+p18933
+S'Not Informative'
+p18934
+sS'541626174871318531'
+p18935
+S'Not Informative'
+p18936
+sS'541663871312748544'
+p18937
+S'Not Informative'
+p18938
+sS'541348117174833152'
+p18939
+S'Not Informative'
+p18940
+sS'541673411345678337'
+p18941
+S'Other Relevant Information'
+p18942
+sS'541531265606746112'
+p18943
+S'Other Relevant Information'
+p18944
+sS'541367822857666560'
+p18945
+S'Other Relevant Information'
+p18946
+sS'541767346403028993'
+p18947
+S'Not Informative'
+p18948
+sS'542171027925524480'
+p18949
+S'Not Informative'
+p18950
+sS'541527857143377920'
+p18951
+S'Not Informative'
+p18952
+sS'541482552238698496'
+p18953
+S'Not Informative'
+p18954
+sS'541868885838802946'
+p18955
+S'Other Relevant Information'
+p18956
+sS'541882127487209472'
+p18957
+S'Not Informative'
+p18958
+sS'541449802056077312'
+p18959
+S'Not Informative'
+p18960
+sS'542191126187233280'
+p18961
+S'Not Informative'
+p18962
+sS'541786039589691392'
+p18963
+S'Not Informative'
+p18964
+sS'541601130736668674'
+p18965
+S'Humanitarian Aid Provided'
+p18966
+sS'541746938287120384'
+p18967
+S'Not Informative'
+p18968
+sS'541288532577640448'
+p18969
+S'Humanitarian Aid Provided'
+p18970
+sS'541988829033680896'
+p18971
+S'Not Informative'
+p18972
+sS'542308863664345089'
+p18973
+S'Not Informative'
+p18974
+sS'541284083486044161'
+p18975
+S'Humanitarian Aid Provided'
+p18976
+sS'541815063053467649'
+p18977
+S'Not Informative'
+p18978
+sS'541646267802071040'
+p18979
+S'Not Informative'
+p18980
+sS'541851173083291648'
+p18981
+S'Not Informative'
+p18982
+sS'541698777036251136'
+p18983
+S'Not Informative'
+p18984
+sS'542239080956702722'
+p18985
+S'Infrastructure Damage'
+p18986
+sS'541996817270181888'
+p18987
+S'Not Informative'
+p18988
+sS'541195392092614656'
+p18989
+S'Other Relevant Information'
+p18990
+sS'541426355133349888'
+p18991
+S'Other Relevant Information'
+p18992
+sS'542320965452333056'
+p18993
+S'Not Informative'
+p18994
+sS'541474295864893441'
+p18995
+S'Not Informative'
+p18996
+sS'541802697247055874'
+p18997
+S'Not Informative'
+p18998
+sS'542123721935163393'
+p18999
+S'Not Informative'
+p19000
+sS'542272813420511232'
+p19001
+S'Infrastructure Damage'
+p19002
+sS'541727509553741824'
+p19003
+S'Not Informative'
+p19004
+sS'541516635488915456'
+p19005
+S'Infrastructure Damage'
+p19006
+sS'542215467486572544'
+p19007
+S'Not Informative'
+p19008
+sS'541781241918267393'
+p19009
+S'Not Informative'
+p19010
+sS'541861107753697280'
+p19011
+S'Not Informative'
+p19012
+sS'541981075572944896'
+p19013
+S'Not Informative'
+p19014
+sS'541482254736691200'
+p19015
+S'Other Relevant Information'
+p19016
+sS'541937834903339010'
+p19017
+S'Other Relevant Information'
+p19018
+sS'541464632271978496'
+p19019
+S'Infrastructure Damage'
+p19020
+sS'541821664594374656'
+p19021
+S'Not Informative'
+p19022
+sS'541630667545513984'
+p19023
+S'Not Informative'
+p19024
+sS'541275730051883008'
+p19025
+S'Not Informative'
+p19026
+sS'541712659201019904'
+p19027
+S'Other Relevant Information'
+p19028
+sS'541518388179107840'
+p19029
+S'Not Informative'
+p19030
+sS'541144672371228672'
+p19031
+S'Other Relevant Information'
+p19032
+sS'541523696209649664'
+p19033
+S'Other Relevant Information'
+p19034
+sS'542243944764305408'
+p19035
+S'Other Relevant Information'
+p19036
+sS'541600962842869761'
+p19037
+S'Not Informative'
+p19038
+sS'541949663922757632'
+p19039
+S'Other Relevant Information'
+p19040
+sS'541904784643485696'
+p19041
+S'Not Informative'
+p19042
+sS'542443204931354625'
+p19043
+S'Other Relevant Information'
+p19044
+sS'541516038144524288'
+p19045
+S'Infrastructure Damage'
+p19046
+sS'541539993164853248'
+p19047
+S'Not Informative'
+p19048
+sS'541271678278316032'
+p19049
+S'Other Relevant Information'
+p19050
+sS'542290054811754496'
+p19051
+S'Other Relevant Information'
+p19052
+sS'541960084784693248'
+p19053
+S'Not Informative'
+p19054
+sS'542248085963804673'
+p19055
+S'Other Relevant Information'
+p19056
+sS'541840293188751360'
+p19057
+S'Not Informative'
+p19058
+sS'541995936617345024'
+p19059
+S'Not Informative'
+p19060
+sS'541963362998169600'
+p19061
+S'Other Relevant Information'
+p19062
+sS'541213859940290560'
+p19063
+S'Humanitarian Aid Provided'
+p19064
+sS'541493063009329152'
+p19065
+S'Other Relevant Information'
+p19066
+sS'541509320362721281'
+p19067
+S'Other Relevant Information'
+p19068
+sS'541589894767083520'
+p19069
+S'Not Informative'
+p19070
+sS'542008463472463872'
+p19071
+S'Not Informative'
+p19072
+sS'541367563427774464'
+p19073
+S'Other Relevant Information'
+p19074
+sS'541689536141467648'
+p19075
+S'Not Informative'
+p19076
+sS'542036515422240768'
+p19077
+S'Not Informative'
+p19078
+sS'542012835526868994'
+p19079
+S'Not Informative'
+p19080
+sS'541586161052188672'
+p19081
+S'Not Informative'
+p19082
+sS'541271668165861376'
+p19083
+S'Not Informative'
+p19084
+sS'541421849624580097'
+p19085
+S'Not Informative'
+p19086
+sS'541501744300044289'
+p19087
+S'Not Informative'
+p19088
+sS'541245188707201024'
+p19089
+S'Not Informative'
+p19090
+sS'541289334742458370'
+p19091
+S'Other Relevant Information'
+p19092
+sS'541732691662495747'
+p19093
+S'Not Informative'
+p19094
+sS'541449488154382336'
+p19095
+S'Not Informative'
+p19096
+sS'541980083192619009'
+p19097
+S'Other Relevant Information'
+p19098
+sS'541948798256152576'
+p19099
+S'Not Informative'
+p19100
+sS'541987086866210816'
+p19101
+S'Not Informative'
+p19102
+sS'541424883385643009'
+p19103
+S'Not Informative'
+p19104
+sS'541641653589528577'
+p19105
+S'Not Informative'
+p19106
+sS'541940019389558784'
+p19107
+S'Not Informative'
+p19108
+sS'541403181679665152'
+p19109
+S'Not Informative'
+p19110
+sS'541971904127455233'
+p19111
+S'Not Informative'
+p19112
+sS'541643077736099841'
+p19113
+S'Not Informative'
+p19114
+sS'541499194960138240'
+p19115
+S'Not Informative'
+p19116
+sS'541891482974576641'
+p19117
+S'Not Informative'
+p19118
+sS'541938002943934465'
+p19119
+S'Other Relevant Information'
+p19120
+sS'541268559629152256'
+p19121
+S'Not Informative'
+p19122
+sS'541951000307707905'
+p19123
+S'Not Informative'
+p19124
+sS'541695588635398144'
+p19125
+S'Not Informative'
+p19126
+sS'541478493196791808'
+p19127
+S'Not Informative'
+p19128
+sS'542196573573111808'
+p19129
+S'Other Relevant Information'
+p19130
+sS'541139495442075648'
+p19131
+S'Other Relevant Information'
+p19132
+sS'541249463734370304'
+p19133
+S'Not Informative'
+p19134
+sS'541592920252354560'
+p19135
+S'Not Informative'
+p19136
+sS'541586654319116288'
+p19137
+S'Not Informative'
+p19138
+sS'541145275474014208'
+p19139
+S'Not Informative'
+p19140
+sS'541770712638578688'
+p19141
+S'Not Informative'
+p19142
+sS'542260726316810240'
+p19143
+S'Other Relevant Information'
+p19144
+sS'541724001123311616'
+p19145
+S'Not Informative'
+p19146
+sS'541467953930444800'
+p19147
+S'Other Relevant Information'
+p19148
+sS'541151847755423744'
+p19149
+S'Not Informative'
+p19150
+sS'541532604764155905'
+p19151
+S'Not Informative'
+p19152
+sS'542145686725488640'
+p19153
+S'Not Informative'
+p19154
+sS'542205699426910208'
+p19155
+S'Not Informative'
+p19156
+sS'541286784835919872'
+p19157
+S'Other Relevant Information'
+p19158
+sS'541256645943123969'
+p19159
+S'Infrastructure Damage'
+p19160
+sS'541890235534036993'
+p19161
+S'Not Informative'
+p19162
+sS'541632515996270593'
+p19163
+S'Not Informative'
+p19164
+sS'541965020288909315'
+p19165
+S'Other Relevant Information'
+p19166
+sS'542238280041783296'
+p19167
+S'Other Relevant Information'
+p19168
+sS'541760065988861952'
+p19169
+S'Not Informative'
+p19170
+sS'541453162839023616'
+p19171
+S'Not Informative'
+p19172
+sS'541845923748257794'
+p19173
+S'Not Informative'
+p19174
+sS'541712737491877888'
+p19175
+S'Not Informative'
+p19176
+sS'541714330568650752'
+p19177
+S'Not Informative'
+p19178
+sS'541674071420051456'
+p19179
+S'Not Informative'
+p19180
+sS'541816802980790272'
+p19181
+S'Not Informative'
+p19182
+sS'542431131329507328'
+p19183
+S'Other Relevant Information'
+p19184
+sS'541386517239709697'
+p19185
+S'Infrastructure Damage'
+p19186
+sS'541512775504515072'
+p19187
+S'Not Informative'
+p19188
+sS'541724533577613312'
+p19189
+S'Not Informative'
+p19190
+sS'541888337775435778'
+p19191
+S'Not Informative'
+p19192
+sS'541817714545664001'
+p19193
+S'Not Informative'
+p19194
+sS'541390264263507969'
+p19195
+S'Not Informative'
+p19196
+sS'542369118167367680'
+p19197
+S'Other Relevant Information'
+p19198
+sS'541977892649840640'
+p19199
+S'Not Informative'
+p19200
+sS'541259249678950400'
+p19201
+S'Not Informative'
+p19202
+sS'541651155802001409'
+p19203
+S'Not Informative'
+p19204
+sS'541896056296833024'
+p19205
+S'Not Informative'
+p19206
+sS'541345225407348737'
+p19207
+S'Not Informative'
+p19208
+sS'541850673109688320'
+p19209
+S'Not Informative'
+p19210
+sS'541254733986426880'
+p19211
+S'Humanitarian Aid Provided'
+p19212
+sS'541987838641074176'
+p19213
+S'Not Informative'
+p19214
+sS'542115873226387456'
+p19215
+S'Not Informative'
+p19216
+sS'541412131728805888'
+p19217
+S'Not Informative'
+p19218
+sS'541937890696388609'
+p19219
+S'Other Relevant Information'
+p19220
+sS'541639784196624384'
+p19221
+S'Not Informative'
+p19222
+sS'541204166962868224'
+p19223
+S'Other Relevant Information'
+p19224
+sS'541149497477185537'
+p19225
+S'Not Informative'
+p19226
+sS'542288085032001536'
+p19227
+S'Other Relevant Information'
+p19228
+sS'541536934003101696'
+p19229
+S'Not Informative'
+p19230
+sS'541969292783546368'
+p19231
+S'Not Informative'
+p19232
+sS'542202628185141248'
+p19233
+S'Not Informative'
+p19234
+sS'541314215789617152'
+p19235
+S'Other Relevant Information'
+p19236
+sS'541343063054888960'
+p19237
+S'Not Informative'
+p19238
+sS'541766562466643968'
+p19239
+S'Not Informative'
+p19240
+sS'541718210345582592'
+p19241
+S'Not Informative'
+p19242
+sS'541728692519452672'
+p19243
+S'Not Informative'
+p19244
+sS'541797620432125952'
+p19245
+S'Other Relevant Information'
+p19246
+sS'541528578047758336'
+p19247
+S'Not Informative'
+p19248
+sS'541942775697391616'
+p19249
+S'Not Informative'
+p19250
+sS'541844734134587392'
+p19251
+S'Not Informative'
+p19252
+sS'541766498348322816'
+p19253
+S'Not Informative'
+p19254
+sS'541559997058920448'
+p19255
+S'Not Informative'
+p19256
+sS'542312727025168384'
+p19257
+S'Other Relevant Information'
+p19258
+sS'541760971283234816'
+p19259
+S'Not Informative'
+p19260
+sS'541527893377945602'
+p19261
+S'Other Relevant Information'
+p19262
+sS'541770904691175424'
+p19263
+S'Not Informative'
+p19264
+sS'541823505335975936'
+p19265
+S'Not Informative'
+p19266
+sS'541988513257115648'
+p19267
+S'Not Informative'
+p19268
+sS'541864432775618560'
+p19269
+S'Not Informative'
+p19270
+sS'541854553285468160'
+p19271
+S'Not Informative'
+p19272
+sS'541812101195390977'
+p19273
+S'Not Informative'
+p19274
+sS'541503941377146880'
+p19275
+S'Not Informative'
+p19276
+sS'541917563140067329'
+p19277
+S'Not Informative'
+p19278
+sS'542335989142671362'
+p19279
+S'Other Relevant Information'
+p19280
+sS'541893073135874049'
+p19281
+S'Other Relevant Information'
+p19282
+sS'542380446357544960'
+p19283
+S'Humanitarian Aid Provided'
+p19284
+sS'541635356542898177'
+p19285
+S'Not Informative'
+p19286
+sS'541942863429648384'
+p19287
+S'Not Informative'
+p19288
+sS'541396029908598784'
+p19289
+S'Not Informative'
+p19290
+sS'541973962561843202'
+p19291
+S'Not Informative'
+p19292
+sS'541950001140625409'
+p19293
+S'Other Relevant Information'
+p19294
+sS'541488561321545728'
+p19295
+S'Not Informative'
+p19296
+sS'542005193957580800'
+p19297
+S'Not Informative'
+p19298
+sS'541855738444800000'
+p19299
+S'Not Informative'
+p19300
+sS'541383786483965954'
+p19301
+S'Not Informative'
+p19302
+sS'541397376095621121'
+p19303
+S'Not Informative'
+p19304
+sS'542176688872767488'
+p19305
+S'Not Informative'
+p19306
+sS'541629836473954305'
+p19307
+S'Not Informative'
+p19308
+sS'542341555735236608'
+p19309
+S'Not Informative'
+p19310
+sS'541565416531689472'
+p19311
+S'Not Informative'
+p19312
+sS'541305408879861763'
+p19313
+S'Other Relevant Information'
+p19314
+sS'541457186207965185'
+p19315
+S'Not Informative'
+p19316
+sS'541577193202020352'
+p19317
+S'Not Informative'
+p19318
+sS'542170569580376065'
+p19319
+S'Other Relevant Information'
+p19320
+sS'541643065102856193'
+p19321
+S'Not Informative'
+p19322
+sS'541351889787707392'
+p19323
+S'Not Informative'
+p19324
+sS'541140145567977472'
+p19325
+S'Other Relevant Information'
+p19326
+sS'541499568064843776'
+p19327
+S'Other Relevant Information'
+p19328
+sS'541489081914384384'
+p19329
+S'Not Informative'
+p19330
+s.
