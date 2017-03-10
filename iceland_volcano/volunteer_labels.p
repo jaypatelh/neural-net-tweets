@@ -1,0 +1,1666 @@
+(dp0
+S'504258426558771201'
+p1
+S'Not informative'
+p2
+sS'503972349268725760'
+p3
+S'Not informative'
+p4
+sS'504182269415010304'
+p5
+S'Informative'
+p6
+sS'504176827238465536'
+p7
+S'Not informative'
+p8
+sS'503964649130569728'
+p9
+S'Not related to crisis'
+p10
+sS'503968837369217024'
+p11
+S'Not related to crisis'
+p12
+sS'504273998989889537'
+p13
+S'Informative'
+p14
+sS'504238803251630080'
+p15
+S'Informative'
+p16
+sS'503960017347686400'
+p17
+S'Not informative'
+p18
+sS'503963528517402625'
+p19
+S'Not related to crisis'
+p20
+sS'503976994447818753'
+p21
+S'Not related to crisis'
+p22
+sS'503960251364687873'
+p23
+S'Not related to crisis'
+p24
+sS'503958781831942144'
+p25
+S'Not related to crisis'
+p26
+sS'503958780090920960'
+p27
+S'Not related to crisis'
+p28
+sS'504225889786531840'
+p29
+S'Informative'
+p30
+sS'503958497244229632'
+p31
+S'Informative'
+p32
+sS'503971544788664320'
+p33
+S'Not related to crisis'
+p34
+sS'503961275836403712'
+p35
+S'Not related to crisis'
+p36
+sS'503959201912471552'
+p37
+S'Not informative'
+p38
+sS'503966359517405186'
+p39
+S'Not related to crisis'
+p40
+sS'503957531644149760'
+p41
+S'Informative'
+p42
+sS'503959548462632961'
+p43
+S'Not related to crisis'
+p44
+sS'503962279738494976'
+p45
+S'Not related to crisis'
+p46
+sS'503970485634220032'
+p47
+S'Not informative'
+p48
+sS'503962556365406208'
+p49
+S'Not related to crisis'
+p50
+sS'503970299243954176'
+p51
+S'Not related to crisis'
+p52
+sS'503978932539236352'
+p53
+S'Not related to crisis'
+p54
+sS'504238294327361536'
+p55
+S'Informative'
+p56
+sS'503957909374783489'
+p57
+S'Not related to crisis'
+p58
+sS'504173749969911808'
+p59
+S'Not related to crisis'
+p60
+sS'503960326095007745'
+p61
+S'Not related to crisis'
+p62
+sS'503958440763744256'
+p63
+S'Not related to crisis'
+p64
+sS'503966096899457024'
+p65
+S'Not related to crisis'
+p66
+sS'503960265302343680'
+p67
+S'Not related to crisis'
+p68
+sS'503976729090609152'
+p69
+S'Informative'
+p70
+sS'503976852827148288'
+p71
+S'Not related to crisis'
+p72
+sS'503979135803621376'
+p73
+S'Not related to crisis'
+p74
+sS'503962617736867840'
+p75
+S'Not related to crisis'
+p76
+sS'503971148049440768'
+p77
+S'Not related to crisis'
+p78
+sS'504204063291232257'
+p79
+S'Informative'
+p80
+sS'503978970980048898'
+p81
+S'Not related to crisis'
+p82
+sS'503970622100107265'
+p83
+S'Not related to crisis'
+p84
+sS'504268525125795841'
+p85
+S'Informative'
+p86
+sS'503963799050006528'
+p87
+S'Not related to crisis'
+p88
+sS'503959327028174848'
+p89
+S'Not related to crisis'
+p90
+sS'503963038836224000'
+p91
+S'Not related to crisis'
+p92
+sS'503962866123558912'
+p93
+S'Not related to crisis'
+p94
+sS'503957415352860672'
+p95
+S'Not related to crisis'
+p96
+sS'504225620768079872'
+p97
+S'Not related to crisis'
+p98
+sS'503958704086323201'
+p99
+S'Informative'
+p100
+sS'503964024149512192'
+p101
+S'Not related to crisis'
+p102
+sS'504270071121068032'
+p103
+S'Informative'
+p104
+sS'503965264762138624'
+p105
+S'Informative'
+p106
+sS'503967468537516032'
+p107
+S'Not informative'
+p108
+sS'503972586074955776'
+p109
+S'Not related to crisis'
+p110
+sS'503972971011375104'
+p111
+S'Not related to crisis'
+p112
+sS'503978270182764544'
+p113
+S'Not related to crisis'
+p114
+sS'503963689301864448'
+p115
+S'Not related to crisis'
+p116
+sS'503976858418167808'
+p117
+S'Not related to crisis'
+p118
+sS'503964740952276992'
+p119
+S'Not related to crisis'
+p120
+sS'504261282418020352'
+p121
+S'Informative'
+p122
+sS'503977732191952897'
+p123
+S'Informative'
+p124
+sS'503967640172625920'
+p125
+S'Not related to crisis'
+p126
+sS'503965415605673986'
+p127
+S'Informative'
+p128
+sS'503975795761479681'
+p129
+S'Not informative'
+p130
+sS'503979679565357056'
+p131
+S'Not related to crisis'
+p132
+sS'503973249420906496'
+p133
+S'Not related to crisis'
+p134
+sS'503964701097615361'
+p135
+S'Informative'
+p136
+sS'503957539864969216'
+p137
+S'Not related to crisis'
+p138
+sS'503978561817305088'
+p139
+S'Not related to crisis'
+p140
+sS'503965317471936513'
+p141
+S'Not informative'
+p142
+sS'504167252782874624'
+p143
+S'Not related to crisis'
+p144
+sS'504264023647739904'
+p145
+S'Informative'
+p146
+sS'503976139900346368'
+p147
+S'Not related to crisis'
+p148
+sS'503963253903343616'
+p149
+S'Not related to crisis'
+p150
+sS'504276564306313216'
+p151
+S'Informative'
+p152
+sS'503974495829258242'
+p153
+S'Not related to crisis'
+p154
+sS'503970573035134976'
+p155
+S'Informative'
+p156
+sS'503969703120109568'
+p157
+S'Not related to crisis'
+p158
+sS'503967665804050432'
+p159
+S'Informative'
+p160
+sS'503972775933915136'
+p161
+S'Not related to crisis'
+p162
+sS'504190639312240640'
+p163
+S'Informative'
+p164
+sS'503969860208951296'
+p165
+S'Not related to crisis'
+p166
+sS'503963437610065920'
+p167
+S'Informative'
+p168
+sS'503960895567847424'
+p169
+S'Not informative'
+p170
+sS'503970116271226880'
+p171
+S'Informative'
+p172
+sS'503971242928787457'
+p173
+S'Not related to crisis'
+p174
+sS'504227219162402816'
+p175
+S'Not related to crisis'
+p176
+sS'503962280304705537'
+p177
+S'Not related to crisis'
+p178
+sS'504172673216569344'
+p179
+S'Not related to crisis'
+p180
+sS'503969169327800320'
+p181
+S'Informative'
+p182
+sS'503960860809629697'
+p183
+S'Not related to crisis'
+p184
+sS'503969540263256064'
+p185
+S'Informative'
+p186
+sS'503972686620393472'
+p187
+S'Not related to crisis'
+p188
+sS'503967224731017216'
+p189
+S'Not related to crisis'
+p190
+sS'503976479429238784'
+p191
+S'Informative'
+p192
+sS'503960256356315137'
+p193
+S'Not related to crisis'
+p194
+sS'504226061136449536'
+p195
+S'Informative'
+p196
+sS'503977818897002496'
+p197
+S'Informative'
+p198
+sS'503965590856282113'
+p199
+S'Not related to crisis'
+p200
+sS'503964215930277888'
+p201
+S'Informative'
+p202
+sS'503972642744188929'
+p203
+S'Not related to crisis'
+p204
+sS'503958807027122176'
+p205
+S'Not related to crisis'
+p206
+sS'503979114358112256'
+p207
+S'Not related to crisis'
+p208
+sS'504208938397872128'
+p209
+S'Informative'
+p210
+sS'503966136396812288'
+p211
+S'Not related to crisis'
+p212
+sS'503959152205365248'
+p213
+S'Not related to crisis'
+p214
+sS'503967006576480256'
+p215
+S'Not related to crisis'
+p216
+sS'504246009006804992'
+p217
+S'Informative'
+p218
+sS'503959933692690432'
+p219
+S'Not related to crisis'
+p220
+sS'504161981927264256'
+p221
+S'Not related to crisis'
+p222
+sS'504261993235480577'
+p223
+S'Informative'
+p224
+sS'503960564759269376'
+p225
+S'Informative'
+p226
+sS'503964312948731904'
+p227
+S'Not related to crisis'
+p228
+sS'504246296929386496'
+p229
+S'Not related to crisis'
+p230
+sS'504246497182220288'
+p231
+S'Informative'
+p232
+sS'503962964760621058'
+p233
+S'Not related to crisis'
+p234
+sS'503962195882156032'
+p235
+S'Not related to crisis'
+p236
+sS'503959204005044224'
+p237
+S'Informative'
+p238
+sS'503956296287412225'
+p239
+S'Not related to crisis'
+p240
+sS'503979603535609857'
+p241
+S'Informative'
+p242
+sS'504248104158511104'
+p243
+S'Informative'
+p244
+sS'503972695625961473'
+p245
+S'Not related to crisis'
+p246
+sS'504210416344780801'
+p247
+S'Informative'
+p248
+sS'503975388226551808'
+p249
+S'Informative'
+p250
+sS'504186032217419777'
+p251
+S'Not informative'
+p252
+sS'504178112486051840'
+p253
+S'Informative'
+p254
+sS'503978443415879682'
+p255
+S'Informative'
+p256
+sS'503973727986786304'
+p257
+S'Non-government'
+p258
+sS'503966600341360640'
+p259
+S'Informative'
+p260
+sS'503973837701414912'
+p261
+S'Not related to crisis'
+p262
+sS'503967528658280448'
+p263
+S'Not related to crisis'
+p264
+sS'503956618854531072'
+p265
+S'Informative'
+p266
+sS'504229729415995392'
+p267
+S'Informative'
+p268
+sS'503977056028594176'
+p269
+S'Not related to crisis'
+p270
+sS'503956115315363840'
+p271
+S'Informative'
+p272
+sS'503974918350856192'
+p273
+S'Not related to crisis'
+p274
+sS'503963474960330752'
+p275
+S'Not related to crisis'
+p276
+sS'503960265751531520'
+p277
+S'Not related to crisis'
+p278
+sS'504172753923366912'
+p279
+S'Not related to crisis'
+p280
+sS'503959180533694464'
+p281
+S'Not related to crisis'
+p282
+sS'504180022350204928'
+p283
+S'Not informative'
+p284
+sS'503967750206029824'
+p285
+S'Informative'
+p286
+sS'503968731429888000'
+p287
+S'Not related to crisis'
+p288
+sS'503966897218801664'
+p289
+S'Not related to crisis'
+p290
+sS'503963832512151553'
+p291
+S'Informative'
+p292
+sS'503957172665872384'
+p293
+S'Not related to crisis'
+p294
+sS'503956019194908674'
+p295
+S'Not related to crisis'
+p296
+sS'504277443461394432'
+p297
+S'Informative'
+p298
+sS'504254190391410688'
+p299
+S'Informative'
+p300
+sS'503965709098307586'
+p301
+S'Not related to crisis'
+p302
+sS'503958136881823744'
+p303
+S'Informative'
+p304
+sS'504271216639610880'
+p305
+S'Not informative'
+p306
+sS'503964539034292224'
+p307
+S'Not related to crisis'
+p308
+sS'504207274139987969'
+p309
+S'Informative'
+p310
+sS'503956870131113984'
+p311
+S'Not informative'
+p312
+sS'503956061809020928'
+p313
+S'Not related to crisis'
+p314
+sS'503957971614072832'
+p315
+S'Informative'
+p316
+sS'503971228932390913'
+p317
+S'Not related to crisis'
+p318
+sS'503958556908224512'
+p319
+S'Not related to crisis'
+p320
+sS'503974992430632961'
+p321
+S'Not related to crisis'
+p322
+sS'504232551334961152'
+p323
+S'Informative'
+p324
+sS'503975987114426368'
+p325
+S'Not related to crisis'
+p326
+sS'504267587392667649'
+p327
+S'Informative'
+p328
+sS'503979404289007616'
+p329
+S'Not related to crisis'
+p330
+sS'504238698767351808'
+p331
+S'Informative'
+p332
+sS'503966188989603840'
+p333
+S'Informative'
+p334
+sS'503960665166708736'
+p335
+S'Informative'
+p336
+sS'503966630553350144'
+p337
+S'Informative'
+p338
+sS'503959687050444800'
+p339
+S'Not related to crisis'
+p340
+sS'504194322611576832'
+p341
+S'Informative'
+p342
+sS'503965050462150656'
+p343
+S'Not related to crisis'
+p344
+sS'503970103961354242'
+p345
+S'Informative'
+p346
+sS'503975419788279808'
+p347
+S'Not related to crisis'
+p348
+sS'503958875523928064'
+p349
+S'Not related to crisis'
+p350
+sS'503963883267424256'
+p351
+S'Not related to crisis'
+p352
+sS'504200091721531392'
+p353
+S'Informative'
+p354
+sS'504211730927341569'
+p355
+S'Informative'
+p356
+sS'503978671288635392'
+p357
+S'Not related to crisis'
+p358
+sS'504261136179400705'
+p359
+S'Informative'
+p360
+sS'504165383033851904'
+p361
+S'Not related to crisis'
+p362
+sS'503964579932934146'
+p363
+S'Not related to crisis'
+p364
+sS'503963933267750912'
+p365
+S'Not related to crisis'
+p366
+sS'503957620756344832'
+p367
+S'Not related to crisis'
+p368
+sS'503958853399355392'
+p369
+S'Informative'
+p370
+sS'503960300702662656'
+p371
+S'Not related to crisis'
+p372
+sS'503969468477763584'
+p373
+S'Not related to crisis'
+p374
+sS'504276898562600960'
+p375
+S'Informative'
+p376
+sS'503968097020411904'
+p377
+S'Not related to crisis'
+p378
+sS'504264725874499584'
+p379
+S'Informative'
+p380
+sS'503965048109150208'
+p381
+S'Informative'
+p382
+sS'504254821956743168'
+p383
+S'Informative'
+p384
+sS'503965702152527872'
+p385
+S'Not related to crisis'
+p386
+sS'503965377752465409'
+p387
+S'Not related to crisis'
+p388
+sS'504238060351913986'
+p389
+S'Informative'
+p390
+sS'503971540543619072'
+p391
+S'Informative'
+p392
+sS'503977236655910913'
+p393
+S'Not related to crisis'
+p394
+sS'504262468181303296'
+p395
+S'Informative'
+p396
+sS'504225445164752896'
+p397
+S'Informative'
+p398
+sS'503970626470936577'
+p399
+S'Not related to crisis'
+p400
+sS'503975903169626112'
+p401
+S'Not related to crisis'
+p402
+sS'503965544216014848'
+p403
+S'Informative'
+p404
+sS'503967587823538176'
+p405
+S'Informative'
+p406
+sS'503960186126876672'
+p407
+S'Not related to crisis'
+p408
+sS'503964732118667264'
+p409
+S'Not related to crisis'
+p410
+sS'503958522556469248'
+p411
+S'Informative'
+p412
+sS'503972009085132800'
+p413
+S'Not related to crisis'
+p414
+sS'503971472369778688'
+p415
+S'Not related to crisis'
+p416
+sS'503964504406106112'
+p417
+S'Informative'
+p418
+sS'503966342190350336'
+p419
+S'Informative'
+p420
+sS'503977316033126401'
+p421
+S'Not related to crisis'
+p422
+sS'504221766047121408'
+p423
+S'Informative'
+p424
+sS'503957263388643328'
+p425
+S'Not related to crisis'
+p426
+sS'503973855569125377'
+p427
+S'Informative'
+p428
+sS'503977933665763329'
+p429
+S'Not related to crisis'
+p430
+sS'503962719067066368'
+p431
+S'Informative'
+p432
+sS'504269865897963520'
+p433
+S'Not informative'
+p434
+sS'503959808425197568'
+p435
+S'Informative'
+p436
+sS'503971914562699264'
+p437
+S'Not related to crisis'
+p438
+sS'504160664446074880'
+p439
+S'Informative'
+p440
+sS'504232479109443584'
+p441
+S'Informative'
+p442
+sS'503970226875031552'
+p443
+S'Not related to crisis'
+p444
+sS'503975041021661184'
+p445
+S'Not related to crisis'
+p446
+sS'504263942579822594'
+p447
+S'Informative'
+p448
+sS'504256531198930944'
+p449
+S'Informative'
+p450
+sS'504226366733049856'
+p451
+S'Not related to crisis'
+p452
+sS'503961873398890497'
+p453
+S'Informative'
+p454
+sS'503971484860428288'
+p455
+S'Informative'
+p456
+sS'503967883735871488'
+p457
+S'Not informative'
+p458
+sS'503976969399435264'
+p459
+S'Not related to crisis'
+p460
+sS'503974308935258113'
+p461
+S'Informative'
+p462
+sS'504173441483042817'
+p463
+S'Not related to crisis'
+p464
+sS'504235055632228352'
+p465
+S'Informative'
+p466
+sS'503963824329080833'
+p467
+S'Not related to crisis'
+p468
+sS'503963400888942592'
+p469
+S'Not related to crisis'
+p470
+sS'504272620611973121'
+p471
+S'Not informative'
+p472
+sS'503974858691452928'
+p473
+S'Not related to crisis'
+p474
+sS'504228271882387456'
+p475
+S'Informative'
+p476
+sS'503956902947323904'
+p477
+S'Not related to crisis'
+p478
+sS'504265522624475136'
+p479
+S'Informative'
+p480
+sS'503971518611988480'
+p481
+S'Not related to crisis'
+p482
+sS'503957080038834176'
+p483
+S'Not related to crisis'
+p484
+sS'503957197551075328'
+p485
+S'Not related to crisis'
+p486
+sS'503961278054805504'
+p487
+S'Informative'
+p488
+sS'503975212409712640'
+p489
+S'Not related to crisis'
+p490
+sS'504165604031754240'
+p491
+S'Not related to crisis'
+p492
+sS'503971344485482496'
+p493
+S'Not related to crisis'
+p494
+sS'504226747521712128'
+p495
+S'Informative'
+p496
+sS'503957999816155137'
+p497
+S'Informative'
+p498
+sS'504212714055417857'
+p499
+S'Informative'
+p500
+sS'504262585794191360'
+p501
+S'Informative'
+p502
+sS'503959892152311808'
+p503
+S'Informative'
+p504
+sS'503967558710865920'
+p505
+S'Not related to crisis'
+p506
+sS'503956863894188034'
+p507
+S'Not related to crisis'
+p508
+sS'503970254196711425'
+p509
+S'Informative'
+p510
+sS'504251349392171008'
+p511
+S'Informative'
+p512
+sS'503970594325815296'
+p513
+S'Not related to crisis'
+p514
+sS'503972831613685761'
+p515
+S'Informative'
+p516
+sS'504233778550947840'
+p517
+S'Informative'
+p518
+sS'503976352786034688'
+p519
+S'Not related to crisis'
+p520
+sS'504176455576997889'
+p521
+S'Informative'
+p522
+sS'503970383599783936'
+p523
+S'Not related to crisis'
+p524
+sS'503960752336932864'
+p525
+S'Not related to crisis'
+p526
+sS'503965650193502208'
+p527
+S'Not informative'
+p528
+sS'503957322213773312'
+p529
+S'Not related to crisis'
+p530
+sS'503961001784799232'
+p531
+S'Informative'
+p532
+sS'503958452515778560'
+p533
+S'Not related to crisis'
+p534
+sS'503966055841402880'
+p535
+S'Not related to crisis'
+p536
+sS'503958530941255680'
+p537
+S'Not related to crisis'
+p538
+sS'503963557500043264'
+p539
+S'Not informative'
+p540
+sS'504216925543882753'
+p541
+S'Informative'
+p542
+sS'503956894495436801'
+p543
+S'Informative'
+p544
+sS'503959672635011073'
+p545
+S'Informative'
+p546
+sS'503967992376733696'
+p547
+S'Not related to crisis'
+p548
+sS'503978071150829568'
+p549
+S'Not related to crisis'
+p550
+sS'503976377607925761'
+p551
+S'Not related to crisis'
+p552
+sS'503964489575047168'
+p553
+S'Not related to crisis'
+p554
+sS'503956535673122816'
+p555
+S'Not related to crisis'
+p556
+sS'503962964173795328'
+p557
+S'Informative'
+p558
+sS'504268764775731200'
+p559
+S'Informative'
+p560
+sS'503965700419907585'
+p561
+S'Informative'
+p562
+sS'504270855053271040'
+p563
+S'Informative'
+p564
+sS'503972915713675264'
+p565
+S'Not informative'
+p566
+sS'504173231385739264'
+p567
+S'Not related to crisis'
+p568
+sS'503967696447614976'
+p569
+S'Informative'
+p570
+sS'503976661319438338'
+p571
+S'Not related to crisis'
+p572
+sS'504251633744617473'
+p573
+S'Not related to crisis'
+p574
+sS'503966150598729728'
+p575
+S'Not informative'
+p576
+sS'503979016958013440'
+p577
+S'Not related to crisis'
+p578
+sS'503976864612773888'
+p579
+S'Not related to crisis'
+p580
+sS'503962738105016321'
+p581
+S'Not related to crisis'
+p582
+sS'503968497135665152'
+p583
+S'Not informative'
+p584
+sS'503965418688892928'
+p585
+S'Not related to crisis'
+p586
+sS'503970264494141440'
+p587
+S'Informative'
+p588
+sS'503971576534933504'
+p589
+S'Not related to crisis'
+p590
+sS'504172972672700416'
+p591
+S'Informative'
+p592
+sS'503976239154356224'
+p593
+S'Not related to crisis'
+p594
+sS'503956900040306688'
+p595
+S'Not related to crisis'
+p596
+sS'504257408173346817'
+p597
+S'Informative'
+p598
+sS'503978876939542528'
+p599
+S'Not related to crisis'
+p600
+sS'503966530947002368'
+p601
+S'Informative'
+p602
+sS'503968963240656899'
+p603
+S'Informative'
+p604
+sS'503966939681525760'
+p605
+S'Not related to crisis'
+p606
+sS'503962052713787392'
+p607
+S'Not related to crisis'
+p608
+sS'503961021904859136'
+p609
+S'Not related to crisis'
+p610
+sS'503963788249677825'
+p611
+S'Informative'
+p612
+sS'503965065972707328'
+p613
+S'Not related to crisis'
+p614
+sS'503958074663518208'
+p615
+S'Not informative'
+p616
+sS'504164874113384448'
+p617
+S'Informative'
+p618
+sS'503971165736402944'
+p619
+S'Not related to crisis'
+p620
+sS'503957330833457152'
+p621
+S'Informative'
+p622
+sS'503975559031169024'
+p623
+S'Informative'
+p624
+sS'503974616805543937'
+p625
+S'Not informative'
+p626
+sS'503975995930836992'
+p627
+S'Informative'
+p628
+sS'503973773172023296'
+p629
+S'Not related to crisis'
+p630
+sS'503971075240509440'
+p631
+S'Informative'
+p632
+sS'503972053931016192'
+p633
+S'Informative'
+p634
+sS'503977892116963328'
+p635
+S'Not related to crisis'
+p636
+sS'503968896890589184'
+p637
+S'Not related to crisis'
+p638
+sS'504212490285514752'
+p639
+S'Informative'
+p640
+sS'503974408781041664'
+p641
+S'Not related to crisis'
+p642
+sS'503974691439407105'
+p643
+S'Not related to crisis'
+p644
+sS'503971545631318016'
+p645
+S'Not related to crisis'
+p646
+sS'503975519705366529'
+p647
+S'Not related to crisis'
+p648
+sS'503974101128851456'
+p649
+S'Informative'
+p650
+sS'503975258928721920'
+p651
+S'Not related to crisis'
+p652
+sS'503966747456974848'
+p653
+S'Not related to crisis'
+p654
+sS'503957092504317952'
+p655
+S'Not related to crisis'
+p656
+sS'504261016306589697'
+p657
+S'Informative'
+p658
+sS'503958255060918273'
+p659
+S'Not related to crisis'
+p660
+sS'504228937531416576'
+p661
+S'Informative'
+p662
+sS'504179018913308672'
+p663
+S'Informative'
+p664
+sS'503971384385892352'
+p665
+S'Not related to crisis'
+p666
+sS'503960797715107840'
+p667
+S'Not informative'
+p668
+sS'503969316824682497'
+p669
+S'Not related to crisis'
+p670
+sS'503974830719647744'
+p671
+S'Not related to crisis'
+p672
+sS'503972260777328640'
+p673
+S'Not related to crisis'
+p674
+sS'504219008447807488'
+p675
+S'Not related to crisis'
+p676
+sS'503961019300200448'
+p677
+S'Informative'
+p678
+sS'504231423264317440'
+p679
+S'Not related to crisis'
+p680
+sS'504214728390881280'
+p681
+S'Informative'
+p682
+sS'504252603220647936'
+p683
+S'Informative'
+p684
+sS'503973827861577728'
+p685
+S'Not related to crisis'
+p686
+sS'503959611318079488'
+p687
+S'Not related to crisis'
+p688
+sS'503975447269748737'
+p689
+S'Not related to crisis'
+p690
+sS'503971628473409536'
+p691
+S'Not related to crisis'
+p692
+sS'503964447249932288'
+p693
+S'Not related to crisis'
+p694
+sS'504239973243969537'
+p695
+S'Informative'
+p696
+sS'503971079518289920'
+p697
+S'Informative'
+p698
+sS'503963031790161920'
+p699
+S'Informative'
+p700
+sS'503969179025039360'
+p701
+S'Not related to crisis'
+p702
+sS'504243983070289920'
+p703
+S'Not informative'
+p704
+sS'503965312144797696'
+p705
+S'Not informative'
+p706
+sS'503970523685347328'
+p707
+S'Informative'
+p708
+sS'503976365109288961'
+p709
+S'Informative'
+p710
+sS'503964197286592512'
+p711
+S'Not related to crisis'
+p712
+sS'503962938789482496'
+p713
+S'Not related to crisis'
+p714
+sS'503956068285042688'
+p715
+S'Not related to crisis'
+p716
+sS'504162923196203008'
+p717
+S'Informative'
+p718
+sS'503964921676054528'
+p719
+S'Not informative'
+p720
+sS'504228332041293824'
+p721
+S'Informative'
+p722
+sS'503966506817187840'
+p723
+S'Not related to crisis'
+p724
+sS'504219315197837312'
+p725
+S'Informative'
+p726
+sS'504264585218519041'
+p727
+S'Informative'
+p728
+sS'503978761398665216'
+p729
+S'Informative'
+p730
+sS'503975729726758913'
+p731
+S'Not related to crisis'
+p732
+sS'503966862250483713'
+p733
+S'Informative'
+p734
+sS'503970702983462913'
+p735
+S'Not related to crisis'
+p736
+sS'503957287174959104'
+p737
+S'Not related to crisis'
+p738
+sS'504172303366635521'
+p739
+S'Informative'
+p740
+sS'504265805681270784'
+p741
+S'Informative'
+p742
+sS'504239496381341696'
+p743
+S'Not related to crisis'
+p744
+sS'503978969113194496'
+p745
+S'Not related to crisis'
+p746
+sS'503963964301410304'
+p747
+S'Not related to crisis'
+p748
+sS'503970186941456384'
+p749
+S'Not related to crisis'
+p750
+sS'503972620597854208'
+p751
+S'Not related to crisis'
+p752
+sS'504275175219531776'
+p753
+S'Informative'
+p754
+sS'503969271366438912'
+p755
+S'Not related to crisis'
+p756
+sS'503960500427042817'
+p757
+S'Informative'
+p758
+sS'503958135510286336'
+p759
+S'Informative'
+p760
+sS'503958335939694592'
+p761
+S'Not related to crisis'
+p762
+sS'504232939719499777'
+p763
+S'Not informative'
+p764
+sS'503961371567214593'
+p765
+S'Not related to crisis'
+p766
+sS'503979495872028673'
+p767
+S'Not related to crisis'
+p768
+sS'503956231107538944'
+p769
+S'Informative'
+p770
+sS'504257832556834816'
+p771
+S'Informative'
+p772
+sS'503966000774381568'
+p773
+S'Not related to crisis'
+p774
+sS'503959716720934912'
+p775
+S'Not related to crisis'
+p776
+sS'503975387152781312'
+p777
+S'Not related to crisis'
+p778
+sS'503976918228533248'
+p779
+S'Not related to crisis'
+p780
+sS'503977069173153792'
+p781
+S'Not informative'
+p782
+sS'503961803177463808'
+p783
+S'Informative'
+p784
+sS'503960002928082945'
+p785
+S'Not related to crisis'
+p786
+sS'503961793346428928'
+p787
+S'Not related to crisis'
+p788
+sS'503967941701140480'
+p789
+S'Not related to crisis'
+p790
+sS'504173101689892864'
+p791
+S'Not related to crisis'
+p792
+sS'504173249056751616'
+p793
+S'Not informative'
+p794
+sS'503972008216911872'
+p795
+S'Not related to crisis'
+p796
+sS'503956102208573442'
+p797
+S'Not related to crisis'
+p798
+sS'503961820294815745'
+p799
+S'Not related to crisis'
+p800
+sS'504225382602514432'
+p801
+S'Informative'
+p802
+sS'503965933648347136'
+p803
+S'Informative'
+p804
+sS'504174682581774336'
+p805
+S'Informative'
+p806
+sS'503970922370699264'
+p807
+S'Not related to crisis'
+p808
+sS'503959967582670848'
+p809
+S'Informative'
+p810
+sS'504253947960242176'
+p811
+S'Informative'
+p812
+sS'504239215539134464'
+p813
+S'Informative'
+p814
+sS'504208892906446848'
+p815
+S'Informative'
+p816
+sS'503976792294965248'
+p817
+S'Not related to crisis'
+p818
+sS'503962251746086913'
+p819
+S'Informative'
+p820
+sS'503971321882361856'
+p821
+S'Not related to crisis'
+p822
+sS'503978622722387969'
+p823
+S'Not related to crisis'
+p824
+sS'503958491841986561'
+p825
+S'Not related to crisis'
+p826
+sS'503959800196386816'
+p827
+S'Not informative'
+p828
+sS'503958135938088960'
+p829
+S'Informative'
+p830
+sS'503968553687871490'
+p831
+S'Informative'
+p832
+s.

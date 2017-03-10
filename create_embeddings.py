@@ -1,0 +1,76 @@
+import argparse
+from sklearn.feature_extraction.text import CountVectorizer
+from gensim.models import word2vec
+import numpy as np
+import glob
+import pickle
+
+# NOTE: Files will be saved in the path <one directory before the input file>/<model_name>/<filename_without_extension>.p
+parser = argparse.ArgumentParser()
+parser.add_argument("-i", "--input_glob", required=True) # e.g. */tweets_cleaned/*
+parser.add_argument("-m", "--model_filename", required=True) # e.g. bigram_model
+parser.add_argument("-t", "--model", required=True) # e.g. "bigram" or "word2vec"
+args = parser.parse_args()
+
+# tweet_dict = {'the man is injured':'INJURY', 'Offering volunteer support for california earthquake':'VOLUNTEER', 'Call 1-800-help to donate money for earthquake relief':'DONATE'}
+# tweet_text = list(tweet_dict.keys())
+# tweet_list = [text.split() for text in tweet_text]
+# tweet_labels = list(tweet_dict.values())
+
+# Creates features for each input sentence (each sentence is a list of words) based on averaging the words in the vector  
+def word_embedding_features(input_list):
+	model = word2vec.Word2Vec.load(args.model_filename)
+	embedding_list = []
+	for sentence in input_list:
+		embeddings = [model[word] for word in sentence]
+		sentence_embedding = np.mean(embeddings, axis=0)
+		embedding_list.append(sentence_embedding)
+	return embedding_list
+
+#creates features for each input sentence (each sentence is a string) based on bigrams
+def bigram_features(input_list):
+	input_text = [' '.join(sentence) for sentence in input_list]
+	with open(args.model_filename, 'rb') as input_file:
+		bigram_vectorizer = pickle.load(input_file)
+		feature_vectors = bigram_vectorizer.fit_transform(input_text).toarray()
+		return feature_vectors
+
+# Ensure that some model file exists
+assert(len(glob.glob(args.model_filename)) > 0), "Model file does not seem to exist."
+input_filenames = glob.glob(args.input_glob)
+
+# Iterate through each input file matching the input glob
+for filename in input_filenames:
+	output_filename = filename.split('/')[-1]
+	output_filename = output_filename.split('.')[0] + ".p"
+	output_filename = "%s/%s/%s" % ('/'.join(filename.split('/')[:-2]), args.model, output_filename)
+	print "Saving output to", output_filename
+
+	# Input all text from the input file in to the corresponding model featurizer, and dump a new
+	# dictionary mapping tweet ids to the features in to the corresponding output file
+	with open(filename, 'rb') as input_file:
+		tweet_text = pickle.load(input_file)
+		embeddings = []
+		keys, values = tweet_text.keys(), tweet_text.values()
+		if args.model == "word2vec": embeddings = word_embedding_features(values)
+		elif args.model == "bigram": embeddings = bigram_features(values)
+		else:
+			print "Model %s not recognized." % args.model
+			break
+		assert(len(embeddings) == len(values)), "Returned list of embeddings is %d while the number of inputs was %d" (len(embeddings), len(values))
+		# Replace each tweet id entry with its corresponding feature value
+		for i, key in enumerate(keys): tweet_text[key] = embeddings[i]
+		with open(output_filename, "wb") as output_file:
+			pickle.dump(tweet_text, output_file)
+
+	# with open(filename, 'rb') as input_file:
+	# 	tweet_text, _ = pickle.load(input_file)
+	# 	for tweet_id in tweet_text:
+	# 		cleaned_text = clean_and_format_text(tweet_text[tweet_id])
+	# 		tweet_text[tweet_id] = replace_oov_words(oov_dict, cleaned_text)
+
+
+# Create the according features
+# if args.model == "bigram": bigram_features()
+# elif args.model == "word2vec": word_embedding_features()
+# else: print "Model %s not recognized." % args.model
