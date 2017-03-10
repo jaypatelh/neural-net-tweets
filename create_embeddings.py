@@ -7,9 +7,10 @@ import pickle
 
 # NOTE: Files will be saved in the path <one directory before the input file>/<model_name>/<filename_without_extension>.p
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input_glob", required=True) # e.g. */tweets_cleaned/*
+parser.add_argument("-i", "--input_glob", required=True) # e.g. */cleaned_tweets.p
 parser.add_argument("-m", "--model_filename", required=True) # e.g. bigram_model
 parser.add_argument("-t", "--model", required=True) # e.g. "bigram" or "word2vec"
+parser.add_argument("-o", "--output_filename", default="embedding") #e.g. 
 args = parser.parse_args()
 
 # tweet_dict = {'the man is injured':'INJURY', 'Offering volunteer support for california earthquake':'VOLUNTEER', 'Call 1-800-help to donate money for earthquake relief':'DONATE'}
@@ -41,33 +42,26 @@ input_filenames = glob.glob(args.input_glob)
 
 # Iterate through each input file matching the input glob
 for filename in input_filenames:
-	output_filename = filename.split('/')[-1]
-	output_filename = output_filename.split('.')[0] + ".p"
-	output_filename = "%s/%s/%s" % ('/'.join(filename.split('/')[:-2]), args.model, output_filename)
+	output_filename = "%s/%s" % ('/'.join(filename.split('/')[:-1]), args.output_filename)
 	print "Saving output to", output_filename
 
 	# Input all text from the input file in to the corresponding model featurizer, and dump a new
 	# dictionary mapping tweet ids to the features in to the corresponding output file
 	with open(filename, 'rb') as input_file:
-		tweet_text = pickle.load(input_file)
+		tweets = pickle.load(input_file)
 		embeddings = []
-		keys, values = tweet_text.keys(), tweet_text.values()
-		if args.model == "word2vec": embeddings = word_embedding_features(values)
-		elif args.model == "bigram": embeddings = bigram_features(values)
+		keys, values = tweets.keys(), tweets.values()
+		tweet_text = [tweet.text for tweet in values]
+		if args.model == "word2vec": embeddings = word_embedding_features(tweet_text)
+		elif args.model == "bigram": embeddings = bigram_features(tweet_text)
 		else:
 			print "Model %s not recognized." % args.model
 			break
 		assert(len(embeddings) == len(values)), "Returned list of embeddings is %d while the number of inputs was %d" (len(embeddings), len(values))
 		# Replace each tweet id entry with its corresponding feature value
-		for i, key in enumerate(keys): tweet_text[key] = embeddings[i]
+		for i, key in enumerate(keys): tweets[key] = embeddings[i]
 		with open(output_filename, "wb") as output_file:
-			pickle.dump(tweet_text, output_file)
-
-	# with open(filename, 'rb') as input_file:
-	# 	tweet_text, _ = pickle.load(input_file)
-	# 	for tweet_id in tweet_text:
-	# 		cleaned_text = clean_and_format_text(tweet_text[tweet_id])
-	# 		tweet_text[tweet_id] = replace_oov_words(oov_dict, cleaned_text)
+			pickle.dump(tweets, output_file)
 
 
 # Create the according features
