@@ -8,8 +8,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-v", "--oov_file", default="OOV_Dict/OOV_Dictionary_V1.0.tsv")
 parser.add_argument("-d", "--debug_every", default=100, type=int)
 parser.add_argument("-w", "--warmstart", default=True, type=bool)
-parser.add_argument("-i", "--input_glob", required=True) #california_earthquake/tweets/*
-parser.add_argument("-o", "--output_dir", required=True) #california_earthquake/tweets_cleaned/*
+parser.add_argument("-i", "--input_glob", required=True) # */tweets.p
+parser.add_argument("-o", "--output_dir") # california_earthquake/tweets_cleaned/*
+parser.add_argument("-of", "--output_filename") # tweets_cleaned.p
 args = parser.parse_args()
 
 URL_REGEX_PATTERN = r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
@@ -62,15 +63,19 @@ tsv_filenames = glob.glob(args.input_glob)
 print "Found %d input files" % len(tsv_filenames)
 
 for filename in tsv_filenames:
-	output_filename = filename.split('/')[-1]
-	output_filename = args.output_dir + "/" + output_filename.split('.')[0] + ".p"
+	if args.output_filename:
+		output_filename = '/'.join(filename.split('/')[:-1]) # get directory of input file
+		output_filename += "/" + args.output_filename
+	else:
+		output_filename = filename.split('/')[-1]
+		output_filename = args.output_dir + "/" + output_filename.split('.')[0] + ".p"
 	print "Saving output at ", output_filename
 
 	with open(filename, 'rb') as input_file:
 		tweet_text, _ = pickle.load(input_file)
 		for tweet_id in tweet_text:
-			cleaned_text = clean_and_format_text(tweet_text[tweet_id])
-			tweet_text[tweet_id] = replace_oov_words(oov_dict, cleaned_text)
+			cleaned_text = clean_and_format_text(tweet_text[tweet_id].text)
+			tweet_text[tweet_id].text = replace_oov_words(oov_dict, cleaned_text)
 
 	with open(output_filename, "wb") as output_file:
 		pickle.dump(tweet_text, output_file)
