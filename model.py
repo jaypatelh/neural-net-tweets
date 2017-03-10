@@ -6,7 +6,7 @@ import glob
 import pickle
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input_glob", required=True) # */tweets_cleaned/*
+parser.add_argument("-i", "--input_glob", required=True) # */tweets_cleaned.p
 parser.add_argument("-m", "--model_filename", required=True) # e.g. 'word2vec_embedding_model'
 parser.add_argument("-w", "--warmstart", default=False, type=bool)
 parser.add_argument("-b", "--batch_size", default=256, type=int)
@@ -39,8 +39,9 @@ def word_embedding_model():
 	X = []
 	for filename in input_filenames:
 		with open(filename, "rb") as input_file:
-			tweet_texts = pickle.load(input_file)
-			X.extend(tweet_texts.values())
+			tweets = pickle.load(input_file)
+			tweet_texts = [tweet.text for tweet in tweets.values()]
+			X.extend(tweet_texts)
 	train_word_embedding_model(X, args.model_filename, model)
 
 # Create a bigram model with the given arguments, save a bigram vectorizer object
@@ -51,8 +52,9 @@ def bigram_model():
 	bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=1)
 	for filename in input_filenames:
 		with open(filename, "rb") as input_file:
-			tweet_texts = pickle.load(input_file)
-			sentences = [' '.join(sentence) for sentence in tweet_texts.values()]
+			tweets = pickle.load(input_file)
+			tweet_texts = [tweet.text for tweet in tweets.values()]
+			sentences = [' '.join(sentence) for sentence in tweet_texts]
 			bigram_vectorizer.fit_transform(sentences)
 	with open(args.model_filename, 'wb') as output_file:
 		pickle.dump(bigram_vectorizer, output_file)

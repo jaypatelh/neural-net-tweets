@@ -109,3 +109,8 @@ for i in range(total_retry_tweets/MAX_QUERIES):
 	retry_ids = list(set(retry_ids)-successful_ids)
 	print "Collected %d out of %d..." % (len(tweet_text), total_tweets)
 	time.sleep(args.time_out)
+
+# Save last progress
+with open(args.output_filename, "wb") as output_file:
+	pickle.dump([tweet_text, retry_ids], output_file)
+	print "Saving %d tweets and %d retry ids..." % (len(tweet_text), len(retry_ids))
