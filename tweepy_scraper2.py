@@ -14,8 +14,8 @@ parser.add_argument("-d", "--debug_every", default=100, type=int)
 parser.add_argument("-c", "--start_idx", default=0, type=int)
 parser.add_argument("-w", "--warmstart", default=False, type=bool)
 parser.add_argument("-o", "--output_filename", required=True) # e.g. california_earthquake/tweets.p
-parser.add_argument("-l1", "--volunteer_label", required=True) # e.g. california_earthquake/volunteer_labels.p
-parser.add_argument("-l2", "--crowdflower_label", required=True) # e.g. california_earthquake/crowdflower_labels.p
+parser.add_argument("-l1", "--volunteer_label") # e.g. california_earthquake/volunteer_labels.p
+parser.add_argument("-l2", "--crowdflower_label") # e.g. california_earthquake/crowdflower_labels.p
 parser.add_argument("-t", "--time_out", default=5, type=float)
 parser.add_argument("-r", "--retries_only", default=False, type=bool)
 args = parser.parse_args()
@@ -45,9 +45,6 @@ apis = [tweepy.API(auth, wait_on_rate_limit_notify=True, wait_on_rate_limit=True
 
 start_idx = args.start_idx
 num_apis = len(apis)
-
-assert(len(glob.glob(args.volunteer_label)) > 0), "Volunteer labels file %s invalid" % args.volunteer_label
-assert(len(glob.glob(args.crowdflower_label)) > 0), "Crowdflower labels file %s invalid" % args.crowdflower_label
 
 # Construct labels, potentially overwriting some of the volunteer with paid crowdflower labels
 labels = {}
