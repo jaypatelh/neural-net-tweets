@@ -13,11 +13,6 @@ parser.add_argument("-t", "--model", required=True) # e.g. "bigram" or "word2vec
 parser.add_argument("-o", "--output_filename", default="embedding") #e.g. 
 args = parser.parse_args()
 
-# tweet_dict = {'the man is injured':'INJURY', 'Offering volunteer support for california earthquake':'VOLUNTEER', 'Call 1-800-help to donate money for earthquake relief':'DONATE'}
-# tweet_text = list(tweet_dict.keys())
-# tweet_list = [text.split() for text in tweet_text]
-# tweet_labels = list(tweet_dict.values())
-
 # Creates features for each input sentence (each sentence is a list of words) based on averaging the words in the vector  
 def word_embedding_features(input_list):
 	model = word2vec.Word2Vec.load(args.model_filename)
@@ -62,9 +57,3 @@ for filename in input_filenames:
 		for i, key in enumerate(keys): tweets[key] = embeddings[i]
 		with open(output_filename, "wb") as output_file:
 			pickle.dump(tweets, output_file)
-
-
-# Create the according features
-# if args.model == "bigram": bigram_features()
-# elif args.model == "word2vec": word_embedding_features()
-# else: print "Model %s not recognized." % args.model
