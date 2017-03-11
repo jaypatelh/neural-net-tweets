@@ -40,13 +40,16 @@ assert(len(glob.glob(args.model_filename)) > 0), "Model file does not seem to ex
 input_filenames = glob.glob(args.input_glob)
 
 # Iterate through each input file matching the input glob
+print input_filenames
 for filename in input_filenames:
+	# print filename
 	output_filename = "%s/%s" % ('/'.join(filename.split('/')[:-1]), args.output_filename)
 	print "Saving output to", output_filename
 
 	# Input all text from the input file in to the corresponding model featurizer, and dump a new
 	# dictionary mapping tweet ids to the features in to the corresponding output file
 	with open(filename, 'rb') as input_file:
+		print filename, output_filename
 		tweets = pickle.load(input_file)
 		embeddings = []
 		keys, values = tweets.keys(), tweets.values()
