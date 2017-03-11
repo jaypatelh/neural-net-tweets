@@ -17,11 +17,11 @@ class Config(object):
     information parameters. Model objects are passed a Config() object at
     instantiation.
     """
-    n_samples = 16660
+    n_samples = 39500
     n_features = 200
-    n_classes = 13
-    batch_size = 70
-    n_epochs = 100
+    n_classes = 18
+    batch_size = 79
+    n_epochs = 200
     lr = 1e-4
 
 
@@ -224,27 +224,57 @@ def fit_and_predict(inputs, labels):
 
             # If Ops are implemented correctly, the average loss should fall close to zero
             # rapidly.
-            assert losses[-1] < 2
+            assert losses[-1] < 2.2
             print "Basic (non-exhaustive) classifier tests pass"
 
             model.predict(sess, inputs[threshold:], labels[threshold:])
 
 if __name__ == "__main__":
-    data = ["data/california_earthquake", "data/chile_earthquake", "data/chile_earthquake_es", "data/pakistan_earthquake", "data/nepal_earthquake"]
+    data = [
+        "data/california_earthquake", 
+        "data/chile_earthquake", 
+        "data/chile_earthquake_es", 
+        "data/pakistan_earthquake", 
+        "data/nepal_earthquake",
+        "data/cyclone_pam",
+        "data/ebola",
+        "data/hurricane_mexico",
+        "data/iceland_volcano",
+        "data/india_floods",
+        "data/landslides_ww_en",
+        "data/landslides_ww_es",
+        "data/landslides_ww_fr",
+        "data/malaysia_flight",
+        "data/mers",
+        "data/pakistan_floods",
+        "data/philipines_typhoon",
+    ]
 
     chosen_labels_matrix = None
     tweets_matrix = None
     
     for event in data:
+        print "on ", event, "..."
         tweets_file = open(event + "/word2vec_average.p", "rb")
-        labels_file = open(event + "/labels-03102017.p", "rb")
+        labels_file = open(event + "/labels-03112017.p", "rb")
     
         tweets_vecs = pickle.load(tweets_file)
         labels_vecs = pickle.load(labels_file)
 
         for tweetid in tweets_vecs:
             if tweetid in labels_vecs:
+                try:
+                    tweets_matrix = np.vstack((tweets_matrix, tweets_vecs[tweetid])) if tweets_matrix is not None else tweets_vecs[tweetid]
+                except ValueError as e:
+                    print e
+                    print "skipping tweet due to weird dimension:", tweetid
+                    continue
                 chosen_labels_matrix = np.vstack((chosen_labels_matrix, labels_vecs[tweetid])) if chosen_labels_matrix is not None else labels_vecs[tweetid]
-                tweets_matrix = np.vstack((tweets_matrix, tweets_vecs[tweetid])) if tweets_matrix is not None else tweets_vecs[tweetid]
+
+    chosen_labels_matrix = chosen_labels_matrix[:Config.n_samples]
+    tweets_matrix = tweets_matrix[:Config.n_samples]
+
+    print chosen_labels_matrix.shape
+    print tweets_matrix.shape
 
     fit_and_predict(tweets_matrix, chosen_labels_matrix)

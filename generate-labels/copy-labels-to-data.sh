@@ -1,0 +1,17 @@
+cp generate-labels/$1/2014_California_Earthquake-$1.p data/california_earthquake/$1.p
+cp generate-labels/$1/2014_Chile_Earthquake_en-$1.p data/chile_earthquake/$1.p
+cp generate-labels/$1/2014_Chile_Earthquake_cl-$1.p data/chile_earthquake_es/$1.p
+cp generate-labels/$1/2015_Cyclone_Pam_en-$1.p data/cyclone_pam/$1.p
+cp generate-labels/$1/2014_ebola_cf-$1.p data/ebola/$1.p
+cp generate-labels/$1/2014_Hurricane_Odile_Mexico_en-$1.p data/hurricane_mexico/$1.p
+cp generate-labels/$1/2014_Iceland_Volcano_en-$1.p data/iceland_volcano/$1.p
+cp generate-labels/$1/2014_India_floods-$1.p data/india_floods/$1.p
+cp generate-labels/$1/Landslides_Worldwide_en-$1.p data/landslides_ww_en/$1.p
+cp generate-labels/$1/Landslides_Worldwide_esp-$1.p data/landslides_ww_es/$1.p
+cp generate-labels/$1/Landslides_Worldwide_fr-$1.p data/landslides_ww_fr/$1.p
+cp generate-labels/$1/2014_Malaysia_Airline_MH370_en-$1.p data/malaysia_flight/$1.p
+cp generate-labels/$1/2014_Middle_East_Respiratory_Syndrome_en-$1.p data/mers/$1.p
+cp generate-labels/$1/2015_Nepal_Earthquake_en-$1.p data/nepal_earthquake/$1.p
+cp generate-labels/$1/2013_Pakistan_eq-$1.p data/pakistan_earthquake/$1.p
+cp generate-labels/$1/2014_Pakistan_floods-$1.p data/pakistan_floods/$1.p
+cp generate-labels/$1/2014_Philippines_Typhoon_Hagupit_en-$1.p data/philipines_typhoon/$1.p

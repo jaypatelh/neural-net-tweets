@@ -35,6 +35,8 @@ def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
                 if tweetid not in labels:
                     labels[tweetid] = {}
                 label = row[0]
+                if label not in matching_labels and label not in labels_indices:
+                    print "NEW UNIQUE: ", label
                 labels[tweetid]["paid"] = label if label not in matching_labels else matching_labels[label]
 
     if volunteer_csv is not None:
@@ -47,6 +49,8 @@ def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
                 if tweetid not in labels:
                     labels[tweetid] = {}
                 label = '_'.join(row[2].replace(',', '').split()).lower()
+                if label not in matching_labels and label not in labels_indices:
+                    print "NEW UNIQUE: ", label
                 labels[tweetid]["volunteer"] = label if label not in matching_labels else matching_labels[label]
 
     print "Done loading labels."
@@ -65,7 +69,7 @@ def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
         vec[labels_indices[label]] = 1.0
         labels_vectors[tweetid] = vec
 
-    with open(output_path + "-labels-03102017.p", 'wb') as output_file:
+    with open(output_path + "-labels-03112017.p", 'wb') as output_file:
         pickle.dump(labels_vectors, output_file, protocol=pickle.HIGHEST_PROTOCOL)
 
     print "Wrote %d labels out to %s" % (len(labels_vectors), output_path)
