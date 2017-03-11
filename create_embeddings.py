@@ -17,8 +17,12 @@ args = parser.parse_args()
 # Creates features for each input sentence (each sentence is a list of words) based on averaging the words in the vector  
 def word_embedding_features(input_list):
 	model = word2vec.Word2Vec.load(args.model_filename)
+	# print model.wv.similarity('sunny', 'end')
+	# print model.wv.most_similar(positive=['landslide', 'emergency'], negative=['aid'])
 	embedding_list = []
 	for sentence in input_list:
+		if sentence == []:
+			continue
 		embeddings = [model[word] for word in sentence]
 		if args.sentence_embedding == "average":
 			sentence_embedding = np.mean(embeddings, axis=0)
@@ -40,27 +44,31 @@ assert(len(glob.glob(args.model_filename)) > 0), "Model file does not seem to ex
 input_filenames = glob.glob(args.input_glob)
 
 # Iterate through each input file matching the input glob
-print input_filenames
 for filename in input_filenames:
-	# print filename
 	output_filename = "%s/%s" % ('/'.join(filename.split('/')[:-1]), args.output_filename)
 	print "Saving output to", output_filename
 
 	# Input all text from the input file in to the corresponding model featurizer, and dump a new
 	# dictionary mapping tweet ids to the features in to the corresponding output file
 	with open(filename, 'rb') as input_file:
-		print filename, output_filename
 		tweets = pickle.load(input_file)
 		embeddings = []
 		keys, values = tweets.keys(), tweets.values()
 		tweet_text = [tweet.text for tweet in values]
+		tweet_text = filter(lambda a: a != [], tweet_text)
 		if args.model == "word2vec": embeddings = word_embedding_features(tweet_text)
 		elif args.model == "bigram": embeddings = bigram_features(tweet_text)
 		else:
 			print "Model %s not recognized." % args.model
 			break
-		assert(len(embeddings) == len(values)), "Returned list of embeddings is %d while the number of inputs was %d" (len(embeddings), len(values))
+		# print len(embeddings)
+		# print len(values)
+		assert(len(embeddings) == len(tweet_text)), "Returned list of embeddings is %d while the number of inputs was %d" (len(embeddings), len(tweet_text))
 		# Replace each tweet id entry with its corresponding feature value
-		for i, key in enumerate(keys): tweets[key] = embeddings[i]
+		i = 0
+		for key in keys: 
+			if tweets[key].text != []:
+				tweets[key] = embeddings[i]
+				i += 1
 		with open(output_filename, "wb") as output_file:
 			pickle.dump(tweets, output_file)
