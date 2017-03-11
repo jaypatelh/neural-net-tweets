@@ -24,7 +24,6 @@ def remove_bad_files(files, to_filter):
 
 def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
     labels = dict()
-    unique = set()
     
     if paid_csv is not None:
         with open(paid_csv, "rU") as labels_file:
@@ -35,8 +34,8 @@ def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
                 tweetid = str(row[1][1:-1])
                 if tweetid not in labels:
                     labels[tweetid] = {}
-                labels[tweetid]["paid"] = row[0]
-                unique.add(row[0])
+                label = row[0]
+                labels[tweetid]["paid"] = label if label not in matching_labels else matching_labels[label]
 
     if volunteer_csv is not None:
         with open(volunteer_csv, "rU") as labels_file:
@@ -49,25 +48,24 @@ def merge_labels_into_one_hot(paid_csv, volunteer_csv, output_path):
                     labels[tweetid] = {}
                 label = '_'.join(row[2].replace(',', '').split()).lower()
                 labels[tweetid]["volunteer"] = label if label not in matching_labels else matching_labels[label]
-                unique.add(labels[tweetid]["volunteer"])
 
     print "Done loading labels."
 
     print "Converting labels into one-hot vectors"
-    unique = list(unique)
-    num_unique = len(unique)
     labels_vectors = dict()
     for tweetid in labels:
-        vec = np.zeros(num_unique)
+        vec = np.zeros(len(labels_indices.keys()))
         label = labels[tweetid]
         if "paid" in label:
             label = label["paid"]
         else:
             label = label["volunteer"]
-        vec[unique.index(label)] = 1.0
+        if label in weird_labels:
+            continue
+        vec[labels_indices[label]] = 1.0
         labels_vectors[tweetid] = vec
 
-    with open(output_path + ".p", 'wb') as output_file:
+    with open(output_path + "-labels-03102017.p", 'wb') as output_file:
         pickle.dump(labels_vectors, output_file, protocol=pickle.HIGHEST_PROTOCOL)
 
     print "Wrote %d labels out to %s" % (len(labels_vectors), output_path)
@@ -77,13 +75,64 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-pl", "--paid")
     parser.add_argument("-vl", "--volunteer")
-    parser.add_argument("-o", "--output", required=True)\
+    parser.add_argument("-o", "--outputdir")
     args = parser.parse_args()
+
+    weird_labels = ['yes', 'no']
 
     matching_labels = {
         'other_relevant_information': 'other_useful_information',
         'infrastructure_and_utilities': 'infrastructure_and_utilities_damage',
-        'money': 'donation_needs_or_offers_or_volunteering_services'
+        'money': 'donation_needs_or_offers_or_volunteering_services',
+        'volunteer_or_professional_services': 'donation_needs_or_offers_or_volunteering_services',
+        'shelter_and_supplies': 'donation_needs_or_offers_or_volunteering_services',
+        'infrastructure_damage': 'infrastructure_and_utilities_damage',
+        'not_relevant': 'not_related_or_irrelevant',
+        'urgent_needs': 'donation_needs_or_offers_or_volunteering_services',
+        'other_relevant': 'other_useful_information',
+        'displaced_people': 'displaced_people_and_evacuations',
+        'personal_updates': 'personal',
+        'infrastructure': 'infrastructure_and_utilities_damage',
+        'personal_updates_sympathy_support': 'sympathy_and_emotional_support',
+        'donations_of_supplies_and/or_volunteer_work': 'donation_needs_or_offers_or_volunteering_services',
+        'needs_of_those_affected': 'donation_needs_or_offers_or_volunteering_services',
+        'injured_and_dead': 'injured_or_dead_people',
+        'donations_of_money': 'donation_needs_or_offers_or_volunteering_services',
+        'people_missing_or_found': 'missing_trapped_or_found_people',
+        'disease_signs_or_symptoms': 'diseases',
+        'treatment': 'diseases',
+        'disease_transmission': 'diseases',
+        'prevention': 'diseases',
+        'affected_people': 'infected_people',
+        'deaths_reports': 'injured_or_dead_people',
+        'not_related_to_crisis': 'not_related_or_irrelevant',
+        'informative': 'other_useful_information',
+        'personal_only': 'personal',
+        'not_informative': 'not_related_or_irrelevant',
+        'humanitarian_aid_provided': 'donation_needs_or_offers_or_volunteering_services',
+        'requests_for_help/needs': 'donation_needs_or_offers_or_volunteering_services',
+        'praying': 'sympathy_and_emotional_support',
+    }
+
+    labels_indices = {
+        'not_related_or_irrelevant': 0,
+        'donation_needs_or_offers_or_volunteering_services': 1,
+        'displaced_people_and_evacuations': 2,
+        'animal_management': 3,
+        'other_useful_information': 4,
+        'response_efforts': 5,
+        'caution_and_advice': 6,
+        'sympathy_and_emotional_support': 7,
+        'injured_or_dead_people': 8,
+        'missing_trapped_or_found_people': 9,
+        'infrastructure_and_utilities_damage': 10,
+        'diseases': 11,
+        'infected_people': 12,
+        'personal': 13,
+        'non-government': 14,
+        'physical_landslide': 15,
+        'not_physical_landslide': 16,
+        'traditional_media': 17,
     }
 
     filter_files = ['Terms of use.txt', '.DS_Store', 'README.txt', '']
@@ -101,10 +150,10 @@ if __name__ == '__main__':
         if quake_dir in volunteer_dirs:
             volunteer_dirs.remove(quake_dir)
 
-        total_labels += merge_labels_into_one_hot(paid_csv, volunteer_csv, quake_dir)
+        total_labels += merge_labels_into_one_hot(paid_csv, volunteer_csv, args.outputdir + "/" + quake_dir)
 
     for quake_dir in volunteer_dirs:
         volunteer_csv = find_csv_file_path(args.volunteer + "/" + quake_dir)
-        total_labels += merge_labels_into_one_hot(None, volunteer_csv, quake_dir)
+        total_labels += merge_labels_into_one_hot(None, volunteer_csv, args.outputdir + "/" + quake_dir)
 
     print total_labels

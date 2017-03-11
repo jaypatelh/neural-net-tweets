@@ -2,6 +2,9 @@ import time
 
 import numpy as np
 import tensorflow as tf
+import argparse
+import pickle
+import os
 
 from helpers import get_minibatches
 from model import Model
@@ -14,11 +17,11 @@ class Config(object):
     information parameters. Model objects are passed a Config() object at
     instantiation.
     """
-    n_samples = #TODO
-    n_features = # TODO
-    n_classes = 9
-    batch_size = 64
-    n_epochs = 50
+    n_samples = 16660
+    n_features = 200
+    n_classes = 13
+    batch_size = 70
+    n_epochs = 100
     lr = 1e-4
 
 
@@ -89,8 +92,7 @@ class SimpleModel(Model):
         W = tf.Variable(tf.zeros((Config.n_features, Config.n_classes)), dtype=tf.float32)
         b = tf.Variable(tf.zeros((Config.batch_size, Config.n_classes)), dtype=tf.float32)
 
-        pred = softmax(tf.matmul(self.input_placeholder, W) + b)
-        return pred
+        return tf.matmul(self.input_placeholder, W) + b
 
     def add_loss_op(self, pred):
         """Adds cross_entropy_loss ops to the computational graph.
@@ -102,7 +104,8 @@ class SimpleModel(Model):
         Returns:
             loss: A 0-d tensor (scalar)
         """
-        loss = cross_entropy_loss(self.labels_placeholder, pred)
+        loss_samples = tf.nn.softmax_cross_entropy_with_logits(labels=self.labels_placeholder, logits=pred)
+        loss = tf.reduce_mean(loss_samples)
         return loss
 
     def add_training_op(self, loss):
@@ -162,6 +165,20 @@ class SimpleModel(Model):
             losses.append(average_loss)
         return losses
 
+    def predict(self, sess, inputs, labels):
+        total_matches = 0
+        total_samples = 0
+        for input_batch, labels_batch in get_minibatches([inputs, labels], Config.batch_size):
+            predictions = self.predict_on_batch(sess, input_batch)
+            predicted_classes = tf.argmax(predictions, axis=1)
+            true_classes = tf.argmax(labels_batch, axis=1)
+
+            total_matches += matches(true_classes, predicted_classes)
+            total_samples += Config.batch_size
+
+        print "Overall Accuracy: "
+        print sess.run(total_matches*100.0 / float(total_samples)), "%"
+
     def __init__(self, config):
         """Initializes the model.
 
@@ -171,22 +188,28 @@ class SimpleModel(Model):
         self.config = config
         self.build()
 
+def accuracy(y, yhat):
+    assert(y.shape == yhat.shape)
+    return matches(y, yhat) * 100.0 / y.get_shape().as_list()[0]
 
-def test_softmax_model():
+def matches(y, yhat):
+    assert(y.shape == yhat.shape)
+    return tf.reduce_sum(tf.to_float(tf.to_int32(tf.equal(y, yhat))))
+
+def fit_and_predict(inputs, labels):
     """Train softmax model for a number of steps."""
     config = Config()
 
     # Generate random data to train the model on
     np.random.seed(1234)
-    inputs = np.random.rand(config.n_samples, config.n_features)
-    labels = np.zeros((config.n_samples, config.n_classes), dtype=np.int32)
-    labels[:, 0] = 1
 
+    threshold = Config.batch_size*(int(0.8*(Config.n_samples/Config.batch_size)))
+    
     # Tell TensorFlow that the model will be built into the default Graph.
     # (not required but good practice)
     with tf.Graph().as_default():
         # Build the model and add the variable initializer Op
-        model = SoftmaxModel(config)
+        model = SimpleModel(config)
         init = tf.global_variables_initializer()
         # If you are using an old version of TensorFlow, you may have to use
         # this initializer instead.
@@ -197,12 +220,31 @@ def test_softmax_model():
             # Run the Op to initialize the variables.
             sess.run(init)
             # Fit the model
-            losses = model.fit(sess, inputs, labels)
+            losses = model.fit(sess, inputs[:threshold], labels[:threshold])
 
-    # If Ops are implemented correctly, the average loss should fall close to zero
-    # rapidly.
-    assert losses[-1] < .5
-    print "Basic (non-exhaustive) classifier tests pass"
+            # If Ops are implemented correctly, the average loss should fall close to zero
+            # rapidly.
+            assert losses[-1] < 2
+            print "Basic (non-exhaustive) classifier tests pass"
+
+            model.predict(sess, inputs[threshold:], labels[threshold:])
 
 if __name__ == "__main__":
-    test_softmax_model()
+    data = ["data/california_earthquake", "data/chile_earthquake", "data/chile_earthquake_es", "data/pakistan_earthquake", "data/nepal_earthquake"]
+
+    chosen_labels_matrix = None
+    tweets_matrix = None
+    
+    for event in data:
+        tweets_file = open(event + "/word2vec_average.p", "rb")
+        labels_file = open(event + "/labels-03102017.p", "rb")
+    
+        tweets_vecs = pickle.load(tweets_file)
+        labels_vecs = pickle.load(labels_file)
+
+        for tweetid in tweets_vecs:
+            if tweetid in labels_vecs:
+                chosen_labels_matrix = np.vstack((chosen_labels_matrix, labels_vecs[tweetid])) if chosen_labels_matrix is not None else labels_vecs[tweetid]
+                tweets_matrix = np.vstack((tweets_matrix, tweets_vecs[tweetid])) if tweets_matrix is not None else tweets_vecs[tweetid]
+
+    fit_and_predict(tweets_matrix, chosen_labels_matrix)

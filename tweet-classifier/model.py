@@ -2,8 +2,7 @@
 
 import numpy as np
 import random
-
-from helpers import softmax, sigmoid, sigmoid_grad, gradcheck_naive
+import tensorflow as tf
 
 class Model(object):
     """Abstracts a Tensorflow graph for a learning task.
@@ -105,10 +104,11 @@ class Model(object):
             input_batch: np.ndarray of shape (n_samples, n_features)
         Returns:
             predictions: np.ndarray of shape (n_samples, n_classes)
-        """
+        """ 
         feed = self.create_feed_dict(inputs_batch)
         predictions = sess.run(self.pred, feed_dict=feed)
-        return predictions
+        predictions_prob = tf.nn.softmax(predictions)
+        return predictions_prob
 
     def build(self):
         self.add_placeholders()
