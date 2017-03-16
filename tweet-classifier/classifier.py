@@ -189,11 +189,11 @@ class SimpleModel(Model):
         self.build()
 
 def accuracy(y, yhat):
-    assert(y.shape == yhat.shape)
+    assert(y.get_shape() == yhat.get_shape())
     return matches(y, yhat) * 100.0 / y.get_shape().as_list()[0]
 
 def matches(y, yhat):
-    assert(y.shape == yhat.shape)
+    assert(y.get_shape() == yhat.get_shape())
     return tf.reduce_sum(tf.to_float(tf.to_int32(tf.equal(y, yhat))))
 
 def fit_and_predict(inputs, labels):
@@ -255,7 +255,7 @@ if __name__ == "__main__":
     
     for event in data:
         print "on ", event, "..."
-        tweets_file = open(event + "/word2vec_average.p", "rb")
+        tweets_file = open(event + "/word2vec_minmax.p", "rb")
         labels_file = open(event + "/labels-03112017.p", "rb")
     
         tweets_vecs = pickle.load(tweets_file)
