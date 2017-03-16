@@ -40,26 +40,20 @@ def get_embeddings(embeddings_file_pattern, tweet_ids):
 	return [embeddings[tweet_id] for tweet_id in tweet_ids if tweet_id in embeddings]
 
 def sequence_cells(cell_fn, layers, dropout_p):
-	assert(len(layers) > 0), "Must have at least one rnn/lstm/gru layer!"
 	if len(layers) == 1:
-		if dropout_p == 0: return cell_fn(layers[0], state_is_tuple=True)
-		else: return tf.nn.rnn_cell.DropoutWrapper(cell_fn(layers[0], state_is_tuple=True), dropout_p)
+		if dropout_p == 0: return cell_fn(layers[0])
+		else: return tf.nn.rnn_cell.DropoutWrapper(cell_fn(layers[0]), dropout_p)
 	# For multi layer cells
 	for i in range(1,len(layers)): assert layers[i] >= layers[i-1], "layer %d is smaller than layer %d" % (i, i-1)
-	rnn_layers = [cell_fn(layer_dim, state_is_tuple=True) for layer_dim in layers]
-	if dropout_p > 0: [tf.nn.rnn_cell.DropoutWrapper(cell_fn(layer_dim, state_is_tuple=True), dropout_p) for layer_dim in layers]
+	rnn_layers = [cell_fn(layer_dim) for layer_dim in layers]
+	if dropout_p > 0: [tf.nn.rnn_cell.DropoutWrapper(cell_fn(layer_dim), dropout_p) for layer_dim in layers]
 	return tf.nn.rnn_cell.MultiRNNCell(rnn_layers, state_is_tuple=True)
  
-# def dnn_layers(input_layers, layers):
-# 	if len(layers) > 1:
-# 		for i in range(1,len(layers)): assert layers[i] >= layers[i-1], "layer %d is smaller than layer %d" % (i, i-1)
-#     if layers and isinstance(layers, dict):
-#         return learn.ops.dnn(input_layers,
-#                              layers['layers'],
-#                              activation=layers.get('activation'),
-#                              dropout=layers.get('dropout'))
-
-#     elif layers:
-#         return learn.ops.dnn(input_layers, layers)
-#     else:
-#         return input_layers
+def dnn_layers(input_size, hidden_layers):
+	dnn_layers = []
+	hidden_layers.insert(0, input_size)
+	for i in range(1, len(hidden_layers)):
+		W = tf.Variable(np.random.rand(hidden_layers[i-1], hidden_layers[i]), dtype=tf.float32)
+		b = tf.Variable(np.zeros(hidden_layers[i]), dtype=tf.float32)
+		dnn_layers.append({'W': W, 'b': b})
+	return dnn_layers

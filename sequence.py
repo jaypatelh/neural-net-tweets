@@ -27,9 +27,8 @@ class Config(object):
     loss = "l2"
     lr = 1e-4
     num_classes = 18
-    rnn_size = 64
-    hidden_size = 32
-    num_layers = 1
+    rnn_layers = [64] # this is the output of 
+    hidden_layers = [32, 18]
     seq_length = 1
     dropout_p = 0.0
     learning_rate = 0.1
@@ -52,8 +51,14 @@ class SequenceModel():
 			cell_fn = tf.contrib.rnn.BasicLSTMCell
 		else:
 			"Model %s is not supported in our code" % config.model
-		self.cell = cell_fn(self.config.rnn_size)
-		if self.config.num_layers > 1: self.cell = tf.nn.rnn_cell.MultiRNNCell([cell] * self.config.num_layers, state_is_tuple=True)
+		if self.config.rnn_layers != None and len(self.config.rnn_layers) > 0:
+			self.cell = sequence_cells(cell_fn, self.config.rnn_layers, self.config.dropout_p)
+		else: self.cell = None
+		if self.config.hidden_layers != None and len(self.config.hidden_layers) > 0:
+			if self.cell != None: input_dim = self.config.rnn_layers[-1]
+			else: self.dnn = input_dim = self.config.input_size
+			self.dnn = dnn_layers(input_dim, self.config.hidden_layers)
+		else: self.dnn = None
 		self.build()
 
 	def get_batch(self, batch_num):
@@ -86,16 +91,17 @@ class SequenceModel():
 		Returns:
 			preds: tf.Tensor of shape (batch_size, 1)
 		"""
-		rnn_outputs, rnn_state = tf.nn.dynamic_rnn(self.cell, self.inputs_placeholder, dtype=tf.float32)
-		# rnn_outputs, self.rnn_state = tf.nn.rnn(self.cell, self.inputs_placeholder, initial_state=self.rnn_state)
-		
-		if self.config.model == "lstm": rnn_state = rnn_state[0]
-		self.W = tf.Variable(np.random.rand(self.config.rnn_size, self.config.num_classes),dtype=tf.float32)
-		self.b = tf.Variable(np.zeros((1,self.config.num_classes)), dtype=tf.float32)
-		# preds = tf.reshape(tf.sigmoid(rnn_state), [-1, self.rnn_size])
-		rnn_outputs = tf.reshape(rnn_outputs, [-1, self.config.rnn_size])
-		logits = tf.matmul(rnn_outputs, self.W) + self.b
-		preds = tf.nn.softmax(logits)
+		if self.cell != None:
+			outputs, _ = tf.nn.dynamic_rnn(self.cell, self.inputs_placeholder, dtype=tf.float32)
+		else: outputs = self.inputs_placeholder
+
+		outputs = tf.reshape(outputs, [-1, self.config.rnn_layers[-1]])
+		print outputs
+		if self.dnn != None:
+			for i,layer in enumerate(self.dnn):
+				outputs = tf.nn.relu_layer(outputs, layer['W'], layer['b'], name='relu_' + str(i))
+
+		preds = tf.nn.softmax(outputs)
 		return preds
 
 	def add_loss_op(self, preds):
