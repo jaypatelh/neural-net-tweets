@@ -2,16 +2,15 @@ import argparse
 import numpy as np
 import tensorflow as tf
 import pickle
-from sklearn.model_selection import train_test_split
 from sequence_util import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input_glob", required=True) # 'data/*'
 parser.add_argument("-lf", "--labels_filename", required=True) # 'labels-03112017.p'
-parser.add_argument("-ef", "--embeddings_filename", required=True) # 'word2vec_average.p'
+parser.add_argument("-ef", "--embeddings_filename", required=True) # 'word2vec_average.p' # Not implemented, doesn't do anything
 parser.add_argument("-m", "--model", required=True) # e.g. 'lstm'
 parser.add_argument("-mf", "--model_filename", required=True) # 'lstm_sentence'
-parser.add_argument("-w", "--warmstart", default=False, type=bool)
+parser.add_argument("-w", "--warmstart", default=False, type=bool) # Not implemented, doesn't do anything
 args = parser.parse_args()
 
 class Config(object):
@@ -24,41 +23,54 @@ class Config(object):
     batch_size = 32
     model_filename = args.model_filename
     model = args.model
-    loss = "l2"
-    lr = 1e-4
-    num_classes = 18
-    rnn_layers = [64] # this is the output of 
-    hidden_layers = [32, 18]
-    seq_length = 1
-    dropout_p = 0.0
-    learning_rate = 0.1
-    clip_gradients = False
-    num_epochs = 10
-    optimizer = "adam"
-    clip_gradients = False
-    mask = False
+    
     input_size = 200
+    num_classes = 18
+    # This is the output size of each sequence unit, must be in array or none if no rnn units are needed.
+    # Last number must correspond with the classifier if no relu layers are used.
+    rnn_layers = [64, 32]
+    # This is the output size of each relu unit, must be in array or none if no relu layers are needed.
+    # Last number must correspond with the number of classes. The input for the first layer will either
+    # be the dimension of the rnn output, or of the input size if no rnn units are used.
+    hidden_layers = [18]
+    seq_length = 2
+
+    loss = "softmax" # currently the choice is this (sigmoid with l2) or "sofmax" (softmax cross entropy)
+    optimizer = "adam" # currently the choice is this or "grad" (gradient descent)
+    lr = 1e-4
+    dropout_p = 0.0 # Not tested yet, may not work
+    learning_rate = 0.1
+    clip_gradients = False # Not tested yet, may not work
+    max_grad_norm = 5.0 # Not tested yet, may not work
+    num_epochs = 10
+    clip_gradients = False
+    mask = False # Not implemented yet, will not do anything
+
+    tf_random_seed = 59 # None means no random seed set for tensorflow graph
+    init_random_seed = 23 # None means no random seed set for weight initialization in ReLu layers
+    batch_random_seed = 45 # None means no random seed set for train/dev splits
+    test_split = 0.25 # What proportion should be held out for evaluation
 
 class SequenceModel():
 	def __init__(self, config):
 		self.config = config
-		# Choose a model
-		if self.config.model == 'rnn':
-			cell_fn = tf.contrib.rnn.BasicRNNCell
-		elif self.config.model == 'gru':
-			cell_fn = tf.contrib.rnn.GRUCell
-		elif self.config.model == 'lstm':
-			cell_fn = tf.contrib.rnn.BasicLSTMCell
-		else:
-			"Model %s is not supported in our code" % config.model
+		
+		# Assign sequence model cell
+		if self.config.model == 'rnn': cell_fn = tf.contrib.rnn.BasicRNNCell
+		elif self.config.model == 'gru': cell_fn = tf.contrib.rnn.GRUCell
+		elif self.config.model == 'lstm': cell_fn = tf.contrib.rnn.BasicLSTMCell
+		else: "Model %s is not supported in our code" % config.model
+
+		# Configure RNN and DNN layers
 		if self.config.rnn_layers != None and len(self.config.rnn_layers) > 0:
 			self.cell = sequence_cells(cell_fn, self.config.rnn_layers, self.config.dropout_p)
 		else: self.cell = None
 		if self.config.hidden_layers != None and len(self.config.hidden_layers) > 0:
 			if self.cell != None: input_dim = self.config.rnn_layers[-1]
-			else: self.dnn = input_dim = self.config.input_size
-			self.dnn = dnn_layers(input_dim, self.config.hidden_layers)
+			else: self.dnn = input_dim = self.config.input_size*self.config.seq_length
+			self.dnn = dnn_layers(input_dim, self.config.hidden_layers, self.config.init_random_seed)
 		else: self.dnn = None
+		
 		self.build()
 
 	def get_batch(self, batch_num):
@@ -93,16 +105,21 @@ class SequenceModel():
 		"""
 		if self.cell != None:
 			outputs, _ = tf.nn.dynamic_rnn(self.cell, self.inputs_placeholder, dtype=tf.float32)
-		else: outputs = self.inputs_placeholder
+			# If there was more than one input in the sequence, just take the hidden layer corresponding to the last
+			# item of the sequence
+			if self.config.seq_length > 1: outputs = outputs[:,-1]
+			outputs = tf.reshape(outputs, [-1, self.config.rnn_layers[-1]])
+		else:
+			outputs = tf.reshape(self.inputs_placeholder, [-1, self.config.input_size * self.config.seq_length])
 
-		outputs = tf.reshape(outputs, [-1, self.config.rnn_layers[-1]])
-		print outputs
 		if self.dnn != None:
 			for i,layer in enumerate(self.dnn):
 				outputs = tf.nn.relu_layer(outputs, layer['W'], layer['b'], name='relu_' + str(i))
-
-		preds = tf.nn.softmax(outputs)
-		return preds
+		# optimizer = tf.train.AdagradOptimizer(learning_rate=self.config.lr)
+		# classifier = tf.contrib.learn.DNNClassifier(hidden_units=self.config.hidden_layers,
+  #                                           n_classes=self.config.num_classes,
+  #                                           optimizer=optimizer)
+		return outputs
 
 	def add_loss_op(self, preds):
 		"""Adds ops to compute the loss function.
@@ -119,12 +136,11 @@ class SequenceModel():
 			loss: A 0-d tensor (scalar)
 		"""
 		if self.config.loss == "l2":
+			preds = tf.sigmoid(preds)
 			loss_vec = tf.nn.l2_loss(preds-self.labels_placeholder)
 		elif self.config.loss == "softmax":
-			if args.mask:
-				loss_vec = tf.boolean_mask(tf.nn.sparse_softmax_cross_entropy_with_logits(preds, self.labels_placeholder), self.mask_placeholder)
-			else:
-				loss_vec = tf.nn.sparse_softmax_cross_entropy_with_logits(preds, self.labels_placeholder)
+			loss_vec = tf.nn.softmax_cross_entropy_with_logits(logits=preds, labels=self.labels_placeholder)
+			if self.config.mask: loss_vec = tf.boolean_mask(loss_vec, self.mask_placeholder)
 		else: raise ValueError("Loss function %s not supported" % self.config.loss)
 		return tf.reduce_mean(loss_vec)
 
@@ -150,15 +166,14 @@ class SequenceModel():
 		Returns:
 			train_op: The Op for training.
 		"""
-		if self.config.optimizer == "adam":
-			optimizer = tf.train.AdamOptimizer(self.config.lr)
-		elif self.config.optimizer == "grad":
-			optimizer = tf.train.GradientDescentOptimizer(learning_rate=self.config.lr)
+		if self.config.optimizer == "adam": optimizer = tf.train.AdamOptimizer(self.config.lr)
+		elif self.config.optimizer == "grad": optimizer = tf.train.GradientDescentOptimizer(learning_rate=self.config.lr)
 		else: raise ValueError("Optimizer %s not supported." % self.config.optimizer)
+		
 		gradients = optimizer.compute_gradients(loss) 
 		grad_vars = zip(*gradients)
 		if self.config.clip_gradients == True:
-		    result = tf.clip_by_global_norm(grad_vars[0], 5.0) 
+		    result = tf.clip_by_global_norm(grad_vars[0], self.config.max_grad_norm) 
 		    self.grad_norm = tf.global_norm(result[0])
 		else:
 		    result = grad_vars
@@ -192,8 +207,7 @@ class SequenceModel():
 		return losses, grad_norms
 
 	def fit(self, sess, X, y):
-		self.data = X
-		self.labels = y
+		self.data, self.labels = X, y
 		losses, grad_norms = [], []
 		for epoch in range(self.config.num_epochs): print "Epoch %d out of %d" % (epoch + 1, self.config.num_epochs)
 		loss, grad_norm = self.run_epoch(sess)
@@ -219,18 +233,14 @@ class SequenceModel():
 		self.loss = self.add_loss_op(self.pred)
 		self.train_op = self.add_training_op(self.loss)
 
-# Read in all data and sort in accordance to time sequence
-tweet_ids = get_tweet_ids_time_ordered(args.input_glob + "/tweets.p")
-labels = get_labels(args.input_glob + "/" + args.labels_filename, tweet_ids)
-assert(len(labels)==len(tweet_ids)), "Tweet ids in pickle files do not map fully to labels"
-embeddings = get_embeddings(args.input_glob + "/" + args.embeddings_filename, tweet_ids)
-assert(len(embeddings)==len(tweet_ids)), "Tweet ids in pickle files do not map fully to embeddings"
 
-X_train, X_test, y_train, y_test = train_test_split(embeddings, labels, test_size=0.25, random_state=42)
 config = Config()
+X_train, X_test, y_train, y_test = get_training_data(args.input_glob + "/tweets.p",
+	args.input_glob + "/" + args.labels_filename, args.input_glob + "/" + args.embeddings_filename,
+	test_split=config.test_split, random_seed = config.batch_random_seed)
 
 with tf.Graph().as_default():
-	tf.set_random_seed(59)
+	if config.tf_random_seed != None: tf.set_random_seed(config.tf_random_seed)
 	print "Building model..."
 	model = SequenceModel(config)
 	init = tf.global_variables_initializer()
