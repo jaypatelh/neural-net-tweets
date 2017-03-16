@@ -8,7 +8,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input_glob", required=True) # 'data/*'
 parser.add_argument("-lf", "--labels_filename", required=True) # 'labels-03112017.p'
 parser.add_argument("-ef", "--embeddings_filename", required=True) # 'word2vec_average.p' # Not implemented, doesn't do anything
-parser.add_argument("-m", "--model", required=True) # e.g. 'lstm'
 parser.add_argument("-mf", "--model_filename", required=True) # 'lstm_sentence'
 parser.add_argument("-w", "--warmstart", default=False, type=bool) # Not implemented, doesn't do anything
 args = parser.parse_args()
@@ -22,7 +21,7 @@ class Config(object):
     """
     batch_size = 32
     model_filename = args.model_filename
-    model = args.model
+    model = "lstm" # can also choose from "gru" and "rnn" for basic rnn cell
     
     input_size = 200
     num_classes = 18
@@ -92,14 +91,6 @@ class SequenceModel():
 
 	def add_prediction_op(self):
 		"""Runs an rnn on the input using TensorFlows's
-		@tf.nn.dynamic_rnn function, and returns the final state as a prediction.
-
-		TODO: 
-			- Call tf.nn.dynamic_rnn using @cell below. See:
-			https://www.tensorflow.org/api_docs/python/nn/recurrent_neural_networks
-			- Apply a sigmoid transformation on the final state to
-			normalize the inputs between 0 and 1.
-
 		Returns:
 			preds: tf.Tensor of shape (batch_size, 1)
 		"""
@@ -123,12 +114,6 @@ class SequenceModel():
 
 	def add_loss_op(self, preds):
 		"""Adds ops to compute the loss function.
-		Here, we will use a simple l2 loss.
-
-		Tips:
-			- You may find the functions tf.reduce_mean and tf.l2_loss
-			  useful.
-
 		Args:
 			pred: A tensor of shape (batch_size, 1) containing the last
 			state of the neural network.
@@ -150,17 +135,6 @@ class SequenceModel():
 		Creates an optimizer and applies the gradients to all trainable variables.
 		The Op returned by this function is what must be passed to the
 		`sess.run()` call to cause the model to train. See
-
-		TODO:
-			- Get the gradients for the loss from optimizer using
-			  optimizer.compute_gradients.
-			- if self.clip_gradients is true, clip the global norm of
-			  the gradients using tf.clip_by_global_norm to self.config.max_grad_norm
-			- Compute the resultant global norm of the gradients using
-			  tf.global_norm and save this global norm in self.grad_norm.
-			- Finally, actually create the training operation by calling
-			  optimizer.apply_gradients.
-		See: https://www.tensorflow.org/api_docs/python/train/gradient_clipping
 		Args:
 			loss: Loss tensor.
 		Returns:
@@ -170,7 +144,8 @@ class SequenceModel():
 		elif self.config.optimizer == "grad": optimizer = tf.train.GradientDescentOptimizer(learning_rate=self.config.lr)
 		else: raise ValueError("Optimizer %s not supported." % self.config.optimizer)
 		
-		gradients = optimizer.compute_gradients(loss) 
+		gradients = optimizer.compute_gradients(loss)
+		print gradients
 		grad_vars = zip(*gradients)
 		if self.config.clip_gradients == True:
 		    result = tf.clip_by_global_norm(grad_vars[0], self.config.max_grad_norm) 
@@ -191,8 +166,10 @@ class SequenceModel():
 		return predictions
 
 	def train_on_batch(self, sess, input_batch, labels_batch):
-		"""Perform one step of gradient descent on the provided batch of data.
-		This version also returns the norm of gradients. """
+		"""
+		Perform one step of gradient descent on the provided batch of data.
+		This version also returns the norm of gradients.
+		"""
 		feed = self.create_feed_dict(input_batch, labels_batch=labels_batch)
 		_, loss, grad_norm = sess.run([self.train_op, self.loss, self.grad_norm], feed_dict=feed)
 		return loss, grad_norm
