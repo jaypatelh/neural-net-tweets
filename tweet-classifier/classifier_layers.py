@@ -16,15 +16,16 @@ class Config(object):
     information parameters. Model objects are passed a Config() object at
     instantiation.
     """
-    # n_samples = 16660
-    n_samples = 39500
+    n_samples = 1851
+    # n_samples = 39500
     n_features = 200
     n_classes = 18
     hidden_layer_size = 500
-    batch_size = 79
-    # batch_size = 140
-    n_epochs = 5000
+    # batch_size = 79
+    batch_size = 617
+    n_epochs = 200
     lr = 1e-4
+    num_layers = 2
 
 
 class SimpleModel(Model):
@@ -80,14 +81,29 @@ class SimpleModel(Model):
         Returns:
             pred: A tensor of shape (batch_size, n_classes)
         """
+        if (Config.num_layers == 0):
+            W = tf.Variable(tf.zeros((Config.n_features, Config.n_classes)), dtype=tf.float32)
+            b = tf.Variable(tf.zeros((Config.batch_size, Config.n_classes)), dtype=tf.float32)
+            return tf.matmul(self.input_placeholder, W) + b
+
         W_x = tf.Variable(tf.zeros((Config.n_features, Config.hidden_layer_size)), dtype=tf.float32)
         b_x = tf.Variable(tf.zeros((Config.batch_size, Config.hidden_layer_size)), dtype=tf.float32)
+        h = tf.matmul(self.input_placeholder, W_x) + b_x
+        h = tf.nn.relu(h)
+
+        W_array = []
+        b_array = []    
+        for i in range(0,Config.num_layers-1):
+            W_array.append(tf.Variable(tf.zeros((Config.hidden_layer_size, Config.hidden_layer_size)), dtype=tf.float32))
+            b_array.append(tf.Variable(tf.zeros((Config.batch_size, Config.hidden_layer_size)), dtype=tf.float32))
+            old_h = h
+            h = tf.matmul(old_h, W_array[i]) + b_array[i]
+            h = tf.nn.relu(h)
+
         W_h = tf.Variable(tf.zeros((Config.hidden_layer_size, Config.n_classes)), dtype=tf.float32)
         b_h = tf.Variable(tf.zeros((Config.batch_size, Config.n_classes)), dtype=tf.float32)
-
-        hidden_layer = tf.matmul(self.input_placeholder, W_x) + b_x
-        hidden_layer = tf.nn.relu(hidden_layer)
-        return tf.matmul(hidden_layer, W_h) + b_h
+        output = tf.matmul(h, W_h) + b_h
+        return output
 
     def add_loss_op(self, pred):
         """Adds cross_entropy_loss ops to the computational graph.
@@ -220,7 +236,6 @@ if __name__ == "__main__":
     data = [
         "data/california_earthquake", 
         "data/chile_earthquake", 
-        "data/chile_earthquake_es", 
         "data/pakistan_earthquake", 
         "data/nepal_earthquake",
         "data/cyclone_pam",
@@ -229,12 +244,13 @@ if __name__ == "__main__":
         "data/iceland_volcano",
         "data/india_floods",
         "data/landslides_ww_en",
-        "data/landslides_ww_es",
-        "data/landslides_ww_fr",
         "data/malaysia_flight",
         "data/mers",
         "data/pakistan_floods",
         "data/philipines_typhoon",
+        # "data/chile_earthquake_es", 
+        # "data/landslides_ww_es",
+        # "data/landslides_ww_fr",
     ]
 
     chosen_labels_matrix = None

@@ -4,6 +4,7 @@ import tensorflow as tf
 import pickle
 from sequence_util import *
 
+
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input_glob", required=True) # 'data/*'
 parser.add_argument("-lf", "--labels_filename", required=True) # 'labels-03112017.p'
@@ -55,9 +56,9 @@ class SequenceModel():
 		self.config = config
 		
 		# Assign sequence model cell
-		if self.config.model == 'rnn': cell_fn = tf.contrib.rnn.BasicRNNCell
-		elif self.config.model == 'gru': cell_fn = tf.contrib.rnn.GRUCell
-		elif self.config.model == 'lstm': cell_fn = tf.contrib.rnn.BasicLSTMCell
+		if self.config.model == 'rnn': cell_fn = tf.nn.rnn_cell.BasicRNNCell
+		elif self.config.model == 'gru': cell_fn = tf.nn.rnn_cell.GRUCell
+		elif self.config.model == 'lstm': cell_fn = tf.nn.rnn_cell.BasicLSTMCell
 		else: "Model %s is not supported in our code" % config.model
 
 		# Configure RNN and DNN layers

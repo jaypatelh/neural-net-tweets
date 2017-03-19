@@ -84,7 +84,7 @@ class SimpleModel(Model):
             pred: A tensor of shape (batch_size, n_classes)
         """
         initializer=tf.contrib.layers.xavier_initializer()
-        W = tf.Variable(tf.zeros((Config.n_features, Config.n_classes)), dtype=tf.float32)
+        W = tf.Variable(initializer((Config.n_features, Config.n_classes)), dtype=tf.float32)
         b = tf.Variable(tf.zeros((Config.batch_size, Config.n_classes)), dtype=tf.float32)
 
         return tf.matmul(self.input_placeholder, W) + b
@@ -117,6 +117,7 @@ class SimpleModel(Model):
             train_op: The Op for training.
         """
         train_op = tf.train.GradientDescentOptimizer(Config.lr).minimize(loss)
+        # train_op = tf.train.AdamOptimizer(Config.lr).minimize(loss)
         return train_op
 
     def run_epoch(self, sess, inputs, labels):
