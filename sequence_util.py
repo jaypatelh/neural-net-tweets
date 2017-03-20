@@ -80,13 +80,31 @@ def load_indexed_data_with_vocab(input_files, label_files, test_split=None, rand
 		sentences.append(word_indices)
 	return words, train_test_split(sentences, labels, test_size=test_split, random_state=random_seed)
 
-def sequence_cells(cell_fn, layers, dropout_p):
+def sequence_cells(cell_fn, layers, dropout_p=0.0, attention=None):
 	if len(layers) == 1:
-		if dropout_p == 0: return cell_fn(layers[0])
-		else: return tf.contrib.rnn.DropoutWrapper(cell_fn(layers[0]), dropout_p)
+		cell = cell_fn(layers[0])
+		if dropout_p > 0:
+			cell = tf.contrib.rnn.DropoutWrapper(cell, dropout_p)
+			print "Added dropout to cell ", cell
+		if attention is not None:
+			attn_length, attn_size, attn_vec_size = attention
+			cell = tf.contrib.rnn.AttentionCellWrapper(
+				cell, attn_length=attn_length, attn_size=attn_size,
+            	attn_vec_size=attn_vec_size, state_is_tuple=True)
+			print "Added attention to cell ", cell
+		return cell
+	
 	# For multi layer cells
 	rnn_layers = [cell_fn(layer_dim) for layer_dim in layers]
-	if dropout_p > 0: [tf.contrib.rnn.DropoutWrapper(cell_fn(layer_dim), dropout_p) for layer_dim in layers]
+	if attention is not None:
+		attn_length, attn_size, attn_vec_size = attention
+        rnn_layers = [tf.contrib.rnn.AttentionCellWrapper(
+            rnn_cell, attn_length=attn_length, attn_size=attn_size,
+            attn_vec_size=attn_vec_size, state_is_tuple=True) for rnn_cell in rnn_layers]
+        print "Added attention to each layer ", rnn_layers
+	if dropout_p > 0:
+		rnn_layers = [tf.contrib.rnn.DropoutWrapper(rnn_cell, dropout_p) for rnn_cell in rnn_layers]
+		print "Added dropout to each layer ", rnn_layers
 	return tf.contrib.rnn.MultiRNNCell(rnn_layers, state_is_tuple=True)
  
 def dnn_layers(input_size, hidden_layers, random_seed=None):
@@ -141,6 +159,51 @@ def pad_sequences(data, zero_input, max_length):
         masks.append(mSeq)
 
     return new_data, masks
+
+def load_data_with_embedding_lookup(config, input_file_directories, labels_filename, embeddings_filename):
+	print "Embedding lookup ... finding vocab and training blob based on vocab index"
+	vocab, training_blob = load_indexed_data_with_vocab(
+		[d + "/cleaned_tweets.p" for d in input_file_directories],
+		[d + "/" + labels_filename for d in input_file_directories],
+		test_split=config.test_split,
+		random_seed= config.batch_random_seed)
+	X_train, X_test, y_train, y_test = training_blob
+	print "Vocabulary is %d words" % len(vocab)
+
+	if config.embedding_lookup == "pretrained":
+		print "Pretrained embeddings ... loading embeddings"
+		embeddings = word_embedding_features(embeddings_filename, vocab)
+		assert(len(embeddings) == len(vocab)), "Embeddings and vocabulary not the same size!"
+		print "Start of embedding for %s: " % vocab[0], embeddings[0][:5]
+	# If embeddings are trained from scratch, just initialize an array of the correct dimension to be the pretrained
+	# embedding
+	elif config.embedding_lookup == "create": embeddings = np.random.rand(len(vocab), config.input_size)
+	else: raise ValueError("%s not recognized as a supported embedding lookup!" % config.embedding_lookup)
+
+	train_mask, test_mask = None, None
+	print "Embedding lookup with padded sequences ... doing padding modifications"
+	assert(vocab is not None), "Vocabulary did not build!"
+	# This is the padding word that we add to our vocab
+	vocab.append("<NULL_TOKEN>")
+	# The last index is for the null word and what we pass in to the pad_sequences
+	# function
+	zero_input_idx = len(vocab)-1 
+	# If we are providing the embeddings, make sure we add an extra embedding to 
+	# correspond to the null word, in this case it is just a zero vector
+	assert(embeddings is not None), "Embeddings were not created!"
+
+	# Pad sequences with zero input and create a corresponding zero input vector in the embeddings
+	zero_input = [0.0]*config.input_size
+	embeddings.append(np.array(zero_input))
+	embeddings = np.array(embeddings)
+	print "Embeddings is shape", embeddings.shape
+	print "Start of embeddings corresponding with zero input is" % embeddings[zero_input_idx, :5]
+	X_train, train_mask = pad_sequences(X_train, zero_input_idx, config.max_words)
+	X_test, test_mask = pad_sequences(X_test, zero_input_idx, config.max_words)
+	print "Example padded sequence in training is ", X_train[0]
+	print "Corresponding mask is ", train_mask[0]
+
+	return embeddings, X_train, X_test, y_train, y_test, train_mask, test_mask
 
 # def make_prediction_plot(title, losses, grad_norms):
 #     plt.subplot(2, 1, 1)

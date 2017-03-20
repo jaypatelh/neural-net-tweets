@@ -1,18 +1,15 @@
-import argparse
 import numpy as np
 import tensorflow as tf
 import pickle
 from sequence_util import *
 
-parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input_glob", required=True) # 'data/*'
-parser.add_argument("-lf", "--labels_filename", required=True) # 'labels-03112017.p'
-parser.add_argument("-ef", "--embeddings_filename", required=True) # 'word2vec_average.p' # Not implemented, doesn't do anything
-parser.add_argument("-mf", "--model_filename", required=True) # 'lstm_sentence'
-parser.add_argument("-eo", "--english_only", default=True)
-parser.add_argument("-w", "--warmstart", default=False, type=bool) # Not implemented, doesn't do anything
-args = parser.parse_args()
-
+# This is the default config. It will take in the raw input embeddings
+# for a rnn sequence model with the specifications above. The rnn 
+# sequence of model takes windows of inputs and predicts the label of
+# the last input.
+# The embedding file in this case should be something
+# that maps tweet ids to the input embeddings for that id, for example
+# word2vec_average.p or word2vec_minmax.p
 class Config(object):
     """Holds model hyperparams and data information.
 
@@ -20,8 +17,8 @@ class Config(object):
     information parameters. Model objects are passed a Config() object at
     instantiation.
     """
-    model_filename = args.model_filename
-    model = "lstm" # can also choose from "gru" and "rnn" for basic rnn cell
+    model_filename = "default_model"
+    model = "gru" # can also choose from "gru" and "rnn" for basic rnn cell
     input_size = 200
     batch_size = 32
     
@@ -31,12 +28,12 @@ class Config(object):
     
     # This is the output size of each sequence unit, must be in array or none if no rnn units are needed.
     # Last number must correspond with the classifier if no relu layers are used.
-    rnn_layers = [64]
+    rnn_layers = [64, 32]
     
     # This is the output size of each relu unit, must be in array or none if no relu layers are needed.
     # Last number must correspond with the number of classes. The input for the first layer will either
     # be the dimension of the rnn output, or of the input size if no rnn units are used.
-    hidden_layers = [32, 18]
+    hidden_layers = [24, 18]
     
     # Augment the inputs by a dimension, and take windows of inputs in a sequence of seq_length
     # NOTE: sequence batch will not work if embeddings is non null, since that indicates the sequence will
@@ -55,6 +52,10 @@ class Config(object):
     max_grad_norm = 5.0 # Not tested yet, may not work
     num_epochs = 2
 
+    # attn_length, attn_size, attn_vec_size MUST BE 3 elements in array, the last two can be None
+    # and will both default to the output size of the rnn
+    attn_config = [3, None, None]
+
     tf_random_seed = 59 # None means no random seed set for tensorflow graph
     init_random_seed = 23 # None means no random seed set for weight initialization in ReLu layers
     batch_random_seed = 45 # None means no random seed set for train/dev splits
@@ -69,6 +70,14 @@ class Config(object):
 
     # figure_title = "%s with %s and %s" % (model, loss, optimizer)
 
+# This is the lookup config. It does the same thing as the default,
+# with the exception that it looks up the embeddings instead of taking
+# them in as raw input. The difference this makes is that the gradients
+# will backpropogate to the embeddings themselves.
+# The embedding file in this case should be the model file, for example
+# word2vec_model
+# Look at the class for specific things you should modify with this one.
+
 class TweetSequenceLookupEmbeddingSequenceConfig(Config):
 	pad_sequences = True
 	embedding_lookup = "pretrained"
@@ -76,6 +85,13 @@ class TweetSequenceLookupEmbeddingSequenceConfig(Config):
 	sentence_embeddings = "average"
 	seq_length = 3
 	max_words = 10
+
+# This is another lookup config (similar to the previous one), except
+# that instead of averaging or aggregating the words before feeding it
+# to the RNN, each word is an input and the last word is the output
+# that has a label predicted on.
+# The embedding file in this case should be the model file, for example
+# word2vec_model
 
 class TweetSequenceLookupEmbeddingConfig(Config):
 	pad_sequences = True
@@ -85,43 +101,9 @@ class TweetSequenceLookupEmbeddingConfig(Config):
 	max_words = 10
 
 ####################################################################
-# CONFIG IS MOVED UP HERE FOR EASE OF USE
-# READ THE CORRESPONDING TEXT IF YOU WANT TO RUN SPECIAL CONFIGS
-# THAT ENABLE YOU TO LOOK UP EMBEDDINGS OR USE WORD TO WORD INSTEAD
-# OF TWEET TO TWEET
-####################################################################
-# This is the default config. It will take in the raw input embeddings
-# for a rnn sequence model with the specifications above. The rnn 
-# sequence of model takes windows of inputs and predicts the label of
-# the last input.
-# The embedding file in this case should be something
-# that maps tweet ids to the input embeddings for that id, for example
-# word2vec_average.p or word2vec_minmax.p
-
-config = Config()
-
-# This is the lookup config. It does the same thing as the default,
-# with the exception that it looks up the embeddings instead of taking
-# them in as raw input. The difference this makes is that the gradients
-# will backpropogate to the embeddings themselves.
-# The embedding file in this case should be the model file, for example
-# word2vec_model
-# Look at the class for specific things you should modify with this one.
-
-# config = TweetSequenceLookupEmbeddingSequenceConfig()
-
-# This is another lookup config (similar to the previous one), except
-# that instead of averaging or aggregating the words before feeding it
-# to the RNN, each word is an input and the last word is the output
-# that has a label predicted on.
-# The embedding file in this case should be the model file, for example
-# word2vec_model
-
-# config = TweetSequenceLookupEmbeddingConfig()
-####################################################################
 
 class SequenceModel():
-	def __init__(self, config, pretrained_embeddings=None, vocab=None):
+	def __init__(self, config, pretrained_embeddings=None):
 		self.config = config
 
 		# Assign sequence model cell
@@ -132,7 +114,8 @@ class SequenceModel():
 
 		# Configure RNN and DNN layers
 		if self.config.rnn_layers is not None and len(self.config.rnn_layers) > 0:
-			self.cell = sequence_cells(cell_fn, self.config.rnn_layers, self.config.dropout_p)
+			self.cell = sequence_cells(cell_fn, self.config.rnn_layers,
+				dropout_p = self.config.dropout_p, attention=self.config.attn_config)
 		else: self.cell = None
 		if self.config.hidden_layers is not None and len(self.config.hidden_layers) > 0:
 			if self.cell is not None: input_dim = self.config.rnn_layers[-1]
@@ -364,70 +347,70 @@ class SequenceModel():
 		self.train_op = self.add_training_op(self.loss)
 
 
-embeddings, vocab = None, None
-input_file_directories = glob.glob(args.input_glob)
-if args.english_only: input_file_directories = [d for d in input_file_directories if "non-english" not in d]
-print "Input directories included are: ", input_file_directories
+# embeddings, vocab = None, None
+# input_file_directories = glob.glob(args.input_glob)
+# if args.english_only: input_file_directories = [d for d in input_file_directories if "non-english" not in d]
+# print "Input directories included are: ", input_file_directories
 
-if config.embedding_lookup is not None:
-	print "Embedding lookup ... finding vocab and training blob based on vocab index"
-	vocab, training_blob = load_indexed_data_with_vocab(
-		[d + "/cleaned_tweets.p" for d in input_file_directories],
-		[d + "/" + args.labels_filename for d in input_file_directories],
-		test_split=config.test_split,
-		random_seed= config.batch_random_seed)
-	X_train, X_test, y_train, y_test = training_blob
-	print "Vocabulary is %d words" % len(vocab)
-	if config.embedding_lookup == "pretrained":
-		print "Pretrained embeddings ... loading embeddings"
-		embeddings = word_embedding_features(args.embeddings_filename, vocab)
-		assert(len(embeddings) == len(vocab)), "Embeddings and vocabulary not the same size!"
-		print "Start of embedding for %s: " % vocab[0], embeddings[0][:5]
-else:
-	print "No embedding lookup ... finding data"
-	X_train, X_test, y_train, y_test = load_data(
-		[d + "/cleaned_tweets.p" for d in input_file_directories],
-		[d + "/" + args.labels_filename for d in input_file_directories],
-		[d + "/" + args.embeddings_filename for d in input_file_directories],
-		test_split=config.test_split,
-		random_seed = config.batch_random_seed)
+# if config.embedding_lookup is not None:
+# 	print "Embedding lookup ... finding vocab and training blob based on vocab index"
+# 	vocab, training_blob = load_indexed_data_with_vocab(
+# 		[d + "/cleaned_tweets.p" for d in input_file_directories],
+# 		[d + "/" + args.labels_filename for d in input_file_directories],
+# 		test_split=config.test_split,
+# 		random_seed= config.batch_random_seed)
+# 	X_train, X_test, y_train, y_test = training_blob
+# 	print "Vocabulary is %d words" % len(vocab)
+# 	if config.embedding_lookup == "pretrained":
+# 		print "Pretrained embeddings ... loading embeddings"
+# 		embeddings = word_embedding_features(args.embeddings_filename, vocab)
+# 		assert(len(embeddings) == len(vocab)), "Embeddings and vocabulary not the same size!"
+# 		print "Start of embedding for %s: " % vocab[0], embeddings[0][:5]
+# else:
+# 	print "No embedding lookup ... finding data"
+# 	X_train, X_test, y_train, y_test = load_data(
+# 		[d + "/cleaned_tweets.p" for d in input_file_directories],
+# 		[d + "/" + args.labels_filename for d in input_file_directories],
+# 		[d + "/" + args.embeddings_filename for d in input_file_directories],
+# 		test_split=config.test_split,
+# 		random_seed = config.batch_random_seed)
 
-train_mask, test_mask = None, None
-# Use the pad_sequences functions to get the altered training/test data as well
-# as a corresponding mask
-if config.embedding_lookup is not None and config.pad_sequences:
-	print "Embedding lookup with padded sequences ... doing padding modifications"
-	assert(vocab is not None), "Vocabulary did not build!"
-	# This is the padding word that we add to our vocab
-	vocab.append("<NULL_TOKEN>")
-	# The last index is for the null word and what we pass in to the pad_sequences
-	# function
-	zero_input_idx = len(vocab)-1 
-	# If we are providing the embeddings, make sure we add an extra embedding to 
-	# correspond to the null word, in this case it is just a zero vector
-	if config.embedding_lookup == "pretrained" and embeddings is not None:
-		zero_input = [0.0]*config.input_size
-		embeddings.append(np.array(zero_input))
-		embeddings = np.array(embeddings)
-		print "Embeddings is shape", embeddings.shape
-		print "Start of embeddings corresponding with zero input is" % embeddings[zero_input_idx, :5]
-	X_train, train_mask = pad_sequences(X_train, zero_input_idx, config.max_words)
-	X_test, test_mask = pad_sequences(X_test, zero_input_idx, config.max_words)
-	print "Example padded sequence in training is ", X_train[0]
-	print "Corresponding mask is ", train_mask[0]
+# train_mask, test_mask = None, None
+# # Use the pad_sequences functions to get the altered training/test data as well
+# # as a corresponding mask
+# if config.embedding_lookup is not None and config.pad_sequences:
+# 	print "Embedding lookup with padded sequences ... doing padding modifications"
+# 	assert(vocab is not None), "Vocabulary did not build!"
+# 	# This is the padding word that we add to our vocab
+# 	vocab.append("<NULL_TOKEN>")
+# 	# The last index is for the null word and what we pass in to the pad_sequences
+# 	# function
+# 	zero_input_idx = len(vocab)-1 
+# 	# If we are providing the embeddings, make sure we add an extra embedding to 
+# 	# correspond to the null word, in this case it is just a zero vector
+# 	if config.embedding_lookup == "pretrained" and embeddings is not None:
+# 		zero_input = [0.0]*config.input_size
+# 		embeddings.append(np.array(zero_input))
+# 		embeddings = np.array(embeddings)
+# 		print "Embeddings is shape", embeddings.shape
+# 		print "Start of embeddings corresponding with zero input is" % embeddings[zero_input_idx, :5]
+# 	X_train, train_mask = pad_sequences(X_train, zero_input_idx, config.max_words)
+# 	X_test, test_mask = pad_sequences(X_test, zero_input_idx, config.max_words)
+# 	print "Example padded sequence in training is ", X_train[0]
+# 	print "Corresponding mask is ", train_mask[0]
 
-with tf.Graph().as_default():
-	if config.tf_random_seed is not None: tf.set_random_seed(config.tf_random_seed)
-	print "Building model..."
-	model = SequenceModel(config, pretrained_embeddings=embeddings, vocab=vocab)
-	init = tf.global_variables_initializer()
-	print "Running session..."
-	with tf.Session() as session:
-		session.run(init)
-		losses, grad_norms = model.fit(session, X_train, y_train, mask=train_mask)
-		# make_prediction_plot(config.figure_title, losses, grad_norms)
-		print "Losses are" % np.sum(losses, axis=1)
-		train_accuracy = model.predict(session, X_train, y_train, mask_batch=train_mask)
-		print "Training accuracy is %.6f" % train_accuracy
-		test_accuracy = model.predict(session, X_test, y_test, mask_batch=test_mask)
-		print "Test accuracy is %.6f" % test_accuracy
+# with tf.Graph().as_default():
+# 	if config.tf_random_seed is not None: tf.set_random_seed(config.tf_random_seed)
+# 	print "Building model..."
+# 	model = SequenceModel(config, pretrained_embeddings=embeddings)
+# 	init = tf.global_variables_initializer()
+# 	print "Running session..."
+# 	with tf.Session() as session:
+# 		session.run(init)
+# 		losses, grad_norms = model.fit(session, X_train, y_train, mask=train_mask)
+# 		# make_prediction_plot(config.figure_title, losses, grad_norms)
+# 		print "Losses are" % np.sum(losses, axis=1)
+# 		train_accuracy = model.predict(session, X_train, y_train, mask_batch=train_mask)
+# 		print "Training accuracy is %.6f" % train_accuracy
+# 		test_accuracy = model.predict(session, X_test, y_test, mask_batch=test_mask)
+# 		print "Test accuracy is %.6f" % test_accuracy
