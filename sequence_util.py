@@ -87,7 +87,7 @@ def sequence_cells(cell_fn, layers, dropout_p):
 	# For multi layer cells
 	rnn_layers = [cell_fn(layer_dim) for layer_dim in layers]
 	if dropout_p > 0: [tf.contrib.rnn.DropoutWrapper(cell_fn(layer_dim), dropout_p) for layer_dim in layers]
-	return tf.contrib.rnn.MultiRNNCell(rnn_layers, state_is_tuple=True)
+	return tf.nn.rnn_cell.MultiRNNCell(rnn_layers, state_is_tuple=True)
  
 def dnn_layers(input_size, hidden_layers, random_seed=None):
 	if random_seed != None: np.random.seed(random_seed)
