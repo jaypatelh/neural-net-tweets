@@ -85,7 +85,6 @@ class TweetSequenceLookupEmbeddingConfig(Config):
 	sentence_embeddings = None
 	max_words = 10
 
-
 ####################################################################
 # CONFIG IS MOVED UP HERE FOR EASE OF USE
 # READ THE CORRESPONDING TEXT IF YOU WANT TO RUN SPECIAL CONFIGS
