@@ -49,9 +49,8 @@ class Config(object):
 
     loss = "softmax" # currently the choice is this (sigmoid with l2) or "sofmax" (softmax cross entropy)
     optimizer = "adam" # currently the choice is this or "grad" (gradient descent)
-    lr = 1e-3
+    lr = 0.1
     dropout_p = 0.0 # Not tested yet, may not work
-    learning_rate = 0.1
     clip_gradients = False # Not tested yet, may not work
     max_grad_norm = 5.0 # Not tested yet, may not work
     num_epochs = 2
@@ -109,7 +108,7 @@ config = Config()
 # word2vec_model
 # Look at the class for specific things you should modify with this one.
 
-config = TweetSequenceLookupEmbeddingSequenceConfig()
+# config = TweetSequenceLookupEmbeddingSequenceConfig()
 
 # This is another lookup config (similar to the previous one), except
 # that instead of averaging or aggregating the words before feeding it
@@ -118,7 +117,7 @@ config = TweetSequenceLookupEmbeddingSequenceConfig()
 # The embedding file in this case should be the model file, for example
 # word2vec_model
 
-config = TweetSequenceLookupEmbeddingConfig()
+# config = TweetSequenceLookupEmbeddingConfig()
 ####################################################################
 
 class SequenceModel():
@@ -367,7 +366,7 @@ class SequenceModel():
 
 embeddings, vocab = None, None
 input_file_directories = glob.glob(args.input_glob)
-if args.english_only: input_file_directories = [d for d in input_file_directories if d[-3:] != "_es" and d[-3:] != "_fr"]
+if args.english_only: input_file_directories = [d for d in input_file_directories if "non-english" not in d]
 print "Input directories included are: ", input_file_directories
 
 if config.embedding_lookup is not None:
@@ -427,7 +426,7 @@ with tf.Graph().as_default():
 		session.run(init)
 		losses, grad_norms = model.fit(session, X_train, y_train, mask=train_mask)
 		# make_prediction_plot(config.figure_title, losses, grad_norms)
-		print "Loss is %.6f" % np.sum(losses[-1])
+		print "Losses are" % np.sum(losses, axis=1)
 		train_accuracy = model.predict(session, X_train, y_train, mask_batch=train_mask)
 		print "Training accuracy is %.6f" % train_accuracy
 		test_accuracy = model.predict(session, X_test, y_test, mask_batch=test_mask)
