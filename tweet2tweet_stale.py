@@ -25,7 +25,7 @@ def run_graph(config, X_train, X_test, y_train, y_test, embeddings=None, train_m
 		with tf.Session() as session:
 			session.run(init)
 			losses, grad_norms = model.fit(session, X_train, y_train, mask=train_mask)
-			# make_prediction_plot(config.figure_title, losses, grad_norms)
+			make_prediction_plot(config.figure_title, losses, grad_norms)
 			print "Losses are", np.sum(losses, axis=1)
 			train_accuracy = model.predict(session, X_train, y_train, mask_batch=train_mask)
 			print "Training accuracy is %.6f" % train_accuracy

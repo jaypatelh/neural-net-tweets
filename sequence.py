@@ -68,7 +68,7 @@ class Config(object):
     embedding_lookup = None
     sentence_embeddings = None
 
-    # figure_title = "%s with %s and %s" % (model, loss, optimizer)
+    figure_title = "LSTM with Attention"
 
 # This is the lookup config. It does the same thing as the default,
 # with the exception that it looks up the embeddings instead of taking
@@ -132,25 +132,24 @@ class SequenceModel():
 
 	def get_sequence_batch(self, batch_num):
 		# Inputs are (sequences) of either embeddings or indices in to embeddings
-		mask_series = None
 		inputs = self.data[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size + self.config.seq_length]
 		num_series = len(inputs) - self.config.seq_length + 1
 		if num_series < 1: return None
 		series_inputs = [inputs[i:i + self.config.seq_length] for i in range(num_series - 1)]
 		labels = self.labels[batch_num*self.config.batch_size + self.config.seq_length:(batch_num + 1)*self.config.batch_size+self.config.seq_length]
-		mask_series = None
-		if self.config.pad_sequences and self.mask is not None:
-			mask = self.mask[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size + self.config.seq_length]
-			mask_series = [mask[i:i + self.config.seq_length] for i in range(num_series - 1)]
-		return series_inputs, labels, mask_series
+		lengths_series = None
+		if self.config.pad_sequences and self.lengths is not None:
+			lengths = self.lengths[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size + self.config.seq_length]
+			lengths_series = [lengths[i:i + self.config.seq_length] for i in range(num_series - 1)]
+		return series_inputs, labels, lengths_series
 
 	def get_batch(self, batch_num):
-		masks = None
+		lengths = None
 		inputs = self.data[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size]
 		labels = self.labels[batch_num*self.config.batch_size:(batch_num + 1)*self.config.batch_size]
-		if self.config.pad_sequences and self.mask is not None:
-			masks = self.mask[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size]
-		return inputs, labels, masks
+		if self.config.pad_sequences and self.lengths is not None:
+			lengths = self.lengths[batch_num*self.config.batch_size:(batch_num+1)*self.config.batch_size]
+		return inputs, labels, lengths
 
 	def add_placeholders(self):
 		if self.config.embedding_lookup is not None and not self.config.sequence_batch:
@@ -162,14 +161,15 @@ class SequenceModel():
 			self.inputs_placeholder = tf.placeholder(tf.float32, [None, self.config.seq_length, self.config.input_size], 'input_placeholder')
 		self.labels_placeholder = tf.placeholder(tf.float32, [None, self.config.num_classes], 'labels_placeholder')
 		if self.config.pad_sequences:
-			self.mask_placeholder = tf.placeholder(tf.bool, self.inputs_placeholder.get_shape())
-			print "Added mask placeholder: ", self.mask_placeholder
+			self.lengths_placeholder = tf.placeholder(tf.int64, self.inputs_placeholder.get_shape()[:-1])
+			print "Added lengths placeholder: ", self.lengths_placeholder
 		print "Added input placeholder: ", self.inputs_placeholder
+		print "Added labels placeholder: ", self.labels_placeholder
 
-	def create_feed_dict(self, input_batch, labels_batch = None, mask_batch = None):
+	def create_feed_dict(self, input_batch, labels_batch = None, lengths_batch = None):
 		feed_dict = { self.inputs_placeholder: input_batch,}
 		if labels_batch is not None: feed_dict[self.labels_placeholder] = labels_batch
-		if mask_batch is not None: feed_dict[self.mask_placeholder] = mask_batch
+		if lengths_batch is not None: feed_dict[self.lengths_placeholder] = lengths_batch
 		return feed_dict
 
 	def add_embedding(self):
@@ -193,9 +193,6 @@ class SequenceModel():
 				x = self.add_embedding()
 			print "After embeddings look ups ", x
 		
-		# if self.config.sentence_embeddings is not None and self.config.pad_sequences and self.mask_placeholder is not None:
-		# 	x = tf.boolean_mask(x, self.mask_placeholder)
-		# 	print "After mask, dimensions are ", x
 		if self.config.sentence_embeddings == "average":
 			# the last axis represents the different words, reduce a dimension for input for compatibility w/ RNN
 			x = tf.reduce_mean(x, axis=-2)
@@ -208,7 +205,9 @@ class SequenceModel():
 			print "After sentence embeddings", x
 
 		if self.cell is not None:
-			outputs, _ = tf.nn.dynamic_rnn(self.cell, x, dtype=tf.float32)
+			lengths = self.lengths_placeholder
+			if self.config.sentence_embeddings is not None: lengths=None
+			outputs, _ = tf.nn.dynamic_rnn(self.cell, x, sequence_length=lengths, dtype=tf.float32)
 			# If there was more than one input in the sequence, just take the hidden layer corresponding to the last
 			# item of the sequence
 			rnn_seq_length = self.config.seq_length
@@ -266,7 +265,6 @@ class SequenceModel():
 		else: raise ValueError("Optimizer %s not supported." % self.config.optimizer)
 		
 		gradients = optimizer.compute_gradients(loss)
-		print "Gradients are: ", gradients
 		grad_vars = zip(*gradients)
 		if self.config.clip_gradients:
 		    result = tf.clip_by_global_norm(grad_vars[0], self.config.max_grad_norm) 
@@ -279,17 +277,17 @@ class SequenceModel():
 		assert self.grad_norm is not None, "grad_norm was not set properly!"
 		return train_op
 
-	def predict_on_batch(self, sess, input_batch, mask_batch=None):
-		feed = self.create_feed_dict(input_batch=input_batch, mask_batch=mask_batch)
+	def predict_on_batch(self, sess, input_batch, lengths_batch=None):
+		feed = self.create_feed_dict(input_batch=input_batch, lengths_batch=lengths_batch)
 		predictions = sess.run(self.pred, feed_dict=feed)
 		return predictions
 
-	def train_on_batch(self, sess, input_batch, labels_batch, mask_batch=None):
+	def train_on_batch(self, sess, input_batch, labels_batch, lengths_batch=None):
 		"""
 		Perform one step of gradient descent on the provided batch of data.
 		This version also returns the norm of gradients.
 		"""
-		feed = self.create_feed_dict(input_batch, labels_batch=labels_batch, mask_batch=mask_batch)
+		feed = self.create_feed_dict(input_batch, labels_batch=labels_batch, lengths_batch=lengths_batch)
 		_, loss, grad_norm = sess.run([self.train_op, self.loss, self.grad_norm], feed_dict=feed)
 		return loss, grad_norm
 
@@ -299,16 +297,16 @@ class SequenceModel():
 			if self.config.sequence_batch: batches = self.get_sequence_batch(i)
 			else: batches = self.get_batch(i)
 			if batches is None: continue
-			input_batch, labels_batch, mask_batch = batches
+			input_batch, labels_batch, lengths_batch = batches
 			if len(input_batch) == 0: continue
-			result = self.train_on_batch(sess, input_batch, labels_batch, mask_batch)
+			result = self.train_on_batch(sess, input_batch, labels_batch, lengths_batch)
 			loss, grad_norm = result
 			losses.append(loss)
 			grad_norms.append(grad_norm)
 		return losses, grad_norms
 
-	def fit(self, sess, X, y, mask=None):
-		self.data, self.labels, self.mask = X, y, mask
+	def fit(self, sess, X, y, lengths=None):
+		self.data, self.labels, self.lengths = X, y, lengths
 		losses, grad_norms = [], []
 		for epoch in range(self.config.num_epochs):
 			print "Epoch %d out of %d" % (epoch + 1, self.config.num_epochs)
@@ -317,8 +315,8 @@ class SequenceModel():
 			grad_norms.append(grad_norm)
 		return losses, grad_norms
 
-	def predict(self, sess, inputs, labels, mask_batch=None):
-		self.data, self.labels, self.mask = inputs, labels, mask_batch
+	def predict(self, sess, inputs, labels, lengths_batch=None):
+		self.data, self.labels, self.lengths = inputs, labels, lengths_batch
 		total_matches, total_samples = 0, 0
 		for i in range(int(np.ceil(len(self.data)/float(self.config.batch_size)))):
 			
@@ -326,11 +324,11 @@ class SequenceModel():
 			if self.config.sequence_batch: batches = self.get_sequence_batch(i)
 			else: batches = self.get_batch(i)
 			if batches is None: continue
-			input_batch, labels_batch, mask_batch = batches
+			input_batch, labels_batch, lengths_batch = batches
 			if len(input_batch) == 0: continue
 
 			# Get predictions
-			predictions = self.predict_on_batch(sess, input_batch, mask_batch=mask_batch)
+			predictions = self.predict_on_batch(sess, input_batch, lengths_batch=lengths_batch)
 			predicted_classes = tf.argmax(np.array(predictions), axis=1)
 			true_classes = tf.argmax(np.array(labels_batch), axis=1)
 

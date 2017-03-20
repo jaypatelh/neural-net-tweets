@@ -5,6 +5,7 @@ import pickle
 from sequence_util import *
 from sequence import TweetSequenceLookupEmbeddingSequenceConfig
 from sequence import SequenceModel
+
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input_glob", required=True) # 'data/*'
 parser.add_argument("-lf", "--labels_filename", required=True) # 'labels-03112017.p'
@@ -16,8 +17,7 @@ args = parser.parse_args()
 baseline_config = TweetSequenceLookupEmbeddingSequenceConfig()
 configs = [TweetSequenceLookupEmbeddingSequenceConfig() for _ in range(1)]
 
-
-def run_graph(config, X_train, X_test, y_train, y_test, embeddings=None, train_mask=None, test_mask=None):
+def run_graph(config, X_train, X_test, y_train, y_test, embeddings=None, train_lengths=None, test_lengths=None):
 	with tf.Graph().as_default():
 		if config.tf_random_seed is not None: tf.set_random_seed(config.tf_random_seed)
 		print "Building model..."
@@ -26,20 +26,23 @@ def run_graph(config, X_train, X_test, y_train, y_test, embeddings=None, train_m
 		print "Running session..."
 		with tf.Session() as session:
 			session.run(init)
-			losses, grad_norms = model.fit(session, X_train, y_train, mask=train_mask)
-			# make_prediction_plot(config.figure_title, losses, grad_norms)
+			losses, grad_norms = model.fit(session, X_train, y_train, lengths=train_lengths)
+			make_prediction_plot(config.figure_title, losses, grad_norms)
 			print "Losses are", np.sum(losses, axis=1)
-			train_accuracy = model.predict(session, X_train, y_train, mask_batch=train_mask)
+			train_accuracy = model.predict(session, X_train, y_train, lengths_batch=train_lengths)
 			print "Training accuracy is %.6f" % train_accuracy
-			test_accuracy = model.predict(session, X_test, y_test, mask_batch=test_mask)
+			test_accuracy = model.predict(session, X_test, y_test, lengths_batch=test_lengths)
 			print "Test accuracy is %.6f" % test_accuracy
 
 input_file_directories = glob.glob(args.input_glob)
 if args.english_only: input_file_directories = [d for d in input_file_directories if "non-english" not in d]
 print "Input directories included are: ", input_file_directories
 
-embeddings, X_train, X_test, y_train, y_test, train_mask, test_mask = load_data_with_embedding_lookup(baseline_config, input_file_directories, args.labels_filename, args.embeddings_filename)
+embeddings, X_train, X_test, y_train, y_test, train_lengths, test_lengths = load_data_with_embedding_lookup(baseline_config, input_file_directories, args.labels_filename, args.embeddings_filename)
 
 for i, config in enumerate(configs):
 	print "Running config with %d max words" % config.max_words
-	run_graph(config, X_train, X_test, y_train, y_test, embeddings=embeddings, train_mask=train_mask, test_mask=test_mask)
+	run_graph(config, X_train, X_test, y_train, y_test, embeddings=embeddings, train_lengths=train_lengths, test_lengths=test_lengths)
+
+
+

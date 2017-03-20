@@ -5,6 +5,10 @@ import glob
 import pickle
 import tweepy
 from sklearn.model_selection import train_test_split
+import matplotlib as mpl
+
+mpl.use('TkAgg')
+import matplotlib.pyplot as plt
 
 def get_tweet_ids_time_ordered(filenames, include_text=False):
 	sorted_tweet_ids = []
@@ -141,24 +145,24 @@ def pad_sequences(data, zero_input, max_length):
         - a masking seqeunce: [True, True, True, False, False].
     """
     new_data = []
-    masks = []
+    lengths = []
 
     for i in range(len(data)):
         sentence = data[i]
-        len_dif = max_length - len(sentence)
+        sentence_len = len(sentence)
+        len_dif = max_length - sentence_len
         if (len_dif < 0):
             newS = sentence[:max_length]
             mSeq = [True]*max_length
+            sentence_len = max_length
         else:
             newS = list(sentence)
-            mSeq = [True]*len(sentence)
             for i in range(0,len_dif):
                 newS.append(zero_input)
-                mSeq.append(False)
         new_data.append(newS)
-        masks.append(mSeq)
+        lengths.append(sentence_len)
 
-    return new_data, masks
+    return new_data, lengths
 
 def load_data_with_embedding_lookup(config, input_file_directories, labels_filename, embeddings_filename):
 	print "Embedding lookup ... finding vocab and training blob based on vocab index"
@@ -180,7 +184,7 @@ def load_data_with_embedding_lookup(config, input_file_directories, labels_filen
 	elif config.embedding_lookup == "create": embeddings = np.random.rand(len(vocab), config.input_size)
 	else: raise ValueError("%s not recognized as a supported embedding lookup!" % config.embedding_lookup)
 
-	train_mask, test_mask = None, None
+	train_lengths, test_lengths = None, None
 	print "Embedding lookup with padded sequences ... doing padding modifications"
 	assert(vocab is not None), "Vocabulary did not build!"
 	# This is the padding word that we add to our vocab
@@ -198,20 +202,22 @@ def load_data_with_embedding_lookup(config, input_file_directories, labels_filen
 	embeddings = np.array(embeddings)
 	print "Embeddings is shape", embeddings.shape
 	print "Start of embeddings corresponding with zero input is" % embeddings[zero_input_idx, :5]
-	X_train, train_mask = pad_sequences(X_train, zero_input_idx, config.max_words)
-	X_test, test_mask = pad_sequences(X_test, zero_input_idx, config.max_words)
+	X_train, train_lengths = pad_sequences(X_train, zero_input_idx, config.max_words)
+	X_test, test_lengths = pad_sequences(X_test, zero_input_idx, config.max_words)
 	print "Example padded sequence in training is ", X_train[0]
-	print "Corresponding mask is ", train_mask[0]
+	print "Corresponding lengths are ", train_lengths[0]
 
-	return embeddings, X_train, X_test, y_train, y_test, train_mask, test_mask
+	return embeddings, X_train, X_test, y_train, y_test, train_lengths, test_lengths
 
-# def make_prediction_plot(title, losses, grad_norms):
-#     plt.subplot(2, 1, 1)
-#     plt.title(title)
-#     plt.plot(np.arange(losses.size), losses.flatten(), label="Loss")
-#     plt.ylabel("Loss")
+def make_prediction_plot(title, losses, grad_norms):
+	pass
+	# losses, grad_norms = np.array(losses), np.sum(np.array(grad_norms), axis=0)
+	# plt.subplot(2, 1, 1)
+	# plt.title(title)
+	# plt.plot(np.arange(losses.shape[0]), np.sum(losses, axis=1), label="Loss")
+	# plt.ylabel("Loss")
 
-#     plt.subplot(2, 1, 2)
-#     plt.plot(np.arange(grad_norms.size), grad_norms.flatten(), label="Gradients")
-#     plt.ylabel("Gradients")
-#     plt.xlabel("Minibatch")
+	# plt.subplot(2, 1, 2)
+	# plt.plot(np.arange(grad_norms.shape[0]), np.sum(grad_norms, axis=1), label="Gradients")
+	# plt.ylabel("Gradients")
+	# plt.xlabel("Minibatch")
