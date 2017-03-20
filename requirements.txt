@@ -25,3 +25,4 @@ sklearn==0.0
 smart-open==1.4.0
 tweepy==3.5.0
 twython==3.4.0
+matplotlib==2.0.0

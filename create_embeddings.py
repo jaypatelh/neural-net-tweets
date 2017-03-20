@@ -15,8 +15,8 @@ parser.add_argument("-e", "--sentence_embedding", required=True)
 args = parser.parse_args()
 
 # Creates features for each input sentence (each sentence is a list of words) based on averaging the words in the vector  
-def word_embedding_features(input_list):
-	model = word2vec.Word2Vec.load(args.model_filename)
+def word_embedding_features(model_filename, input_list, aggregation=None):
+	model = word2vec.Word2Vec.load(model_filename)
 	# print model.wv.similarity('sunny', 'end')
 	# print model.wv.most_similar(positive=['landslide', 'emergency'], negative=['aid'])
 	embedding_list = []
@@ -24,11 +24,13 @@ def word_embedding_features(input_list):
 		if sentence == []:
 			continue
 		embeddings = [model[word] for word in sentence]
-		if args.sentence_embedding == "average":
+		if aggregation == "average":
 			sentence_embedding = np.mean(embeddings, axis=0)
-		elif args.sentence_embedding == "minmax":
+		elif aggregation== "minmax":
 			sentence_embedding = np.append(np.min(embeddings, axis=0), np.max(embeddings, axis=0), axis=0)
-		embedding_list.append(sentence_embedding)
+		elif aggregation == None:
+			embedding_list.append(sentence_embedding)
+		else: raise ValueError("aggregation value is not recognized.")
 	return embedding_list
 
 #creates features for each input sentence (each sentence is a string) based on bigrams
@@ -56,14 +58,15 @@ for filename in input_filenames:
 		keys, values = tweets.keys(), tweets.values()
 		tweet_text = [tweet.text for tweet in values]
 		tweet_text = filter(lambda a: a != [], tweet_text)
-		if args.model == "word2vec": embeddings = word_embedding_features(tweet_text)
-		elif args.model == "bigram": embeddings = bigram_features(tweet_text)
+		if args.model == "word2vec":
+			embeddings = word_embedding_features(args.model_filename, tweet_text, args.sentence_embedding)
+		elif args.model == "bigram":
+			embeddings = bigram_features(tweet_text)
 		else:
 			print "Model %s not recognized." % args.model
 			break
-		# print len(embeddings)
-		# print len(values)
-		assert(len(embeddings) == len(tweet_text)), "Returned list of embeddings is %d while the number of inputs was %d" (len(embeddings), len(tweet_text))
+		assert(len(embeddings) == len(tweet_text)), "Returned list of embeddings is %d while the number of inputs was %d" % (len(embeddings), len(tweet_text))
+		
 		# Replace each tweet id entry with its corresponding feature value
 		i = 0
 		for key in keys: 
